@@ -1,7 +1,7 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-06-10T19:00:19+08:00"
+  "updated_at": "2026-06-10T19:06:39+08:00"
  },
  "gear": {
   "135/120胶卷": {
@@ -2105,7 +2105,8 @@
     {
      "label": "SD13限定·大号·丝绒+刺绣镶边",
      "prompt": "深酒红色短绒面料，包盖边缘以金线锁边并绣微型皇冠图案，拉链头为合金小熊造型，包底加厚硬衬，尺寸30×20×12cm，内衬为同色提花绸",
-     "file": null
+     "file": "images/gear/921d622076_1.png",
+     "thumb": "images/gear/thumbs/921d622076_1.jpg"
     }
    ]
   },
@@ -2138,7 +2139,8 @@
     {
      "label": "羊毛混纺呢·50cm×150cm·炭灰格",
      "prompt": "炭灰色羊毛涤纶混纺粗呢，经典苏格兰格纹，经纬线清晰，布边为本色毛边处理，布角缝有织唛：WOOL BLEND·320GSM",
-     "file": null
+     "file": "images/gear/19369807b0_1.png",
+     "thumb": "images/gear/thumbs/19369807b0_1.jpg"
     }
    ]
   },
@@ -2171,7 +2173,8 @@
     {
      "label": "工业型·UV喷墨·600dpi·A4幅面",
      "prompt": "深灰金属机壳，顶部开放式A4进纸通道，喷头模块带防尘滑盖，右侧散热格栅明显，机身正面蚀刻‘VINOPRINT UV 600DPI’及CE认证标志",
-     "file": null
+     "file": "images/gear/bcb9ad6b95_1.png",
+     "thumb": "images/gear/thumbs/bcb9ad6b95_1.jpg"
     }
    ]
   },
@@ -2204,7 +2207,8 @@
     {
      "label": "胡桃木阶梯式·三层·25cm宽",
      "prompt": "实木胡桃木色阶梯展架，三层水平托板逐级升高，每层厚12mm，侧板为镂空几何纹样，底部防滑橡胶脚垫，背面刻‘WALNUT DISPLAY 3-TIER’",
-     "file": null
+     "file": "images/gear/8406e653d6_1.png",
+     "thumb": "images/gear/thumbs/8406e653d6_1.jpg"
     }
    ]
   },
@@ -2237,7 +2241,8 @@
     {
      "label": "抽屉式·灰板+烫金·18×10×8cm",
      "prompt": "深灰特种灰板盒体，抽屉式结构，正面烫金‘COLLECTIBLE’字样，抽屉拉手为哑金金属圆扣，盒体侧边压凹品牌缩写，内衬为黑色丝绒",
-     "file": null
+     "file": "images/gear/b8f2a7165e_1.png",
+     "thumb": "images/gear/thumbs/b8f2a7165e_1.jpg"
     }
    ]
   },
@@ -2270,7 +2275,8 @@
     {
      "label": "2.4×1.8m·单面PU·沙色",
      "prompt": "浅沙色150D涤纶布天幕，单面PU涂层（反面哑光），六点式风绳扣布局，卷收带为橙色弹力织带，角落缝制‘240X180 PU’织唛",
-     "file": null
+     "file": "images/gear/3d457baa4e_1.png",
+     "thumb": "images/gear/thumbs/3d457baa4e_1.jpg"
     }
    ]
   },
@@ -2303,7 +2309,8 @@
     {
      "label": "全画幅·16mm·f/4.0 IS",
      "prompt": "全黑工程塑料镜筒，IS光学防抖开关与AF/MF拨杆位于镜身左侧，滤镜口径77mm，镜尾带电子触点金环，侧面激光蚀刻‘16mm F4.0 USM IS’",
-     "file": null
+     "file": "images/gear/fe07dcd042_1.png",
+     "thumb": "images/gear/thumbs/fe07dcd042_1.jpg"
     }
    ]
   },
@@ -2330,12 +2337,14 @@
     {
      "label": "弹力线·0.5mm·透明·100m卷",
      "prompt": "透明TPE高弹线材，均匀缠绕于白色PP塑料轴芯，线径0.5毫米，轴芯印‘ELASTIC 0.5MM 100M’蓝字，线体柔韧有光泽，无扭曲结节",
-     "file": null
+     "file": "images/gear/beaa0a4a46_0.png",
+     "thumb": "images/gear/thumbs/beaa0a4a46_0.jpg"
     },
     {
      "label": "蜡线·0.8mm·藏青色·30m锥形卷",
      "prompt": "藏青色精炼棉蜡线，表面覆薄层蜂蜡，0.8毫米直径，紧密锥形绕线卷，纸筒印‘WAXED CORD 0.8MM’及‘HANDMADE’烫金标，线头自然收束无散开",
-     "file": null
+     "file": "images/gear/beaa0a4a46_1.png",
+     "thumb": "images/gear/thumbs/beaa0a4a46_1.jpg"
     }
    ]
   },
@@ -2345,12 +2354,14 @@
     {
      "label": "黄铜六角螺母·M2×3mm",
      "prompt": "一枚黄铜材质六角螺母，表面哑光拉丝处理，尺寸M2公称直径、螺距0.4mm、厚度3mm，边缘锐利清晰，金属色泽温润偏暖，无镀层反光，单件静置白底",
-     "file": null
+     "file": "images/gear/2cb71486bc_0.png",
+     "thumb": "images/gear/thumbs/2cb71486bc_0.jpg"
     },
     {
      "label": "不锈钢内六角平头螺丝·M1.6×8mm",
      "prompt": "一枚304不锈钢内六角平头螺丝，螺纹完整细腻，头部为沉头设计，长度8mm，杆径1.6mm，表面微喷砂哑光质感，银灰冷调金属色，无锈迹无划痕，单件静置白底",
-     "file": null
+     "file": "images/gear/2cb71486bc_1.png",
+     "thumb": "images/gear/thumbs/2cb71486bc_1.jpg"
     }
    ]
   },
@@ -2360,12 +2371,14 @@
     {
      "label": "3L不锈钢夹套式·带温度探针",
      "prompt": "3升容量微型糖化桶，食品级304不锈钢主体，双层夹套结构可见焊接接缝，顶部嵌入式PT100温度探针接口，桶身印激光蚀刻‘3L’及‘MAX 80℃’标识，哑光磨砂表面，银灰本色，单件直立白底",
-     "file": null
+     "file": "images/gear/41572beecd_0.png",
+     "thumb": "images/gear/thumbs/41572beecd_0.jpg"
     },
     {
      "label": "5L全铝一体压铸·底部快拆阀",
      "prompt": "5升全铝压铸微型糖化桶，阳极氧化深灰黑色桶体，底部集成304不锈钢球阀与硅胶密封圈，桶壁厚实无焊缝，顶部带压力释放旋钮与刻度环（0–5L），金属冷峻质感，单件直立白底",
-     "file": null
+     "file": "images/gear/41572beecd_1.png",
+     "thumb": "images/gear/thumbs/41572beecd_1.jpg"
     }
    ]
   },
@@ -2375,12 +2388,14 @@
     {
      "label": "佳能EF-M 28mm f/3.6 STM",
      "prompt": "佳能EF-M卡口微距镜头，哑光黑色工程塑料镜筒，银色金属卡口环，镜身印白色‘EF-M 28mm f/3.6 MACRO’字样，前组镜片镀蓝膜反光柔和，对焦环宽大带橡胶纹理，单件斜45°摆放白底",
-     "file": null
+     "file": "images/gear/131e5b76ae_0.png",
+     "thumb": "images/gear/thumbs/131e5b76ae_0.jpg"
     },
     {
      "label": "富士XF 60mm f/2.4 R Macro",
      "prompt": "富士XF卡口60mm微距镜头，银黑双色金属镜筒，镜筒中段有红色‘MACRO’标识环，光圈环刻度清晰，前组镜片带淡紫增透膜，镜尾卡口为哑光银色金属，单件斜45°摆放白底",
-     "file": null
+     "file": "images/gear/131e5b76ae_1.png",
+     "thumb": "images/gear/thumbs/131e5b76ae_1.jpg"
     }
    ]
   },
@@ -2390,12 +2405,14 @@
     {
      "label": "光电传感·S码亲肤硅胶",
      "prompt": "S码心率监测臂带，医用级液态硅胶表带，哑光浅灰蓝色，内侧嵌入三颗绿色PPG光学传感器阵列与电极触点，表带宽度22mm，扣具为磨砂黑ABS塑料，单件自然弯曲呈C形白底",
-     "file": null
+     "file": "images/gear/53b0b49748_0.png",
+     "thumb": "images/gear/thumbs/53b0b49748_0.jpg"
     },
     {
      "label": "ECG+PPG双模·XL码编织尼龙",
      "prompt": "XL码双模心率臂带，高密度黑色编织尼龙表带，内衬导电织物与柔性电极片，表带末端集成微型ECG芯片模块（银色金属盖板），USB-C充电口位于模块侧面，单件平铺展开展示接口细节白底",
-     "file": null
+     "file": "images/gear/53b0b49748_1.png",
+     "thumb": "images/gear/thumbs/53b0b49748_1.jpg"
     }
    ]
   },
@@ -2405,12 +2422,14 @@
     {
      "label": "CE认证Ⅳ型·120kg浮力·橙红双色",
      "prompt": "CE认证Ⅳ型急流救生衣，外层为高密度橙色PVC涂层尼龙，背部为荧光红反光条拼接，胸前双D型环、腰侧快拆扣与肩带调节扣均为抛光不锈钢，浮力材料不可见，单件平铺正面朝上白底",
-     "file": null
+     "file": "images/gear/bb7727374f_0.png",
+     "thumb": "images/gear/thumbs/bb7727374f_0.jpg"
     },
     {
      "label": "UL认证Ⅲ型·90kg浮力·迷彩防水布",
      "prompt": "UL认证Ⅲ型急流救生衣，军绿数码迷彩防水聚氨酯涂层涤纶面料，腋下通风网眼区为黑色高弹透气网布，左胸魔术贴可拆卸标牌位，所有扣具为哑光黑高强度聚丙烯，单件平铺正面朝上白底",
-     "file": null
+     "file": "images/gear/bb7727374f_1.png",
+     "thumb": "images/gear/thumbs/bb7727374f_1.jpg"
     }
    ]
   },
@@ -2420,7 +2439,8 @@
     {
      "label": "25L压缩机控温·-10~45℃",
      "prompt": "25升恒温发酵箱，白色ABS工程塑料外壳，正面嵌入式LED温控屏（显示-10℃至45℃），顶部压缩机散热格栅清晰，箱门为双层中空玻璃+硅胶密封条，右侧预留CO₂排气孔与硅胶塞，单件直立白底",
-     "file": null
+     "file": "images/gear/ef417e7603_0.png",
+     "thumb": "images/gear/thumbs/ef417e7603_0.jpg"
     },
     {
      "label": "40L加热膜控温·10~35℃",
@@ -2435,12 +2455,14 @@
     {
      "label": "食品级TPE·猫爪造型·莫兰迪灰",
      "prompt": "慢回弹捏捏玩具，猫爪造型，食品级灰色TPE材质，表面细腻哑光无气泡，指腹凹陷处有细微纹理模拟肉垫，尺寸约6×5×3cm，边缘圆润无毛刺，单件静置白底",
-     "file": null
+     "file": "images/gear/e166f98363_0.png",
+     "thumb": "images/gear/thumbs/e166f98363_0.jpg"
     },
     {
      "label": "夜光硅胶·水滴造型·钴蓝渐变",
      "prompt": "夜光慢回弹捏捏，水滴状硅胶体，钴蓝色主色向透明边缘渐变，暗处可见幽绿色余辉，表面微颗粒触感，底部平整带轻微脱模线，尺寸约7×4×2.5cm，单件静置白底",
-     "file": null
+     "file": "images/gear/e166f98363_1.png",
+     "thumb": "images/gear/thumbs/e166f98363_1.jpg"
     }
    ]
   },
@@ -2450,7 +2472,8 @@
     {
      "label": "榉木斜棒·Φ8mm×180mm+黄铜圈",
      "prompt": "榉木车制斜棒，直径8mm、长180mm，表面清漆哑光处理，木质纹理清晰，一端倒角；配套黄铜戒指圈内径18mm、线径2.5mm，表面拉丝哑光，单件并排平放白底",
-     "file": null
+     "file": "images/gear/420de9c01e_0.png",
+     "thumb": "images/gear/thumbs/420de9c01e_0.jpg"
     },
     {
      "label": "黑胡桃斜棒·Φ10mm×200mm+紫铜圈",
@@ -2465,12 +2488,14 @@
     {
      "label": "A5精装锁线·烫金封面",
      "prompt": "A5尺寸战役规则手册，硬壳精装，深海军蓝布面封皮，封面中央烫哑金‘CAMPAIGN RULES’字样与徽章图案，书脊凸起烫金标题与页码区间，内页米白轻型纸，单册直立白底",
-     "file": null
+     "file": "images/gear/7c00d1045b_0.png",
+     "thumb": "images/gear/thumbs/7c00d1045b_0.jpg"
     },
     {
      "label": "A6软胶装·荧光橙插页",
      "prompt": "A6尺寸战役规则手册，软质PP塑料封皮，荧光橙主色，封面压凹战术网格纹理，内含5张荧光橙分隔插页（印简笔战术图标），书角圆切，单册直立白底",
-     "file": null
+     "file": "images/gear/7c00d1045b_1.png",
+     "thumb": "images/gear/thumbs/7c00d1045b_1.jpg"
     }
    ]
   },
@@ -2480,7 +2505,8 @@
     {
      "label": "树脂涂装·星际战士·28mm比例",
      "prompt": "28mm比例战锤星际战士棋子，灰色树脂铸造，已手工涂装：动力甲为金属灰+亮蓝肩甲，目镜泛蓝光，基座为黑色圆形树脂底座（直径25mm），持链锯剑站立姿态，单件直立白底",
-     "file": null
+     "file": "images/gear/405822bfdf_0.png",
+     "thumb": "images/gear/thumbs/405822bfdf_0.jpg"
     },
     {
      "label": "金属铸造·混沌恶魔·32mm比例",
@@ -2495,12 +2521,14 @@
     {
      "label": "哑光铜版纸·圆角30×40mm·卷装",
      "prompt": "手作酒标贴纸，哑光铜版纸材质，单张尺寸30mm×40mm，四角R2mm圆角，背面为乳白硅油纸底纸，整卷缠绕于黑色塑料芯轴（直径38mm），卷边整齐，单卷平放白底",
-     "file": null
+     "file": "images/gear/1e6a327515_0.png",
+     "thumb": "images/gear/thumbs/1e6a327515_0.jpg"
     },
     {
      "label": "透明PET·椭圆50×25mm·单张裁切",
      "prompt": "透明PET材质酒标贴纸，椭圆形轮廓，长轴50mm短轴25mm，边缘激光精切无毛边，胶面覆可移除哑光保护膜，单张平贴于透明离型膜上，膜面印浅灰定位框，单张平放白底",
-     "file": null
+     "file": "images/gear/1e6a327515_1.png",
+     "thumb": "images/gear/thumbs/1e6a327515_1.jpg"
     }
    ]
   },
@@ -2510,7 +2538,8 @@
     {
      "label": "防割芳纶·触屏指尖·黑灰拼接",
      "prompt": "防割手套，掌面黑色芳纶编织，背手灰蓝混纺弹性面料，食指与拇指尖部嵌入导电纱线（银灰细线可见），腕口松紧罗纹收口，尺码L，单只平铺五指张开白底",
-     "file": null
+     "file": "images/gear/54f7397f98_0.png",
+     "thumb": "images/gear/thumbs/54f7397f98_0.jpg"
     },
     {
      "label": "抓绒内衬·防水TPU膜·橄榄绿",
@@ -2525,12 +2554,14 @@
     {
      "label": "陶瓷锥刀·胡桃木机身·18g/转",
      "prompt": "手摇磨豆机，胡桃木车制机身，哑光清漆，顶部不锈钢研磨调节环刻0–20数字，陶瓷锥刀组件外露可见，手柄为黑色酚醛树脂，底部不锈钢粉杯容量18g，单机直立白底",
-     "file": null
+     "file": "images/gear/32403db2d3_0.png",
+     "thumb": "images/gear/thumbs/32403db2d3_0.jpg"
     },
     {
      "label": "不锈钢平面刀·航空铝机身·22g/转",
      "prompt": "手摇磨豆机，阳极氧化深灰航空铝机身，CNC铣削纹理，顶部黑色橡胶旋钮带阻力刻度，不锈钢平面平行刀盘外露，手柄为红色硅胶包裹铝合金，粉杯透明PC材质标22g刻度，单机直立白底",
-     "file": null
+     "file": "images/gear/32403db2d3_1.png",
+     "thumb": "images/gear/thumbs/32403db2d3_1.jpg"
     }
    ]
   },
@@ -2540,7 +2571,8 @@
     {
      "label": "钛合金EDC·1200lm·USB-C直充",
      "prompt": "EDC手电，TC4钛合金筒身，喷砂哑光灰，长度105mm，直径22mm，头部深凹反光杯配冷白LED，侧按开关带红蓝双色状态灯，USB-C充电口在尾部，单支直立白底",
-     "file": null
+     "file": "images/gear/68c8e9ac42_0.png",
+     "thumb": "images/gear/thumbs/68c8e9ac42_0.jpg"
     },
     {
      "label": "铝合金战术·3000lm·双控尾按",
@@ -2555,12 +2587,14 @@
     {
      "label": "PU仿皮·A6横线·烫银书名",
      "prompt": "A6横线手账式结局册，深酒红PU仿皮封面，表面压细密菱格纹，右下角烫银‘ENDINGS’字样，书脊圆弧过渡，内页120g米黄道林纸，单册直立白底",
-     "file": null
+     "file": "images/gear/0beed3062a_0.png",
+     "thumb": "images/gear/thumbs/0beed3062a_0.jpg"
     },
     {
      "label": "再生棉麻·B6方格·裸脊锁线",
      "prompt": "B6方格手账式结局册，天然米白再生棉麻布封面，无覆膜，裸露锁线装订（棕色棉线），封面压凹‘FIN’字母，内页再生纸带轻微纤维感，单册直立白底",
-     "file": null
+     "file": "images/gear/0beed3062a_1.png",
+     "thumb": "images/gear/thumbs/0beed3062a_1.jpg"
     }
    ]
   },
@@ -2570,7 +2604,8 @@
     {
      "label": "和纸封面·A5空白·樱花浮雕",
      "prompt": "A5空白手账本，日本产樱花粉和纸封面，表面压凹写意樱花枝干浮雕，内页100g纯白道林纸，圆角切，书脊布艺包边，单册直立白底",
-     "file": null
+     "file": "images/gear/257d3c3f83_0.png",
+     "thumb": "images/gear/thumbs/257d3c3f83_0.jpg"
     },
     {
      "label": "牛皮纸封面·A6点阵·麻绳装订",
@@ -2585,12 +2620,14 @@
     {
      "label": "自修复EVA·30×40cm·绿黑双面",
      "prompt": "EVA自修复扎板，30cm×40cm矩形，正面墨绿哑光，背面哑光黑，表面密布细小针孔，边缘包黑色TPU防撞条，四角圆角R15mm，单板平放白底",
-     "file": null
+     "file": "images/gear/9dbe312c25_0.png",
+     "thumb": "images/gear/thumbs/9dbe312c25_0.jpg"
     },
     {
      "label": "软木+桦木层压·25×35cm·天然纹",
      "prompt": "软木与桦木层压扎板，25cm×35cm，表面为天然软木颗粒层，边缘露出桦木薄层截面（浅黄褐色），四角倒角，背面无胶无覆膜，单板平放白底",
-     "file": null
+     "file": "images/gear/9dbe312c25_1.png",
+     "thumb": "images/gear/thumbs/9dbe312c25_1.jpg"
     }
    ]
   },
@@ -2600,7 +2637,8 @@
     {
      "label": "镁棒+钢轮·12cm×1.5cm·黑氧化",
      "prompt": "镁棒打火石，12cm长×1.5cm直径，主体为黑氧化镁合金棒，一端嵌入不锈钢刮擦轮（哑光灰），轮轴处有红色安全帽，表面无锈无磨损，单根直立白底",
-     "file": null
+     "file": "images/gear/2ccd5b9b51_0.png",
+     "thumb": "images/gear/thumbs/2ccd5b9b51_0.jpg"
     },
     {
      "label": "稀土合金·8cm×1.2cm·黄铜护套",
@@ -2615,12 +2653,14 @@
     {
      "label": "电动锂电·3档变速·6mm夹头",
      "prompt": "手持式电动打磨笔，枪灰ABS外壳，人体工学握持区带黑色软胶，顶部LED档位指示灯（红/黄/绿），6mm快速夹头外露，含一支未安装的圆柱磨头，单支直立白底",
-     "file": null
+     "file": "images/gear/a972b16632_0.png",
+     "thumb": "images/gear/thumbs/a972b16632_0.jpg"
     },
     {
      "label": "手动旋转·榉木手柄·3mm钻夹",
      "prompt": "手动打磨笔，整支榉木车制，哑光清漆，长度140mm，前端3mm精密钻夹头（黄铜材质），夹头内含一支未安装的锥形金刚砂磨头，单支斜45°摆放白底",
-     "file": null
+     "file": "images/gear/a972b16632_1.png",
+     "thumb": "images/gear/thumbs/a972b16632_1.jpg"
     }
    ]
   },
@@ -2630,7 +2670,8 @@
     {
      "label": "碳纤伸缩杆·30目尼龙网·黑灰配色",
      "prompt": "抄网，碳纤维伸缩杆（收拢长38cm，展开72cm），黑色阳极氧化铝合金网圈Φ32cm，30目黑色尼龙网布，网底配不锈钢沉子链，单件折叠收纳状态平放白底",
-     "file": null
+     "file": "images/gear/e44d5b3883_0.png",
+     "thumb": "images/gear/thumbs/e44d5b3883_0.jpg"
     },
     {
      "label": "玻璃钢固定杆·15目聚酯网·荧光黄",
@@ -2645,12 +2686,14 @@
     {
      "label": "金属蚀刻·16mm",
      "prompt": "16毫米黄铜材质六面骰，表面激光蚀刻深灰色命运符号，边缘精细抛光，哑光金属质感，单颗独立包装",
-     "file": null
+     "file": "images/gear/de4d2ef83c_0.png",
+     "thumb": "images/gear/thumbs/de4d2ef83c_0.jpg"
     },
     {
      "label": "树脂渐变·25mm",
      "prompt": "25毫米透明蓝紫渐变树脂骰子，内部悬浮金色星尘颗粒，棱角圆润，高透光性，单颗置于黑色绒布托盘",
-     "file": null
+     "file": "images/gear/de4d2ef83c_1.png",
+     "thumb": "images/gear/thumbs/de4d2ef83c_1.jpg"
     }
    ]
   },
@@ -2660,7 +2703,8 @@
     {
      "label": "钛合金直开·90mm刃",
      "prompt": "全钛合金一体式直开折刀，90毫米S35VN钢刃，刃尖微上翘，柄身CNC拉丝纹理，深灰阳极氧化色，闭合长度125mm",
-     "file": null
+     "file": "images/gear/920fed1089_0.png",
+     "thumb": "images/gear/thumbs/920fed1089_0.jpg"
     },
     {
      "label": "G10柄锁扣·75mm刃",
@@ -2675,12 +2719,14 @@
     {
      "label": "碳纤维三节·125cm",
      "prompt": "三节碳纤维徒步杖，125厘米可调高度，EVA泡沫握把+腕带，铝合金卡扣锁紧机构，哑光黑碳纹管身，底部配橡胶吸盘与金属钉双头",
-     "file": null
+     "file": "images/gear/128fa7089a_0.png",
+     "thumb": "images/gear/thumbs/128fa7089a_0.jpg"
     },
     {
      "label": "铝合金四节·85cm",
      "prompt": "四节航空铝折叠杖，收纳后仅28厘米，85厘米标准高度，软木握把+可拆卸泥托，银灰阳极氧化管身，快拆式弹簧减震系统",
-     "file": null
+     "file": "images/gear/128fa7089a_1.png",
+     "thumb": "images/gear/thumbs/128fa7089a_1.jpg"
     }
    ]
   },
@@ -2690,7 +2736,8 @@
     {
      "label": "铝合金桌·60×40cm",
      "prompt": "60×40厘米铝合金野餐桌，蜂窝结构加厚桌面，黑色阳极氧化支架，四角防滑硅胶脚垫，桌腿交叉X型结构，承重30kg",
-     "file": null
+     "file": "images/gear/a18c0899b5_0.png",
+     "thumb": "images/gear/thumbs/a18c0899b5_0.jpg"
     },
     {
      "label": "碳纤椅·超轻1.2kg",
@@ -2705,12 +2752,14 @@
     {
      "label": "滑板入门·三件套",
      "prompt": "滑板初学者护具套装：白色EVA缓冲护膝（带弹性绑带）、黑色PE硬壳护肘、同色系头盔（ABS外壳+EPS内衬，通风孔阵列）",
-     "file": null
+     "file": "images/gear/85915a10d3_0.png",
+     "thumb": "images/gear/thumbs/85915a10d3_0.jpg"
     },
     {
      "label": "轮滑竞训·五件套",
      "prompt": "专业轮滑竞赛护具五件套：荧光绿+黑撞色设计，高密度聚丙烯护膝/护肘/护腕，可拆卸颈托，头盔带LED尾灯模块，全部配备透气网布衬里",
-     "file": null
+     "file": "images/gear/85915a10d3_1.png",
+     "thumb": "images/gear/thumbs/85915a10d3_1.jpg"
     }
    ]
   },
@@ -2735,12 +2784,14 @@
     {
      "label": "焊接滤光·自动变色",
      "prompt": "自动变色焊接护目镜，灰色PC镜片（Shade#9-13自动切换），宽幅硅胶鼻垫，可调式弹性头带，镜框为哑光黑工程塑料，侧边通风槽清晰可见",
-     "file": null
+     "file": "images/gear/cbf13b20aa_0.png",
+     "thumb": "images/gear/thumbs/cbf13b20aa_0.jpg"
     },
     {
      "label": "实验室防溅·全包覆",
      "prompt": "医用级实验室护目镜，透明聚碳酸酯一体成型镜片，无框设计，环绕式密封软胶边，防雾镀层可见细微纹理，白灰双色TPU镜架，带后置调节旋钮",
-     "file": null
+     "file": "images/gear/cbf13b20aa_1.png",
+     "thumb": "images/gear/thumbs/cbf13b20aa_1.jpg"
     }
    ]
   },
