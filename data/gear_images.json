@@ -1,7 +1,7 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-06-10T18:13:21+08:00"
+  "updated_at": "2026-06-10T19:00:19+08:00"
  },
  "gear": {
   "135/120胶卷": {
@@ -1155,7 +1155,8 @@
     {
      "label": "加厚裁布剪·钛黑",
      "prompt": "钛黑色氧化处理裁布剪刀，全长18厘米，刀刃加厚至2.3mm，锯齿刃口（齿高1.2mm），手柄为人体工学双曲面结构，握持区覆盖黑色软胶，尾部印‘Heavy-Duty 300DPI’",
-     "file": null
+     "file": "images/gear/dec49f91d0_1.png",
+     "thumb": "images/gear/thumbs/dec49f91d0_1.jpg"
     }
    ]
   },
@@ -1171,7 +1172,8 @@
     {
      "label": "室内静音·38mm奶白",
      "prompt": "EVA发泡材质室内匹克球，直径38毫米，表面32个椭圆微孔（长轴4.5mm），哑光奶白色，触感柔韧，球体压印‘Indoor Quiet’浮雕字样",
-     "file": null
+     "file": "images/gear/a4d8974f21_1.png",
+     "thumb": "images/gear/thumbs/a4d8974f21_1.jpg"
     }
    ]
   },
@@ -1187,7 +1189,8 @@
     {
      "label": "玻纤入门·12mm宽体",
      "prompt": "藏青/荧光绿双色玻纤球拍，拍面尺寸360×220mm，框厚12毫米，宽体平衡设计，手柄为PU软胶包裹，拍头印有立体‘BEGINNER PLUS’图标与‘245g’重量标",
-     "file": null
+     "file": "images/gear/1d07898c14_1.png",
+     "thumb": "images/gear/thumbs/1d07898c14_1.jpg"
     }
    ]
   },
@@ -1197,12 +1200,14 @@
     {
      "label": "全山地形·158cm木纹",
      "prompt": "158厘米全山型单板雪板，桦木芯+双向碳纤维束，板底石墨基材，板面为深棕木纹与哑金几何线条融合印刷，板头板尾微翘，侧切半径8.2米，固定器孔距2×4",
-     "file": null
+     "file": "images/gear/9efc52fc07_0.png",
+     "thumb": "images/gear/thumbs/9efc52fc07_0.jpg"
     },
     {
      "label": "公园道具·148cm荧光粉",
      "prompt": "148厘米公园板，聚氨酯芯+玻璃纤维增强，板底高速烧结，板面亮面荧光粉底色配霓虹蓝泼墨图案，板头板尾对称翘起，侧切半径6.8米，含预钻孔位与减震垫片",
-     "file": null
+     "file": "images/gear/9efc52fc07_1.png",
+     "thumb": "images/gear/thumbs/9efc52fc07_1.jpg"
     }
    ]
   },
@@ -1212,12 +1217,14 @@
     {
      "label": "活页布面·A5横版",
      "prompt": "深橄榄绿棉麻布面卡册，A5尺寸（148×210mm），横向开口，金属环装订，内页为30页灰色无酸纸插袋（每页双面可插6张），封面烫金‘Album’字样",
-     "file": null
+     "file": "images/gear/e45b0caf8c_0.png",
+     "thumb": "images/gear/thumbs/e45b0caf8c_0.jpg"
     },
     {
      "label": "精装锁线·B6竖版",
      "prompt": "酒红色PU皮革卡册，B6竖版（125×176mm），锁线精装工艺，封面压凹品牌LOGO，内页为24页黑色绒布衬里插袋（每页单面插4张），书脊带布艺标签位",
-     "file": null
+     "file": "images/gear/e45b0caf8c_1.png",
+     "thumb": "images/gear/thumbs/e45b0caf8c_1.jpg"
     }
    ]
   },
@@ -1227,12 +1234,14 @@
     {
      "label": "磁吸快取·60卡黑",
      "prompt": "哑光黑色TPU磁吸卡包，长方形折叠式，正面嵌入钕铁硼双磁片，展开后可并排收纳60张标准卡（含透明PET卡槽），边缘激光刻‘Quick-Release’字样",
-     "file": null
+     "file": "images/gear/2aed1dae2f_0.png",
+     "thumb": "images/gear/thumbs/2aed1dae2f_0.jpg"
     },
     {
      "label": "复古皮夹·12卡棕",
      "prompt": "植鞣牛皮卡包，焦糖棕色，手工缝线，外层单卡位+内层三叠式卡槽（共12卡容量），边缘油边抛光，背面压印‘Handmade 2024’与品牌火漆印",
-     "file": null
+     "file": "images/gear/2aed1dae2f_1.png",
+     "thumb": "images/gear/thumbs/2aed1dae2f_1.jpg"
     }
    ]
   },
@@ -1242,12 +1251,14 @@
     {
      "label": "无痕PP·单层雾面",
      "prompt": "雾面透明聚丙烯卡套，单层结构，厚度0.18mm，四角圆角R3，边缘无毛刺，表面抗刮处理，背面印极细‘Anti-Scratch’微标",
-     "file": null
+     "file": "images/gear/eb2b90baff_0.png",
+     "thumb": "images/gear/thumbs/eb2b90baff_0.jpg"
     },
     {
      "label": "双层PET·加厚封边",
      "prompt": "双层PET复合卡套，厚度0.35mm，内外层间真空贴合，封边热压加固，四角R1.5倒角，正面微磨砂触感，背面激光蚀刻‘Archival Grade’认证码",
-     "file": null
+     "file": "images/gear/eb2b90baff_1.png",
+     "thumb": "images/gear/thumbs/eb2b90baff_1.jpg"
     }
    ]
   },
@@ -1268,12 +1279,14 @@
     {
      "label": "透水混凝土·300×150×80mm",
      "prompt": "灰色透水混凝土卡砖，尺寸300×150×80mm，表面粗粝压印石纹，四边倒角5mm，底部设蜂窝状透水孔阵列（孔径8mm），侧面印‘Permeable Class A’批次号",
-     "file": null
+     "file": "images/gear/9b2054e40a_0.png",
+     "thumb": "images/gear/thumbs/9b2054e40a_0.jpg"
     },
     {
      "label": "仿古陶土·240×115×53mm",
      "prompt": "赤陶色烧结陶土卡砖，尺寸240×115×53mm，表面手工刮痕肌理，边缘微缺釉，侧面压印‘Hand-Fired’与‘EN1344’认证标识，断面可见颗粒状陶粒结构",
-     "file": null
+     "file": "images/gear/9b2054e40a_1.png",
+     "thumb": "images/gear/thumbs/9b2054e40a_1.jpg"
     }
    ]
   },
@@ -1283,12 +1296,14 @@
     {
      "label": "榉木层板·6层可调",
      "prompt": "原色榉木卡纸坯料架，6层阶梯式层板，每层深度25cm，层高可调范围12–20cm，立柱为黑色金属方管，层板边缘倒圆R5，底部带防滑橡胶脚垫",
-     "file": null
+     "file": "images/gear/1379977eda_0.png",
+     "thumb": "images/gear/thumbs/1379977eda_0.jpg"
     },
     {
      "label": "亚克力抽屉·4格白",
      "prompt": "白色磨砂亚克力卡纸坯架，4层独立抽屉式结构，每屉内径32×23×5cm，抽屉正面激光镂空‘A4/B5’尺寸标，侧板嵌入LED灯带（暖白光），底部配万向静音轮",
-     "file": null
+     "file": "images/gear/1379977eda_1.png",
+     "thumb": "images/gear/thumbs/1379977eda_1.jpg"
     }
    ]
   },
@@ -1298,12 +1313,14 @@
     {
      "label": "Gasket Mount·PEEK轴心",
      "prompt": "卫星轴特写：PEEK工程塑料轴心（哑光炭黑），镍银镀层支架，硅胶缓冲垫（透明浅灰），轴体底部印‘Satellite Pro Gasket’与‘Pre-Lubed’微标，整体高度12.5mm",
-     "file": null
+     "file": "images/gear/fee278b425_0.png",
+     "thumb": "images/gear/thumbs/fee278b425_0.jpg"
     },
     {
      "label": "PCB直插·PA66壳体",
      "prompt": "直插式卫星轴组件：黑色PA66聚酰胺壳体，镀镍铜针脚，轴心为POM白色滑块，顶部带十字定位槽，侧面激光蚀刻‘PCB Direct 5.0mm’与‘Rated 50M’",
-     "file": null
+     "file": "images/gear/fee278b425_1.png",
+     "thumb": "images/gear/thumbs/fee278b425_1.jpg"
     }
    ]
   },
@@ -1319,7 +1336,8 @@
     {
      "label": "铱星全球·超薄灰",
      "prompt": "石墨灰超薄卫星通讯器，镁合金中框+聚碳酸酯背板，厚度14.2mm，正面无按键一体化设计，屏幕下方嵌入式铱星天线标识，底部Type-C接口带橡胶密封盖，印‘Iridium Cert. 2024’",
-     "file": null
+     "file": "images/gear/19038cbf6d_1.png",
+     "thumb": "images/gear/thumbs/19038cbf6d_1.jpg"
     }
    ]
   },
@@ -1329,12 +1347,14 @@
     {
      "label": "速干水性·樱桃红",
      "prompt": "樱桃红色速干水性印台，圆形PP塑料盒体（直径85mm），海绵印面平整微凸，表面覆一层透明保护膜，盒盖内侧印‘Water-Based Fast-Dry’与‘Non-Smudge’字样",
-     "file": null
+     "file": "images/gear/752ff2d0fe_0.png",
+     "thumb": "images/gear/thumbs/752ff2d0fe_0.jpg"
     },
     {
      "label": "油性永固·靛蓝金属",
      "prompt": "靛蓝色油性永固印台，锌合金金属外壳（直径90mm），表面拉丝处理，内部为高密度羊毛毡印面，盒盖磁吸闭合，侧面蚀刻‘Oil-Based Archival’与‘pH Neutral’认证标",
-     "file": null
+     "file": "images/gear/752ff2d0fe_1.png",
+     "thumb": "images/gear/thumbs/752ff2d0fe_1.jpg"
     }
    ]
   },
@@ -1344,7 +1364,8 @@
     {
      "label": "沉香系·细粉型·10g铝箔袋装",
      "prompt": "白色铝箔自封袋装印香粉，袋面烫金‘沉香’字样，粉末细腻呈浅棕褐色，表面微泛油润光泽，袋口半开露出细腻粉质纹理，颗粒均匀无结块",
-     "file": null
+     "file": "images/gear/d7cf1d05c0_0.png",
+     "thumb": "images/gear/thumbs/d7cf1d05c0_0.jpg"
     },
     {
      "label": "檀香系·粗粒型·30g竹编小罐装",
@@ -1360,12 +1381,14 @@
     {
      "label": "明制·银鎏金蝶恋花·长28cm",
      "prompt": "明代风格银质压襟，主体为三枚鎏金蝴蝶与缠枝花卉镂空浮雕，垂挂三串银链，末端缀小铃铛与葫芦形银坠，整体长28厘米，银色温润带古旧包浆，细节清晰锐利",
-     "file": null
+     "file": "images/gear/c0ba7ae8d5_0.png",
+     "thumb": "images/gear/thumbs/c0ba7ae8d5_0.jpg"
     },
     {
      "label": "清宫风·点翠镶宝·宽12cm扇形",
      "prompt": "清代宫廷风格扇形压襟，铜胎点翠工艺呈现钴蓝色羽毛光泽，中央镶嵌红玛瑙雕蝙蝠纹，边缘围一圈米粒珍珠，宽12厘米，翠羽纹理细腻，宝石晶莹透亮",
-     "file": null
+     "file": "images/gear/c0ba7ae8d5_1.png",
+     "thumb": "images/gear/thumbs/c0ba7ae8d5_1.jpg"
     }
    ]
   },
@@ -1392,12 +1415,14 @@
     {
      "label": "累丝嵌宝凤冠·全金重86g",
      "prompt": "明代复刻款金累丝凤冠，纯金打造，重86克，九翅金凤衔珠，顶部嵌红宝石与蓝宝石共12粒，点翠云纹底托，凤眼镶嵌黑曜石，金丝纤密如发，立体饱满",
-     "file": null
+     "file": "images/gear/0081cc8e76_0.png",
+     "thumb": "images/gear/thumbs/0081cc8e76_0.jpg"
     },
     {
      "label": "素银缠枝冠·轻量版·直径14cm",
      "prompt": "925素银手工缠枝纹发冠，直径14厘米，宽1.8厘米，表面无镀层呈哑光银灰，藤蔓纹路连绵不断，边缘圆润无毛刺，内圈刻防滑细纹，整体轻盈柔韧",
-     "file": null
+     "file": "images/gear/0081cc8e76_1.png",
+     "thumb": "images/gear/thumbs/0081cc8e76_1.jpg"
     }
    ]
   },
@@ -1407,12 +1432,14 @@
     {
      "label": "白铜扁方胚·长18cm×宽0.8cm",
      "prompt": "未抛光白铜发簪胚，长18厘米，截面为扁平矩形（宽0.8厘米、厚1.2毫米），表面保留金属冷轧纹理，两端切口平整无倒角，边缘微钝，呈银灰本色带细微划痕",
-     "file": null
+     "file": "images/gear/740785f6ad_0.png",
+     "thumb": "images/gear/thumbs/740785f6ad_0.jpg"
     },
     {
      "label": "黑檀木圆杆胚·直径0.6cm×长22cm",
      "prompt": "天然黑檀木发簪胚，圆柱形，直径0.6厘米，长22厘米，木质致密油亮，表面未上漆仅轻砂打磨，可见均匀棕黑条纹与细密木眼，两端端面平整带木纹截面",
-     "file": null
+     "file": "images/gear/740785f6ad_1.png",
+     "thumb": "images/gear/thumbs/740785f6ad_1.jpg"
     }
    ]
   },
@@ -1422,12 +1449,14 @@
     {
      "label": "RGB环形·Type-C供电·Φ80mm",
      "prompt": "哑光黑ABS塑料环形LED底座，外径80毫米，内径45毫米，顶部嵌入16颗可编程WS2812B灯珠呈闭环，底部露Type-C接口与复位按键，电路板走线清晰，焊点饱满银亮",
-     "file": null
+     "file": "images/gear/ee6a592095_0.png",
+     "thumb": "images/gear/thumbs/ee6a592095_0.jpg"
     },
     {
      "label": "单色矩形·电池仓版·60×40mm",
      "prompt": "磨砂白PC矩形LED底座，尺寸60×40×15mm，正面嵌8颗暖白LED（色温3000K），底部设滑盖式AA电池仓（含2节电池），侧面有拨动开关与亮度旋钮，接口全封闭",
-     "file": null
+     "file": "images/gear/ee6a592095_1.png",
+     "thumb": "images/gear/thumbs/ee6a592095_1.jpg"
     }
    ]
   },
@@ -1437,12 +1466,14 @@
     {
      "label": "甜玉米味·橙红粒·Φ8mm×12mm",
      "prompt": "橙红色可降解玉米粒饵，圆柱形，直径8毫米、高12毫米，表面微哑光带细密压纹，一端留穿线凹槽，质地略软有弹性，颗粒饱满无裂纹，色泽均匀鲜亮",
-     "file": null
+     "file": "images/gear/af1d237ed9_0.png",
+     "thumb": "images/gear/thumbs/af1d237ed9_0.jpg"
     },
     {
      "label": "麝香味·琥珀黄·Φ6mm球形",
      "prompt": "琥珀黄色球形玉米粒饵，直径6毫米，表面光滑微反光，通体半透明带淡金晕染，中心可见细微淀粉结晶结构，无添加荧光剂，边缘圆整无毛边",
-     "file": null
+     "file": "images/gear/af1d237ed9_1.png",
+     "thumb": "images/gear/thumbs/af1d237ed9_1.jpg"
     }
    ]
   },
@@ -1452,12 +1483,14 @@
     {
      "label": "碳纤维掌面·L码·黑灰拼接",
      "prompt": "L码台球专用手套，黑色弹力莱卡手背+灰碳纤维纹PU掌面，拇指与食指根部加固缝线，掌心布满细密防滑凸点，腕口松紧收束，LOGO烫印于手背侧",
-     "file": null
+     "file": "images/gear/d8a0f1424d_0.png",
+     "thumb": "images/gear/thumbs/d8a0f1424d_0.jpg"
     },
     {
      "label": "全指透气网·M码·藏青薄款",
      "prompt": "M码全指式台球手套，藏青色高弹尼龙网布全覆盖，掌指关节处激光打孔形成透气蜂窝阵列，指尖加厚0.3mm硅胶层，腕部宽3cm弹力罗纹，无多余装饰",
-     "file": null
+     "file": "images/gear/d8a0f1424d_1.png",
+     "thumb": "images/gear/thumbs/d8a0f1424d_1.jpg"
     }
    ]
   },
@@ -1467,12 +1500,14 @@
     {
      "label": "并继式·4H调·5.4米·碳素90%",
      "prompt": "5.4米台钓并继竿，4H硬度，90%高密度碳布卷制，深空灰涂装带暗银拉丝纹，前堵为铝合金旋钮式，竿稍直径0.8mm，腰身过渡流畅，导环为SIC瓷环配黑色蛇形支架",
-     "file": null
+     "file": "images/gear/f1d3d77985_0.png",
+     "thumb": "images/gear/thumbs/f1d3d77985_0.jpg"
     },
     {
      "label": "振出式·37调·3.6米·混碳70%",
      "prompt": "3.6米振出台钓竿，37调性，70%碳纤维+30%玄武岩纤维混编，枪柄设计配EVA握把，浅灰绿渐变涂装，竿身标有精准长度刻度，导环为氧化铝材质，重量标注‘112g’蚀刻于底把",
-     "file": null
+     "file": "images/gear/f1d3d77985_1.png",
+     "thumb": "images/gear/thumbs/f1d3d77985_1.jpg"
     }
    ]
   },
@@ -1482,12 +1517,14 @@
     {
      "label": "典藏版·动态光效·高28cm",
      "prompt": "28厘米高吉安娜·普罗德摩尔LED雕像，PVC彩绘+ABS骨架，法杖顶端与裙摆边缘嵌入冷白LED灯带，面部微表情生动，蓝发飘逸有分层涂装，底座为水晶质感亚克力，带触控开关",
-     "file": null
+     "file": "images/gear/81d98248e1_0.png",
+     "thumb": "images/gear/thumbs/81d98248e1_0.jpg"
     },
     {
      "label": "Q版夜光款·坐姿·高12cm",
      "prompt": "12厘米Q版吉安娜坐姿雕像，PVC软胶材质，蓝发与法袍含夜光颜料，暗处泛幽蓝微光，双膝抱法杖造型，底座为哑光黑圆形树脂，背面有USB-C充电口与电量指示灯",
-     "file": null
+     "file": "images/gear/81d98248e1_1.png",
+     "thumb": "images/gear/thumbs/81d98248e1_1.jpg"
     }
    ]
   },
@@ -1497,12 +1534,14 @@
     {
      "label": "珐琅烤漆·直径50mm·磁吸背",
      "prompt": "圆形珐琅吧唧，直径50毫米，天蓝色底配金色线条勾勒的猫耳少女图案，表面高亮烤漆，边缘铜边包覆完整，背面为钕铁硼强磁吸结构，磁片直径18mm，无螺丝孔",
-     "file": null
+     "file": "images/gear/d71786d973_0.png",
+     "thumb": "images/gear/thumbs/d71786d973_0.jpg"
     },
     {
      "label": "软胶浮雕·直径75mm·夹针背",
      "prompt": "75毫米大直径软胶吧唧，TPU材质，浮雕式皮卡丘形象，黄色主体带渐变橘腮红，眼睛凸起有透明UV涂层，背面为合金安全夹针，针体长22mm带弹簧锁扣",
-     "file": null
+     "file": "images/gear/d71786d973_1.png",
+     "thumb": "images/gear/thumbs/d71786d973_1.jpg"
     }
    ]
   },
@@ -1512,12 +1551,14 @@
     {
      "label": "桌面电动款·热压式·Φ75mm",
      "prompt": "白色ABS外壳电动吧唧机，主机高18cm，圆形热压模头直径75毫米，带数字温控屏（显示‘160℃’）与压力调节旋钮，下压臂为金属镀铬，工作台面覆耐高温硅胶垫",
-     "file": null
+     "file": "images/gear/10663650bd_0.png",
+     "thumb": "images/gear/thumbs/10663650bd_0.jpg"
     },
     {
      "label": "便携手动款·冷压式·Φ50mm",
      "prompt": "黄黑配色手动吧唧机，铝合金主架+橡胶握把，冷压结构无加热，适配50毫米模具，压杆行程12cm带弹簧回弹，模具腔体为不锈钢，底部防滑硅胶脚垫清晰可见",
-     "file": null
+     "file": "images/gear/10663650bd_1.png",
+     "thumb": "images/gear/thumbs/10663650bd_1.jpg"
     }
    ]
   },
@@ -1527,12 +1568,14 @@
     {
      "label": "樱花手绘款·15mm×10m·本纸",
      "prompt": "15毫米宽樱花主题和纸胶带，米白色本纸基材，表面手绘风格粉色樱花枝条与飞鸟，半透明微哑光，边缘切割齐整，卷芯为硬质纸筒印樱花浮雕，长度10米",
-     "file": null
+     "file": "images/gear/f8a0d1f992_0.png",
+     "thumb": "images/gear/thumbs/f8a0d1f992_0.jpg"
     },
     {
      "label": "几何金属箔·25mm×5m·金箔层",
      "prompt": "25毫米宽金属质感和纸胶带，底纸为浅灰和纸，表面覆极薄金箔层呈镜面反光，压印细密六边形网格纹，卷体紧实，断面可见三层结构：箔层/胶层/纸基",
-     "file": null
+     "file": "images/gear/f8a0d1f992_1.png",
+     "thumb": "images/gear/thumbs/f8a0d1f992_1.jpg"
     }
    ]
   },
@@ -1542,12 +1585,14 @@
     {
      "label": "PET硬卡套·A6竖版·雾面磨砂",
      "prompt": "A6尺寸竖版PET咕卡套，厚度0.3mm，四角圆角R3，正面雾面磨砂处理，背面全透明，边缘无毛刺，插卡口位于顶部中央，开口宽度12mm，表面有细微防刮纹理",
-     "file": null
+     "file": "images/gear/05ae63796c_0.png",
+     "thumb": "images/gear/thumbs/05ae63796c_0.jpg"
     },
     {
      "label": "植绒软壳套·A5横版·墨绿",
      "prompt": "A5横版植绒咕卡套，外层为墨绿色短绒布，内衬柔软EVA，厚度5mm，翻盖式设计带磁吸闭合，封面压印烫金‘GUKA’字母，内页可插2张标准咕卡，边缘缝线工整",
-     "file": null
+     "file": "images/gear/05ae63796c_1.png",
+     "thumb": "images/gear/thumbs/05ae63796c_1.jpg"
     }
    ]
   },
@@ -1557,12 +1602,14 @@
     {
      "label": "埃塞俄比亚·耶加雪菲·日晒G1·227g",
      "prompt": "227克真空铝箔袋装咖啡豆，袋面印‘Yirgacheffe Sun-Dried G1’，豆形椭圆饱满，表面干燥泛浅棕红油光，大小均一，无瑕疵豆，袋口已撕开微露豆粒",
-     "file": null
+     "file": "images/gear/d6c5887dd5_0.png",
+     "thumb": "images/gear/thumbs/d6c5887dd5_0.jpg"
     },
     {
      "label": "哥伦比亚·蕙兰·水洗·1kg豆袋",
      "prompt": "1公斤厚牛皮纸豆袋，米黄底+深红印刷，袋身印‘Huila Washed’及海拔1800m标识，豆粒中等偏大，浅褐色带银皮残留，表面哑光无油，袋体挺括有颗粒感",
-     "file": null
+     "file": "images/gear/d6c5887dd5_1.png",
+     "thumb": "images/gear/thumbs/d6c5887dd5_1.jpg"
     }
    ]
   },
@@ -1572,7 +1619,8 @@
     {
      "label": "柴烧建盏·束口·口径9.2cm·兔毫",
      "prompt": "建阳产柴烧建盏，束口造型，口径9.2厘米，深褐色釉面布满银蓝兔毫纹，毫纹从口沿向底足放射延伸，盏壁厚实，底部露铁胎，圈足修刀痕清晰，釉不及底自然垂釉",
-     "file": null
+     "file": "images/gear/9c642d5cf5_0.png",
+     "thumb": "images/gear/thumbs/9c642d5cf5_0.jpg"
     }
    ]
   },
@@ -1582,7 +1630,8 @@
     {
      "label": "勃艮第+波尔多+香槟·水晶三件套",
      "prompt": "三只无铅水晶品酒杯：勃艮第杯（大肚郁金香形）、波尔多杯（高瘦锥形）、香槟杯（细长笛形），杯壁超薄透光，杯脚为螺旋绞丝设计，底座稳重，杯沿极薄，套装置于丝绒分格托盘",
-     "file": null
+     "file": "images/gear/1d7cea62a0_0.png",
+     "thumb": "images/gear/thumbs/1d7cea62a0_0.jpg"
     }
    ]
   },
@@ -1592,7 +1641,8 @@
     {
      "label": "不锈钢探针式·-30~100℃·IP67",
      "prompt": "304不锈钢啤酒温度计，探针长12cm直径3.2mm，表头为圆形LCD屏（显示‘6.2℃’），外壳哑光黑，IP67防水等级，背部带强力磁吸片与挂孔，精度±0.5℃",
-     "file": null
+     "file": "images/gear/84d89883ba_0.png",
+     "thumb": "images/gear/thumbs/84d89883ba_0.jpg"
     }
    ]
   },
@@ -1602,7 +1652,8 @@
     {
      "label": "黄铜复古款·1L·细雾喷头",
      "prompt": "1升容量黄铜喷壶，壶身手工锤纹，橄榄绿皮革提手，铜质喷杆带可调旋钮，喷头为黄铜细雾莲蓬头，出水孔密集微小，壶盖带气压阀与压力表",
-     "file": null
+     "file": "images/gear/e6e378c99e_0.png",
+     "thumb": "images/gear/thumbs/e6e378c99e_0.jpg"
     }
    ]
   },
@@ -1612,7 +1663,8 @@
     {
      "label": "丁烷喷枪·微型·火焰可调·银灰",
      "prompt": "银灰色铝合金丁烷喷枪，全长18cm，前端陶瓷喷嘴，侧置旋钮调节火焰大小，燃料窗呈蓝色半透明，底部丁烷加注口带密封阀，握把防滑菱形纹",
-     "file": null
+     "file": "images/gear/b8b0420868_0.png",
+     "thumb": "images/gear/thumbs/b8b0420868_0.jpg"
     }
    ]
   },
@@ -1622,12 +1674,14 @@
     {
      "label": "微型USB供电·15cm软管套装",
      "prompt": "小型桌面级喷淋雾化系统，白色ABS塑料主机配透明硅胶软管，带可调雾化喷头和微型水泵，尺寸15cm×8cm×6cm，银灰金属旋钮，USB接口位于底部",
-     "file": null
+     "file": "images/gear/1444626297_0.png",
+     "thumb": "images/gear/thumbs/1444626297_0.jpg"
     },
     {
      "label": "工业级220V·30L/h压力泵组",
      "prompt": "工业型喷淋雾化系统主机，深灰铸铝泵体配黑色耐压橡胶软管与黄铜可调扇形喷嘴，铭牌标注30L/h/0.8MPa，含压力表和快接三通阀，整体尺寸32cm×24cm×28cm",
-     "file": null
+     "file": "images/gear/1444626297_1.png",
+     "thumb": "images/gear/thumbs/1444626297_1.jpg"
     }
    ]
   },
@@ -1637,12 +1691,14 @@
     {
      "label": "便携丁烷·单喷口300℃",
      "prompt": "手持式丁烷喷火枪，哑光黑铝合金机身，顶部单孔直喷嘴，侧置红色安全锁扣与旋钮式火力调节环，底部丁烷加注口带密封盖，全长18cm",
-     "file": null
+     "file": "images/gear/fdce198d92_0.png",
+     "thumb": "images/gear/thumbs/fdce198d92_0.jpg"
     },
     {
      "label": "丙烷双通道·涡流火焰600℃",
      "prompt": "专业丙烷喷火枪，深蓝氧化铝主体配双独立燃气通道，前端双涡流喷嘴呈V型排列，集成电子点火+压力表，手柄带防滑硅胶纹，全长29cm，重约1.2kg",
-     "file": null
+     "file": "images/gear/fdce198d92_1.png",
+     "thumb": "images/gear/thumbs/fdce198d92_1.jpg"
     }
    ]
   },
@@ -1652,12 +1708,14 @@
     {
      "label": "重力供料·0.2mm细针尖",
      "prompt": "黄铜镀镍重力式喷笔，黑色哑光树脂手柄，顶部5ml重力杯带刻度线，0.2mm不锈钢针尖与匹配喷嘴，侧面双控旋钮（气压/涂料流量）",
-     "file": null
+     "file": "images/gear/5a608c07b6_0.png",
+     "thumb": "images/gear/thumbs/5a608c07b6_0.jpg"
     },
     {
      "label": "吸上供料·0.5mm宽幅双动",
      "prompt": "吸上式双动喷笔，深红阳极氧化铝主体，底部12ml可拆卸金属颜料瓶，0.5mm不锈钢喷嘴配锥形针阀，双行程扳机结构清晰可见，表面哑光磨砂处理",
-     "file": null
+     "file": "images/gear/5a608c07b6_1.png",
+     "thumb": "images/gear/thumbs/5a608c07b6_1.jpg"
     }
    ]
   },
@@ -1667,12 +1725,14 @@
     {
      "label": "2人轻量·7D尼龙+PU3000mm",
      "prompt": "双层四季帐，浅灰渐变7D超轻尼龙帐身，橙色PU3000mm防水涂层面料帐底，YKK防水拉链，预弯玻璃纤维帐杆，收纳后直径9cm×35cm",
-     "file": null
+     "file": "images/gear/2a231f7b74_0.png",
+     "thumb": "images/gear/thumbs/2a231f7b74_0.jpg"
     },
     {
      "label": "4人加强·20D涤纶+PU5000mm",
      "prompt": "加固型四人四季帐，军绿20D高密度涤纶帐布，深灰PU5000mm压胶帐底，双门双 vestibule，铝合金7001-T6帐杆，含雪裙与抗风绳扣系统，展开尺寸320×240×130cm",
-     "file": null
+     "file": "images/gear/2a231f7b74_1.png",
+     "thumb": "images/gear/thumbs/2a231f7b74_1.jpg"
     }
    ]
   },
@@ -1682,12 +1742,14 @@
     {
      "label": "休闲款·ABEC-5·80mm轮",
      "prompt": "成人休闲轮滑鞋，亮白TPU硬壳鞋壳配透气网布内衬，黑色ABEC-5轴承+80mm聚氨酯轮，银灰铝制支架，系带+单扣快锁系统，尺码EU42",
-     "file": null
+     "file": "images/gear/348a97c8c0_0.png",
+     "thumb": "images/gear/thumbs/348a97c8c0_0.jpg"
     },
     {
      "label": "竞速款·ABEC-9·110mm轮",
      "prompt": "专业竞速轮滑鞋，碳纤维复合材质低帮鞋壳，深蓝渐变涂装，ABEC-9精密轴承+110mm高回弹聚氨酯轮，一体式镁合金支架，无鞋带磁吸扣+脚踝锁定绑带，尺码EU43",
-     "file": null
+     "file": "images/gear/348a97c8c0_1.png",
+     "thumb": "images/gear/thumbs/348a97c8c0_1.jpg"
     }
    ]
   },
@@ -1697,12 +1759,14 @@
     {
      "label": "不锈钢小号·18cm窄刃",
      "prompt": "迷你不锈钢园艺铲，镜面抛光18cm加厚304不锈钢铲头，窄楔形刃口宽3.2cm，胡桃木手柄长22cm带防滑凹槽，总长40cm，黄铜铆钉固定",
-     "file": null
+     "file": "images/gear/93f8332f63_0.png",
+     "thumb": "images/gear/thumbs/93f8332f63_0.jpg"
     },
     {
      "label": "加厚碳钢·35cm宽面铲",
      "prompt": "重型园艺铲，黑氧化碳钢铲板厚2.5mm，宽面铲头宽12cm带锯齿边缘，枫木长柄带橡胶握区，总长35cm，铲颈处激光蚀刻‘HARD SOIL’标识",
-     "file": null
+     "file": "images/gear/93f8332f63_1.png",
+     "thumb": "images/gear/thumbs/93f8332f63_1.jpg"
     }
    ]
   },
@@ -1712,12 +1776,14 @@
     {
      "label": "入门级·DIN4-8·铝合金",
      "prompt": "入门级滑雪固定器，哑光灰铝合金基座，黑色热塑性聚氨酯AFD前部，DIN释放值标定4–8，前后弹性调节旋钮外露，兼容ISO 5355标准鞋靴",
-     "file": null
+     "file": "images/gear/a6fd30635d_0.png",
+     "thumb": "images/gear/thumbs/a6fd30635d_0.jpg"
     },
     {
      "label": "竞技级·DIN6-16·钛合金",
      "prompt": "高性能滑雪固定器，航空钛合金主体结构，深空灰阳极氧化表面，DIN6–16宽域释放标定，碳纤维增强前臂与后托，集成步进式微调刻度盘，底部防滑纹清晰",
-     "file": null
+     "file": "images/gear/a6fd30635d_1.png",
+     "thumb": "images/gear/thumbs/a6fd30635d_1.jpg"
     }
    ]
   },
@@ -1727,12 +1793,14 @@
     {
      "label": "A4精装·手绘风格·植物学",
      "prompt": "A4尺寸硬壳精装图解书，墨绿布面封面烫金植物线描图案，内页120g哑粉纸，全彩手绘风格解剖图，重点结构用红蓝双色箭头标注，书脊凸印标题",
-     "file": null
+     "file": "images/gear/571f6dbcd6_0.png",
+     "thumb": "images/gear/thumbs/571f6dbcd6_0.jpg"
     },
     {
      "label": "A5便携·矢量线稿·机械原理",
      "prompt": "A5尺寸螺旋圈装图解手册，深灰硬质封皮，内页100g本白胶版纸，黑白高精度矢量线稿，剖视/爆炸/运动轨迹分层呈现，页边留白处印有毫米刻度参考线",
-     "file": null
+     "file": "images/gear/571f6dbcd6_1.png",
+     "thumb": "images/gear/thumbs/571f6dbcd6_1.jpg"
     }
    ]
   },
@@ -1742,12 +1810,14 @@
     {
      "label": "仿真木纹·3mm桦木胶合板",
      "prompt": "3mm厚桦木多层胶合板地台素材，表面激光雕刻仿橡木年轮纹理，边缘精细倒角，浅褐本色木纹清晰，尺寸300×300mm，四角预留M3螺孔位",
-     "file": null
+     "file": "images/gear/fdf5f6138f_0.png",
+     "thumb": "images/gear/thumbs/fdf5f6138f_0.jpg"
     },
     {
      "label": "岩层肌理·5mm灰色发泡PVC",
      "prompt": "5mm厚灰色发泡PVC地台板，表面压印不规则玄武岩断层肌理，哑光消光处理，边缘CNC切割成自然碎裂状，尺寸400×250mm，背面印有网格定位线",
-     "file": null
+     "file": "images/gear/fdf5f6138f_1.png",
+     "thumb": "images/gear/thumbs/fdf5f6138f_1.jpg"
     }
    ]
   },
@@ -1757,12 +1827,14 @@
     {
      "label": "轻量铝柄·尖头+平头·350g",
      "prompt": "轻量化地质锤，6061-T6铝合金中空手柄，黑色氧化处理，头部为尖头+平头双功能350g锰钢锤头，锤颈激光刻‘GEO-PROBE’及硬度HRC58标识",
-     "file": null
+     "file": "images/gear/8b99208c43_0.png",
+     "thumb": "images/gear/thumbs/8b99208c43_0.jpg"
     },
     {
      "label": "全钢加长·镐头+凿头·850g",
      "prompt": "重型地质锤，一体锻造45#碳钢全金属结构，镐形尖端+扁凿刃口，总长32cm，锤头重850g，手柄带防滑滚花与悬挂孔，表面磷化黑哑光涂层",
-     "file": null
+     "file": "images/gear/8b99208c43_1.png",
+     "thumb": "images/gear/thumbs/8b99208c43_1.jpg"
     }
    ]
   },
@@ -1772,12 +1844,14 @@
     {
      "label": "A6线圈·手绘街区·牛皮纸",
      "prompt": "A6尺寸线圈装手账本，天然牛皮纸封面压印浮雕城市天际线，内页为米黄再生纸，每页嵌入手绘风格街区简图与空白笔记区，线圈为哑光古铜色",
-     "file": null
+     "file": "images/gear/91b5c2263b_0.png",
+     "thumb": "images/gear/thumbs/91b5c2263b_0.jpg"
     },
     {
      "label": "A5精装·卫星图层·棉布面",
      "prompt": "A5精装城市地图手账，深靛蓝棉布封面烫银经纬线图案，内页含半透明硫酸纸覆盖的卫星影像底图+可书写矢量街道层，页脚印有比例尺与方位标",
-     "file": null
+     "file": "images/gear/91b5c2263b_1.png",
+     "thumb": "images/gear/thumbs/91b5c2263b_1.jpg"
     }
    ]
   },
@@ -1787,12 +1861,14 @@
     {
      "label": "折叠防水·公交地铁·PP材质",
      "prompt": "PP合成纸折叠路线图，双面覆哑光防水膜，正面为彩色公交地铁换乘图含站点编号，背面为步行距离热力图，折痕精准，展开尺寸60×40cm，四角圆角处理",
-     "file": null
+     "file": "images/gear/0aa99de28e_0.png",
+     "thumb": "images/gear/thumbs/0aa99de28e_0.jpg"
     },
     {
      "label": "立体浮雕·骑行专用·再生纸",
      "prompt": "单张再生纸城市骑行路线图，专色印刷+局部UV凸起工艺呈现主干道，等高线浮雕表现坡度，图标含充电桩/修车点/饮水站，尺寸70×50cm，边缘打孔便于装订",
-     "file": null
+     "file": "images/gear/0aa99de28e_1.png",
+     "thumb": "images/gear/thumbs/0aa99de28e_1.jpg"
     }
    ]
   },
@@ -1802,12 +1878,14 @@
     {
      "label": "基础版·iOS·实时频谱",
      "prompt": "手机屏幕界面截图：iOS系统深色模式下APP主界面，中央圆形实时频谱瀑布图，底部三枚圆角矩形按钮（录制/导出/设置），界面顶部显示‘WaveForm Lite’字样与采样率44.1kHz标识",
-     "file": null
+     "file": "images/gear/454290cb3c_0.png",
+     "thumb": "images/gear/thumbs/454290cb3c_0.jpg"
     },
     {
      "label": "专业版·macOS·多轨分析",
      "prompt": "MacBook屏幕界面截图：macOS浅色模式，主窗口含四轨声波形叠加视图、左侧参数面板（FFT窗长/重叠率/滤波器）、右上角‘SpectraPro v3.2’logo与序列号标签",
-     "file": null
+     "file": "images/gear/454290cb3c_1.png",
+     "thumb": "images/gear/thumbs/454290cb3c_1.jpg"
     }
    ]
   },
@@ -1817,12 +1895,14 @@
     {
      "label": "便携卡式·0.1dB精度·铝标",
      "prompt": "卡片式声纹定位尺，阳极氧化银灰铝合金基板厚1.2mm，激光蚀刻0–120dB对数刻度与A/C/Z计权标识，边缘嵌入微型麦克风定位槽，尺寸100×30mm，圆角包边",
-     "file": null
+     "file": "images/gear/b635df0326_0.png",
+     "thumb": "images/gear/thumbs/b635df0326_0.jpg"
     },
     {
      "label": "工程卷尺·5m伸缩·双面刻",
      "prompt": "5米声学工程卷尺，黑色PVC外壳带防滑纹，拉出尺带双面印刷：正面为距离刻度（cm/mm），反面为对应距离下的理论声压衰减dB值（以1m=100dB为基准），尺钩带磁吸设计",
-     "file": null
+     "file": "images/gear/b635df0326_1.png",
+     "thumb": "images/gear/thumbs/b635df0326_1.jpg"
     }
    ]
   },
@@ -1832,12 +1912,14 @@
     {
      "label": "入门2000粒·3种直径·混色",
      "prompt": "透明亚克力方盒装拼豆，内含2000粒混色颗粒：800粒3mm圆豆（红/蓝/黄）、700粒5mm方豆（绿/紫/橙）、500粒8mm大圆豆（粉/白/黑），盒盖印尺寸对比图",
-     "file": null
+     "file": "images/gear/a1548ba3ff_0.png",
+     "thumb": "images/gear/thumbs/a1548ba3ff_0.jpg"
     },
     {
      "label": "专业5000粒·7规格·渐变色",
      "prompt": "分格收纳箱式拼豆套装，5000粒含7种规格：3/4/5/6/8/10/12mm圆豆与方豆，按色系渐变排列于12格PET托盘，箱体印‘Precision Bead System’与公差±0.15mm标识",
-     "file": null
+     "file": "images/gear/a1548ba3ff_1.png",
+     "thumb": "images/gear/thumbs/a1548ba3ff_1.jpg"
     }
    ]
   },
@@ -1847,12 +1929,14 @@
     {
      "label": "树脂入门·7颗标准·雾面",
      "prompt": "7颗标准多面骰，雾面色泽环氧树脂材质，D4/D6/D8/D10/D10(%) /D12/D20各一颗，数字为深灰蚀刻填漆，边缘微圆润，置于黑色绒布底托上",
-     "file": null
+     "file": "images/gear/0ceccf95bc_0.png",
+     "thumb": "images/gear/thumbs/0ceccf95bc_0.jpg"
     },
     {
      "label": "金属收藏·12颗·黄铜鎏金",
      "prompt": "12颗金属多面骰，实心黄铜铸造，表面鎏金处理，含D3/D4/D5/D6/D7/D8/D10/D12/D14/D16/D20/D30，数字为凹雕填黑珐琅，每颗底部激光编码唯一序列号",
-     "file": null
+     "file": "images/gear/0ceccf95bc_1.png",
+     "thumb": "images/gear/thumbs/0ceccf95bc_1.jpg"
     }
    ]
   },
@@ -1862,12 +1946,14 @@
     {
      "label": "头戴式·红光3W·可调焦",
      "prompt": "轻量夜钓头灯，哑光黑ABS外壳，红色LED光源（3W），可旋转透镜实现泛光/聚光切换，弹性头带带吸汗海绵垫，侧面电源键带蓝光电量指示灯",
-     "file": null
+     "file": "images/gear/c9cef42ec8_0.png",
+     "thumb": "images/gear/thumbs/c9cef42ec8_0.jpg"
     },
     {
      "label": "支架式·双色温·USB-C供电",
      "prompt": "立式夜钓灯，航空铝材三节伸缩杆+360°万向云台，灯头含红光（620nm）与琥珀光（590nm）双COB芯片，USB-C输入，底部配配重底座与水平仪窗口",
-     "file": null
+     "file": "images/gear/c9cef42ec8_1.png",
+     "thumb": "images/gear/thumbs/c9cef42ec8_1.jpg"
     }
    ]
   },
@@ -1877,12 +1963,14 @@
     {
      "label": "通勤款·35L·防水尼龙",
      "prompt": "35升通勤背包，深灰高密度210D防水尼龙面料，YKK AquaGuard拉链，前仓带笔记本隔层（适配16寸），侧袋弹力网兜，背部3D网布透气背板",
-     "file": null
+     "file": "images/gear/8bafa6e777_0.png",
+     "thumb": "images/gear/thumbs/8bafa6e777_0.jpg"
     },
     {
      "label": "徒步款·65L·耐磨涤纶",
      "prompt": "65升专业徒步背包，军绿1000D Cordura涤纶主体，强化肩带与腰封带（含可拆卸髋骨支撑板），顶盖独立仓+底部睡袋仓，外挂绳网与冰镐环齐全，展开尺寸72×34×28cm",
-     "file": null
+     "file": "images/gear/8bafa6e777_1.png",
+     "thumb": "images/gear/thumbs/8bafa6e777_1.jpg"
     }
    ]
   },
@@ -1892,12 +1980,14 @@
     {
      "label": "天然大漆·50g·生漆原色",
      "prompt": "50克天然生漆样品瓶，棕色磨砂玻璃瓶配木塞，标签手写‘Raw Lacquer · Harvest 2024’，瓶身附天然漆膜试片（琥珀色半透明）",
-     "file": null
+     "file": "images/gear/8c247da858_0.png",
+     "thumb": "images/gear/thumbs/8c247da858_0.jpg"
     },
     {
      "label": "腰果漆·250g·哑光黑",
      "prompt": "250克环保腰果漆罐装，哑光黑马口铁圆罐，银色丝印‘Cashew Lacquer · VOC<5g/L’，开盖可见细腻均质膏状漆体，罐沿残留轻微刮痕与漆膜结皮",
-     "file": null
+     "file": "images/gear/8c247da858_1.png",
+     "thumb": "images/gear/thumbs/8c247da858_1.jpg"
     }
    ]
   },
@@ -1907,12 +1997,14 @@
     {
      "label": "三角天幕·3×3m·20D硅胶",
      "prompt": "三角形天幕，3×3米尺寸，20D高密度硅胶涂层面料，浅沙色本体配深棕包边，6处铝合金D形环（含风绳预穿孔），收纳袋印‘UL 1.2kg’标识",
-     "file": null
+     "file": "images/gear/5985a1ab38_0.png",
+     "thumb": "images/gear/thumbs/5985a1ab38_0.jpg"
     },
     {
      "label": "六角天幕·4.5×4.5m·15D聚酯",
      "prompt": "六角对称天幕，4.5×4.5米展开尺寸，15D抗紫外线聚酯面料，石墨灰主色+荧光黄缝线，12处304不锈钢D环均匀分布，中心顶点设双层加强环与通风孔",
-     "file": null
+     "file": "images/gear/5985a1ab38_1.png",
+     "thumb": "images/gear/thumbs/5985a1ab38_1.jpg"
     }
    ]
   },
@@ -1922,12 +2014,14 @@
     {
      "label": "折射式70mm口径·600mm焦距",
      "prompt": "白色铝合金镜筒，黑色橡胶防滑握持区，带可调高度三脚架接口，镜身印有镀膜标识和70mm/600mm参数铭牌，镜口带黑色消光遮光罩，目镜端配25mm平场目镜",
-     "file": null
+     "file": "images/gear/f2802efb25_0.png",
+     "thumb": "images/gear/thumbs/f2802efb25_0.jpg"
     },
     {
      "label": "反射式114mm口径·900mm焦距",
      "prompt": "哑光黑色金属镜筒，圆形牛顿式主镜箱结构，带可旋转副镜调节旋钮，镜筒底部有红色激光寻星器安装座，镜身标注114mm/900mm及F/7.9参数",
-     "file": null
+     "file": "images/gear/f2802efb25_1.png",
+     "thumb": "images/gear/thumbs/f2802efb25_1.jpg"
     }
    ]
   },
@@ -1937,12 +2031,14 @@
     {
      "label": "黑曜石·6mm圆珠·30粒装",
      "prompt": "深黑色玻璃光泽圆珠，表面光滑无划痕，直径6毫米，孔径约1毫米，每粒均匀饱满，散落于白色绒布上呈现自然排列",
-     "file": null
+     "file": "images/gear/0286428182_0.png",
+     "thumb": "images/gear/thumbs/0286428182_0.jpg"
     },
     {
      "label": "青金石·8mm扁圆珠·20粒装",
      "prompt": "深蓝色青金石珠体，含细密金色黄铁矿斑点，扁圆形切面，厚度4毫米，直径8毫米，孔道居中，边缘微弧光感",
-     "file": null
+     "file": "images/gear/0286428182_1.png",
+     "thumb": "images/gear/thumbs/0286428182_1.jpg"
     }
    ]
   },
@@ -1952,12 +2048,14 @@
     {
      "label": "泛光款·200流明·USB-C充电",
      "prompt": "灰黑色ABS塑料灯体，宽幅LED泛光模组，灯头可上下120度调节，弹性硅胶头带带透气网布衬里，侧面印有200LM和USB-C标识",
-     "file": null
+     "file": "images/gear/3a957976fa_0.png",
+     "thumb": "images/gear/thumbs/3a957976fa_0.jpg"
     },
     {
      "label": "聚光款·500流明·红光夜视模式",
      "prompt": "军绿色磨砂PC灯壳，中心高亮COB聚光透镜，顶部独立红光LED开关按钮，头带为加厚尼龙编织带，灯体底部刻有RED MODE字样",
-     "file": null
+     "file": "images/gear/3a957976fa_1.png",
+     "thumb": "images/gear/thumbs/3a957976fa_1.jpg"
     }
    ]
   },
@@ -1967,12 +2065,14 @@
     {
      "label": "山地骑行·M码·PC+EPS复合壳",
      "prompt": "哑光墨绿碳纤维纹外壳，顶部通风孔阵列共12个，内衬为快干网布+可拆洗EPS缓冲层，下颌带带双D形扣，尺寸标M印于内侧贴肤带",
-     "file": null
+     "file": "images/gear/5f04af7ea6_0.png",
+     "thumb": "images/gear/thumbs/5f04af7ea6_0.jpg"
     },
     {
      "label": "攀岩专用·L码·超轻EPP一体成型",
      "prompt": "亮橙色EPP发泡材质全包覆结构，无外露螺丝与接缝，前额加厚防撞区呈流线弧形，后颈处设低剖面调节旋钮，内侧激光蚀刻L码及UIAA认证图标",
-     "file": null
+     "file": "images/gear/5f04af7ea6_1.png",
+     "thumb": "images/gear/thumbs/5f04af7ea6_1.jpg"
     }
    ]
   },
@@ -1982,12 +2082,14 @@
     {
      "label": "硅胶粉扑·水滴形·双密度",
      "prompt": "浅粉色食品级硅胶粉扑，水滴造型，尖端为高弹软密度，基座为支撑型中密度，表面细密微孔纹理，边缘无毛边，底部压印品牌logo",
-     "file": null
+     "file": "images/gear/d9a480191e_0.png",
+     "thumb": "images/gear/thumbs/d9a480191e_0.jpg"
     },
     {
      "label": "羊毛腮红刷·圆头·18mm刷头",
      "prompt": "天然山羊毛刷毛，蓬松圆头造型，刷头直径18毫米，木质短柄染深胡桃色，铜箍包覆牢固，毛尖柔韧微分叉，整体呈暖米白渐变色",
-     "file": null
+     "file": "images/gear/d9a480191e_1.png",
+     "thumb": "images/gear/thumbs/d9a480191e_1.jpg"
     }
    ]
   },
@@ -1997,7 +2099,8 @@
     {
      "label": "BJD通用·小号·帆布+PU革拼接",
      "prompt": "米白帆布主体配咖啡色PU革翻盖，磁吸扣开合，内部有绒布隔层与松紧绑带，包体尺寸22×15×8cm，侧边绣简约藤蔓纹",
-     "file": null
+     "file": "images/gear/921d622076_0.png",
+     "thumb": "images/gear/thumbs/921d622076_0.jpg"
     },
     {
      "label": "SD13限定·大号·丝绒+刺绣镶边",
@@ -2012,12 +2115,14 @@
     {
      "label": "SD13男童·英伦风三件套",
      "prompt": "藏青斜纹呢马甲配灰白细条纹衬衫与同色短裤，马甲前襟三粒黄铜纽扣，衬衫领口带暗扣，所有缝线为同色包边工艺，衣标印SD13-BOY字样",
-     "file": null
+     "file": "images/gear/55e67f4377_0.png",
+     "thumb": "images/gear/thumbs/55e67f4377_0.jpg"
     },
     {
      "label": "MSD女童·森系连衣裙",
      "prompt": "苔藓绿棉麻混纺连衣裙，A字裙摆带荷叶边，泡泡袖口缀小木莓刺绣，腰间系同色亚麻细带，背面隐形拉链，裙摆内侧缝有MSD-SKIRT尺码标",
-     "file": null
+     "file": "images/gear/55e67f4377_1.png",
+     "thumb": "images/gear/thumbs/55e67f4377_1.jpg"
     }
    ]
   },
@@ -2027,7 +2132,8 @@
     {
      "label": "真丝绉缎·40cm×140cm·奶杏色",
      "prompt": "奶杏色100%桑蚕丝绉缎，表面细密哑光肌理，边缘锁边整齐无脱丝，布面可见细微绉纹走向，一角印有‘SILK 19MM’烫印标签",
-     "file": null
+     "file": "images/gear/19369807b0_0.png",
+     "thumb": "images/gear/thumbs/19369807b0_0.jpg"
     },
     {
      "label": "羊毛混纺呢·50cm×150cm·炭灰格",
@@ -2042,12 +2148,14 @@
     {
      "label": "圆形·直径30mm·阳文凸模",
      "prompt": "镜面不锈钢材质，正圆形凸起文字模具，直径30毫米，凸起高度0.8毫米，边缘倒角光滑，背面刻有‘30MM-RELIEF’激光编号",
-     "file": null
+     "file": "images/gear/672bbe2202_0.png",
+     "thumb": "images/gear/thumbs/672bbe2202_0.jpg"
     },
     {
      "label": "异形·樱花轮廓·阴文凹模",
      "prompt": "黑色氧化铝模具，单瓣樱花外形阴刻凹槽，最大宽度28毫米，槽深1.2毫米，槽壁垂直光洁，底部平整，侧面蚀刻CHERRY-EMBOSSED标识",
-     "file": null
+     "file": "images/gear/672bbe2202_1.png",
+     "thumb": "images/gear/thumbs/672bbe2202_1.jpg"
     }
    ]
   },
@@ -2057,7 +2165,8 @@
     {
      "label": "桌面型·热转印·300dpi·A6幅面",
      "prompt": "哑光白ABS机身，前置A6进纸导槽与出纸托盘，控制面板带蓝光LCD屏与三键操作区，右侧标有‘WINE LABEL PRO 300DPI’铭牌，USB-C接口位于后侧",
-     "file": null
+     "file": "images/gear/bcb9ad6b95_0.png",
+     "thumb": "images/gear/thumbs/bcb9ad6b95_0.jpg"
     },
     {
      "label": "工业型·UV喷墨·600dpi·A4幅面",
@@ -2072,12 +2181,14 @@
     {
      "label": "溪流鲫鱼竿·UL调·2.4m",
      "prompt": "浅咖色碳纤维竿节，4节插接式，竿梢为荧光绿碳布包裹，轮座为银色铝合金，竿身印有‘UL 240CM’及调性图标，配原厂布质竿袋",
-     "file": null
+     "file": "images/gear/f83bc1fd98_0.png",
+     "thumb": "images/gear/thumbs/f83bc1fd98_0.jpg"
     },
     {
      "label": "路亚微物竿·XUL调·1.65m",
      "prompt": "冰蓝色高模碳布竿身，2节设计，超细竿梢直径0.8mm，蛇形导环为浅金陶瓷环，手柄为EVA颗粒纹前握+软木后把，竿根部刻‘XUL 165’激光码",
-     "file": null
+     "file": "images/gear/f83bc1fd98_1.png",
+     "thumb": "images/gear/thumbs/f83bc1fd98_1.jpg"
     }
    ]
   },
@@ -2087,7 +2198,8 @@
     {
      "label": "亚克力L型·15cm×15cm×20cm",
      "prompt": "透明光学级亚克力板激光切割L型展架，直角处无缝粘接，边缘抛光如镜，底板厚5mm，立板厚3mm，承重面印极细‘ACRYLIC 15x15x20’刻字",
-     "file": null
+     "file": "images/gear/8406e653d6_0.png",
+     "thumb": "images/gear/thumbs/8406e653d6_0.jpg"
     },
     {
      "label": "胡桃木阶梯式·三层·25cm宽",
@@ -2102,12 +2214,14 @@
     {
      "label": "双开门·玻璃门·60cm宽",
      "prompt": "白色烤漆钢化玻璃双开门展柜，门框为哑光银铝合金，内置LED灯带（未点亮），柜体尺寸60×40×160cm，顶部通风孔阵列，底部四角带可调脚垫",
-     "file": null
+     "file": "images/gear/cd48878b50_0.png",
+     "thumb": "images/gear/thumbs/cd48878b50_0.jpg"
     },
     {
      "label": "背光式·亚克力一体·45cm宽",
      "prompt": "通体透明亚克力一体成型展柜，背部嵌入式LED背光板（未点亮），侧板厚15mm，顶盖可掀启，底部加厚承重底座，正面右下角蚀刻‘ILLUMI-CASE 45’",
-     "file": null
+     "file": "images/gear/cd48878b50_1.png",
+     "thumb": "images/gear/thumbs/cd48878b50_1.jpg"
     }
    ]
   },
@@ -2117,7 +2231,8 @@
     {
      "label": "磁吸翻盖·白卡+触感膜·12×12×6cm",
      "prompt": "纯白高阶白卡纸盒，表面覆柔雾触感膜，翻盖内嵌强磁片，盒盖闭合处有微凹定位槽，四角圆润，盒内为浅灰植绒衬底，尺寸精确12×12×6cm",
-     "file": null
+     "file": "images/gear/b8f2a7165e_0.png",
+     "thumb": "images/gear/thumbs/b8f2a7165e_0.jpg"
     },
     {
      "label": "抽屉式·灰板+烫金·18×10×8cm",
@@ -2132,12 +2247,14 @@
     {
      "label": "食用级·玫瑰粉·100g铝箔袋",
      "prompt": "哑光银铝箔自立袋，正面印粉红玫瑰图案与‘EDIBLE ROSE POWDER’字样，封口处带锯齿撕裂线，袋体鼓胀饱满，底部印生产批号与保质期",
-     "file": null
+     "file": "images/gear/aadd50153b_0.png",
+     "thumb": "images/gear/thumbs/aadd50153b_0.jpg"
     },
     {
      "label": "矿物级·群青蓝·50g玻璃瓶",
      "prompt": "透明磨砂玻璃广口瓶，蓝色粉末填充至瓶肩，软木塞封口配铝箔封膜，瓶身贴矩形白标印‘MINERAL ULTRAMARINE · 50G’及色号PANTONE 294C",
-     "file": null
+     "file": "images/gear/aadd50153b_1.png",
+     "thumb": "images/gear/thumbs/aadd50153b_1.jpg"
     }
    ]
   },
@@ -2147,7 +2264,8 @@
     {
      "label": "3×3m·双面涂硅·橄榄绿",
      "prompt": "橄榄绿高密度涤棉帆布天幕，双面硅油涂层，四角加固三角织带配黄铜D形扣，边缘包边为同色涤纶织带，中央印‘3X3 SILICONE COATED’烫印字",
-     "file": null
+     "file": "images/gear/3d457baa4e_0.png",
+     "thumb": "images/gear/thumbs/3d457baa4e_0.jpg"
     },
     {
      "label": "2.4×1.8m·单面PU·沙色",
@@ -2162,12 +2280,14 @@
     {
      "label": "A5横版·活页夹·环保再生纸",
      "prompt": "燕麦色再生纸封面，烫印深棕‘PLATFORM AUDIT TRACKER’字样，内页为横版周计划表格，每页左上角带日期填空框，活页金属环直径12mm，封底附便签贴纸页",
-     "file": null
+     "file": "images/gear/cdb8365d90_0.png",
+     "thumb": "images/gear/thumbs/cdb8365d90_0.jpg"
     },
     {
      "label": "A6竖版·线圈本·FSC认证纸",
      "prompt": "深海军蓝硬壳封面，银色金属线圈装订，内页为竖版日打卡表，每页含‘完成/未完成’勾选框与备注栏，封面内侧印FSC-C123456认证标，书脊印‘DAILY COMPLIANCE’",
-     "file": null
+     "file": "images/gear/cdb8365d90_1.png",
+     "thumb": "images/gear/thumbs/cdb8365d90_1.jpg"
     }
    ]
   },
@@ -2177,7 +2297,8 @@
     {
      "label": "APS-C画幅·10mm·f/2.8",
      "prompt": "银黑配色金属镜筒，前端突出非球面镜组带防反射镀膜，对焦环宽大带菱形滚花纹，镜尾卡口为哑光黑金属，侧面印‘10mm F2.8 APS-C’白字",
-     "file": null
+     "file": "images/gear/fe07dcd042_0.png",
+     "thumb": "images/gear/thumbs/fe07dcd042_0.jpg"
     },
     {
      "label": "全画幅·16mm·f/4.0 IS",
@@ -2192,12 +2313,14 @@
     {
      "label": "荧光手幅·60×40cm·PVC材质",
      "prompt": "亮黄色PVC软胶手幅，单面印刷黑色粗体‘FIGHTING!’字样，边缘热切无毛边，顶部穿孔配黑色涤纶挂绳，背面印‘OFFICIAL FAN ITEM’小字",
-     "file": null
+     "file": "images/gear/6563cea8db_0.png",
+     "thumb": "images/gear/thumbs/6563cea8db_0.jpg"
     },
     {
      "label": "镭射亚克力挂件·8cm圆·双面雕",
      "prompt": "圆形透明亚克力挂件，双面激光雕刻同心圆纹+中心偶像剪影，边缘CNC抛光，顶部穿孔配银色合金跳环，挂件厚度4mm，自带镭射彩虹反光效果",
-     "file": null
+     "file": "images/gear/6563cea8db_1.png",
+     "thumb": "images/gear/thumbs/6563cea8db_1.jpg"
     }
    ]
   },
