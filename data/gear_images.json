@@ -1,7 +1,7 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-06-12T18:32:25+08:00"
+  "updated_at": "2026-06-12T19:33:14+08:00"
  },
  "gear": {
   "135/120胶卷": {
@@ -9750,6 +9750,754 @@
      "prompt": "灰白双面色卡式采样卡，正面为浅灰哑光核酸稳定膜层，背面为深灰防水PET覆膜，中央双同心圆采样区（外圈3.0cm，内圈1.8cm），边缘嵌入0.3mm不锈钢定位环，整体厚度1.2mm，尺寸7.0×9.0厘米，四角带激光切割导引槽",
      "file": "images/gear/f341054321_1.png",
      "thumb": "images/gear/thumbs/f341054321_1.jpg"
+    }
+   ]
+  },
+  "GPS轨迹贴图设备": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "磁吸车载款·72mm圆形",
+     "prompt": "圆形金属边框GPS轨迹贴图设备，哑光黑铝合金外壳，中央嵌入3.2cm彩色E-Ink显示屏显示实时轨迹热力图，底部带强力钕磁铁底座，直径72mm，厚度14mm，侧面有USB-C充电口和蓝牙配对指示灯",
+     "file": "images/gear/67209ea88f_0.png",
+     "thumb": "images/gear/thumbs/67209ea88f_0.jpg"
+    },
+    {
+     "label": "腕带户外款·58×42mm矩形",
+     "prompt": "矩形柔性硅胶包覆GPS轨迹贴图设备，深灰TPU主体配橙色防滑纹路，58mm×42mm尺寸，1.8mm超薄E-Ink触控屏显示离线轨迹叠加地图，顶部集成双色LED状态灯，右侧带可拆卸尼龙快拆腕带接口",
+     "file": "images/gear/67209ea88f_1.png",
+     "thumb": "images/gear/thumbs/67209ea88f_1.jpg"
+    }
+   ]
+  },
+  "GoPro HERO14": {
+   "category": "影像设备",
+   "variants": [
+    {
+     "label": "标准版·黑色防水壳",
+     "prompt": "黑色哑光聚碳酸酯机身GoPro HERO14运动相机，正面为2.27英寸触摸屏，顶部激光测距模块凸起，底部USB-C接口带红色密封盖，标配黑色防水壳（深度60米），尺寸5.9×4.1×2.8cm，镜头环为磨砂银色金属材质",
+     "file": "images/gear/1b401614f0_0.png",
+     "thumb": "images/gear/thumbs/1b401614f0_0.jpg"
+    },
+    {
+     "label": "MAX版·迷彩磁吸壳",
+     "prompt": "军绿迷彩纹理TPU包覆GoPro HERO14 MAX版，双镜头模组外露（主摄+超广角），顶部集成陀螺仪校准窗，背部磁吸阵列呈六边形排列，附带可旋转磁吸支架接口，整机尺寸6.3×4.5×3.1cm，镜头镀蓝紫增透膜",
+     "file": "images/gear/1b401614f0_1.png",
+     "thumb": "images/gear/thumbs/1b401614f0_1.jpg"
+    }
+   ]
+  },
+  "NFT声纹权属证书": {
+   "category": "数字文创",
+   "variants": [
+    {
+     "label": "实体箔印版·A5烫金",
+     "prompt": "A5尺寸厚卡纸NFT声纹权属证书，深靛蓝棉浆纸基材，正面浮雕烫金声波纹+唯一哈希值编号，右下角嵌入微型NFC芯片（银色圆点），背面印全息防伪徽标与QR码，四角圆角裁切，厚度320gsm",
+     "file": "images/gear/becdf78262_0.png",
+     "thumb": "images/gear/thumbs/becdf78262_0.jpg"
+    },
+    {
+     "label": "区块链存证版·USB-C密钥",
+     "prompt": "钛灰色金属USB-C形态NFT声纹权属证书，长5.2cm宽1.8cm高0.7cm，阳极氧化铝外壳，正面蚀刻声纹频谱浮雕图案，USB接口带绿色LED认证指示灯，内置SE安全芯片存储加密声纹哈希及链上地址",
+     "file": "images/gear/becdf78262_1.png",
+     "thumb": "images/gear/thumbs/becdf78262_1.jpg"
+    }
+   ]
+  },
+  "乡土种子包": {
+   "category": "园艺工具",
+   "variants": [
+    {
+     "label": "江南稻作系·12粒牛皮纸袋",
+     "prompt": "手工缝制牛皮纸种子包，尺寸9×6cm，米白色粗麻布标签手写‘嘉善早籼’，内含12粒棕红籼稻种子分装于半透明生物降解小袋，标签绳为靛蓝染棉线，封口处蜡封红印",
+     "file": "images/gear/3a303afc0e_0.png",
+     "thumb": "images/gear/thumbs/3a303afc0e_0.jpg"
+    },
+    {
+     "label": "西南山地系·24粒竹筒装",
+     "prompt": "截取3年生毛竹筒为容器，高8.5cm直径3.2cm，两端竹节保留，外壁烙印‘昭通苦荞’字样，内衬食品级PLA膜，盛装24粒墨黑苦荞种子，竹筒口以蜂蜡+麻绳封缄",
+     "file": "images/gear/3a303afc0e_1.png",
+     "thumb": "images/gear/thumbs/3a303afc0e_1.jpg"
+    }
+   ]
+  },
+  "便携AED训练机": {
+   "category": "医疗教具",
+   "variants": [
+    {
+     "label": "基础教学款·蓝白双色",
+     "prompt": "蓝白配色ABS工程塑料AED训练机，尺寸24×19×6cm，模拟电极片接口带黄黑警示环，LCD屏显示心律识别动画，顶部语音提示孔为同心圆网格，左侧有‘分析/电击’双按钮（蓝色/红色硅胶帽）",
+     "file": "images/gear/f192584c58_0.png",
+     "thumb": "images/gear/thumbs/f192584c58_0.jpg"
+    },
+    {
+     "label": "多场景进阶款·战术灰",
+     "prompt": "沙色磨砂聚丙烯AED训练机，26×21×7.5cm，背部集成可拆卸腰挂导轨，屏幕升级为4.3英寸IPS触控屏，电极片插槽支持湿巾模拟导电，底部有IP54防护等级标识与电池仓锁扣",
+     "file": "images/gear/f192584c58_1.png",
+     "thumb": "images/gear/thumbs/f192584c58_1.jpg"
+    }
+   ]
+  },
+  "便携太阳能板": {
+   "category": "能源装备",
+   "variants": [
+    {
+     "label": "折叠帆布款·20W双面",
+     "prompt": "军绿帆布包覆折叠太阳能板，展开尺寸42×32cm，单晶硅双面发电层，正面深蓝哑光，背面浅灰微纹理，四角金属D型环，输出端为MC4+USB-C双接口，折叠后厚2.3cm带肩带",
+     "file": "images/gear/b7eb48b882_0.png",
+     "thumb": "images/gear/thumbs/b7eb48b882_0.jpg"
+    },
+    {
+     "label": "卷轴薄膜款·15W柔性",
+     "prompt": "深空灰PET基柔性太阳能板，卷轴式收纳筒直径6.8cm长22cm，展开后30×120cm，表面覆疏水纳米涂层，边缘嵌入TPU包边与磁吸定位点，输出端为XT60航空插头+Type-A接口",
+     "file": "images/gear/b7eb48b882_1.png",
+     "thumb": "images/gear/thumbs/b7eb48b882_1.jpg"
+    }
+   ]
+  },
+  "便携式红外相机": {
+   "category": "生态监测",
+   "variants": [
+    {
+     "label": "林冠监测款·4K夜视",
+     "prompt": "哑光黑PC+镁合金红外相机，12.5×8.2×6.1cm，顶部双PIR传感器凸起，镜头环为哑光黑金属，4K分辨率，SD卡槽带橡胶密封盖，底部1/4英寸螺丝孔配防丢绳孔",
+     "file": "images/gear/1371585271_0.png",
+     "thumb": "images/gear/thumbs/1371585271_0.jpg"
+    },
+    {
+     "label": "岩穴隐蔽款·低红曝",
+     "prompt": "哑光石墨灰红外相机，9.8×6.4×4.9cm，前盖采用仿生岩石纹理TPU，镜头窗口嵌入850nm低红曝滤光片，侧面隐藏式microSD卡槽，背部有温湿度传感器探针外露，重量仅320g",
+     "file": "images/gear/1371585271_1.png",
+     "thumb": "images/gear/thumbs/1371585271_1.jpg"
+    }
+   ]
+  },
+  "便携式苔藓标本盒": {
+   "category": "自然教育",
+   "variants": [
+    {
+     "label": "活体保湿款·双层玻璃",
+     "prompt": "双层中空钢化玻璃苔藓标本盒，外框为胡桃木榫卯结构，尺寸12×12×5cm，上层为可开合玻璃盖（内嵌硅胶密封条），下层为透气陶土底托，侧壁有微型湿度计与注水孔（黄铜旋塞）",
+     "file": "images/gear/6923845bf5_0.png",
+     "thumb": "images/gear/thumbs/6923845bf5_0.jpg"
+    },
+    {
+     "label": "干制压痕款·亚克力夹层",
+     "prompt": "透明亚克力三明治式苔藓标本盒，15×10×2.5cm，上下两片1.5mm厚光学亚克力，中间0.8mm间隙压入脱水苔藓并烫印拉丁学名，四角黄铜铆钉固定，边缘激光雕刻经纬度坐标",
+     "file": "images/gear/6923845bf5_1.png",
+     "thumb": "images/gear/thumbs/6923845bf5_1.jpg"
+    }
+   ]
+  },
+  "卫星通信终端": {
+   "category": "应急通讯",
+   "variants": [
+    {
+     "label": "北斗短报文款·手持式",
+     "prompt": "深灰磨砂聚碳酸酯卫星通信终端，14.2×7.8×3.3cm，正面4.1英寸阳光可视屏，顶部北斗天线为可伸缩螺旋结构（镀金铜管），右侧物理SOS键带红色荧光圈，底部为Nano-SIM+eSIM双卡槽",
+     "file": "images/gear/dc0a010a5d_0.png",
+     "thumb": "images/gear/thumbs/dc0a010a5d_0.jpg"
+    },
+    {
+     "label": "Iridium全球款·背负式",
+     "prompt": "橄榄绿高强度尼龙背负式卫星终端，主机尺寸16×9.5×4.1cm，外挂式L波段平板天线（18×12cm碳纤维基板），背部MOLLE织带系统，接口区含RS232+USB-C+12V直流输入，重量含电池890g",
+     "file": "images/gear/dc0a010a5d_1.png",
+     "thumb": "images/gear/thumbs/dc0a010a5d_1.jpg"
+    }
+   ]
+  },
+  "双语急救手册电子墨水屏": {
+   "category": "医疗教具",
+   "variants": [
+    {
+     "label": "中文-英文版·6英寸",
+     "prompt": "6英寸电子墨水屏急救手册，深蓝软质TPU边框，屏幕分辨率为1024×758，显示中英双语图文步骤（左中右三栏排版），底部物理翻页键为银色金属拨杆，USB-C充电口带防水胶塞",
+     "file": "images/gear/27622c5916_0.png",
+     "thumb": "images/gear/thumbs/27622c5916_0.jpg"
+    },
+    {
+     "label": "中文-藏文版·7.8英寸",
+     "prompt": "7.8英寸电子墨水屏急救手册，墨绿帆布包覆机身，屏幕显示竖排中文与藏文对照内容（乌金体藏文+思源宋体），内置环境光传感器自动调对比度，侧边有盲文功能标识点阵",
+     "file": "images/gear/27622c5916_1.png",
+     "thumb": "images/gear/thumbs/27622c5916_1.jpg"
+    }
+   ]
+  },
+  "古道手绘地图": {
+   "category": "文旅用品",
+   "variants": [
+    {
+     "label": "浙南廊桥线·宣纸卷轴",
+     "prompt": "手工桑皮宣纸古道地图，纵120cm横35cm，水墨手绘浙南廊桥群落，朱砂标注17处古桥名称，边缘做旧泛黄，卷轴两端为檀木轴头，系靛蓝棉绳与青玉平安扣",
+     "file": "images/gear/d5ac8c8e9c_0.png",
+     "thumb": "images/gear/thumbs/d5ac8c8e9c_0.jpg"
+    },
+    {
+     "label": "川西茶马线·防水布卷",
+     "prompt": "PVC涂层涤纶防水布古道地图，展开尺寸100×28cm，丝网印刷赭石色路线+藏青等高线，关键驿站用烫金图标标注，两侧金属眼扣配弹力捆扎带，卷收后直径6.5cm",
+     "file": "images/gear/d5ac8c8e9c_1.png",
+     "thumb": "images/gear/thumbs/d5ac8c8e9c_1.jpg"
+    }
+   ]
+  },
+  "可编程发声底座": {
+   "category": "智能硬件",
+   "variants": [
+    {
+     "label": "教育语音款·RGB环灯",
+     "prompt": "白色哑光ABS可编程发声底座，圆柱形直径8.2cm高4.5cm，顶部3cm直径扬声器格栅，环形RGB LED灯带嵌于上沿，侧面microUSB+Type-C双接口，底部防滑硅胶垫印有编程二维码",
+     "file": "images/gear/5311c265cf_0.png",
+     "thumb": "images/gear/thumbs/5311c265cf_0.jpg"
+    },
+    {
+     "label": "环境交互款·压感阵列",
+     "prompt": "深空灰铝合金发声底座，10×10×3.8cm矩形，顶面覆盖4×4压感矩阵（哑光黑硅胶膜），中央嵌入3W全频喇叭，侧面有旋钮音量调节与模式切换键，底部磁吸充电触点",
+     "file": "images/gear/5311c265cf_1.png",
+     "thumb": "images/gear/thumbs/5311c265cf_1.jpg"
+    }
+   ]
+  },
+  "向导日志AI语音转录笔": {
+   "category": "办公工具",
+   "variants": [
+    {
+     "label": "山野增强款·双MIC阵列",
+     "prompt": "哑光灰铝镁合金语音转录笔，14.5×2.2×1.1cm，顶部双指向麦克风阵列（间距12mm），侧面物理降噪开关带橙色指示环，USB-C接口旁有AI处理状态呼吸灯，尾部磁吸挂绳孔",
+     "file": "images/gear/573aba2c4f_0.png",
+     "thumb": "images/gear/thumbs/573aba2c4f_0.jpg"
+    },
+    {
+     "label": "多语翻译款·三语离线",
+     "prompt": "墨绿陶瓷涂层转录笔，15.1×2.4×1.3cm，前端三颗MEMS麦克风呈三角布局，屏幕为0.96英寸OLED（显示中英日实时字幕），侧面有语言切换滑块与离线引擎指示灯",
+     "file": "images/gear/573aba2c4f_1.png",
+     "thumb": "images/gear/thumbs/573aba2c4f_1.jpg"
+    }
+   ]
+  },
+  "土壤pH测试笔": {
+   "category": "园艺工具",
+   "variants": [
+    {
+     "label": "直插速测款·LED三色",
+     "prompt": "黄黑配色ABS土壤pH测试笔，18.5cm长，不锈钢探针长8cm带锥形尖，主机段LED环显红（酸）/绿（中）/蓝（碱），顶部液晶屏显示数值（0.1精度），底部有校准孔与电池仓旋盖",
+     "file": "images/gear/63e82bbc03_0.png",
+     "thumb": "images/gear/thumbs/63e82bbc03_0.jpg"
+    },
+    {
+     "label": "多参数款·四电极",
+     "prompt": "深蓝环氧树脂测试笔，21cm长，前端四合一电极阵列（pH/EC/温度/湿度），探针为铂铱合金镀层，主机段带2.4英寸TFT屏实时曲线图，侧边有数据导出USB-C接口与防水等级IP67标识",
+     "file": "images/gear/63e82bbc03_1.png",
+     "thumb": "images/gear/thumbs/63e82bbc03_1.jpg"
+    }
+   ]
+  },
+  "声纹采集麦克风": {
+   "category": "音频设备",
+   "variants": [
+    {
+     "label": "近场保真款·心形指向",
+     "prompt": "哑光黑金属网罩声纹采集麦克风，直径4.8cm高12.5cm，XLR+USB-C双输出，心形指向性，底部三脚架螺纹（1/4英寸），网罩内可见金色振膜，侧面有增益旋钮与48V幻象电源开关",
+     "file": "images/gear/25a57b6178_0.png",
+     "thumb": "images/gear/thumbs/25a57b6178_0.jpg"
+    },
+    {
+     "label": "移动降噪款·领夹式",
+     "prompt": "炭黑液态硅胶领夹麦克风，椭圆主体3.2×2.1×0.9cm，表面激光蚀刻频响曲线图，夹臂为镍钛合金记忆金属，底部Type-C接口带磁吸转接头，内置DSP降噪芯片指示灯为微光蓝点",
+     "file": "images/gear/25a57b6178_1.png",
+     "thumb": "images/gear/thumbs/25a57b6178_1.jpg"
+    }
+   ]
+  },
+  "多机位同步控制器": {
+   "category": "影像设备",
+   "variants": [
+    {
+     "label": "无线时码款·8通道",
+     "prompt": "深灰航空铝多机位同步控制器，12.8×8.5×3.2cm，正面8组LED通道指示灯（红/绿双色），顶部Timecode输入BNC口，侧面4个2.4G无线同步发射端口，底部有锂电池电量环形指示灯",
+     "file": "images/gear/fdf51b6029_0.png",
+     "thumb": "images/gear/thumbs/fdf51b6029_0.jpg"
+    },
+    {
+     "label": "有线触发款·12节点",
+     "prompt": "哑光黑聚碳酸酯同步控制器，15.2×9.6×4.1cm，正面12个物理触发按键（编号01–12），每个键带独立LED背光，背部6个5芯DMX接口与2个光纤同步输入口，散热格栅位于顶部",
+     "file": "images/gear/fdf51b6029_1.png",
+     "thumb": "images/gear/thumbs/fdf51b6029_1.jpg"
+    }
+   ]
+  },
+  "定制语音剧本卡": {
+   "category": "教育培训",
+   "variants": [
+    {
+     "label": "户外引导款·防水PET",
+     "prompt": "哑光白防水PET语音剧本卡，10.5×7.5cm，双面UV印刷山径引导话术（中英双语），中心嵌入NFC芯片（银色圆点），四角圆角R3mm，边缘烫印海拔高度图标，厚度0.38mm",
+     "file": "images/gear/f4af8615dc_0.png",
+     "thumb": "images/gear/thumbs/f4af8615dc_0.jpg"
+    },
+    {
+     "label": "非遗讲述款·棉麻基材",
+     "prompt": "本色棉麻纸语音剧本卡，12×8cm，手工纸肌理可见，单面丝网印刷方言讲述脚本（铅字排版），右下角缝制靛蓝土布标签，背面空白处预留录音二维码烫金框",
+     "file": "images/gear/f4af8615dc_1.png",
+     "thumb": "images/gear/thumbs/f4af8615dc_1.jpg"
+    }
+   ]
+  },
+  "客户情绪反馈贴纸本": {
+   "category": "服务工具",
+   "variants": [
+    {
+     "label": "山野服务版·撕页式",
+     "prompt": "牛皮纸封面情绪反馈贴纸本，15×10cm，内页80gsm米黄纸，每页含6枚圆形撕页贴纸（直径2.2cm），图案为简笔山形+笑脸/皱眉/惊讶/平静/疲惫/期待图标，边缘微齿状易撕设计",
+     "file": "images/gear/8eba999c2c_0.png",
+     "thumb": "images/gear/thumbs/8eba999c2c_0.jpg"
+    },
+    {
+     "label": "营地协作版·磁吸式",
+     "prompt": "深绿磁性软胶贴纸本，18×12cm，封面为柔性磁吸层，内页为白板涂层卡纸，配套6枚磁吸圆形贴纸（直径3cm，背面钕磁铁），图标含篝火、帐篷、星空等营地符号，贴纸边缘有哑光黑描边",
+     "file": "images/gear/8eba999c2c_1.png",
+     "thumb": "images/gear/thumbs/8eba999c2c_1.jpg"
+    }
+   ]
+  },
+  "山域气象速查卡": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "云相判读款·双面覆膜",
+     "prompt": "PVC覆膜山域气象速查卡，12×8cm，正面丝网印刷积云/层云/卷云手绘图谱与海拔对应关系，背面为雷暴生成条件流程图，四角圆孔穿防丢绳，边缘激光切割倒角",
+     "file": "images/gear/b86ae04122_0.png",
+     "thumb": "images/gear/thumbs/b86ae04122_0.jpg"
+    },
+    {
+     "label": "微气候款·温变油墨",
+     "prompt": "哑光白PET山域气象卡，10.5×7cm，正面印常规气象符号，关键区域涂布温变油墨（20℃以下显蓝，25℃以上显红），显示逆温层/谷风/焚风效应示意图，厚度0.25mm，带静电吸附背胶",
+     "file": "images/gear/b86ae04122_1.png",
+     "thumb": "images/gear/thumbs/b86ae04122_1.jpg"
+    }
+   ]
+  },
+  "山野定位信标": {
+   "category": "应急通讯",
+   "variants": [
+    {
+     "label": "北斗+GPS双模·硬质壳",
+     "prompt": "深空灰硬质PC定位信标，6.2×4.1×2.4cm，顶部北斗+GPS双天线凸起（镀金陶瓷基），侧面SOS键为红色硅胶大按钮，底部有磁吸底座与1/4英寸螺纹孔，IP68等级标识蚀刻于侧边",
+     "file": "images/gear/60728b0523_0.png",
+     "thumb": "images/gear/thumbs/60728b0523_0.jpg"
+    },
+    {
+     "label": "可穿戴织物款·柔性电路",
+     "prompt": "橄榄绿高弹尼龙织物定位信标，8×5cm柔性矩形，表面热转印山形轮廓，内部嵌入导电纤维电路与微型GNSS模块，边缘包边为反光TPU，USB-C充电口隐藏于侧缝，重量仅28g",
+     "file": "images/gear/60728b0523_1.png",
+     "thumb": "images/gear/thumbs/60728b0523_1.jpg"
+    }
+   ]
+  },
+  "急救包可视化标签系统": {
+   "category": "医疗急救装备",
+   "variants": [
+    {
+     "label": "磁吸式模块化·A4尺寸",
+     "prompt": "A4尺寸硬质哑光白PP塑料基板，表面嵌入12个可替换磁吸彩色图标模块（红/黄/蓝/绿四色），图标含激光雕刻文字与ISO通用急救符号，边缘带毫米刻度标尺与圆角倒角处理",
+     "file": "images/gear/453101ba92_0.png",
+     "thumb": "images/gear/thumbs/453101ba92_0.jpg"
+    },
+    {
+     "label": "卷贴式透明胶带·30mm×5m",
+     "prompt": "30毫米宽透明PET胶带卷，表面覆哑光磨砂UV涂层，印有高对比度黑体中文标签（止血带/碘伏/纱布等）及对应国际象形图示，卷芯为白色ABS塑料，两端带撕口引导线",
+     "file": "images/gear/453101ba92_1.png",
+     "thumb": "images/gear/thumbs/453101ba92_1.jpg"
+    }
+   ]
+  },
+  "折叠户外厨房": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "钛合金三件套·展开62×40cm",
+     "prompt": "航空级TC4钛合金材质，含可折叠炉架、双层防风聚能锅盖、一体式折叠灶台，表面喷砂哑光灰，展开尺寸62×40cm，折叠后厚仅4.2cm，底部带硅胶防滑垫与M8螺纹接口",
+     "file": "images/gear/e46882ffa1_0.png",
+     "thumb": "images/gear/thumbs/e46882ffa1_0.jpg"
+    },
+    {
+     "label": "铝合金六功能·展开95×58cm",
+     "prompt": "6061-T6阳极氧化深空灰铝合金框架，集成燃气灶、切菜板、水槽、调料架、挂钩区与LED照明灯，展开尺寸95×58cm，折叠铰链处带橙色硅胶缓冲圈与锁定卡扣",
+     "file": "images/gear/e46882ffa1_1.png",
+     "thumb": "images/gear/thumbs/e46882ffa1_1.jpg"
+    }
+   ]
+  },
+  "无菌操作台": {
+   "category": "实验室设备",
+   "variants": [
+    {
+     "label": "桌面型HEPA·520×420×380mm",
+     "prompt": "不锈钢304台面+亚克力侧板，内置ULPA17级过滤器与双紫外灯（254nm+185nm），尺寸520×420×380mm，前窗为可升降钢化玻璃，控制面板带数字温湿度屏与定时开关",
+     "file": "images/gear/a76c737494_0.png",
+     "thumb": "images/gear/thumbs/a76c737494_0.jpg"
+    },
+    {
+     "label": "移动推车型FFU·800×600×1200mm",
+     "prompt": "304不锈钢主体带万向静音轮，顶部FFU风机模块配H14级高效过滤器，工作区尺寸800×600mm，侧壁集成酒精喷雾口、手套接口与负压压力表，灰色环氧树脂涂层台面",
+     "file": "images/gear/a76c737494_1.png",
+     "thumb": "images/gear/thumbs/a76c737494_1.jpg"
+    }
+   ]
+  },
+  "木纹肌理放大镜": {
+   "category": "手作工具",
+   "variants": [
+    {
+     "label": "胡桃木柄·10×圆形镜片",
+     "prompt": "整块北美胡桃木车削镜柄，保留天然木纹与微弧握持曲面，镜片为光学级BK7玻璃，直径10cm，3倍放大率，镜框嵌铜质调节环与黄铜铭牌刻字",
+     "file": "images/gear/95793e7bba_0.png",
+     "thumb": "images/gear/thumbs/95793e7bba_0.jpg"
+    },
+    {
+     "label": "竹纤维复合·15×矩形镜片",
+     "prompt": "热压竹纤维增强PLA复合材料镜框，哑光米白底色带纵向竹丝纹理，矩形镜片尺寸12×8cm，5倍放大率，镜片边缘包覆柔性TPU防撞条，背面带磁吸背夹",
+     "file": "images/gear/95793e7bba_1.png",
+     "thumb": "images/gear/thumbs/95793e7bba_1.jpg"
+    }
+   ]
+  },
+  "本地植物图鉴手册": {
+   "category": "自然教育用品",
+   "variants": [
+    {
+     "label": "华东版·精装布面·180g铜版纸",
+     "prompt": "210×148mm精装本，靛蓝棉麻布封面烫金植物线描，内页180g超感铜版纸印刷，含286种华东原生植物高清生态照+手绘解剖图+二维码AR识别标记",
+     "file": "images/gear/492658e08d_0.png",
+     "thumb": "images/gear/thumbs/492658e08d_0.jpg"
+    },
+    {
+     "label": "西南版·防水软壳·120g哑粉纸",
+     "prompt": "180×120mm防水PU软壳册，封底带弹性卡槽与挂绳孔，内页120g哑粉纸双面覆哑膜，含312种西南高山/喀斯特植物野外实拍图+海拔分布曲线+拉丁名索引页",
+     "file": "images/gear/492658e08d_1.png",
+     "thumb": "images/gear/thumbs/492658e08d_1.jpg"
+    }
+   ]
+  },
+  "植物纤维模具": {
+   "category": "手作工具",
+   "variants": [
+    {
+     "label": "剑麻纤维·3D浮雕·Φ80mm",
+     "prompt": "食品级硅胶模具，深灰半透明，表面压印剑麻叶脉三维浮雕纹理，直径80mm，深度12mm，边缘带0.5mm倒角与定位凸点，背面刻‘PlantFiber-01’激光编号",
+     "file": "images/gear/50b5b4e9e9_0.png",
+     "thumb": "images/gear/thumbs/50b5b4e9e9_0.jpg"
+    },
+    {
+     "label": "玉米皮编织·镂空网格·120×80mm",
+     "prompt": "耐高温PP材质模具，浅棕本色，长方形120×80mm，表面为仿玉米皮经纬编织镂空结构（3mm孔径），四角带M4螺纹孔与防滑肋纹",
+     "file": "images/gear/50b5b4e9e9_1.png",
+     "thumb": "images/gear/thumbs/50b5b4e9e9_1.jpg"
+    }
+   ]
+  },
+  "榫卯建筑微缩件": {
+   "category": "文创教具",
+   "variants": [
+    {
+     "label": "榉木单体·斗拱组件·1:50",
+     "prompt": "德国榉木激光切割件，浅蜜色原木色，含7类斗拱标准构件（华栱/昂/耍头等），最小件厚2.5mm，端面激光刻1:50比例编号与《营造法式》简码，边缘精细倒圆",
+     "file": "images/gear/3a317c56cd_0.png",
+     "thumb": "images/gear/thumbs/3a317c56cd_0.jpg"
+    },
+    {
+     "label": "黑檀拼装·应县木塔·1:80",
+     "prompt": "非洲黑檀木微缩套件，深紫褐油润光泽，含应县木塔五层结构共42个榫卯部件，最细柱径1.2mm，所有卯眼内壁抛光，底座刻‘Yingxian Pagoda · 1056AD’阴文",
+     "file": "images/gear/3a317c56cd_1.png",
+     "thumb": "images/gear/thumbs/3a317c56cd_1.jpg"
+    }
+   ]
+  },
+  "水下4K潜拍舱": {
+   "category": "摄影器材",
+   "variants": [
+    {
+     "label": "GoPro专用·60m·透明PC",
+     "prompt": "光学级透明聚碳酸酯舱体，流线型水滴轮廓，正面双层AR镀膜平窗，侧面带橙色O形圈密封槽与不锈钢快拆旋钮，兼容GoPro Hero12，最大深度60米，重380g",
+     "file": "images/gear/7823dda000_0.png",
+     "thumb": "images/gear/thumbs/7823dda000_0.jpg"
+    },
+    {
+     "label": "全画幅专用·100m·钛合金",
+     "prompt": "TC4钛合金主体+蓝宝石观察窗，带双侧机械拨杆控制镜头环与ISO拨盘，背部OLED状态屏，100米IP68防护，预留NATO导轨与冷靴接口，表面喷砂哑光黑",
+     "file": "images/gear/7823dda000_1.png",
+     "thumb": "images/gear/thumbs/7823dda000_1.jpg"
+    }
+   ]
+  },
+  "温湿度智能培养箱": {
+   "category": "科研设备",
+   "variants": [
+    {
+     "label": "桌面型·35L·PID双控",
+     "prompt": "白色ABS工程塑料箱体，尺寸350×300×350mm，双层中空保温门带硅胶密封条，内置PT100传感器与Peltier半导体制冷片，触控屏显示实时曲线与历史数据",
+     "file": "images/gear/04f2f179a8_0.png",
+     "thumb": "images/gear/thumbs/04f2f179a8_0.jpg"
+    },
+    {
+     "label": "立式恒温·120L·CO₂联动",
+     "prompt": "304不锈钢立式箱体，高1200mm宽600mm深600mm，双层真空玻璃门，集成CO₂浓度传感器与红外加热管，顶部设USB-C数据接口与RS485工业总线端口",
+     "file": "images/gear/04f2f179a8_1.png",
+     "thumb": "images/gear/thumbs/04f2f179a8_1.jpg"
+    }
+   ]
+  },
+  "温湿度记录仪": {
+   "category": "环境监测设备",
+   "variants": [
+    {
+     "label": "微型贴片式·USB-C直读",
+     "prompt": "28×28×12mm黑色PCB基板外壳，表面蚀刻银灰数值屏，顶部USB-C直插接口，底部带3M VHB胶背与温度探针外接孔，侧面激光刻SN码与±0.5℃精度标",
+     "file": "images/gear/dc606a36b7_0.png",
+     "thumb": "images/gear/thumbs/dc606a36b7_0.jpg"
+    },
+    {
+     "label": "壁挂式·LoRa远传·IP65",
+     "prompt": "灰白ASA工程塑料外壳，120×80×45mm，带LCD段码屏与三色LED状态灯，背部金属安装板配M4螺丝孔，天线外露，防护等级IP65，支持LoRaWAN 868MHz频段",
+     "file": "images/gear/dc606a36b7_1.png",
+     "thumb": "images/gear/thumbs/dc606a36b7_1.jpg"
+    }
+   ]
+  },
+  "环境音收音阵列": {
+   "category": "音频设备",
+   "variants": [
+    {
+     "label": "四麦线性·USB-C供电",
+     "prompt": "哑光黑铝合金长条形阵列，180×25×12mm，前端线性排列4颗φ6mm全指向MEMS麦克风，表面激光蚀刻声压级刻度线，Type-C接口带LED供电指示灯",
+     "file": "images/gear/efa8027eab_0.png",
+     "thumb": "images/gear/thumbs/efa8027eab_0.jpg"
+    },
+    {
+     "label": "八麦球形·XLR+USB双模",
+     "prompt": "哑光白球形镁合金腔体，直径95mm，表面精密开孔覆盖8颗φ4mm低噪声麦克风，顶部XLR3母口+Type-C口并列，底部三脚架1/4''螺纹，带物理增益旋钮",
+     "file": "images/gear/efa8027eab_1.png",
+     "thumb": "images/gear/thumbs/efa8027eab_1.jpg"
+    }
+   ]
+  },
+  "生态监测APP": {
+   "category": "数字工具",
+   "variants": [
+    {
+     "label": "专业版·GIS离线地图",
+     "prompt": "深绿色渐变应用图标，中心为动态拓扑网络图叠加卫星地形轮廓，图标右下角带‘PRO’金属质感徽章，界面示意含多层植被覆盖热力图与物种密度折线",
+     "file": "images/gear/adbcb676e2_0.png",
+     "thumb": "images/gear/thumbs/adbcb676e2_0.jpg"
+    },
+    {
+     "label": "教育版·AR校园植物",
+     "prompt": "青柠色扁平化图标，中央为卡通化橡树剪影与浮动AR框线，图标底部带‘EDU’手写体标签，界面示意含手机取景框内叠加植物名称气泡与生长周期动画",
+     "file": "images/gear/adbcb676e2_1.png",
+     "thumb": "images/gear/thumbs/adbcb676e2_1.jpg"
+    }
+   ]
+  },
+  "竿尖微距云台": {
+   "category": "摄影器材",
+   "variants": [
+    {
+     "label": "碳纤快拆·承重1.2kg",
+     "prompt": "T700碳纤维主体，哑光黑磨砂纹理，球台直径42mm，快装板为铝合金带红色释放按钮，底部1/4''-20螺纹+磁吸辅助定位环，承重标刻于侧壁",
+     "file": "images/gear/a351897c64_0.png",
+     "thumb": "images/gear/thumbs/a351897c64_0.jpg"
+    },
+    {
+     "label": "铝镁合金·360°刻度",
+     "prompt": "阳极氧化深空灰铝镁合金云台，球体带激光蚀刻360°方位角刻度与±90°俯仰标尺，阻尼旋钮为橙色TPU包胶，快装板带双定位销与水平泡",
+     "file": "images/gear/a351897c64_1.png",
+     "thumb": "images/gear/thumbs/a351897c64_1.jpg"
+    }
+   ]
+  },
+  "脱水定型灯": {
+   "category": "手作工具",
+   "variants": [
+    {
+     "label": "UV-LED环形·365nm·Φ150mm",
+     "prompt": "白色ABS环形灯架，直径150mm，内圈均匀排布32颗365nm UV-LED，外圈带触摸式五档亮度调节环，底部配硅胶防滑垫与USB-C供电接口",
+     "file": "images/gear/2ab1a4dff7_0.png",
+     "thumb": "images/gear/thumbs/2ab1a4dff7_0.jpg"
+    },
+    {
+     "label": "红外定向·850W·可调焦",
+     "prompt": "工业级铸铝散热壳体，哑光黑喷漆，前端陶瓷反射碗配石英红外灯管，焦距调节旋钮位于右侧，功率数显屏嵌于顶部，背部带VESA 100mm安装孔",
+     "file": "images/gear/2ab1a4dff7_1.png",
+     "thumb": "images/gear/thumbs/2ab1a4dff7_1.jpg"
+    }
+   ]
+  },
+  "菌丝体培养基套件": {
+   "category": "生物实验耗材",
+   "variants": [
+    {
+     "label": "稻壳基·灭菌袋装·500g",
+     "prompt": "医用级PE灭菌袋封装，半透明磨砂质地，印蓝色生物安全标识与‘Sterile Mycelium Substrate’字样，袋内可见浅褐色稻壳颗粒与均匀菌丝白点，封口热压锯齿线",
+     "file": "images/gear/c0fb6eca7a_0.png",
+     "thumb": "images/gear/thumbs/c0fb6eca7a_0.jpg"
+    },
+    {
+     "label": "咖啡渣基·预制平板·10×10cm",
+     "prompt": "透明PET培养皿，直径10cm，内含已凝固深褐色咖啡渣琼脂基质，表面平整微反光，边缘标注‘Coffea Arabica Waste · pH6.2’激光蚀刻文字",
+     "file": "images/gear/c0fb6eca7a_1.png",
+     "thumb": "images/gear/thumbs/c0fb6eca7a_1.jpg"
+    }
+   ]
+  },
+  "认证课程进度磁吸板": {
+   "category": "教育办公用品",
+   "variants": [
+    {
+     "label": "白板磁吸·60×40cm·模块化",
+     "prompt": "白色烤漆钢板基底，60×40cm，表面蚀刻浅灰课程阶段网格（入门/进阶/认证），配套12枚彩色磁吸模块（红/蓝/绿/黄），每模块含凹刻图标与可擦写区域",
+     "file": "images/gear/a9984d287c_0.png",
+     "thumb": "images/gear/thumbs/a9984d287c_0.jpg"
+    },
+    {
+     "label": "软木磁吸·45×30cm·时间轴式",
+     "prompt": "天然软木贴面基板，45×30cm，纵向压印金色时间轴线（0–12周），配套24枚椭圆磁吸片（哑光黑+烫金周数），背面带钕铁硼强磁与防刮硅胶垫",
+     "file": "images/gear/a9984d287c_1.png",
+     "thumb": "images/gear/thumbs/a9984d287c_1.jpg"
+    }
+   ]
+  },
+  "语音克隆芯片模组": {
+   "category": "电子开发套件",
+   "variants": [
+    {
+     "label": "MiniPCIe·本地推理·2GB RAM",
+     "prompt": "黑色PCB模组，尺寸30×22mm，MiniPCIe金手指接口，表面贴装AI语音芯片与2GB LPDDR4内存，散热焊盘裸露，边缘印‘VoiceClone Edge v2.1’丝印",
+     "file": "images/gear/fb38bca33c_0.png",
+     "thumb": "images/gear/thumbs/fb38bca33c_0.jpg"
+    },
+    {
+     "label": "USB-C即插型·云端协同",
+     "prompt": "哑光灰铝合金外壳模组，45×28×12mm，Type-C直插接口，顶部状态LED（蓝/绿双色），侧面激光刻‘CloudSync Mode’与密钥二维码，底部导热硅胶贴",
+     "file": "images/gear/fb38bca33c_1.png",
+     "thumb": "images/gear/thumbs/fb38bca33c_1.jpg"
+    }
+   ]
+  },
+  "车载咖啡机": {
+   "category": "车载电器",
+   "variants": [
+    {
+     "label": "12V直流·胶囊式·350ml",
+     "prompt": "枪灰铝合金机身，圆柱形设计高210mm，顶部胶囊仓带磁吸卡扣与LED状态环，出液口为食品级硅胶软管，底部12V车载点烟器接口与防滑橡胶脚垫",
+     "file": "images/gear/7e2e213b3a_0.png",
+     "thumb": "images/gear/thumbs/7e2e213b3a_0.jpg"
+    },
+    {
+     "label": "24V双锅炉·意式·600ml",
+     "prompt": "不锈钢拉丝机身，双锅炉结构分上下层，压力表与温度旋钮外露，蒸汽喷嘴带黄铜镀层，侧面铭牌刻‘24V Truck Edition’与9Bar压力值",
+     "file": "images/gear/7e2e213b3a_1.png",
+     "thumb": "images/gear/thumbs/7e2e213b3a_1.jpg"
+    }
+   ]
+  },
+  "轻量化自行式房车": {
+   "category": "旅居装备",
+   "variants": [
+    {
+     "label": "铝蜂窝·4.2m·双拓展",
+     "prompt": "珍珠白铝蜂窝复合板车身，长4.2米，侧墙双液压拓展舱（各+0.45m），全景天窗带电控遮阳帘，前脸LED矩阵大灯与隐藏式进气格栅",
+     "file": "images/gear/5bf9a1ad04_0.png",
+     "thumb": "images/gear/thumbs/5bf9a1ad04_0.jpg"
+    },
+    {
+     "label": "碳纤顶·3.8m·垂直升降",
+     "prompt": "哑光炭黑碳纤维增强复合材料车顶，3.8米短轴底盘，顶升机构使居住区净高达2.1m，侧窗为双层Low-E玻璃，尾部集成折叠自行车架",
+     "file": "images/gear/5bf9a1ad04_1.png",
+     "thumb": "images/gear/thumbs/5bf9a1ad04_1.jpg"
+    }
+   ]
+  },
+  "非遗匠人手作证书": {
+   "category": "文化认证用品",
+   "variants": [
+    {
+     "label": "宣纸绢裱·A3竖版·钤印",
+     "prompt": "手工捞制红星宣纸基底，米白底色带帘纹，绢裱深褐绫边，中央烫金‘中国非物质文化遗产’篆章，右侧朱砂钤‘国家级传承人’印，左下角手写编号烫银",
+     "file": "images/gear/acffaec6cc_0.png",
+     "thumb": "images/gear/thumbs/acffaec6cc_0.jpg"
+    },
+    {
+     "label": "桑皮纸数码·A4横版·RFID",
+     "prompt": "安徽桑皮纸材质，暖杏色，A4横向排版，嵌入式RFID芯片位于右下角，表面UV局部光油突出‘古法造纸技艺’字样，边框为手绘蓝印花布纹样",
+     "file": "images/gear/acffaec6cc_1.png",
+     "thumb": "images/gear/thumbs/acffaec6cc_1.jpg"
+    }
+   ]
+  },
+  "非遗拓印套装": {
+   "category": "手作工具",
+   "variants": [
+    {
+     "label": "宣纸绢布双料·A4便携版",
+     "prompt": "一套非遗拓印工具：含3支天然棕刷（棕褐色刷毛、竹柄）、1块墨汁膏（黑褐色圆饼状、铝箔包装）、2张A4尺寸宣纸（米白微纹理）、1张A4尺寸素色绢布（浅象牙色、半透明质感），全部收纳于靛蓝棉麻束口布袋中，整体置于画面中央",
+     "file": "images/gear/fa6344dccf_0.png",
+     "thumb": "images/gear/thumbs/fa6344dccf_0.jpg"
+    },
+    {
+     "label": "金石全拓专业版·含碑帖复刻册",
+     "prompt": "一套高端非遗拓印工具：含5支分级鬃刷（灰白至深褐渐变刷毛、乌木柄）、3块矿物墨锭（青灰/玄黑/赭红三色长方体）、1本硬壳仿古碑帖复刻册（深棕布面烫金纹、内页含6种典型碑刻拓片范例），配黄铜调节式拓包（哑光铜色、绒布包覆），整体置于画面中央",
+     "file": "images/gear/fa6344dccf_1.png",
+     "thumb": "images/gear/thumbs/fa6344dccf_1.jpg"
+    }
+   ]
+  },
+  "高海拔体征监测手环": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "轻量续航款·45mm钛合金表盘",
+     "prompt": "高海拔专用体征监测手环：45mm圆形钛合金表盘（哑光银灰），超薄硅胶表带（深灰+橙色缝线），表盘右侧集成双通道血氧传感器（微凸黑色陶瓷环）和气压高度计开孔，屏幕显示海拔/SpO2/心率实时数值，表带内侧印有海拔梯度刻度标识",
+     "file": "images/gear/066e2a42d4_0.png",
+     "thumb": "images/gear/thumbs/066e2a42d4_0.jpg"
+    },
+    {
+     "label": "极寒加固款·52mm军用级外壳",
+     "prompt": "高海拔极寒环境体征监测手环：52mm加厚矩形军用级聚碳酸酯表壳（哑光沙色），宽幅防滑氟橡胶表带（炭黑+冰蓝反光条），表壳顶部嵌入三轴加速度计金属触点，底部设双模GPS天线窗（磨砂黑色玻璃），侧面有-30℃耐寒认证标贴和手动冻伤预警物理按键",
+     "file": "images/gear/066e2a42d4_1.png",
+     "thumb": "images/gear/thumbs/066e2a42d4_1.jpg"
+    }
+   ]
+  },
+  "鲁班锁套组": {
+   "category": "益智玩具",
+   "variants": [
+    {
+     "label": "入门六柱·榉木原色版",
+     "prompt": "鲁班锁入门套组：6件榉木材质标准六柱锁组件（浅蜜色、自然木纹、倒角光滑），每件刻有对应编号（1–6阿拉伯数字，激光浅刻），统一收纳于浅胡桃色松木抽屉盒（无漆裸木、榫卯结构盒体），盒盖内侧印基础解法图示",
+     "file": "images/gear/044cf6fac1_0.png",
+     "thumb": "images/gear/thumbs/044cf6fac1_0.jpg"
+    },
+    {
+     "label": "大师十二连·黑檀鎏金版",
+     "prompt": "鲁班锁高阶套组：12件精密黑檀木连环锁组件（深紫黑底色、金箔勾边纹样、0.1mm级公差咬合面），含3组不同难度机关（旋转/滑动/嵌套），配黄铜铭牌底座（蚀刻‘鲁班十二连’篆书）及磁吸式解构说明书册（哑光黑卡纸烫金页）",
+     "file": "images/gear/044cf6fac1_1.png",
+     "thumb": "images/gear/thumbs/044cf6fac1_1.jpg"
+    }
+   ]
+  },
+  "黄铜榫卯解构卡": {
+   "category": "文创教具",
+   "variants": [
+    {
+     "label": "单体榫卯·3cm标准卡",
+     "prompt": "黄铜榫卯解构教学卡：单张圆形黄铜卡（直径3cm、厚度1.2mm），正反面分别蚀刻直榫与燕尾榫结构线稿（精细0.05mm线条），边缘激光打标‘榫’‘卯’二字篆体，表面做哑光拉丝处理，中心预留挂绳孔（1.5mm通孔）",
+     "file": "images/gear/bc2e155608_0.png",
+     "thumb": "images/gear/thumbs/bc2e155608_0.jpg"
+    },
+    {
+     "label": "动态组装·8cm可旋卡组",
+     "prompt": "黄铜榫卯解构互动卡组：四张8cm直径黄铜圆卡（厚度2mm），通过中心铆钉串联成可360°旋转的同心圆结构；外圈卡蚀刻穿枋节点、中圈蚀刻斗栱组合、内圈蚀刻柱础构造、核心卡为可拆卸榫头模型（黄铜镀镍亮面），所有蚀刻线内填深绿釉料",
+     "file": "images/gear/bc2e155608_1.png",
+     "thumb": "images/gear/thumbs/bc2e155608_1.jpg"
     }
    ]
   }
