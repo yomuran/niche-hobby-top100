@@ -220,9 +220,10 @@
     <h1>小众爱好热度榜 · TOP 100</h1>
     <div class="subtitle">基于全网 50 次检索（小红书 / 抖音 / B站 / 微博 / 电商 / 行业报告），追踪近三年兴起的小众爱好，按热度与讨论声量排序。点击条目展开核心装备与热度依据。</div>
     <div class="meta-row">
-      <span>最近更新：<b id="updated-at">—</b></span>
+      <span>榜单更新：<b id="updated-at">—</b></span>
       <span>本轮检索：<b id="search-count">—</b> 次</span>
-      <span>下次更新：<b id="next-update">—</b></span>
+      <span>下次榜单检索：<b id="next-update">—</b></span>
+      <span>物件配图：<b id="gear-updated-at">加载中…</b></span>
     </div>
   </header>
 
@@ -263,14 +264,82 @@
 </div>
 <div class="lightbox" id="lightbox"><img id="lb-img" alt=""></div>
 
-<script src="data/hobbies.js?v=202606221103"></script>
-<script src="data/gear_images.js?v=202606221103"></script>
 <script>
-(function () {
+(async function () {
+  function loadScript(src) {
+    return new Promise((resolve, reject) => {
+      const el = document.createElement("script");
+      el.src = src;
+      el.onload = () => resolve();
+      el.onerror = () => reject(new Error("加载失败: " + src));
+      document.head.appendChild(el);
+    });
+  }
+
+  const bust = Date.now();
+  try {
+    await loadScript(`data/hobbies.js?t=${bust}`);
+    await loadScript(`data/gear_images.js?t=${bust + 1}`);
+  } catch (e) {
+    console.error(e);
+    document.getElementById("gear-updated-at").textContent = "数据加载失败，请刷新";
+    return;
+  }
+
   const DATA = window.HOBBY_DATA || { meta: {}, hobbies: [] };
+  let GEAR = (window.GEAR_IMAGES && window.GEAR_IMAGES.gear) || {};
+  let lastGearAt = (window.GEAR_IMAGES && window.GEAR_IMAGES.meta && window.GEAR_IMAGES.meta.updated_at) || "";
+
   const TOP_N = 100;
   const TREND_LABEL = { up: "↑ 上升", down: "↓ 回落", hot: "🔥 爆发", stable: "→ 平稳" };
   const TREND_ORDER = { hot: 0, up: 1, stable: 2, down: 3 };
+
+  function fmt(d) {
+    return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")} ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`;
+  }
+
+  function gearStats() {
+    let withImg = 0, total = 0;
+    for (const ent of Object.values(GEAR)) {
+      for (const v of (ent.variants || [])) {
+        total++;
+        if (v.file) withImg++;
+      }
+    }
+    return { withImg, total };
+  }
+
+  function updateGearMetaUI() {
+    const el = document.getElementById("gear-updated-at");
+    const m = (window.GEAR_IMAGES && window.GEAR_IMAGES.meta) || {};
+    if (!m.updated_at) {
+      el.textContent = "—";
+      return;
+    }
+    const st = gearStats();
+    const pending = st.total - st.withImg;
+    el.textContent = pending > 0
+      ? `${st.withImg}/${st.total} 已就绪（${pending} 张生成中，刷新可更新）`
+      : `${st.withImg}/${st.total} · ${fmt(new Date(m.updated_at))}`;
+  }
+
+  async function syncGearImages() {
+    try {
+      const r = await fetch(`data/gear_images.json?t=${Date.now()}`, { cache: "no-store" });
+      if (!r.ok) return false;
+      const remote = await r.json();
+      const remoteAt = remote.meta && remote.meta.updated_at;
+      if (!remoteAt || remoteAt === lastGearAt) return false;
+      await loadScript(`data/gear_images.js?t=${Date.now()}`);
+      GEAR = (window.GEAR_IMAGES && window.GEAR_IMAGES.gear) || {};
+      lastGearAt = remoteAt;
+      updateGearMetaUI();
+      render();
+      return true;
+    } catch (_) {
+      return false;
+    }
+  }
 
   // 全量按热度排序后截取 Top 100
   const all = [...DATA.hobbies].sort((a, b) => b.heat - a.heat).slice(0, TOP_N);
@@ -289,9 +358,6 @@
     document.getElementById("next-update").textContent = fmt(next);
   }
   document.getElementById("search-count").textContent = meta.search_count ?? "—";
-  function fmt(d) {
-    return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")} ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`;
-  }
 
   // ---- stats ----
   const cats = {};
@@ -386,7 +452,6 @@
   });
 
   // ===== 物件图片弹窗 =====
-  const GEAR = (window.GEAR_IMAGES && window.GEAR_IMAGES.gear) || {};
   const modal = document.getElementById("gear-modal");
   const lightbox = document.getElementById("lightbox");
   const lbImg = document.getElementById("lb-img");
@@ -412,8 +477,8 @@
 
     body.innerHTML = cards
       ? `<div class="variant-grid">${cards}</div>`
-      : `<div class="modal-pending">该物件的实物图将在下一次 24h 自动更新时生成<br>
-         （由 update_gear_images.py 以电商写实风补齐）</div>`;
+      : `<div class="modal-pending">该物件配图尚在 GPU 后台生成中<br>
+         请稍后刷新页面；已生成的物件会显示 📷 标记</div>`;
     modal.classList.add("show");
   }
 
@@ -428,7 +493,18 @@
     if (e.key === "Escape") { modal.classList.remove("show"); lightbox.classList.remove("show"); }
   });
 
+  updateGearMetaUI();
   render();
+
+  // 页面打开期间每 2 分钟检测一次远端是否有新配图（无需等明天）
+  setInterval(() => {
+    if (!document.hidden) syncGearImages();
+  }, 120000);
+
+  // 从后台切回标签页时立即检测
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) syncGearImages();
+  });
 })();
 </script>
 </body>
