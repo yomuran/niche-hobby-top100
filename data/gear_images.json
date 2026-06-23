@@ -1,7 +1,7 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-06-22T17:15:39+08:00"
+  "updated_at": "2026-06-23T19:50:49+08:00"
  },
  "gear": {
   "135/120胶卷": {
@@ -12212,12 +12212,14 @@
     {
      "label": "精装烫金版·210×297mm",
      "prompt": "硬壳精装书，深靛蓝布面封面，烫金标题文字，书脊凸起烫金标，内页为160g哑光铜版纸，尺寸210×297mm，平装切口整齐，书角微圆润",
-     "file": null
+     "file": "images/gear/ba38113148_0.png",
+     "thumb": "images/gear/thumbs/ba38113148_0.jpg"
     },
     {
      "label": "便携螺旋本·105×148mm",
      "prompt": "A6尺寸螺旋装订手册，灰白渐变软质PU封面，银色金属螺旋环，内页80g米黄胶版纸，带页码索引与分栏提示图标，厚度约1.2cm",
-     "file": null
+     "file": "images/gear/ba38113148_1.png",
+     "thumb": "images/gear/thumbs/ba38113148_1.jpg"
     }
    ]
   },
@@ -12227,12 +12229,14 @@
     {
      "label": "轻量镜框款·128g/光学玻璃镜片",
      "prompt": "钛合金镜腿+TR90前框的AR眼镜，哑光石墨黑配浅灰镜片，镜腿内侧激光蚀刻型号，鼻托为硅胶软垫，整机重量128g，镜片为镀膜光学玻璃，边缘微弧无边框设计",
-     "file": null
+     "file": "images/gear/89234803cb_0.png",
+     "thumb": "images/gear/thumbs/89234803cb_0.jpg"
     },
     {
      "label": "头戴投影款·含可调头带/FOV60°",
      "prompt": "白色半透明PC材质头戴式AR设备，前置双目微型投影模组，顶部可伸缩织物头带带魔术贴调节扣，两侧散热格栅清晰，底部Type-C接口与电源键明确可见，FOV标注60°刻印于右镜臂",
-     "file": null
+     "file": "images/gear/89234803cb_1.png",
+     "thumb": "images/gear/thumbs/89234803cb_1.jpg"
     }
    ]
   },
@@ -12242,12 +12246,14 @@
     {
      "label": "PET覆哑膜·300×210mm/300张",
      "prompt": "300张矩形PET基材卡，单张尺寸300×210mm，表面覆哑光防刮膜，边缘精密裁切无毛刺，浅雾灰底色，四角圆角R2mm，堆叠整齐呈方垛状，侧面可见厚度0.25mm标线",
-     "file": null
+     "file": "images/gear/d7e9df9823_0.png",
+     "thumb": "images/gear/thumbs/d7e9df9823_0.jpg"
     },
     {
      "label": "可撕背胶款·100×100mm/500张",
      "prompt": "方形白底可撕背胶AR识别卡，单张100×100mm，正面哑光涂层，背面为蓝色离型纸+微粘丙烯酸胶层，四边直角，每张独立模切，堆叠成5cm高方垛，顶部露出胶面微反光层",
-     "file": null
+     "file": "images/gear/d7e9df9823_1.png",
+     "thumb": "images/gear/thumbs/d7e9df9823_1.jpg"
     }
    ]
   },
@@ -12257,12 +12263,14 @@
     {
      "label": "iOS专业版·含离线声纹库",
      "prompt": "iPhone 15 Pro屏幕特写显示BirdNET App主界面，深空灰主题UI，顶部显示‘Offline Bird ID Active’状态栏，下方为波形图+物种置信度百分比，右下角悬浮麦克风按钮泛蓝光，屏幕边缘有细微倒角反光",
-     "file": null
+     "file": "images/gear/fa81fd9ff2_0.png",
+     "thumb": "images/gear/thumbs/fa81fd9ff2_0.jpg"
     },
     {
      "label": "Android教育版·校园授权包",
      "prompt": "Pixel 8屏幕展示BirdNET教育版界面，蓝白校徽水印浮于左上角，主界面含‘Classroom Mode’开关、学生ID输入框及批次录音管理列表，底部导航栏带书本图标，状态栏显示‘School License Active’",
-     "file": null
+     "file": "images/gear/fa81fd9ff2_1.png",
+     "thumb": "images/gear/thumbs/fa81fd9ff2_1.jpg"
     }
    ]
   },
@@ -12272,12 +12280,14 @@
     {
      "label": "柔性FPC版·13.56MHz/0.3mm厚",
      "prompt": "超薄柔性印刷电路NFC贴片，尺寸25×25mm，亮银色天线蚀刻图案呈同心方环，基材为透明聚酰亚胺薄膜，厚度0.3mm，边缘带定位十字标记，背面预涂灰色压敏胶层并覆离型膜",
-     "file": null
+     "file": "images/gear/cf74ba0c05_0.png",
+     "thumb": "images/gear/thumbs/cf74ba0c05_0.jpg"
     },
     {
      "label": "环氧封装款·IP67/直径18mm",
      "prompt": "圆形黑色环氧树脂封装NFC模块，直径18mm，表面平整哑光，中心嵌入银色圆形天线，底部焊盘为镀金圆形触点（3个），侧面激光刻印‘NTAG215’与‘IP67’认证标识，边缘无毛刺",
-     "file": null
+     "file": "images/gear/cf74ba0c05_1.png",
+     "thumb": "images/gear/thumbs/cf74ba0c05_1.jpg"
     }
    ]
   },
@@ -12287,12 +12297,14 @@
     {
      "label": "WebGL专用·含LZ4压缩",
      "prompt": "MacBook Pro屏幕显示Unity Package Manager中‘WebGL Export Pro’插件详情页，界面含版本号v4.2.1、LZ4压缩开关控件、构建体积预估图表，插件图标为蓝白像素风地球+箭头符号，右下角显示‘Verified for Unity 2022.3 LTS’",
-     "file": null
+     "file": "images/gear/16036ea663_0.png",
+     "thumb": "images/gear/thumbs/16036ea663_0.jpg"
     },
     {
      "label": "XR多平台版·支持Meta Quest/SteamVR",
      "prompt": "Windows编辑器窗口展示XR Export Suite插件面板，左侧树状设备列表含Quest3/SteamVR/Vive Focus图标，中央为‘Cross-Platform Build Pipeline’流程图，右上角浮动许可证状态‘Enterprise Tier Active’，图标为立体VR眼镜+齿轮组合",
-     "file": null
+     "file": "images/gear/16036ea663_1.png",
+     "thumb": "images/gear/thumbs/16036ea663_1.jpg"
     }
    ]
   },
@@ -12302,12 +12314,14 @@
     {
      "label": "家用折叠款·长185cm/阻力磁控",
      "prompt": "深灰金属框架VR划船机，铝合金滑轨+PU包裹座椅，磁控阻力旋钮位于右侧立柱，折叠铰链处有红色安全锁扣，主机屏为10.1英寸竖屏，显示实时划频与虚拟河道，整体长185cm，底座带静音橡胶脚垫",
-     "file": null
+     "file": "images/gear/c8622a529a_0.png",
+     "thumb": "images/gear/thumbs/c8622a529a_0.jpg"
     },
     {
      "label": "商用直驱款·双电机/120kg承重",
      "prompt": "商用级VR划船机，哑光黑碳纤维外观，双直驱伺服电机外露于滑轨两端，顶部横梁集成双目VR摄像头与环境光传感器，承重铭牌标‘120kg Max’，底座加宽至65cm带万向锁定轮，右侧有紧急制动拉杆",
-     "file": null
+     "file": "images/gear/c8622a529a_1.png",
+     "thumb": "images/gear/thumbs/c8622a529a_1.jpg"
     }
    ]
   },
@@ -12317,12 +12331,14 @@
     {
      "label": "宽幅比色本·pH1-14/120页",
      "prompt": "硬壳线装记录本，深绿帆布封面，烫银‘pH & Flavor Log’字样，内含120页米黄道林纸，每页顶部印pH1-14标准比色条（宽15mm），右侧留白风味描述区带咖啡渍纹理底纹，附赠100条宽幅pH试纸（50×5mm）置于封底插袋",
-     "file": null
+     "file": "images/gear/008bc7dd4c_0.png",
+     "thumb": "images/gear/thumbs/008bc7dd4c_0.jpg"
     },
     {
      "label": "速记卡片组·pH4-8/50张/防水PP",
      "prompt": "50张独立防水PP材质卡片，每张89×57mm，正面印pH4-8五段比色块（每段宽8mm）与对应风味关键词（如‘青涩’‘圆润’），背面为网格速记区，圆角R3mm，卡片边缘微磨砂，捆扎带为可降解麻绳",
-     "file": null
+     "file": "images/gear/008bc7dd4c_1.png",
+     "thumb": "images/gear/thumbs/008bc7dd4c_1.jpg"
     }
    ]
   },
@@ -12332,12 +12348,14 @@
     {
      "label": "杉木三层款·高120cm/榫卯结构",
      "prompt": "整块云南杉木制作晒架，高120cm，三层水平竹编托盘（每层45×60cm），榫卯连接无金属件，木纹清晰带天然节疤，表面涂食用级桐油呈暖琥珀色，底层横撑刻‘滇西手作’阴文",
-     "file": null
+     "file": "images/gear/f6378b32f6_0.png",
+     "thumb": "images/gear/thumbs/f6378b32f6_0.jpg"
     },
     {
      "label": "可叠放竹编款·单层Ø60cm/便携提手",
      "prompt": "单层圆形竹编晒架，直径60cm，细竹丝密编（间隙≤2mm），外圈为整根柔韧毛竹热弯成型，顶部嵌入两个编织提手，底部三足矮脚带橡胶防滑垫，整体呈浅褐竹本色，边缘打磨光滑无毛刺",
-     "file": null
+     "file": "images/gear/f6378b32f6_1.png",
+     "thumb": "images/gear/thumbs/f6378b32f6_1.jpg"
     }
    ]
   },
@@ -12347,12 +12365,14 @@
     {
      "label": "医用级声光款·精度±0.01s/背光屏",
      "prompt": "白色ABS外壳计时器，128×64像素OLED屏带绿色背光，显示‘SUPINE TEST’与倒计时数字，两侧设红色启动/黄色暂停物理按键，底部有硅胶吸盘与磁吸背板，侧面刻‘ISO 13485 Certified’",
-     "file": null
+     "file": "images/gear/3c93ab5f03_0.png",
+     "thumb": "images/gear/thumbs/3c93ab5f03_0.jpg"
     },
     {
      "label": "教学无线款·蓝牙5.3/配套APP",
      "prompt": "圆角矩形计时器，雾面灰配橙色功能键，正面仅设一枚中央触控键与环形呼吸灯，顶部隐藏式USB-C充电口，背面为金属磁吸片+可拆卸腕带，侧面激光刻印‘EDU Edition’与蓝牙图标",
-     "file": null
+     "file": "images/gear/3c93ab5f03_1.png",
+     "thumb": "images/gear/thumbs/3c93ab5f03_1.jpg"
     }
    ]
   },
@@ -12362,12 +12382,14 @@
     {
      "label": "会议旗舰款·6麦克风阵列/32GB",
      "prompt": "枪灰色铝合金录音笔，长112mm，正面六颗环形排列MEMS麦克风开孔（直径2mm），顶部物理录音键带红光指示，底部Type-C与3.5mm双接口，机身侧面刻容量‘32GB Built-in’与‘6-Mic Array’标识",
-     "file": null
+     "file": "images/gear/17e316bbee_0.png",
+     "thumb": "images/gear/thumbs/17e316bbee_0.jpg"
     },
     {
      "label": "学生轻量款·磁吸挂颈/8GB",
      "prompt": "鹅卵石造型录音笔，柔光白硅胶外壳，顶部内置NFC标签区，底部磁吸接口可吸附于衣领，侧面仅一个触控键与电量指示灯，尺寸58×22×16mm，背面激光蚀刻‘Student Mode’字样",
-     "file": null
+     "file": "images/gear/17e316bbee_1.png",
+     "thumb": "images/gear/thumbs/17e316bbee_1.jpg"
     }
    ]
   },
@@ -12377,12 +12399,14 @@
     {
      "label": "TCG专业版·支持MTG/YGO规则库",
      "prompt": "Adobe Photoshop插件面板截图，深蓝UI界面含‘MTG Power Word’与‘YGO Effect Parser’双标签页，左侧为卡牌类型下拉菜单（Creature/Sorcery等），右侧实时生成区显示带斜体/粗体格式的魔法卡文本，底部状态栏显示‘Rules DB v3.7 Loaded’",
-     "file": null
+     "file": "images/gear/b6bcc9d595_0.png",
+     "thumb": "images/gear/thumbs/b6bcc9d595_0.jpg"
     },
     {
      "label": "桌游快启版·中文模板库/一键导出PDF",
      "prompt": "Figma插件弹窗界面，浅灰背景，中央为‘D&D 5e’与‘COC7th’双模板切换按钮，下方输入框预填‘火焰蜥蜴人战士’，右侧生成区显示带边框/图标占位符的卡面排版，右下角‘Export as PDF’按钮泛微光",
-     "file": null
+     "file": "images/gear/b6bcc9d595_1.png",
+     "thumb": "images/gear/thumbs/b6bcc9d595_1.jpg"
     }
    ]
   },
@@ -12392,12 +12416,14 @@
     {
      "label": "台式双腔款·30cm封口/干湿分离",
      "prompt": "不锈钢台式真空封口机，双平行封口槽（各长30cm），左侧干区带抽气嘴，右侧湿区带液体防溢阀，控制面板为蓝光LCD屏与四个物理按键，机身侧面标‘Wet/Dry Dual Mode’铭牌，进袋口有硅胶导引唇边",
-     "file": null
+     "file": "images/gear/4f9e164e5d_0.png",
+     "thumb": "images/gear/thumbs/4f9e164e5d_0.jpg"
     },
     {
      "label": "手持脉冲款·锂电池/15cm封口",
      "prompt": "手持式真空封口机，枪形人体工学设计，主体为深空灰磨砂PC+TPU握把，前端15cm加热封口条外露，顶部LED电量环显，底部USB-C充电口带防水塞，侧面激光刻‘Pulse Seal Tech’与‘1200mAh’",
-     "file": null
+     "file": "images/gear/4f9e164e5d_1.png",
+     "thumb": "images/gear/thumbs/4f9e164e5d_1.jpg"
     }
    ]
   },
@@ -12407,12 +12433,14 @@
     {
      "label": "动漫Q版款·6表情/食品级硅胶",
      "prompt": "六片独立包装硅胶面片，每片直径85mm，Q版风格：笑脸/眨眼/吐舌/惊讶/害羞/困倦，食品级透明硅胶材质，厚度1.2mm，边缘精细模切无毛边，背面带微粘性凝胶层，包装为可回收PET透明盒",
-     "file": null
+     "file": "images/gear/a1c89e4382_0.png",
+     "thumb": "images/gear/thumbs/a1c89e4382_0.jpg"
     },
     {
      "label": "写实微动款·3表情/记忆硅胶",
      "prompt": "三片高仿真硅胶面片，每片92×78mm椭圆，写实系：沉思/质疑/疲惫，采用记忆硅胶材质表面有细微皮纹，厚度1.8mm，可随面部肌肉微变形，背面为医用级丙烯酸胶+离型纸，边缘做0.3mm倒角",
-     "file": null
+     "file": "images/gear/a1c89e4382_1.png",
+     "thumb": "images/gear/thumbs/a1c89e4382_1.jpg"
     }
    ]
   },
@@ -12422,12 +12450,14 @@
     {
      "label": "桌面共振款·20-200Hz/木质腔体",
      "prompt": "胡桃木纹理共振底座，长220mm×宽160mm×高45mm，顶部嵌入哑光黑振膜单元，四周实木侧板带声学扩散孔，底部四角为可调高度橡胶脚钉，侧面接口为金色RCA输入与旋钮式频率调节器",
-     "file": null
+     "file": "images/gear/734c33adb0_0.png",
+     "thumb": "images/gear/thumbs/734c33adb0_0.jpg"
     },
     {
      "label": "便携磁吸款·TWS耳机专用/USB-C供电",
      "prompt": "圆角矩形磁吸底座，深空灰阳极氧化铝外壳，上表面嵌入环形磁吸区（直径38mm）与环形LED呼吸灯，左侧USB-C供电口带蓝色指示灯，厚度仅12mm，底部防滑硅胶垫印‘TWS Vibe Sync’字样",
-     "file": null
+     "file": "images/gear/734c33adb0_1.png",
+     "thumb": "images/gear/thumbs/734c33adb0_1.jpg"
     }
    ]
   },
@@ -12437,12 +12467,14 @@
     {
      "label": "工程版·实时FFT/48kHz采样",
      "prompt": "iPad Pro屏幕显示声谱分析APP主界面，深色模式，顶部为48kHz采样率标识与‘Real-time FFT’标签，中央瀑布图呈现连续频谱色块，X轴时间轴，Y轴0–24kHz对数刻度，右下角悬浮‘Peak Hold’开关按钮",
-     "file": null
+     "file": "images/gear/107932a792_0.png",
+     "thumb": "images/gear/thumbs/107932a792_0.jpg"
     },
     {
      "label": "教育简版·语音频段标注/中文引导",
      "prompt": "Android平板界面，浅蓝主色调，中央为卡通化声谱图（人声频段高亮标‘200–3000Hz’），左侧语音输入按钮带声波动画，底部三个教学卡片：‘元音共振峰’‘辅音爆破点’‘语调曲线’，右上角‘Learn Mode’徽章发光",
-     "file": null
+     "file": "images/gear/107932a792_1.png",
+     "thumb": "images/gear/thumbs/107932a792_1.jpg"
     }
    ]
   },
@@ -12452,12 +12484,14 @@
     {
      "label": "声波浮雕款·封面压印声纹图",
      "prompt": "硬壳手账本，深海蓝仿皮革封面，中央以浮雕工艺压印用户专属声纹图形（连续起伏波形，高度0.3mm），烫金‘Your Voice, Your Story’字样，书脊圆弧过渡，内页为100g米白道林纸，带声纹坐标参考线",
-     "file": null
+     "file": "images/gear/d4c2665cad_0.png",
+     "thumb": "images/gear/thumbs/d4c2665cad_0.jpg"
     },
     {
      "label": "音频二维码款·每页嵌NFC芯片",
      "prompt": "A5尺寸手账本，浅灰棉布封面，右下角嵌入圆形黑色NFC芯片（直径8mm），表面覆透明耐磨层，打开后每页右上角印微型二维码（12×12mm），页面空白处有淡灰声波底纹，封底注明‘Tap to Play Audio’",
-     "file": null
+     "file": "images/gear/d4c2665cad_1.png",
+     "thumb": "images/gear/thumbs/d4c2665cad_1.jpg"
     }
    ]
   },
@@ -12467,12 +12501,14 @@
     {
      "label": "枪式超心款·25cm/±1dB频响",
      "prompt": "黑色枪式麦克风，长25cm，金属网罩为精密蚀刻超心形指向结构，顶端红色LED录音指示灯，底部XLR公头带橡胶护套，侧面刻‘Super-Cardioid’与‘20Hz–20kHz ±1dB’参数，握持段为防滑橡胶包覆",
-     "file": null
+     "file": "images/gear/1335e114d2_0.png",
+     "thumb": "images/gear/thumbs/1335e114d2_0.jpg"
     },
     {
      "label": "领夹全向款·3mm/蓝牙5.2",
      "prompt": "微型领夹麦克风，直径3mm圆形金属腔体，哑光镍色，顶部拾音孔为激光钻孔阵列（16孔），底部柔性线缆带USB-C转接头，线长120cm，线身印‘Bluetooth 5.2 LE’与‘Omni-360°’标识",
-     "file": null
+     "file": "images/gear/1335e114d2_1.png",
+     "thumb": "images/gear/thumbs/1335e114d2_1.jpg"
     }
    ]
   },
@@ -12482,12 +12518,14 @@
     {
      "label": "科研监测款·ECG+肌电/医疗认证",
      "prompt": "黑色医用级TPU手环，宽22mm，正面嵌入曲面AMOLED屏（1.2英寸），显示实时ECG波形与肌电振幅数值，两侧各3个不锈钢电极触点，背部四颗生物传感器凸起，侧面刻‘FDA Cleared’与‘EMG/ECG Dual’",
-     "file": null
+     "file": "images/gear/d3761a531b_0.png",
+     "thumb": "images/gear/thumbs/d3761a531b_0.jpg"
     },
     {
      "label": "创客DIY款·可编程LED/Arduino兼容",
      "prompt": "半透明灰蓝硅胶手环，宽20mm，正面为16×8可编程RGB LED矩阵，顶部Micro-USB接口带防水盖，底部两排金手指扩展槽（2×7pin），内侧印‘Arduino IDE Ready’与‘I²C/SPI’接口标识",
-     "file": null
+     "file": "images/gear/d3761a531b_1.png",
+     "thumb": "images/gear/thumbs/d3761a531b_1.jpg"
     }
    ]
   },
@@ -12497,12 +12535,898 @@
     {
      "label": "社区配送款·22L/相变蓄冷板",
      "prompt": "白色PP共挤冷链箱，容量22L，尺寸380×280×260mm，箱盖内嵌蓝色相变蓄冷板（2cm厚），箱体侧面印‘XiaoXiang Fresh’大象LOGO与‘72h Cold Lock’图标，底部四角加固肋条，提手为加宽PP一体成型",
-     "file": null
+     "file": "images/gear/c6160396ed_0.png",
+     "thumb": "images/gear/thumbs/c6160396ed_0.jpg"
     },
     {
      "label": "门店补货款·65L/双温区/USB温控",
      "prompt": "灰白双色冷链周转箱，65L容量，尺寸580×420×360mm，箱体中部横向隔板分双温区（上层4℃/下层-18℃），顶部嵌入LCD温控屏与USB-C温控接口，四角万向轮带刹车，侧面标‘Dual-Zone Pro’与‘-18℃ to +4℃’范围",
-     "file": null
+     "file": "images/gear/c6160396ed_1.png",
+     "thumb": "images/gear/thumbs/c6160396ed_1.jpg"
+    }
+   ]
+  },
+  "HYROX标准计时腰带": {
+   "category": "运动装备",
+   "variants": [
+    {
+     "label": "竞技黑灰款·45mm宽×120cm长",
+     "prompt": "黑色高弹力尼龙编织腰带，45mm宽度，120cm长度，中央嵌入哑光银色HYROX官方认证电子计时模块，模块表面有凸起数字显示区与双侧触控按键，边缘缝线为荧光橙色，扣具为金属快拆插扣",
+     "file": "images/gear/9dc104d275_0.png",
+     "thumb": "images/gear/thumbs/9dc104d275_0.jpg"
+    },
+    {
+     "label": "训练荧光款·38mm宽×110cm长",
+     "prompt": "亮黄色与深灰双色拼接尼龙腰带，38mm宽度，110cm长度，无计时模块，仅在右侧织标处印有HYROX镂空logo，采用轻量钩环式塑料扣，背面有透气网布衬里",
+     "file": "images/gear/9dc104d275_1.png",
+     "thumb": "images/gear/thumbs/9dc104d275_1.jpg"
+    }
+   ]
+  },
+  "便携冷泡壶": {
+   "category": "厨房用品",
+   "variants": [
+    {
+     "label": "玻璃双层真空·500ml",
+     "prompt": "双层高硼硅玻璃冷泡壶，500ml容量，外层磨砂透明，内层光滑透亮，不锈钢螺旋盖带硅胶密封圈，壶身中部印浅灰极简刻度线，配可拆卸茶隔滤网",
+     "file": "images/gear/3bdd527379_0.png",
+     "thumb": "images/gear/thumbs/3bdd527379_0.jpg"
+    },
+    {
+     "label": "食品级PP单层·750ml折叠款",
+     "prompt": "浅蓝色食品级聚丙烯（PP）冷泡壶，750ml容量，壶身可纵向三段式折叠压缩至原高1/3，展开后呈圆柱形，带硅胶防滑底座与一体式茶隔，壶盖为按压式单向排气阀设计",
+     "file": "images/gear/3bdd527379_1.png",
+     "thumb": "images/gear/thumbs/3bdd527379_1.jpg"
+    }
+   ]
+  },
+  "便携显微镜贴片": {
+   "category": "科学工具",
+   "variants": [
+    {
+     "label": "60x光学贴片·金属边框",
+     "prompt": "圆形金属边框显微镜贴片，直径28mm，中心为60倍光学玻璃透镜，边缘蚀刻‘60X’标识，背面带3M微吸式可重复粘胶层，整体呈哑光银灰色",
+     "file": "images/gear/e789a7c351_0.png",
+     "thumb": "images/gear/thumbs/e789a7c351_0.jpg"
+    },
+    {
+     "label": "100xLED补光款·磁吸底座",
+     "prompt": "方形铝合金贴片显微镜，100倍放大，内置环形白光LED灯（USB-C供电），底部集成钕磁铁阵列，正面透镜周围有柔光扩散环，外壳为深空灰阳极氧化处理",
+     "file": "images/gear/e789a7c351_1.png",
+     "thumb": "images/gear/thumbs/e789a7c351_1.jpg"
+    }
+   ]
+  },
+  "便携竹剪": {
+   "category": "园艺工具",
+   "variants": [
+    {
+     "label": "青篾直刃·8cm单手剪",
+     "prompt": "整根毛竹削制青篾竹剪，8cm全长，直刃单手握持结构，刃口经碳化硬化处理呈深褐色，手柄缠绕天然麻绳，尾端留竹节作防滑凸点",
+     "file": "images/gear/647eedeba4_0.png",
+     "thumb": "images/gear/thumbs/647eedeba4_0.jpg"
+    },
+    {
+     "label": "金丝楠曲刃·12cm双指剪",
+     "prompt": "金丝楠木柄曲刃竹剪，12cm全长，双指按压式开合机构，刃口为不锈钢镶嵌弧形刀锋，手柄雕刻云纹，木质部分呈现金丝状纹理与琥珀色光泽",
+     "file": "images/gear/647eedeba4_1.png",
+     "thumb": "images/gear/thumbs/647eedeba4_1.jpg"
+    }
+   ]
+  },
+  "划船机": {
+   "category": "健身器材",
+   "variants": [
+    {
+     "label": "水阻静音款·195cm折叠",
+     "prompt": "深海军蓝水阻划船机，主体为强化ABS+铝合金框架，195cm展开长度，水箱透明亚克力材质可见桨叶旋转，座椅滑轨带静音滚轮，可折叠至95cm收纳状态",
+     "file": "images/gear/cf2e53fbee_0.png",
+     "thumb": "images/gear/thumbs/cf2e53fbee_0.jpg"
+    },
+    {
+     "label": "风阻竞技款·210cm固定架",
+     "prompt": "哑光黑风阻划船机，210cm全长不可折叠，碳纤维增强尼龙风轮罩，LCD屏集成心率/功率/距离实时数据，脚踏板带可调绑带与橡胶防滑纹",
+     "file": "images/gear/cf2e53fbee_1.png",
+     "thumb": "images/gear/thumbs/cf2e53fbee_1.jpg"
+    }
+   ]
+  },
+  "壶铃": {
+   "category": "健身器材",
+   "variants": [
+    {
+     "label": "铸铁喷塑·16kg标准球颈",
+     "prompt": "哑光黑环氧树脂喷塑铸铁壶铃，16kg，标准球颈设计（颈径35mm），底部平整带防滑环，顶部铸有凸起‘16KG’与品牌logo，重心居中",
+     "file": "images/gear/687e3242dd_0.png",
+     "thumb": "images/gear/thumbs/687e3242dd_0.jpg"
+    },
+    {
+     "label": "生铁裸锤·24kg宽颈竞技款",
+     "prompt": "未喷漆生铁壶铃，24kg，宽颈设计（颈径42mm），表面保留铸造砂纹与轻微氧化斑，颈部加厚便于抓握，底部无防滑环，整体呈铁锈红褐色",
+     "file": "images/gear/687e3242dd_1.png",
+     "thumb": "images/gear/thumbs/687e3242dd_1.jpg"
+    }
+   ]
+  },
+  "孢子印采集纸": {
+   "category": "自然科普工具",
+   "variants": [
+    {
+     "label": "无酸棉纸·A4双色版",
+     "prompt": "A4尺寸无酸棉浆纸，一面为纯白，另一面为深靛蓝，纸张厚度180gsm，边缘微毛边，四角印浅灰坐标网格线，附激光切割定位孔",
+     "file": "images/gear/2a9ec6697b_0.png",
+     "thumb": "images/gear/thumbs/2a9ec6697b_0.jpg"
+    },
+    {
+     "label": "热敏显影纸·10×10cm单片装",
+     "prompt": "10×10cm热敏涂层采集纸，白色基底，受孢子酶解后自动显棕褐色印痕，单片独立铝箔真空包装，纸背印微型批次编号与保质期",
+     "file": "images/gear/2a9ec6697b_1.png",
+     "thumb": "images/gear/thumbs/2a9ec6697b_1.jpg"
+    }
+   ]
+  },
+  "宋锦迷你褙子": {
+   "category": "传统服饰",
+   "variants": [
+    {
+     "label": "真丝宋锦·38cm短褙子",
+     "prompt": "宋锦真丝面料迷你褙子，衣长38cm，交领右衽，袖宽22cm，底摆微弧，暗纹为‘万字不到头’与折枝梅组合，领缘与袖缘镶0.8cm素缎窄边",
+     "file": "images/gear/c6066bf868_0.png",
+     "thumb": "images/gear/thumbs/c6066bf868_0.jpg"
+    },
+    {
+     "label": "桑蚕丝混纺·45cm改良褙子",
+     "prompt": "桑蚕丝与天丝混纺宋锦风格褙子，衣长45cm，立领对襟，前片缀三枚盘扣（铜鎏金云纹），下摆两侧开衩，主纹样为简化‘八达晕’几何纹，底色为月白",
+     "file": "images/gear/c6066bf868_1.png",
+     "thumb": "images/gear/thumbs/c6066bf868_1.jpg"
+    }
+   ]
+  },
+  "定制盘扣": {
+   "category": "手作辅料",
+   "variants": [
+    {
+     "label": "真丝绒面·1.2cm直角扣",
+     "prompt": "1.2cm宽真丝绒布盘扣，直角造型，扣身饱满立体，表面丝绒短绒细腻，扣头为黄铜镀金圆珠，背面缝线为同色真丝线手工钉固",
+     "file": "images/gear/91aa906c75_0.png",
+     "thumb": "images/gear/thumbs/91aa906c75_0.jpg"
+    },
+    {
+     "label": "非遗缂丝·2.0cm蝴蝶扣",
+     "prompt": "2.0cm宽缂丝工艺盘扣，蝴蝶造型，以孔雀蓝与朱砂红缂丝线织出翅脉细节，翅尖嵌0.5mm天然淡水珍珠，背面为桑蚕丝衬布加固",
+     "file": "images/gear/91aa906c75_1.png",
+     "thumb": "images/gear/thumbs/91aa906c75_1.jpg"
+    }
+   ]
+  },
+  "山泉水质检测笔": {
+   "category": "户外检测工具",
+   "variants": [
+    {
+     "label": "TDS+pH二合一·IP67防水",
+     "prompt": "枪型水质检测笔，灰黑双色工程塑料机身，LCD屏显示TDS（0–999ppm）与pH（0.0–14.0），探头为316不锈钢+玻璃电极复合头，尾部挂绳孔带硅胶塞",
+     "file": "images/gear/3e0f65b7e5_0.png",
+     "thumb": "images/gear/thumbs/3e0f65b7e5_0.jpg"
+    },
+    {
+     "label": "五参数全检款·蓝牙版",
+     "prompt": "圆柱形五参数水质笔，哑光白ABS外壳，顶部环形LED指示灯（蓝/绿/红三色），检测参数含TDS、pH、EC、温度、ORP，底部Type-C接口，侧面激光蚀刻‘5in1’标识",
+     "file": "images/gear/3e0f65b7e5_1.png",
+     "thumb": "images/gear/thumbs/3e0f65b7e5_1.jpg"
+    }
+   ]
+  },
+  "山野湿度记录仪": {
+   "category": "环境监测设备",
+   "variants": [
+    {
+     "label": "纸感墨水屏·7天续航",
+     "prompt": "类宣纸质感墨水屏记录仪，6cm×4cm矩形机身，屏幕显示实时湿度曲线与最大/最小值，外壳为再生竹纤维复合材料，顶部有隐藏式温湿度传感器开孔",
+     "file": "images/gear/de9d9922c6_0.png",
+     "thumb": "images/gear/thumbs/de9d9922c6_0.jpg"
+    },
+    {
+     "label": "太阳能供电·30天存储",
+     "prompt": "圆角方盒形湿度记录仪，深橄榄绿PC+ABS外壳，顶部嵌入1.2cm×1.2cm单晶硅太阳能板，侧面microSD卡槽，屏幕为0.96寸OLED，底部磁吸底座",
+     "file": "images/gear/de9d9922c6_1.png",
+     "thumb": "images/gear/thumbs/de9d9922c6_1.jpg"
+    }
+   ]
+  },
+  "山野香囊布料": {
+   "category": "手作材料",
+   "variants": [
+    {
+     "label": "植物染苎麻·30cm×40cm",
+     "prompt": "30cm×40cm植物染苎麻布，底色为栀子黄，印有靛蓝手绘蕨类纹样，布边保留原始脱胶毛边，背面标注‘手工晒干·无媒染’烫印字样",
+     "file": "images/gear/2e325b7112_0.png",
+     "thumb": "images/gear/thumbs/2e325b7112_0.jpg"
+    },
+    {
+     "label": "蜡染棉麻混纺·50cm×50cm",
+     "prompt": "50cm×50cm棉麻混纺蜡染布，底色为烟灰，白蜡防染形成抽象山峦纹，布面有细微蜡裂肌理，四角手工锁边，附同色蜡染布标签吊牌",
+     "file": "images/gear/2e325b7112_1.png",
+     "thumb": "images/gear/thumbs/2e325b7112_1.jpg"
+    }
+   ]
+  },
+  "巴掌尺寸马面裙": {
+   "category": "传统服饰",
+   "variants": [
+    {
+     "label": "苏绣真丝·18cm高仿真裙",
+     "prompt": "巴掌大小苏绣真丝马面裙模型，高18cm，四片式结构，裙门绣‘蝶恋花’纹，裙襕为捻金线勾边，腰头缀两粒小珍珠，底摆微翘如真实裙裾",
+     "file": "images/gear/1f606ff703_0.png",
+     "thumb": "images/gear/thumbs/1f606ff703_0.jpg"
+    },
+    {
+     "label": "皮雕牛皮·15cm微缩裙",
+     "prompt": "15cm高微缩马面裙，植鞣牛皮裁制，表面浮雕‘回纹+如意云头’，裙褶用钢针压痕定型，腰头穿铜铆钉，背面皮带可调节围度",
+     "file": "images/gear/1f606ff703_1.png",
+     "thumb": "images/gear/thumbs/1f606ff703_1.jpg"
+    }
+   ]
+  },
+  "广西酸嘢腌渍盒": {
+   "category": "厨房用品",
+   "variants": [
+    {
+     "label": "食品级竹粉PP·4格分隔",
+     "prompt": "浅青绿色竹粉改性PP腌渍盒，长方形4格分隔设计，每格容积约120ml，盖子带硅胶密封条与透气阀，盒身印壮锦纹浮雕，底部防滑颗粒底纹",
+     "file": "images/gear/0f42b1e69f_0.png",
+     "thumb": "images/gear/thumbs/0f42b1e69f_0.jpg"
+    },
+    {
+     "label": "粗陶手捏·单腔釉下彩",
+     "prompt": "手工拉坯粗陶酸嘢盒，单腔椭圆造型，容量350ml，施青灰釉下彩‘芭蕉荔枝’纹，釉面哑光微橘皮，盒盖内嵌天然软木密封圈，底部刻‘邕’字匠人款",
+     "file": "images/gear/0f42b1e69f_1.png",
+     "thumb": "images/gear/thumbs/0f42b1e69f_1.jpg"
+    }
+   ]
+  },
+  "开源声纹标注工具": {
+   "category": "数字工具",
+   "variants": [
+    {
+     "label": "Web端轻量版·基础波形标注",
+     "prompt": "深蓝渐变UI界面截图，左侧为音频波形图（灰底蓝线），中央为时间轴与标签栏（‘咳嗽’‘呼吸’‘杂音’三色标签），右侧为快捷键提示面板，界面无导航栏与用户信息",
+     "file": "images/gear/11afa33d36_0.png",
+     "thumb": "images/gear/thumbs/11afa33d36_0.jpg"
+    },
+    {
+     "label": "桌面专业版·AI辅助分割",
+     "prompt": "暗色主题桌面软件界面，主区为多层频谱图（黄-紫伪彩色），上方悬浮AI建议分割框（半透明橙色虚线），右侧面板含声纹特征向量图与置信度数值，底部状态栏显示‘Auto-Split: ON’",
+     "file": "images/gear/11afa33d36_1.png",
+     "thumb": "images/gear/thumbs/11afa33d36_1.jpg"
+    }
+   ]
+  },
+  "微型压力感应模具": {
+   "category": "工业设计工具",
+   "variants": [
+    {
+     "label": "硅胶柔性·Φ15mm单点",
+     "prompt": "透明医用级硅胶微型模具，Φ15mm圆形，中心嵌入黑色柔性压力传感膜（直径8mm），膜周有0.3mm银色导电触点环，背面印‘0.1–10N’量程标识",
+     "file": "images/gear/9fdff69fdd_0.png",
+     "thumb": "images/gear/thumbs/9fdff69fdd_0.jpg"
+    },
+    {
+     "label": "陶瓷刚性·3×3阵列款",
+     "prompt": "氧化铝陶瓷基底微型模具，25mm×25mm正方形，表面排布3×3共9个Φ3mm压力传感单元，单元呈哑光灰，基底四角有M2螺纹安装孔，背面激光刻‘ARRAY-V2’",
+     "file": "images/gear/9fdff69fdd_1.png",
+     "thumb": "images/gear/thumbs/9fdff69fdd_1.jpg"
+    }
+   ]
+  },
+  "情绪色谱配比卡": {
+   "category": "心理教育工具",
+   "variants": [
+    {
+     "label": "棉纸手撕版·24色渐变",
+     "prompt": "24色棉纸情绪色谱卡，长条形可手撕设计，每色宽1.2cm，色块由左至右从‘沉静蓝’过渡至‘炽热红’，背面印对应情绪词（如‘安宁’‘焦灼’）及0–10强度刻度",
+     "file": "images/gear/036afeb2fc_0.png",
+     "thumb": "images/gear/thumbs/036afeb2fc_0.jpg"
+    },
+    {
+     "label": "磁吸亚克力·12色模块组",
+     "prompt": "12块磁吸式亚克力情绪色卡，每块5cm×5cm正方形，厚度3mm，颜色为潘通标准色（如PANTONE 15-4020 ‘Calm Blue’），边缘嵌钕磁铁，背面蚀刻情绪名称与RGB值",
+     "file": "images/gear/036afeb2fc_1.png",
+     "thumb": "images/gear/thumbs/036afeb2fc_1.jpg"
+    }
+   ]
+  },
+  "成都博物馆夜宿预约码": {
+   "category": "文化服务凭证",
+   "variants": [
+    {
+     "label": "实体竹简码·双联券",
+     "prompt": "双联竹简式预约凭证，主简长22cm宽3cm，阴刻二维码与‘夜宿金沙’篆书，表面涂蜂蜡；副简为同材质小简，刻入住日期与房号，两端系靛蓝麻绳",
+     "file": "images/gear/bfcd6729c2_0.png",
+     "thumb": "images/gear/thumbs/bfcd6729c2_0.jpg"
+    },
+    {
+     "label": " NFC芯片卡·青铜纹样",
+     "prompt": "青铜质感NFC预约卡，6cm×9cm矩形，表面浮雕太阳神鸟金饰纹，中心嵌黑色NFC芯片窗口，背面镭射‘Chengdu Museum Night Stay’英文与有效期，边缘做仿古铜锈处理",
+     "file": "images/gear/bfcd6729c2_1.png",
+     "thumb": "images/gear/thumbs/bfcd6729c2_1.jpg"
+    }
+   ]
+  },
+  "战绳": {
+   "category": "健身器材",
+   "variants": [
+    {
+     "label": "PE编织·38mm×12m",
+     "prompt": "深灰PE高密度编织战绳，直径38mm，长度12m，绳体表面有细密菱形纹路，两端金属锚扣为镀锌U型环，扣体印‘12M’激光编号",
+     "file": "images/gear/4a4da16ed9_0.png",
+     "thumb": "images/gear/thumbs/4a4da16ed9_0.jpg"
+    },
+    {
+     "label": "再生橡胶芯·50mm×8m双色",
+     "prompt": "黑红双色再生橡胶包覆战绳，直径50mm，长度8m，横截面可见橡胶芯与PE外编层，中部设反光警示环，一端为重型D形扣，另一端为快速插销式连接头",
+     "file": "images/gear/4a4da16ed9_1.png",
+     "thumb": "images/gear/thumbs/4a4da16ed9_1.jpg"
+    }
+   ]
+  },
+  "手持莲灯": {
+   "category": "文创灯具",
+   "variants": [
+    {
+     "label": "竹编LED款·直径12cm",
+     "prompt": "手工竹丝编织莲灯，直径12cm，六瓣莲花造型，灯罩为淡黄竹丝密编，内置暖白LED灯珠，灯柄为整竹削制，长28cm，末端悬垂靛蓝流苏",
+     "file": "images/gear/66d842e011_0.png",
+     "thumb": "images/gear/thumbs/66d842e011_0.jpg"
+    },
+    {
+     "label": "宣纸手绘款·直径18cm",
+     "prompt": "宣纸糊制手持莲灯，直径18cm，花瓣层叠晕染，外层绘水墨荷瓣，内层透出淡粉底色，灯柄为榉木车旋圆杆，长35cm，顶端嵌磁吸LED模块，底部刻‘蜀韵灯坊’小印",
+     "file": "images/gear/66d842e011_1.png",
+     "thumb": "images/gear/thumbs/66d842e011_1.jpg"
+    }
+   ]
+  },
+  "折叠竹茶台": {
+   "category": "家居用品",
+   "variants": [
+    {
+     "label": "六人位·展开120cm×75cm",
+     "prompt": "天然毛竹材质，浅琥珀色哑光竹节纹理，可折叠三段式结构，展开后为长方形台面带内嵌式茶盘凹槽，四角圆润倒角，底部配黑色静音硅胶脚垫，尺寸120cm×75cm×38cm（高）",
+     "file": "images/gear/74f3c4362d_0.png",
+     "thumb": "images/gear/thumbs/74f3c4362d_0.jpg"
+    },
+    {
+     "label": "双人位·展开80cm×45cm",
+     "prompt": "精选三年生小径竹编织台面，米白竹丝与深褐竹芯交错拼接，轻量折叠两段式设计，台面内置微型沥水槽与磁吸式竹盖，整体尺寸80cm×45cm×32cm（高），边缘包覆哑光原木色榉木条",
+     "file": "images/gear/74f3c4362d_1.png",
+     "thumb": "images/gear/thumbs/74f3c4362d_1.jpg"
+    }
+   ]
+  },
+  "文物纹样眼罩": {
+   "category": "睡眠护理",
+   "variants": [
+    {
+     "label": "商周饕餮纹·真丝桑蚕丝",
+     "prompt": "100%双宫茧桑蚕丝面料，正反同色，正面压印浮雕感商代青铜器饕餮纹（凸起0.3mm），墨黑底配暗金纹线，宽9cm×长28cm，可调节弹力松紧带，耳后缝线处缀微型铜绿仿古铜扣",
+     "file": "images/gear/1e0118d3cd_0.png",
+     "thumb": "images/gear/thumbs/1e0118d3cd_0.jpg"
+    },
+    {
+     "label": "敦煌飞天纹·天丝棉混纺",
+     "prompt": "65%莱赛尔天丝+35%精梳棉混纺，柔雾哑光质地，浅月白色基底上印淡青灰飞天飘带纹样，纹路微透光，宽10.5cm×长30cm，加厚3D立体眼窝区，松紧带内置记忆棉条",
+     "file": "images/gear/1e0118d3cd_1.png",
+     "thumb": "images/gear/thumbs/1e0118d3cd_1.jpg"
+    }
+   ]
+  },
+  "旗袍汉服租赁": {
+   "category": "服饰租赁",
+   "variants": [
+    {
+     "label": "改良短袖旗袍·M码·上海滩风",
+     "prompt": "藏青色提花真丝绉缎，立领斜襟盘扣，右衽开衩至膝上15cm，袖长至肘下5cm，腰身收省明显，下摆微A字，配同色珍珠母贝盘扣与暗纹内衬，衣长92cm，胸围96cm",
+     "file": "images/gear/3ecfaf0de4_0.png",
+     "thumb": "images/gear/thumbs/3ecfaf0de4_0.jpg"
+    },
+    {
+     "label": "宋制褙子套装·L码·素雅书院款",
+     "prompt": "月白麻棉混纺褙子+浅藕荷色褶裙，褙子直领对襟无扣，两侧开衩至腰线，袖宽72cm，衣长118cm；褶裙百褶细密均匀，腰头暗藏松紧+系带双固定，整套含同色发带与布鞋",
+     "file": "images/gear/3ecfaf0de4_1.png",
+     "thumb": "images/gear/thumbs/3ecfaf0de4_1.jpg"
+    }
+   ]
+  },
+  "智能动感单车": {
+   "category": "健身器材",
+   "variants": [
+    {
+     "label": "家用静音款·16kg飞轮·蓝牙5.2",
+     "prompt": "哑光枪灰色金属车架，碳钢主梁+ABS工程塑料外壳，16kg双向惯性飞轮，隐藏式磁控阻力系统，7英寸竖屏中控台显示实时功率/心率/坡度，坐垫与手把均覆透气网布+记忆棉，整机尺寸105cm×55cm×120cm",
+     "file": "images/gear/071ff5c9d3_0.png",
+     "thumb": "images/gear/thumbs/071ff5c9d3_0.jpg"
+    },
+    {
+     "label": "商用强化款·22kg飞轮·Peloton协议",
+     "prompt": "深空灰航空铝+不锈钢复合车架，22kg高惯性镀铬飞轮，工业级电磁刹车模块，10.1英寸横置触控屏预装多平台协议，坐垫轨道加长至28cm行程，手把集成双模心率传感器与水壶架，整机尺寸118cm×62cm×128cm",
+     "file": "images/gear/071ff5c9d3_1.png",
+     "thumb": "images/gear/thumbs/071ff5c9d3_1.jpg"
+    }
+   ]
+  },
+  "本地化桌游LLM工具包": {
+   "category": "桌游配件",
+   "variants": [
+    {
+     "label": "长三角方言版·实体卡牌盒",
+     "prompt": "硬质磁吸翻盖盒（18cm×12cm×5cm），外层为靛蓝棉麻布烫印水墨江南地图，内含64张双面覆膜卡牌：正面为吴语/沪语提示词模板（如‘阿拉一道掼蛋’），背面为通用LLM参数旋钮图标，圆角切边，边缘烫银编号",
+     "file": "images/gear/3bacf595ab_0.png",
+     "thumb": "images/gear/thumbs/3bacf595ab_0.jpg"
+    },
+    {
+     "label": "西南山地版·AR增强插件包",
+     "prompt": "磨砂亚克力透明收纳盒（15cm×10cm×4cm），内置8枚NFC芯片贴纸（印彝文+云图）、1本32页手绘AR触发手册（含梯田/吊脚楼线稿），配套USB-C供电的微型投影指环（直径2.2cm，钛灰阳极氧化铝壳）",
+     "file": "images/gear/3bacf595ab_1.png",
+     "thumb": "images/gear/thumbs/3bacf595ab_1.jpg"
+    }
+   ]
+  },
+  "林间遮光纱幔": {
+   "category": "家居软装",
+   "variants": [
+    {
+     "label": "榉木枝影款·3m×2.4m·3000K暖光透",
+     "prompt": "双层交织亚麻混纺纱，外层压印榉木年轮浮雕纹，内层嵌入微米级暖光透光纤维，米驼色基底，垂感自然褶皱，顶部预缝双通道穿杆孔（直径3.2cm），下摆缀12颗胡桃木圆珠流苏",
+     "file": "images/gear/0b2f4e50e8_0.png",
+     "thumb": "images/gear/thumbs/0b2f4e50e8_0.jpg"
+    },
+    {
+     "label": "苔原雾霭款·2.2m×1.8m·冷灰渐变",
+     "prompt": "再生涤纶+海藻纤维混纺薄纱，冷调灰蓝渐变染色（从#A0B8C8至#5E7A87），表面做雾面微绒处理，经纬向植入0.1mm银灰金属丝形成隐性网格，顶部双挂袢，下摆激光切割波浪形边缘",
+     "file": "images/gear/0b2f4e50e8_1.png",
+     "thumb": "images/gear/thumbs/0b2f4e50e8_1.jpg"
+    }
+   ]
+  },
+  "棉麻采药布袋": {
+   "category": "户外工具",
+   "variants": [
+    {
+     "label": "本草纲目款·大号·双层夹层",
+     "prompt": "100%未漂白粗棉+亚麻混纺（380gsm），土褐色本染，正面刺绣《本草纲目》卷首线描图（尺寸12cm×15cm），双层结构：外袋带抽绳+内胆可拆卸防水PE膜层，容量8L，肩带宽5cm配黄铜D形扣",
+     "file": "images/gear/b255987c9d_0.png",
+     "thumb": "images/gear/thumbs/b255987c9d_0.jpg"
+    },
+    {
+     "label": "苗岭百草款·中号·蜡染背带",
+     "prompt": "手工蜂蜡防染棉布，靛蓝底+白纹苗族百草纹（鱼腥草/七叶一枝花等），单层结构，侧边设3个工具插袋（深12cm），顶部宽幅背带（长120cm）两端缀银铃铛，袋体尺寸35cm×28cm×14cm",
+     "file": "images/gear/b255987c9d_1.png",
+     "thumb": "images/gear/thumbs/b255987c9d_1.jpg"
+    }
+   ]
+  },
+  "水岸AR打卡镜": {
+   "category": "文旅科技",
+   "variants": [
+    {
+     "label": "西湖断桥款·手持圆镜·镀铜边",
+     "prompt": "直径22cm圆形玻璃镜，镜面边缘0.8cm宽镀铜包边刻‘平湖秋月’篆印，背面嵌入微型AR识别区（直径4cm哑光黑圆），镜柄为曲形黑檀木，柄端镶嵌青瓷釉色小龟钮，总长38cm",
+     "file": "images/gear/268dace7b7_0.png",
+     "thumb": "images/gear/thumbs/268dace7b7_0.jpg"
+    },
+    {
+     "label": "漓江渔火款·壁挂椭圆镜·锌合金框",
+     "prompt": "28cm×16cm椭圆镜，镜面局部蚀刻漓江渔火动态光点（UV油墨印刷），锌合金哑光黑边框背面集成NFC芯片与微型LED指示灯，挂孔为双铆钉隐藏式，镜体厚度2.3cm",
+     "file": "images/gear/268dace7b7_1.png",
+     "thumb": "images/gear/thumbs/268dace7b7_1.jpg"
+    }
+   ]
+  },
+  "温感变色软陶": {
+   "category": "手作材料",
+   "variants": [
+    {
+     "label": "樱花粉·38℃启变·500g装",
+     "prompt": "半透明樱花粉色软陶块，常温下呈淡粉，38℃手指按压即显白底樱花瓣图案（热敏微胶囊显色），PVC-free环保配方，表面微哑光，500g真空铝箔独立包装，印樱花枝剪影烫金标",
+     "file": "images/gear/d50f02fb3e_0.png",
+     "thumb": "images/gear/thumbs/d50f02fb3e_0.jpg"
+    },
+    {
+     "label": "松烟墨·28℃启变·200g装",
+     "prompt": "深灰近黑软陶块，28℃接触即浮现松烟墨色山水皴法纹（温度敏感型颜料层），含天然矿物填料，触感微颗粒，200g锡纸卷装，外裹宣纸风格标签纸印‘松烟’隶书",
+     "file": "images/gear/d50f02fb3e_1.png",
+     "thumb": "images/gear/thumbs/d50f02fb3e_1.jpg"
+    }
+   ]
+  },
+  "滑雪机": {
+   "category": "健身器材",
+   "variants": [
+    {
+     "label": "家庭入门款·1.5HP·模拟雪道",
+     "prompt": "象牙白ABS外壳+黑色碳钢框架，1.5马力直流电机驱动，传送带宽42cm，表面压印仿真雪粒纹理（0.5mm凸起），倾斜角电动调节0–12°，扶手带心率监测带，整机尺寸165cm×82cm×135cm",
+     "file": "images/gear/bb901189cf_0.png",
+     "thumb": "images/gear/thumbs/bb901189cf_0.jpg"
+    },
+    {
+     "label": "专业训练款·5HP·冰晶涂层带",
+     "prompt": "深空灰航空铝主体+冰蓝色PC防护罩，5马力伺服电机，120cm宽聚氨酯传送带覆纳米冰晶涂层（低温触感+低摩擦），全息坡度模拟系统（0–35°连续可调），集成足底压力传感阵列，尺寸220cm×110cm×155cm",
+     "file": "images/gear/bb901189cf_1.png",
+     "thumb": "images/gear/thumbs/bb901189cf_1.jpg"
+    }
+   ]
+  },
+  "潜江塘口溯源二维码卡": {
+   "category": "农产品溯源",
+   "variants": [
+    {
+     "label": "虾稻共生款·可降解PLA卡",
+     "prompt": "3.5cm×5.5cm矩形卡，食品级玉米淀粉PLA材质，哑光米白底，正面激光雕刻潜江地图轮廓与‘虾稻共作’字样，中心嵌入防水QR码（含养殖塘GPS坐标/投喂日志链接），边缘压印稻穗浮雕",
+     "file": "images/gear/53a9a84571_0.png",
+     "thumb": "images/gear/thumbs/53a9a84571_0.jpg"
+    },
+    {
+     "label": "生态甲鱼款·竹纤维卡· NFC+二维码双模",
+     "prompt": "3.8cm×6cm竹纤维压制卡片，浅棕竹丝纹理可见，正面丝印青灰色甲鱼简笔画与‘江汉平原·生态鳖’，中心嵌入双模芯片（NFC触读+QR码扫码），背面激光蚀刻塘口编号与认证徽标",
+     "file": "images/gear/53a9a84571_1.png",
+     "thumb": "images/gear/thumbs/53a9a84571_1.jpg"
+    }
+   ]
+  },
+  "热敏变色油墨": {
+   "category": "印刷耗材",
+   "variants": [
+    {
+     "label": "32℃显色·红→透明·50ml瓶",
+     "prompt": "透明PET方瓶（50ml），瓶身印烫银温度曲线图，内容物为液态热敏油墨，常温下呈朱红色，32℃以上完全变为光学透明，粘度1800cP，适用于丝网/柔印，瓶口配精密点胶滴管头",
+     "file": "images/gear/55617d28bd_0.png",
+     "thumb": "images/gear/thumbs/55617d28bd_0.jpg"
+    },
+    {
+     "label": "45℃显色·靛蓝→金棕·100ml罐",
+     "prompt": "铝制圆罐（100ml），哑光深蓝罐身，内容物为高固含热敏油墨，常温靛蓝色，45℃触发转为金属光泽棕，含云母片反光粒子，细度≤15μm，罐内附磁吸搅拌棒",
+     "file": "images/gear/55617d28bd_1.png",
+     "thumb": "images/gear/thumbs/55617d28bd_1.jpg"
+    }
+   ]
+  },
+  "玩家反馈聚类看板": {
+   "category": "数字工具",
+   "variants": [
+    {
+     "label": "实体磁吸款·A2尺寸·模块化",
+     "prompt": "哑光白铝合金边框A2看板（594mm×420mm），表面为磁性白板涂层，预置12枚彩色磁吸模块：红/橙/黄/绿四色情绪标签、关键词云贴片、时间轴滑轨、问题聚类圆饼图模板，所有模块背面带钕铁硼强磁",
+     "file": "images/gear/563fe8bec8_0.png",
+     "thumb": "images/gear/thumbs/563fe8bec8_0.jpg"
+    },
+    {
+     "label": "桌面投影款·便携式·触控交互",
+     "prompt": "圆柱形主机（直径8cm×高15cm）配柔性投影幕（30cm×20cm卷轴式），主机外壳为磨砂灰再生塑料，顶部触控环支持手势聚类操作，投影内容含动态词云/情感热力图/反馈路径树，支持USB-C直连",
+     "file": "images/gear/563fe8bec8_1.png",
+     "thumb": "images/gear/thumbs/563fe8bec8_1.jpg"
+    }
+   ]
+  },
+  "社区GIS协作平台账号": {
+   "category": "SaaS服务",
+   "variants": [
+    {
+     "label": "睦邻版·5人团队·基础测绘",
+     "prompt": "虚拟账号界面示意：浅青蓝主色调，首页展示5个成员头像环+共享地图缩略图（含3个标注点），功能模块图标为房屋/树木/道路简笔，右下角悬浮‘一键生成社区三维简模’按钮，界面边缘有梧桐叶装饰线",
+     "file": "images/gear/53eb782a51_0.png",
+     "thumb": "images/gear/thumbs/53eb782a51_0.jpg"
+    },
+    {
+     "label": "古建保护版·15人·BIM融合",
+     "prompt": "深黛蓝UI界面，中央为三维古建模型旋转视图（飞檐斗拱细节清晰），左侧工具栏含‘构件病害标注’‘年代材质图谱’‘修缮方案协同’图标，右上角显示15人在线状态与版本控制徽标",
+     "file": "images/gear/53eb782a51_1.png",
+     "thumb": "images/gear/thumbs/53eb782a51_1.jpg"
+    }
+   ]
+  },
+  "端午香囊DIY包": {
+   "category": "手作材料",
+   "variants": [
+    {
+     "label": "艾蒲青黛款·真丝绡布·儿童安全",
+     "prompt": "靛蓝棉麻布手提袋（22cm×16cm），内含4片15cm×15cm真丝绡布（青黛染）、有机艾草+石菖蒲混合香料包（食品级PE铝箔袋）、无尖圆头绣针、亚麻色丝线卷，所有配件无小零件，附水墨童趣教程卡",
+     "file": "images/gear/937b0233cb_0.png",
+     "thumb": "images/gear/thumbs/937b0233cb_0.jpg"
+    },
+    {
+     "label": "五毒锦缎款·宋锦复刻·成人收藏",
+     "prompt": "紫檀色锦缎函套（24cm×18cm×6cm），内衬香樟木片，含2片18cm×18cm宋锦复刻面料（青绿底+金线五毒纹）、雄黄朱砂香粉（玻璃小瓶装）、银顶针、缂丝流苏配件，附明代《香乘》节选烫金册页",
+     "file": "images/gear/937b0233cb_1.png",
+     "thumb": "images/gear/thumbs/937b0233cb_1.jpg"
+    }
+   ]
+  },
+  "糟粕醋发酵罐": {
+   "category": "厨房器具",
+   "variants": [
+    {
+     "label": "海南椰壳款·3L·陶釉内胆",
+     "prompt": "椰棕色粗陶罐体（高28cm，口径18cm），内壁施食品级青灰陶釉，罐口宽沿刻‘琼北老醋’椰雕纹，配天然橡胶密封圈+黄铜蝶形锁扣，底部三足微抬，侧面釉下彩绘火山岩纹理",
+     "file": "images/gear/1db6ebc0ac_0.png",
+     "thumb": "images/gear/thumbs/1db6ebc0ac_0.jpg"
+    },
+    {
+     "label": "川西竹编款·5L·双层夹套",
+     "prompt": "圆筒形竹编外罩（直径22cm，高35cm）包裹透明高硼硅玻璃内胆（5L），竹编采用染色慈竹丝，纹样为川西梯田线条，玻璃胆外壁印温度刻度（15–35℃），顶部竹盖嵌硅胶气阀",
+     "file": "images/gear/1db6ebc0ac_1.png",
+     "thumb": "images/gear/thumbs/1db6ebc0ac_1.jpg"
+    }
+   ]
+  },
+  "自然音景地图册": {
+   "category": "文创出版",
+   "variants": [
+    {
+     "label": "江南水乡款·布面精装·声纹嵌入",
+     "prompt": "靛蓝棉布封面，烫金‘橹声欸乃’字样，内页128g特种纸，每页左图右谱：手绘水巷线描+对应声波频谱图（印制导电油墨，触碰发声），封底嵌微型骨传导振动片（需手机APP激活）",
+     "file": "images/gear/e837b199ab_0.png",
+     "thumb": "images/gear/thumbs/e837b199ab_0.jpg"
+    },
+    {
+     "label": "西北戈壁款·再生纸·沙粒触感",
+     "prompt": "赭石色再生纸封面，压印风蚀岩层肌理，内页纸张掺入0.3%真实戈壁细沙（经消毒），每页含手绘地貌图+环境录音二维码（骆驼铃/风哨声），纸张边缘做不规则撕裂效果",
+     "file": "images/gear/e837b199ab_1.png",
+     "thumb": "images/gear/thumbs/e837b199ab_1.jpg"
+    }
+   ]
+  },
+  "艾草捆扎绳": {
+   "category": "农用耗材",
+   "variants": [
+    {
+     "label": "三年陈艾款·3mm×20m·麻芯绞合",
+     "prompt": "3mm直径双股绞合绳，外层为三年陈艾草茎秆（晒干碾软），内芯为本白亚麻线，土黄色主调带艾叶脉络影，每2m设一个靛蓝棉布标签结（印‘陈艾’篆字），卷绕于硬纸轴",
+     "file": "images/gear/e7cccffe7a_0.png",
+     "thumb": "images/gear/thumbs/e7cccffe7a_0.jpg"
+    },
+    {
+     "label": "驱蚊强化款·4mm×15m·柠檬桉精油浸渍",
+     "prompt": "4mm直径三股捻绳，艾草与剑麻混纺，表面经柠檬桉精油微胶囊涂层处理（淡黄绿色泽），绳体散发清冽草香，每3m嵌一枚可刮擦式驱蚊标识点（微凸圆点），轴心为回收PET硬轴",
+     "file": "images/gear/e7cccffe7a_1.png",
+     "thumb": "images/gear/thumbs/e7cccffe7a_1.jpg"
+    }
+   ]
+  },
+  "节气茶点盒": {
+   "category": "食品礼盒",
+   "variants": [
+    {
+     "label": "春分款·青团酥+明前龙井·6格",
+     "prompt": "浅青灰漆器方盒（20cm×20cm×6cm），盖面阴刻春分三候纹（玄鸟/雷乃发声/始电），内分6格：3格青团酥（抹茶豆沙/马兰头/桂花酒酿）、3格明前龙井茶包（三角滤袋，印节气印章），格板为食品级榉木",
+     "file": "images/gear/ee0efc5b56_0.png",
+     "thumb": "images/gear/thumbs/ee0efc5b56_0.jpg"
+    },
+    {
+     "label": "霜降款·柿饼+武夷岩茶·8格",
+     "prompt": "暖赭红桐木盒（22cm×22cm×7cm），盖面浮雕霜降柿蒂纹与‘柿柿如意’篆字，内8格错落排布：4格霜降柿饼（裹薄柿霜）、4格武夷岩茶小泡袋（牛皮纸印岩骨花香），格板为可拆卸枫木榫卯结构",
+     "file": "images/gear/ee0efc5b56_1.png",
+     "thumb": "images/gear/thumbs/ee0efc5b56_1.jpg"
+    }
+   ]
+  },
+  "苏绣纹样云肩": {
+   "category": "传统服饰配件",
+   "variants": [
+    {
+     "label": "牡丹缠枝款·真丝绡·成人尺码",
+     "prompt": "八片式真丝绡云肩，月白底，正中绣双色牡丹（粉红+金线），缠枝纹以银灰丝线勾勒，边缘缀24枚米粒珍珠，每片尖角垂0.8cm同色流苏，颈围可调（52–58cm）",
+     "file": "images/gear/0179367316_0.png",
+     "thumb": "images/gear/thumbs/0179367316_0.jpg"
+    },
+    {
+     "label": "婴戏百子款·宋锦·儿童尺码",
+     "prompt": "四片式宋锦复刻云肩，秋香绿底，绣百子嬉戏图（12组动态婴孩），锦面暗提‘长命百岁’暗纹，边缘包边为藕荷色素绉缎，颈围固定46cm，后颈设隐形按扣",
+     "file": "images/gear/0179367316_1.png",
+     "thumb": "images/gear/thumbs/0179367316_1.jpg"
+    }
+   ]
+  },
+  "菌类识别图鉴卡": {
+   "category": "自然科普工具",
+   "variants": [
+    {
+     "label": "便携防水款·8.5×12cm",
+     "prompt": "PVC覆膜硬质卡片，双面印刷，正面为牛肝菌高清微距图+拉丁学名烫金，背面为孢子印色谱与生境图标；哑光磨砂质感，圆角切边，右下角带毫米刻度标尺",
+     "file": "images/gear/8bba620e21_0.png",
+     "thumb": "images/gear/thumbs/8bba620e21_0.jpg"
+    },
+    {
+     "label": "专业分层款·A5折叠式",
+     "prompt": "350g铜版纸对折装订，六层可翻揭式结构，每层标注海拔/湿度/伴生树种参数；封面烫银‘中国西南毒菇警示标识’，内页采用UV凸起触感油墨呈现菌褶纹理",
+     "file": "images/gear/8bba620e21_1.png",
+     "thumb": "images/gear/thumbs/8bba620e21_1.jpg"
+    }
+   ]
+  },
+  "虾壳钙粉研磨杯": {
+   "category": "健康膳食工具",
+   "variants": [
+    {
+     "label": "手持陶瓷款·200ml",
+     "prompt": "白釉手绘青花瓷杯体，内嵌304不锈钢螺旋研磨齿，杯盖带硅胶防滑纹与定量出粉口；高7.2cm，直径6.5cm，底部刻‘食品级釉中彩’字样",
+     "file": "images/gear/35f5059ff1_0.png",
+     "thumb": "images/gear/thumbs/35f5059ff1_0.jpg"
+    },
+    {
+     "label": "电动静音款·350ml",
+     "prompt": "磨砂灰ABS机身配哑光玫瑰金电机环，顶部磁吸式透明亚克力粉仓（容量180ml），底部4枚橡胶防滑脚垫；整体呈圆柱形，高19.5cm，含USB-C充电接口",
+     "file": "images/gear/35f5059ff1_1.png",
+     "thumb": "images/gear/thumbs/35f5059ff1_1.jpg"
+    }
+   ]
+  },
+  "规则平衡性模拟器": {
+   "category": "桌游设计工具",
+   "variants": [
+    {
+     "label": "实体物理款·桌面沙盘版",
+     "prompt": "胡桃木底座（24×16cm）嵌入12枚黄铜齿轮滑块与6组可调砝码槽，中央嵌LCD屏显示实时数值；所有调节旋钮带刻度环与蓝漆标记线",
+     "file": "images/gear/2e3ac90032_0.png",
+     "thumb": "images/gear/thumbs/2e3ac90032_0.jpg"
+    },
+    {
+     "label": "AR交互款·蓝牙模块版",
+     "prompt": "黑色阳极氧化铝外壳（11×7×2.3cm），正面为OLED触控屏与三颗物理旋钮，侧边蚀刻二维码及‘兼容Unity Playmaker插件’标识，底部磁吸式充电触点",
+     "file": "images/gear/2e3ac90032_1.png",
+     "thumb": "images/gear/thumbs/2e3ac90032_1.jpg"
+    }
+   ]
+  },
+  "贝林展手绘导览册": {
+   "category": "文博教育用品",
+   "variants": [
+    {
+     "label": "典藏精装款·32开布面",
+     "prompt": "深靛蓝棉麻布封面烫金‘贝林’篆体章，内页128g本白胶版纸，手绘插图采用水彩晕染+钢笔勾线；书脊三道缝线外露，附赠同色系丝带书签",
+     "file": "images/gear/e73c7cf83a_0.png",
+     "thumb": "images/gear/thumbs/e73c7cf83a_0.jpg"
+    },
+    {
+     "label": "亲子互动款·24开涂色版",
+     "prompt": "157g哑粉纸单面印刷，左侧为简笔动物线稿（含扫码听语音故事二维码），右侧留白区印浅灰引导网格；封面覆触感膜，四角圆润防撞设计",
+     "file": "images/gear/e73c7cf83a_1.png",
+     "thumb": "images/gear/thumbs/e73c7cf83a_1.jpg"
+    }
+   ]
+  },
+  "贵州红酸汤母液": {
+   "category": "地方风味食材",
+   "variants": [
+    {
+     "label": "传统陶坛款·500ml",
+     "prompt": "手工拉坯陶坛（高14cm），坛身施酱釉并手写‘苗岭古法’朱砂字，坛口覆竹编盖+食品级硅胶密封圈；液体呈透亮琥珀色，悬浮微量发酵沉淀物",
+     "file": "images/gear/71a3a91792_0.png",
+     "thumb": "images/gear/thumbs/71a3a91792_0.jpg"
+    },
+    {
+     "label": "便携滴管款·60ml玻璃瓶",
+     "prompt": "透明硼硅酸盐玻璃瓶配黑色PP滴管头，瓶身激光雕刻‘pH3.2±0.1’与‘米酒基底’字样；标签为再生纸+大豆油墨印刷，瓶底凹陷处刻批次编号",
+     "file": "images/gear/71a3a91792_1.png",
+     "thumb": "images/gear/thumbs/71a3a91792_1.jpg"
+    }
+   ]
+  },
+  "赛事积分APP": {
+   "category": "数字体育服务",
+   "variants": [
+    {
+     "label": "职业联赛版·iOS专属",
+     "prompt": "iPhone 15 Pro界面截图：深空灰背景，顶部状态栏显示‘CBA季后赛实时积分榜’，中部动态热力图标注球员跑动轨迹，底部悬浮‘AI战术复盘’按钮带微光边框",
+     "file": "images/gear/4132145ef9_0.png",
+     "thumb": "images/gear/thumbs/4132145ef9_0.jpg"
+    },
+    {
+     "label": "校园联赛版·安卓轻量包",
+     "prompt": "Android 14系统界面：浅灰底色，主屏为班级战队徽章墙（共12个圆形图标），左上角‘校际积分赛’标题带红绸飘带元素，右下角‘一键生成荣誉证书’按钮采用毛玻璃效果",
+     "file": "images/gear/4132145ef9_1.png",
+     "thumb": "images/gear/thumbs/4132145ef9_1.jpg"
+    }
+   ]
+  },
+  "速干手账本": {
+   "category": "文创办公用品",
+   "variants": [
+    {
+     "label": "户外探险款·A6横线本",
+     "prompt": "橄榄绿防水尼龙封皮，压印登山扣造型烫金logo；内页为80g速干合成纸，每页右下角印微型等高线地图坐标，线圈装订处加厚防撕边",
+     "file": "images/gear/8f2eb93ffa_0.png",
+     "thumb": "images/gear/thumbs/8f2eb93ffa_0.jpg"
+    },
+    {
+     "label": "通勤极简款·B6空白本",
+     "prompt": "浅雾灰再生纸封面，无烫印仅压凹‘DAILY’字样；内页100g棉浆纸，四角圆角裁切，纸张表面有细微纤维肌理，线圈为哑光镍银材质",
+     "file": "images/gear/8f2eb93ffa_1.png",
+     "thumb": "images/gear/thumbs/8f2eb93ffa_1.jpg"
+    }
+   ]
+  },
+  "配套小程序": {
+   "category": "数字生活服务",
+   "variants": [
+    {
+     "label": "非遗传承版·微信小程序",
+     "prompt": "微信界面截图：顶部导航栏为‘侗族大歌谱例库’，中部瀑布流展示五线谱+侗语注音交互卡片，底部Tab栏含‘跟唱训练’‘曲目溯源’图标，图标为靛蓝蜡染纹样",
+     "file": "images/gear/48273bd53f_0.png",
+     "thumb": "images/gear/thumbs/48273bd53f_0.jpg"
+    },
+    {
+     "label": "乡村文旅版·支付宝小程序",
+     "prompt": "支付宝界面截图：主视觉为梯田航拍图叠加深绿半透明蒙版，中央浮动‘扫码预约非遗工坊’按钮带竹编纹理边框，底部‘村播日历’模块显示苗绣直播倒计时",
+     "file": "images/gear/48273bd53f_1.png",
+     "thumb": "images/gear/thumbs/48273bd53f_1.jpg"
+    }
+   ]
+  },
+  "醒狮小披风": {
+   "category": "民俗文化服饰",
+   "variants": [
+    {
+     "label": "儿童表演款·红金缎面",
+     "prompt": "正红真丝绉缎披风，前襟绣金线狮头纹样（直径12cm），肩部缀仿绒球狮鬃，背后暗袋印‘粤剧学校定制’微标；尺寸长58cm，系带末端垂铜铃",
+     "file": "images/gear/1e4a8cfc24_0.png",
+     "thumb": "images/gear/thumbs/1e4a8cfc24_0.jpg"
+    },
+    {
+     "label": "成人收藏款·黑檀缂丝",
+     "prompt": "玄色桑蚕丝缂丝披风，以‘狮眼点睛’技法织出瞳孔立体反光效果，下摆暗织百子图；尺寸长112cm，内衬为云纹素绉缎，附桐木收纳匣",
+     "file": "images/gear/1e4a8cfc24_1.png",
+     "thumb": "images/gear/thumbs/1e4a8cfc24_1.jpg"
+    }
+   ]
+  },
+  "青铜器香薰片": {
+   "category": "文博创意家居",
+   "variants": [
+    {
+     "label": "商周纹样款·5cm方片",
+     "prompt": "做旧铜绿树脂片，浮雕饕餮纹带凸起棱线，中心镂空‘亚’字形香孔；厚度0.8cm，边缘微卷仿铸痕，背面刻‘司母戊鼎局部’微缩铭文",
+     "file": "images/gear/6b93bde2c4_0.png",
+     "thumb": "images/gear/thumbs/6b93bde2c4_0.jpg"
+    },
+    {
+     "label": "汉代瓦当款·直径7cm圆片",
+     "prompt": "灰陶质感香片，表面模印‘长乐未央’瓦当纹，四象方位嵌青金石碎粒；中心凹槽深0.5cm，边缘斜切形成15°倾角，背面平滑无纹",
+     "file": "images/gear/6b93bde2c4_1.png",
+     "thumb": "images/gear/thumbs/6b93bde2c4_1.jpg"
+    }
+   ]
+  },
+  "非遗龙舟模型": {
+   "category": "传统工艺摆件",
+   "variants": [
+    {
+     "label": "广府彩绘款·1:30比例",
+     "prompt": "椴木骨架+丙烯手绘船身，龙头镶贝壳眼珠与金箔须，船身绘‘一帆风顺’岭南窗花纹；全长42cm，底座刻‘佛山叠滘赛龙舟’阴文",
+     "file": "images/gear/6bdd7453dc_0.png",
+     "thumb": "images/gear/thumbs/6bdd7453dc_0.jpg"
+    },
+    {
+     "label": "潮汕金漆款·1:24比例",
+     "prompt": "樟木胎体髹朱漆打底，龙鳞贴24K金箔，舵面镶嵌螺钿‘海晏河清’图；全长58cm，船舱可开启露出微型鼓架与桨架",
+     "file": "images/gear/6bdd7453dc_1.png",
+     "thumb": "images/gear/thumbs/6bdd7453dc_1.jpg"
+    }
+   ]
+  },
+  "骨传导耳机": {
+   "category": "运动音频设备",
+   "variants": [
+    {
+     "label": "越野跑专用款·钛合金臂",
+     "prompt": "枪灰钛合金振子臂配橙色TPU缓冲套，耳挂处激光蚀刻‘IP68’与‘15h续航’；触控区为哑光黑陶瓷片，充电口隐藏于转轴内侧",
+     "file": "images/gear/c67b246d91_0.png",
+     "thumb": "images/gear/thumbs/c67b246d91_0.jpg"
+    },
+    {
+     "label": "书法练习款·竹纹柔韧臂",
+     "prompt": "碳化竹纤维复合臂体，表面保留竹节天然纹理，振子腔体覆哑光米白硅胶；耳挂弧度适配亚洲耳廓，尾端嵌‘墨韵’篆体金属铭牌",
+     "file": "images/gear/c67b246d91_1.png",
+     "thumb": "images/gear/thumbs/c67b246d91_1.jpg"
     }
    ]
   }
