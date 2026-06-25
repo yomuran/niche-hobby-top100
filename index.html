@@ -277,13 +277,21 @@
   }
 
   const bust = Date.now();
+  let gearLoadFailed = false;
   try {
     await loadScript(`data/hobbies.js?t=${bust}`);
+  } catch (e) {
+    console.error(e);
+    document.getElementById("updated-at").textContent = "榜单加载失败，请刷新";
+    document.getElementById("gear-updated-at").textContent = "—";
+    return;
+  }
+  try {
     await loadScript(`data/gear_images.js?t=${bust + 1}`);
   } catch (e) {
     console.error(e);
-    document.getElementById("gear-updated-at").textContent = "数据加载失败，请刷新";
-    return;
+    gearLoadFailed = true;
+    document.getElementById("gear-updated-at").textContent = "配图索引加载失败（榜单仍可用）";
   }
 
   const DATA = window.HOBBY_DATA || { meta: {}, hobbies: [] };
