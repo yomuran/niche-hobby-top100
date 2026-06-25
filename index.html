@@ -153,6 +153,8 @@
   }
   .gear:hover { border-color: var(--accent); color: var(--text); background: rgba(108,140,255,.1); }
   .gear.has-img::after { content: " 📷"; font-size: 10px; opacity: .7; }
+  .gear.has-partial { border-color: #f59e0b; color: #fbbf24; }
+  .gear.has-partial::after { content: " ◐"; font-size: 10px; opacity: .8; }
 
   /* ===== gear modal ===== */
   .modal-mask {
@@ -186,6 +188,10 @@
   }
   .variant .v-label { padding: 10px 12px; font-size: 13px; color: var(--text); font-weight: 600; }
   .variant .v-sub { padding: 0 12px 10px; font-size: 11.5px; color: var(--text3); }
+  .variant .v-pending {
+    width: 100%; aspect-ratio: 1; display: flex; align-items: center; justify-content: center;
+    background: var(--bg); color: var(--text3); font-size: 12px; text-align: center; padding: 12px;
+  }
   .modal-note { margin-top: 14px; font-size: 11.5px; color: var(--text3); line-height: 1.6; }
   .modal-pending {
     text-align: center; color: var(--text2); padding: 36px 12px; font-size: 13.5px; line-height: 2;
@@ -299,6 +305,10 @@
   let lastGearAt = (window.GEAR_IMAGES && window.GEAR_IMAGES.meta && window.GEAR_IMAGES.meta.updated_at) || "";
 
   const TOP_N = 100;
+  const all = [...DATA.hobbies].sort((a, b) => b.heat - a.heat).slice(0, TOP_N);
+  all.forEach((h, i) => h.rank = i + 1);
+  const topGearSet = new Set(all.flatMap(h => h.gear || []));
+
   const TREND_LABEL = { up: "↑ 上升", down: "↓ 回落", hot: "🔥 爆发", stable: "→ 平稳" };
   const TREND_ORDER = { hot: 0, up: 1, stable: 2, down: 3 };
 
@@ -308,7 +318,9 @@
 
   function gearStats() {
     let withImg = 0, total = 0;
-    for (const ent of Object.values(GEAR)) {
+    for (const name of topGearSet) {
+      const ent = GEAR[name];
+      if (!ent) continue;
       for (const v of (ent.variants || [])) {
         total++;
         if (v.file) withImg++;
@@ -327,8 +339,8 @@
     const st = gearStats();
     const pending = st.total - st.withImg;
     el.textContent = pending > 0
-      ? `${st.withImg}/${st.total} 已就绪（${pending} 张生成中，刷新可更新）`
-      : `${st.withImg}/${st.total} · ${fmt(new Date(m.updated_at))}`;
+      ? `Top100: ${st.withImg}/${st.total}（缺 ${pending} 张，后台生成中）`
+      : `Top100: ${st.withImg}/${st.total} · ${fmt(new Date(m.updated_at))}`;
   }
 
   async function syncGearImages() {
@@ -348,10 +360,6 @@
       return false;
     }
   }
-
-  // 全量按热度排序后截取 Top 100
-  const all = [...DATA.hobbies].sort((a, b) => b.heat - a.heat).slice(0, TOP_N);
-  all.forEach((h, i) => h.rank = i + 1);
 
   let activeCat = "全部";
   let keyword = "";
@@ -440,8 +448,11 @@
         </div>
         <div class="detail">
           <div class="detail-label">核心实体物件（点击查看实物图）</div>
-          <div class="gear-chips">${(h.gear || []).map(g =>
-            `<span class="gear${hasGearImg(g) ? " has-img" : ""}" data-gear="${g.replace(/"/g, "&quot;")}">${g}</span>`).join("")}</div>
+          <div class="gear-chips">${(h.gear || []).map(g => {
+            const st = gearImgState(g);
+            const cls = st === "full" ? " has-img" : st === "partial" ? " has-partial" : "";
+            return `<span class="gear${cls}" data-gear="${g.replace(/"/g, "&quot;")}">${g}</span>`;
+          }).join("")}</div>
           ${h.evidence ? `<div class="evidence"><b>热度依据：</b>${h.evidence}</div>` : ""}
         </div>
       </div>
@@ -464,9 +475,17 @@
   const lightbox = document.getElementById("lightbox");
   const lbImg = document.getElementById("lb-img");
 
-  function hasGearImg(name) {
+  function gearImgState(name) {
     const e = GEAR[name];
-    return !!(e && e.variants && e.variants.some(v => v.file));
+    if (!e || !e.variants || !e.variants.length) return "none";
+    const n = e.variants.filter(v => v.file).length;
+    if (n === 0) return "none";
+    if (n === e.variants.length) return "full";
+    return "partial";
+  }
+
+  function hasGearImg(name) {
+    return gearImgState(name) !== "none";
   }
 
   function openGearModal(name) {
@@ -476,17 +495,21 @@
       ? `<span class="tag cat">${ent.category}</span>` : "";
     const body = document.getElementById("gm-body");
 
-    const cards = (ent && ent.variants || []).filter(v => v.file).map(v => `
+    const cards = (ent && ent.variants || []).map(v => v.file ? `
       <div class="variant">
         <img src="${v.thumb || v.file}" data-full="${v.file}" loading="lazy" alt="${name} ${v.label}">
         <div class="v-label">${v.label}</div>
         <div class="v-sub">${name} · ${ent.category || ""}</div>
+      </div>` : `
+      <div class="variant">
+        <div class="v-pending">${v.label || "款式"}<br>待生成</div>
+        <div class="v-label">${v.label}</div>
+        <div class="v-sub">${name} · 排队中</div>
       </div>`).join("");
 
     body.innerHTML = cards
       ? `<div class="variant-grid">${cards}</div>`
-      : `<div class="modal-pending">该物件配图尚在 GPU 后台生成中<br>
-         请稍后刷新页面；已生成的物件会显示 📷 标记</div>`;
+      : `<div class="modal-pending">该物件尚无配图档案<br>将在下一次后台配图任务中自动生成</div>`;
     modal.classList.add("show");
   }
 
