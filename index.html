@@ -303,8 +303,10 @@
   const DATA = window.HOBBY_DATA || { meta: {}, hobbies: [] };
   let GEAR = (window.GEAR_IMAGES && window.GEAR_IMAGES.gear) || {};
   let lastGearAt = (window.GEAR_IMAGES && window.GEAR_IMAGES.meta && window.GEAR_IMAGES.meta.updated_at) || "";
+  let lastGearPending = (window.GEAR_IMAGES && window.GEAR_IMAGES.meta && window.GEAR_IMAGES.meta.top100_pending);
 
   const TOP_N = 100;
+  const VARIANTS_PER_GEAR = 2;
   const all = [...DATA.hobbies].sort((a, b) => b.heat - a.heat).slice(0, TOP_N);
   all.forEach((h, i) => h.rank = i + 1);
   const topGearSet = new Set(all.flatMap(h => h.gear || []));
@@ -317,16 +319,27 @@
   }
 
   function gearStats() {
+    const m = (window.GEAR_IMAGES && window.GEAR_IMAGES.meta) || {};
+    if (typeof m.top100_total === "number" && typeof m.top100_ready === "number") {
+      return {
+        withImg: m.top100_ready,
+        total: m.top100_total,
+        pending: m.top100_pending ?? (m.top100_total - m.top100_ready),
+      };
+    }
     let withImg = 0, total = 0;
     for (const name of topGearSet) {
       const ent = GEAR[name];
-      if (!ent) continue;
+      if (!ent) {
+        total += VARIANTS_PER_GEAR;
+        continue;
+      }
       for (const v of (ent.variants || [])) {
         total++;
         if (v.file) withImg++;
       }
     }
-    return { withImg, total };
+    return { withImg, total, pending: total - withImg };
   }
 
   function updateGearMetaUI() {
@@ -337,7 +350,7 @@
       return;
     }
     const st = gearStats();
-    const pending = st.total - st.withImg;
+    const pending = st.pending ?? (st.total - st.withImg);
     el.textContent = pending > 0
       ? `Top100: ${st.withImg}/${st.total}（缺 ${pending} 张，后台生成中）`
       : `Top100: ${st.withImg}/${st.total} · ${fmt(new Date(m.updated_at))}`;
@@ -349,10 +362,12 @@
       if (!r.ok) return false;
       const remote = await r.json();
       const remoteAt = remote.meta && remote.meta.updated_at;
-      if (!remoteAt || remoteAt === lastGearAt) return false;
+      const remotePending = remote.meta && remote.meta.top100_pending;
+      if (remoteAt === lastGearAt && remotePending === lastGearPending) return false;
       await loadScript(`data/gear_images.js?t=${Date.now()}`);
       GEAR = (window.GEAR_IMAGES && window.GEAR_IMAGES.gear) || {};
-      lastGearAt = remoteAt;
+      lastGearAt = remoteAt || lastGearAt;
+      lastGearPending = remotePending;
       updateGearMetaUI();
       render();
       return true;
