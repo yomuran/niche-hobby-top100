@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-06-26T17:08:46+08:00",
-  "top100_ready": 888,
+  "updated_at": "2026-06-26T17:19:21+08:00",
+  "top100_ready": 916,
   "top100_total": 916,
-  "top100_pending": 28,
-  "top100_missing_spec": 14
+  "top100_pending": 0,
+  "top100_missing_spec": 0
  },
  "gear": {
   "135/120胶卷": {
@@ -14213,6 +14213,244 @@
      "prompt": "8.5厘米×5.5厘米椭圆角卡片，双面覆哑光PET膜，正面印深红+金双色酒杯与奶酪图标，背面嵌入0.3mm钕铁硼薄磁片（居中偏下），整体厚度1.2mm，边缘激光切割无毛刺",
      "file": "images/gear/005b4f4367_1.png",
      "thumb": "images/gear/thumbs/005b4f4367_1.jpg"
+    }
+   ]
+  },
+  "AI对话设备": {
+   "category": "智能硬件",
+   "variants": [
+    {
+     "label": "桌面立式·128mm高哑光白",
+     "prompt": "圆柱形AI对话设备，高128mm，直径65mm，哑光白色聚碳酸酯外壳，顶部环形呼吸灯为柔光青蓝色，侧面有细密散热孔与隐藏式触控麦克风阵列，底部磁吸硅胶防滑垫",
+     "file": "images/gear/3db6ca06d2_0.png",
+     "thumb": "images/gear/thumbs/3db6ca06d2_0.jpg"
+    },
+    {
+     "label": "颈挂便携·双麦降噪·钛灰",
+     "prompt": "轻量化颈挂式AI对话设备，钛灰色阳极氧化铝合金机身，流线型U形结构，两端各嵌一枚指向性MEMS麦克风，中央OLED微屏显示实时交互状态，颈带内置记忆钛丝，厚度仅9.2mm",
+     "file": "images/gear/3db6ca06d2_1.png",
+     "thumb": "images/gear/thumbs/3db6ca06d2_1.jpg"
+    }
+   ]
+  },
+  "情绪反馈手环": {
+   "category": "健康可穿戴",
+   "variants": [
+    {
+     "label": "医疗级·医用硅胶·腕围14–17cm",
+     "prompt": "医用级液态硅胶情绪反馈手环，哑光雾面浅灰蓝，宽18mm，厚9.5mm，内侧集成四电极心率变异性传感器与微振动反馈马达，表带扣为无棱角磁吸式不锈钢搭扣",
+     "file": "images/gear/779e802e6f_0.png",
+     "thumb": "images/gear/thumbs/779e802e6f_0.jpg"
+    },
+    {
+     "label": "青少年款·TPU编织带·荧光绿",
+     "prompt": "TPU混纺编织情绪反馈手环，荧光绿色主带配深灰经纬线，宽16mm，弹性伸缩范围13–16cm，正面嵌入3×3可编程RGB LED矩阵，背面为柔性生物电传感贴片",
+     "file": "images/gear/779e802e6f_1.png",
+     "thumb": "images/gear/thumbs/779e802e6f_1.jpg"
+    }
+   ]
+  },
+  "拓包": {
+   "category": "文房篆刻工具",
+   "variants": [
+    {
+     "label": "传统绢面·径6cm·松烟墨膏专用",
+     "prompt": "圆形手工拓包，直径6cm，高4.2cm，外层为米白素绢紧密包裹，内填精制棉絮与细麻绒，顶部收口处以暗红丝线缠绕固定，底部平整微凸，边缘无毛边",
+     "file": "images/gear/b3c176a281_0.png",
+     "thumb": "images/gear/thumbs/b3c176a281_0.jpg"
+    },
+    {
+     "label": "改良尼龙面·径8cm·朱砂墨适配",
+     "prompt": "大径拓包，直径8cm，高5.5cm，外覆高密度黑色尼龙布，表面细腻无纹理，内部填充记忆海绵与羊毛混合芯，底部加厚防滑橡胶底圈，侧缝处激光蚀刻‘朱砂专配’微标",
+     "file": "images/gear/b3c176a281_1.png",
+     "thumb": "images/gear/thumbs/b3c176a281_1.jpg"
+    }
+   ]
+  },
+  "显微花粉采样笔": {
+   "category": "科研采集工具",
+   "variants": [
+    {
+     "label": "手持式·0.3mm钨针·蓝标",
+     "prompt": "手持显微花粉采样笔，主体为磨砂黑铝合金，长135mm，直径12mm，前端伸出0.3mm超细单晶钨针，针尖镀铂防氧化，握持区刻有防滑菱形纹与蓝色识别环",
+     "file": "images/gear/866791ac74_0.png",
+     "thumb": "images/gear/thumbs/866791ac74_0.jpg"
+    },
+    {
+     "label": "显微镜联用型·可换针座·银灰",
+     "prompt": "模块化显微花粉采样笔，银灰色航空铝机身，长110mm，带M25×0.75标准显微镜接口，前端为快拆式针座，标配三支可换针：0.1mm/0.5mm/1.0mm碳化钨针，针座侧面激光刻度标尺",
+     "file": "images/gear/866791ac74_1.png",
+     "thumb": "images/gear/thumbs/866791ac74_1.jpg"
+    }
+   ]
+  },
+  "朱砂墨": {
+   "category": "传统书画材料",
+   "variants": [
+    {
+     "label": "古法炼制·锭重35g·云纹模具",
+     "prompt": "长方体朱砂墨锭，35克，尺寸58×22×12mm，表面压印浮雕云纹与‘赤心守真’篆字，断面色泽朱红沉厚，泛天然漆光，边缘规整无飞边，侧面有朱砂矿源编号烫金小印",
+     "file": "images/gear/b15666c23e_0.png",
+     "thumb": "images/gear/thumbs/b15666c23e_0.jpg"
+    },
+    {
+     "label": "研磨速溶·颗粒墨·琥珀罐装",
+     "prompt": "琥珀色玻璃广口罐装朱砂墨，容量15g，内含均匀200目球形朱砂颗粒，颗粒呈正红色微光泽，罐身磨砂处理，铝盖内衬食品级密封垫，罐肩激光蚀刻‘研即溶’标识",
+     "file": "images/gear/b15666c23e_1.png",
+     "thumb": "images/gear/thumbs/b15666c23e_1.jpg"
+    }
+   ]
+  },
+  "盲盒收纳匣": {
+   "category": "潮玩周边",
+   "variants": [
+    {
+     "label": "磁吸叠层·6格·雾面奶白",
+     "prompt": "六格盲盒收纳匣，整体雾面奶白色ABS材质，长180mm×宽120mm×高65mm，每格独立磁吸上盖，盖内嵌N52钕铁硼磁片，格壁加厚至2.3mm，底部防滑硅胶脚垫",
+     "file": "images/gear/c02cb33bea_0.png",
+     "thumb": "images/gear/thumbs/c02cb33bea_0.jpg"
+    },
+    {
+     "label": "旋转展示型·360°轴承·炭黑",
+     "prompt": "圆形盲盒收纳匣，炭黑色PC+ABS合金外壳，直径160mm，高72mm，中央垂直轴承支撑三层旋转托盘，每层设4个弧形卡位槽，顶部透明亚克力穹顶盖，底座带金属配重环",
+     "file": "images/gear/c02cb33bea_1.png",
+     "thumb": "images/gear/thumbs/c02cb33bea_1.jpg"
+    }
+   ]
+  },
+  "红外触发相机": {
+   "category": "野外监测设备",
+   "variants": [
+    {
+     "label": "超低功耗·PIR+PIR双感·军绿",
+     "prompt": "红外触发相机，军绿色高强度工程塑料机身，120×85×60mm，正面双PIR热释电传感器窗口呈左右对称布局，镜头为f/2.0 3.6mm定焦玻璃镜，侧面太阳能充电接口带防水胶塞",
+     "file": "images/gear/89fa06d75b_0.png",
+     "thumb": "images/gear/thumbs/89fa06d75b_0.jpg"
+    },
+    {
+     "label": "4K夜视·星光CMOS·迷彩硬壳",
+     "prompt": "迷彩纹路加固型红外触发相机，外壳为TPU+PC复合硬壳，尺寸135×92×68mm，正面突出星光级4K CMOS镜头（带850nm隐形红外补光灯），背部带可拆卸18650电池仓与SD卡双槽",
+     "file": "images/gear/89fa06d75b_1.png",
+     "thumb": "images/gear/thumbs/89fa06d75b_1.jpg"
+    }
+   ]
+  },
+  "茶席投影仪": {
+   "category": "茶道数码配件",
+   "variants": [
+    {
+     "label": "便携掌心型·300流明·竹纹",
+     "prompt": "迷你茶席投影仪，圆柱形设计，高62mm，直径48mm，外壳为热压竹纤维复合板，哑光浅褐，顶部触控环为铜质，底部隐藏式USB-C与HDMI mini接口，投影光路中心标有‘茶时’微刻",
+     "file": "images/gear/7154563833_0.png",
+     "thumb": "images/gear/thumbs/7154563833_0.jpg"
+    },
+    {
+     "label": "席面嵌入式·短焦0.35:1·胡桃木框",
+     "prompt": "嵌入式茶席投影仪，胡桃木激光雕刻边框，内嵌纯白光学玻璃面板，整体尺寸210×120×28mm，面板下置0.35:1短焦DLP光机，两侧预留茶席织物包边卡槽，底部四角带可调硅胶支脚",
+     "file": "images/gear/7154563833_1.png",
+     "thumb": "images/gear/thumbs/7154563833_1.jpg"
+    }
+   ]
+  },
+  "蜂旅馆模块套件": {
+   "category": "生态园艺装置",
+   "variants": [
+    {
+     "label": "独居蜂专配·松木六孔·自然原色",
+     "prompt": "松木蜂旅馆模块，长280mm×宽120mm×厚85mm，六组不同孔径（2/4/6/8/10/12mm）钻孔，孔深120mm，孔壁经砂纸精细抛光，表面保留松木原色与年轮纹理，背板预钻悬挂孔",
+     "file": "images/gear/26f8a9778f_0.png",
+     "thumb": "images/gear/thumbs/26f8a9778f_0.jpg"
+    },
+    {
+     "label": "授粉强化型·竹木复合·可拆洗巢管",
+     "prompt": "竹木复合蜂旅馆模块，深棕竹纤维板主体，尺寸300×130×90mm，前板为可抽拉式蜂巢管架，含12支可更换纸质巢管（内径6mm，长140mm），管架侧边标注‘春/夏/秋’三季标识刻度",
+     "file": "images/gear/26f8a9778f_1.png",
+     "thumb": "images/gear/thumbs/26f8a9778f_1.jpg"
+    }
+   ]
+  },
+  "蜜源植物种子包": {
+   "category": "园艺种植用品",
+   "variants": [
+    {
+     "label": "城市阳台款·12种·铝箔独立粒装",
+     "prompt": "蜜源植物种子包，12种精选品种混装，每粒种子独立封装于微型银色铝箔袋，袋面激光打印植物名与发芽周期，外包装为再生牛皮纸折叠盒，尺寸90×60×25mm，盒盖压凹蜜蜂图标",
+     "file": "images/gear/5914067dca_0.png",
+     "thumb": "images/gear/thumbs/5914067dca_0.jpg"
+    },
+    {
+     "label": "荒野修复款·3大类·生态纤维袋",
+     "prompt": "荒野蜜源种子包，分蜜腺型/挥发油型/花粉型三大功能类别，共18种本土适应种，装于可降解玉米纤维编织袋，袋身印植物拉丁名与生态功能图示，袋口麻绳封口，附土壤pH匹配建议卡",
+     "file": "images/gear/5914067dca_1.png",
+     "thumb": "images/gear/thumbs/5914067dca_1.jpg"
+    }
+   ]
+  },
+  "角色设定卡": {
+   "category": "桌游与创意工具",
+   "variants": [
+    {
+     "label": "实体卡牌·300g铜版·圆角哑膜",
+     "prompt": "标准角色设定卡，63×88mm，300g铜版纸基材，四角R3圆角，表面覆哑光膜，正面为留白分区手写区（含性格/动机/关系三栏），背面烫金‘ROLE’微标与ISO标准卡槽定位点",
+     "file": "images/gear/0e2f8bbca6_0.png",
+     "thumb": "images/gear/thumbs/0e2f8bbca6_0.jpg"
+    },
+    {
+     "label": "磁吸活页款·PET覆膜·灰紫双色",
+     "prompt": "磁吸式角色设定卡，灰紫色双层PET覆膜材质，厚度0.5mm，尺寸70×95mm，顶部嵌入2mm宽钕磁条，卡面采用UV分区工艺：左侧信息栏哑光、右侧自由绘图区亮光，边缘激光微刻毫米刻度",
+     "file": "images/gear/0e2f8bbca6_1.png",
+     "thumb": "images/gear/thumbs/0e2f8bbca6_1.jpg"
+    }
+   ]
+  },
+  "访花记录APP": {
+   "category": "数字农林工具",
+   "variants": [
+    {
+     "label": "离线蜂场版·安卓APK·蜂箱ID绑定",
+     "prompt": "访花记录APP安装包图标，扁平化设计，深蓝底色，中央为白色蜂巢六边形轮廓，内嵌动态花朵生长进度条与蜂箱编号输入框，右下角标注‘Offline Mode’徽章，图标圆角12px",
+     "file": "images/gear/0e6c2ac7c5_0.png",
+     "thumb": "images/gear/thumbs/0e6c2ac7c5_0.jpg"
+    },
+    {
+     "label": "科研数据版·iOS快捷指令·GPS轨迹叠加",
+     "prompt": "科研向访花记录APP图标，深绿渐变背景，中央为简化地图图层叠加蜂群飞行轨迹线（橙色虚线）与定点采样标记（红点），左上角嵌入‘ISO 17025’认证微标，图标采用SF Symbols风格线条",
+     "file": "images/gear/0e6c2ac7c5_1.png",
+     "thumb": "images/gear/thumbs/0e6c2ac7c5_1.jpg"
+    }
+   ]
+  },
+  "语音转录笔": {
+   "category": "办公录音设备",
+   "variants": [
+    {
+     "label": "会议专用·8麦环形阵·石墨黑",
+     "prompt": "圆柱形语音转录笔，石墨黑色阳极氧化铝机身，高142mm，直径18mm，顶部环形排列8枚全向MEMS麦克风，中段为OLED触控屏（显示实时转录字数与语种），底部Type-C接口带防尘盖",
+     "file": "images/gear/9d37b5af7d_0.png",
+     "thumb": "images/gear/thumbs/9d37b5af7d_0.jpg"
+    },
+    {
+     "label": "采访便携型·定向双麦·暖沙金",
+     "prompt": "笔形语音转录器，暖沙金色镁铝合金外壳，长128mm，直径11.5mm，前端双定向麦克风呈120°夹角，麦克风网罩为哑光金丝网，尾部物理录音键为凸起陶瓷质感按键，侧面激光蚀刻‘INTV’标识",
+     "file": "images/gear/9d37b5af7d_1.png",
+     "thumb": "images/gear/thumbs/9d37b5af7d_1.jpg"
+    }
+   ]
+  },
+  "青铜纹样母版": {
+   "category": "传统工艺模具",
+   "variants": [
+    {
+     "label": "商周饕餮·黄铜浮雕·120×80mm",
+     "prompt": "黄铜铸造青铜纹样母版，长120mm，宽80mm，厚8mm，表面高浮雕商代饕餮纹，双眼凸出2.5mm，眉目阴线深度0.3mm，边缘倒角R1，背面光面刻‘母版·商·乙巳’篆字及编号",
+     "file": "images/gear/2b2fa29ee9_0.png",
+     "thumb": "images/gear/thumbs/2b2fa29ee9_0.jpg"
+    },
+    {
+     "label": "战国云雷·紫铜蚀刻·正方形100mm",
+     "prompt": "正方形紫铜蚀刻纹样母版，100×100×6mm，表面为精密化学蚀刻战国云雷纹，线宽0.15mm，纹路连续无断点，底面抛光如镜，四角带φ3mm定位销孔，边缘激光刻‘ZG-YL-07’序列号",
+     "file": "images/gear/2b2fa29ee9_1.png",
+     "thumb": "images/gear/thumbs/2b2fa29ee9_1.jpg"
     }
    ]
   }
