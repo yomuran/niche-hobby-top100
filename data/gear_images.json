@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-06-27T17:08:46+08:00",
-  "top100_ready": 888,
+  "updated_at": "2026-06-27T17:31:20+08:00",
+  "top100_ready": 916,
   "top100_total": 916,
-  "top100_pending": 28,
-  "top100_missing_spec": 14
+  "top100_pending": 0,
+  "top100_missing_spec": 0
  },
  "gear": {
   "135/120胶卷": {
@@ -14451,6 +14451,244 @@
      "prompt": "正方形紫铜蚀刻纹样母版，100×100×6mm，表面为精密化学蚀刻战国云雷纹，线宽0.15mm，纹路连续无断点，底面抛光如镜，四角带φ3mm定位销孔，边缘激光刻‘ZG-YL-07’序列号",
      "file": "images/gear/2b2fa29ee9_1.png",
      "thumb": "images/gear/thumbs/2b2fa29ee9_1.jpg"
+    }
+   ]
+  },
+  "GIS定位手环": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "军用加固款·50mm表盘",
+     "prompt": "黑色哑光钛合金表壳，50mm圆形表盘，深灰硅胶表带带双排防滑纹，表侧集成陶瓷天线凸点与物理GPS开关按钮，屏幕为1.3英寸蓝膜AMOLED，边缘刻有'IP68+北斗三频'铭文",
+     "file": "images/gear/ccbf2d4a49_0.png",
+     "thumb": "images/gear/thumbs/ccbf2d4a49_0.jpg"
+    },
+    {
+     "label": "轻量测绘款·42mm碳纤",
+     "prompt": "42mm圆角方形表盘，浅灰碳纤维复合材质表壳，米白透气尼龙快拆表带，表冠旁嵌入微型激光测距窗与海拔校准旋钮，屏幕为1.1英寸低功耗LCD，背面印有'RTK亚米级精度'蚀刻标识",
+     "file": "images/gear/ccbf2d4a49_1.png",
+     "thumb": "images/gear/thumbs/ccbf2d4a49_1.jpg"
+    }
+   ]
+  },
+  "LED紫外诱虫灯": {
+   "category": "农林工具",
+   "variants": [
+    {
+     "label": "便携折叠款·365nm/20W",
+     "prompt": "可三段式折叠的铝合金灯架，展开后高48cm，主灯体为哑光黑ABS外壳，内置8颗365nm紫外LED阵列与环形散热鳍片，底部配磁吸底座与USB-C供电口，灯罩边缘印有'波长±2nm'参数",
+     "file": "images/gear/c722869bde_0.png",
+     "thumb": "images/gear/thumbs/c722869bde_0.jpg"
+    },
+    {
+     "label": "田间固定款·395nm/60W",
+     "prompt": "立式铸铝灯柱结构，高120cm，顶部为白色PC漫射罩覆盖12颗395nm紫外LED模组，中部集成温控风扇与防雨接线盒，底座为镀锌钢板配M10地脚螺栓孔，侧面蚀刻'IP65/AC220V'铭牌",
+     "file": "images/gear/c722869bde_1.png",
+     "thumb": "images/gear/thumbs/c722869bde_1.jpg"
+    }
+   ]
+  },
+  "pH试纸套装": {
+   "category": "实验耗材",
+   "variants": [
+    {
+     "label": "精密梯度款·0.2pH/100条",
+     "prompt": "深蓝硬质PP翻盖盒（12×8×3cm），内含100条独立铝箔单片装试纸，每条印有0.2间隔色阶（pH3.0–10.0共36阶），盒面烫金标注'±0.1误差'与NIST溯源编号",
+     "file": "images/gear/2950adbfaa_0.png",
+     "thumb": "images/gear/thumbs/2950adbfaa_0.jpg"
+    },
+    {
+     "label": "野外速判款·1.0pH/50条+比色卡",
+     "prompt": "橙红防水牛皮纸卷筒包装（直径6cm×高15cm），内含50条宽幅试纸（1cm×5cm）与PVC覆膜比色卡（含pH4–9七档色块），筒身压印'耐湿抗UV'及野外使用示意图",
+     "file": "images/gear/2950adbfaa_1.png",
+     "thumb": "images/gear/thumbs/2950adbfaa_1.jpg"
+    }
+   ]
+  },
+  "便携式显微镜头": {
+   "category": "科研配件",
+   "variants": [
+    {
+     "label": "手机夹持款·100×金属镜筒",
+     "prompt": "阳极氧化银灰铝合金镜筒（Φ22mm×65mm），带三爪弹簧手机夹与微调焦环，前端镀膜消色差物镜，尾部C口转接环刻有'NA0.35/F2.0'参数，附赠绒布收纳袋",
+     "file": "images/gear/16dfd536b1_0.png",
+     "thumb": "images/gear/thumbs/16dfd536b1_0.jpg"
+    },
+    {
+     "label": "微距相机款·200×双轨调焦",
+     "prompt": "哑光黑镁合金主体（78×32×28mm），双平行导轨式粗微调机构，顶部带M42螺纹接口与LED环形补光灯（色温5500K），侧面激光雕刻'分辨率1.2μm@200×'",
+     "file": "images/gear/16dfd536b1_1.png",
+     "thumb": "images/gear/thumbs/16dfd536b1_1.jpg"
+    }
+   ]
+  },
+  "便携式气味采集瓶": {
+   "category": "科研耗材",
+   "variants": [
+    {
+     "label": "吸附管型·10mL玻璃+Tenax",
+     "prompt": "透明硼硅酸盐玻璃瓶（Φ25mm×80mm），瓶口配PTFE内衬铝盖与硅胶隔垫，瓶身贴耐高温标签注明'Tenax TA吸附剂/批号LOT-2024'，底部印有ISO16000认证徽标",
+     "file": "images/gear/97869e82b5_0.png",
+     "thumb": "images/gear/thumbs/97869e82b5_0.jpg"
+    },
+    {
+     "label": "动态捕集型·50mL不锈钢+冷阱",
+     "prompt": "雾面不锈钢圆柱瓶（Φ40mm×110mm），顶部集成微型Peltier冷阱模块与气密快插接口，瓶壁蚀刻'−20℃捕集/兼容GC-MS'，附磁吸式温度显示屏（显示当前冷阱温度）",
+     "file": "images/gear/97869e82b5_1.png",
+     "thumb": "images/gear/thumbs/97869e82b5_1.jpg"
+    }
+   ]
+  },
+  "便携式超声波地形扫描仪": {
+   "category": "测绘仪器",
+   "variants": [
+    {
+     "label": "手持探地款·250MHz/1kg",
+     "prompt": "流线型深灰聚碳酸酯机身（220×85×55mm），前端嵌入250MHz超声换能器阵列与防刮蓝宝石窗，右侧带橡胶握把与三档灵敏度拨杆，背部LED屏显示深度剖面图，底部刻'穿透深度≤3m（土壤）'",
+     "file": "images/gear/8f0ef73baf_0.png",
+     "thumb": "images/gear/thumbs/8f0ef73baf_0.jpg"
+    },
+    {
+     "label": "背包集成款·80MHz/3.2kg",
+     "prompt": "模块化碳纤框架背负系统，主舱内置80MHz低频换能器（Φ120mm圆形发射面）与锂电池组，肩带集成姿态传感器与蓝牙天线，舱盖印有'地质雷达模式/GPS同步'浮雕文字",
+     "file": "images/gear/8f0ef73baf_1.png",
+     "thumb": "images/gear/thumbs/8f0ef73baf_1.jpg"
+    }
+   ]
+  },
+  "声纹记录本": {
+   "category": "专业文具",
+   "variants": [
+    {
+     "label": "数字同步款·A5/蓝牙声纹页",
+     "prompt": "深绿帆布封面A5笔记本（210×148mm），内页为特殊涂层纸（每页右下角嵌入NFC芯片），封底缝制蓝牙5.2模块与Type-C充电口，封面烫银'声纹时间戳'字样",
+     "file": "images/gear/40496418e6_0.png",
+     "thumb": "images/gear/thumbs/40496418e6_0.jpg"
+    },
+    {
+     "label": "模拟存档款·B5/碳素压纹页",
+     "prompt": "棕褐再生纸板封面B5本（250×176mm），内页采用300gsm碳素压纹纸（触感颗粒状），每页顶部印有毫米波形坐标格与'频率轴0–20kHz'标尺，书脊压印'无电存档·保质20年'",
+     "file": "images/gear/40496418e6_1.png",
+     "thumb": "images/gear/thumbs/40496418e6_1.jpg"
+    }
+   ]
+  },
+  "数字标本存档云盘": {
+   "category": "数字硬件",
+   "variants": [
+    {
+     "label": "生态专版·1TB/标本加密",
+     "prompt": "哑光白ABS立方体云盘（100×100×15mm），正面蚀刻绿色叶片图标与'HerbariumVault v3.2'，USB-C接口旁设生物特征识别凹槽，底部印有'支持JPEG/RAW/3D扫描格式'",
+     "file": "images/gear/78a83ed394_0.png",
+     "thumb": "images/gear/thumbs/78a83ed394_0.jpg"
+    },
+    {
+     "label": "昆虫特供·2TB/多模态索引",
+     "prompt": "墨绿金属拉丝云盘（110×110×18mm），顶部嵌入微型LED指示灯阵列（对应分类目：鳞翅目/鞘翅目等），侧面激光雕刻'含形态/声纹/气味元数据模板'，附赠昆虫分类快捷键贴纸",
+     "file": "images/gear/78a83ed394_1.png",
+     "thumb": "images/gear/thumbs/78a83ed394_1.jpg"
+    }
+   ]
+  },
+  "植物标本夹": {
+   "category": "标本工具",
+   "variants": [
+    {
+     "label": "传统木框款·30×40cm/榉木",
+     "prompt": "整块榉木刨光制成双层框体（30×40×2.5cm），四角铜包角加固，配8根黄铜捆扎带与蝴蝶结式调节扣，内衬天然棉麻压板，框背烙印'GB/T 19568-2022'标准码",
+     "file": "images/gear/95c6400e5d_0.png",
+     "thumb": "images/gear/thumbs/95c6400e5d_0.jpg"
+    },
+    {
+     "label": "真空干燥款·25×35cm/铝合金",
+     "prompt": "航空铝CNC铣削标本夹（25×35×3.2cm），上下板带真空密封槽与压力表（0–0.1MPa），侧边集成微型真空泵与USB充电口，表面阳极氧化深空灰，刻有'72h脱水完成'进度标尺",
+     "file": "images/gear/95c6400e5d_1.png",
+     "thumb": "images/gear/thumbs/95c6400e5d_1.jpg"
+    }
+   ]
+  },
+  "气味日志本": {
+   "category": "专业文具",
+   "variants": [
+    {
+     "label": "嗅觉编码款·A6/气味轮内页",
+     "prompt": "靛蓝软PU封面A6本（105×148mm），内页每页印有12分区气味轮（花香/树脂/腐殖等），右侧留白区带微孔透气膜（模拟鼻腔湿度），扉页嵌入气味强度滑动标尺（0–10级）",
+     "file": "images/gear/7749e25cb9_0.png",
+     "thumb": "images/gear/thumbs/7749e25cb9_0.jpg"
+    },
+    {
+     "label": "田野速记款·B6/防水撕页",
+     "prompt": "迷彩纹防水合成纸B6本（125×176mm），每页含三栏：左栏气味描述（带中英文术语对照表）、中栏环境参数填空、右栏撕页式样本袋（PE+铝箔复合材质），书脊热压'耐雨淋/紫外线稳定'字样",
+     "file": "images/gear/7749e25cb9_1.png",
+     "thumb": "images/gear/thumbs/7749e25cb9_1.jpg"
+    }
+   ]
+  },
+  "气味编码手册": {
+   "category": "专业图书",
+   "variants": [
+    {
+     "label": "ISO标准版·精装/128色谱",
+     "prompt": "深红布面精装本（180×250mm），烫金'ISO 8586:2023'徽标，内页采用棉浆纸印刷128种标准气味色谱图（含CAS号与阈值浓度），每页右上角嵌二维码链接官方数据库",
+     "file": "images/gear/fe6f5a0d82_0.png",
+     "thumb": "images/gear/thumbs/fe6f5a0d82_0.jpg"
+    },
+    {
+     "label": "野外简明版·塑封/折页图鉴",
+     "prompt": "高密度PP折页手册（展开80×50cm），六折设计分'森林/湿地/城市'场景，每区配12种气味剪影图标与快速编码（如S3-F2代表松脂-中强度），边缘印有荧光绿'防水/耐揉搓'标识",
+     "file": "images/gear/fe6f5a0d82_1.png",
+     "thumb": "images/gear/thumbs/fe6f5a0d82_1.jpg"
+    }
+   ]
+  },
+  "防水声呐地图册": {
+   "category": "测绘图书",
+   "variants": [
+    {
+     "label": "淡水生态版·A3/声呐叠层",
+     "prompt": "加厚防水PVC封面A3地图册（297×420mm），内页为五层叠合透明PET膜（分别呈现水深/底质/植被/鱼类分布/声呐轨迹），每页右下角嵌微型LED灯控点（触控点亮对应图层），封底印'兼容Echoview软件'",
+     "file": "images/gear/0f1fd1acf6_0.png",
+     "thumb": "images/gear/thumbs/0f1fd1acf6_0.jpg"
+    },
+    {
+     "label": "海洋勘探版·B2/磁吸拓扑",
+     "prompt": "哑光黑磁性橡胶封面B2册（420×594mm），内页为柔性磁吸拓扑图（可吸附于金属船舱壁），图面以浮雕工艺呈现等深线与声呐反射强度（0–100%），侧边烫印'支持SideScan与CHIRP双模'",
+     "file": "images/gear/0f1fd1acf6_1.png",
+     "thumb": "images/gear/thumbs/0f1fd1acf6_1.jpg"
+    }
+   ]
+  },
+  "防蚊透气观测服": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "丛林长袖款·UPF50+/网眼腋下",
+     "prompt": "橄榄绿高弹涤纶混纺面料（含5%氨纶），前襟隐藏式防蚊涂层（含拟除虫菊酯缓释微胶囊），腋下与后背为立体蜂窝网眼拼接，左臂绣'IR-reflective'反光标，下摆带抽绳与防虫裤脚套",
+     "file": "images/gear/656fd1ebfb_0.png",
+     "thumb": "images/gear/thumbs/656fd1ebfb_0.jpg"
+    },
+    {
+     "label": "湿地短袖款·Coolmax+驱避印花",
+     "prompt": "浅灰Coolmax速干面料短袖衫（含银离子抗菌处理），胸前印有驱避植物图案（印料含香茅醛微胶囊），领口与袖口嵌入弹性防蚊织带（宽度2cm），后颈处缝制可拆卸UPF50+防晒帽檐",
+     "file": "images/gear/656fd1ebfb_1.png",
+     "thumb": "images/gear/thumbs/656fd1ebfb_1.jpg"
+    }
+   ]
+  },
+  "鳞翅目分类图鉴APP": {
+   "category": "数字软件",
+   "variants": [
+    {
+     "label": "离线专业版·含DNA条形码",
+     "prompt": "手机界面截图：深蓝渐变背景，主屏显示高清凤蝶科分类树（支持缩放），右下角悬浮'Barcode Scanner'按钮，顶部状态栏显示'本地库v4.3/离线可用'，界面角落有DNA双螺旋图标",
+     "file": "images/gear/d6a67c2fc7_0.png",
+     "thumb": "images/gear/thumbs/d6a67c2fc7_0.jpg"
+    },
+    {
+     "label": "野外速查版·AR叠加识别",
+     "prompt": "手机界面截图：实时摄像头画面叠加半透明分类框（框内显示'柑橘凤蝶 Papilio xuthus'及可信度92%），底部滑动栏含'翅脉/斑纹/栖息地'三键，左上角显示'AR Mode Active/电池剩余78%'",
+     "file": "images/gear/d6a67c2fc7_1.png",
+     "thumb": "images/gear/thumbs/d6a67c2fc7_1.jpg"
     }
    ]
   }
