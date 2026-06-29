@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-06-29T17:08:43+08:00",
-  "top100_ready": 875,
+  "updated_at": "2026-06-29T18:12:00+08:00",
+  "top100_ready": 915,
   "top100_total": 915,
-  "top100_pending": 40,
-  "top100_missing_spec": 20
+  "top100_pending": 0,
+  "top100_missing_spec": 0
  },
  "gear": {
   "135/120胶卷": {
@@ -15284,6 +15284,346 @@
      "prompt": "银灰铝箔独立小袋装鹿角胶粉，每袋30g，袋面烫金‘即溶鹿角胶｜低温喷雾干燥’，粉末呈浅米黄色，细腻无结块，袋口热封带易撕锯齿",
      "file": "images/gear/b823a169a7_1.png",
      "thumb": "images/gear/thumbs/b823a169a7_1.jpg"
+    }
+   ]
+  },
+  "UV-A手持荧光灯": {
+   "category": "科研检测装备",
+   "variants": [
+    {
+     "label": "365nm窄带·12cm铝合金机身",
+     "prompt": "银灰阳极氧化铝合金圆柱形手持灯，直径3.2cm、长12cm，前端嵌入式365nm紫外LED阵列（4颗），侧面蚀刻波长标识与电量指示灯，尾部Type-C充电口与物理开关按钮，哑光磨砂表面处理",
+     "file": "images/gear/6ae4cbd149_0.png",
+     "thumb": "images/gear/thumbs/6ae4cbd149_0.jpg"
+    },
+    {
+     "label": "395nm宽谱·8cm工程塑料款",
+     "prompt": "深蓝ABS工程塑料短筒型UV灯，直径3.8cm、长8cm，前端半透明PC扩散罩覆盖395nm宽谱LED，顶部集成触摸感应开关与三档亮度环，底部磁吸底座可吸附于金属表面，表面有防滑菱形纹理",
+     "file": "images/gear/6ae4cbd149_1.png",
+     "thumb": "images/gear/thumbs/6ae4cbd149_1.jpg"
+    }
+   ]
+  },
+  "便携嗅闻瓶套装": {
+   "category": "感官研究工具",
+   "variants": [
+    {
+     "label": "10ml玻璃瓶·12格铝盒装",
+     "prompt": "透明高硼硅玻璃嗅闻瓶12支，每支容量10ml，瓶身激光刻度线与编号01-12，配黑色阳极氧化铝制便携收纳盒（18×12×5cm），盒盖内嵌磁吸式分隔卡槽，盒面蚀刻‘Olfactory Field Kit’字样",
+     "file": "images/gear/9106689177_0.png",
+     "thumb": "images/gear/thumbs/9106689177_0.jpg"
+    },
+    {
+     "label": "2ml聚丙烯瓶·24格折叠布包",
+     "prompt": "医用级聚丙烯材质微型嗅闻瓶24支，每支2ml，瓶体为雾面白+浅灰渐变色，带硅胶密封旋盖与滴管接口，收纳于橄榄绿防水尼龙折叠包（展开后25×18cm），内衬EVA模切凹槽与标签插袋",
+     "file": "images/gear/9106689177_1.png",
+     "thumb": "images/gear/thumbs/9106689177_1.jpg"
+    }
+   ]
+  },
+  "便携式XRF元素分析笔": {
+   "category": "地质检测装备",
+   "variants": [
+    {
+     "label": "轻量钛合金·Fe-Cu-Zn专用",
+     "prompt": "钛灰钛合金外壳XRF笔，长16.5cm、直径3.1cm，前端陶瓷X射线窗口带不锈钢防护栅，侧面LCD屏显示Fe/Cu/Zn三元素实时浓度，尾部USB-C接口与橙色触发按钮，重量仅280g",
+     "file": "images/gear/d3b655ca7b_0.png",
+     "thumb": "images/gear/thumbs/d3b655ca7b_0.jpg"
+    },
+    {
+     "label": "全元素增强·碳纤维握柄款",
+     "prompt": "哑光黑碳纤维复合材料XRF分析笔，长18.2cm、直径3.6cm，前端加厚铍窗与双层准直器，侧面彩色触控屏支持18种元素谱图叠加，握柄段含防滑硅胶纹路与蓝光状态环，底部可拆卸校准标样仓",
+     "file": "images/gear/d3b655ca7b_1.png",
+     "thumb": "images/gear/thumbs/d3b655ca7b_1.jpg"
+    }
+   ]
+  },
+  "便携式声纹记录仪": {
+   "category": "生物声学装备",
+   "variants": [
+    {
+     "label": "MEMS麦克风·-20dB信噪比",
+     "prompt": "枪灰色铝合金圆柱形声纹记录仪，直径4.2cm、高9.8cm，顶部集成三阵列MEMS麦克风（0°/120°/240°指向），侧面双色LED状态灯与物理录音键，底部microSD卡槽与3.5mm线路输入接口，表面微喷砂处理",
+     "file": "images/gear/f2d3a62dba_0.png",
+     "thumb": "images/gear/thumbs/f2d3a62dba_0.jpg"
+    },
+    {
+     "label": "超心型动圈·IP67防水款",
+     "prompt": "深海蓝环氧树脂包覆声纹仪，直径5.1cm、高11.3cm，顶部超心型动圈麦克风带可拆卸防风海绵罩，整机IP67等级密封结构，侧面旋钮式增益调节与OLED频谱预览屏，底部M12工业接口与挂绳孔",
+     "file": "images/gear/f2d3a62dba_1.png",
+     "thumb": "images/gear/thumbs/f2d3a62dba_1.jpg"
+    }
+   ]
+  },
+  "地质剖面速写板": {
+   "category": "野外测绘工具",
+   "variants": [
+    {
+     "label": "A4硬质夹层·内置比例尺",
+     "prompt": "米白再生纸基速写板（21×29.7cm），双面覆哑光PET膜，正面印有1:50/1:100/1:200三档地质剖面网格线与毫米级横向标尺，背板嵌入式铝制直尺（30cm）与可擦写标签区",
+     "file": "images/gear/b28ec6c5d5_0.png",
+     "thumb": "images/gear/thumbs/b28ec6c5d5_0.jpg"
+    },
+    {
+     "label": "A3折叠磁吸·岩性色标联动",
+     "prompt": "灰褐双色折叠速写板（展开A3尺寸），采用蜂窝铝芯+磁性背板，展开后左右页分别印标准岩性色卡（12色）与空白剖面网格（1:200），折痕处嵌钕磁铁用于固定铅笔与岩样薄片",
+     "file": "images/gear/b28ec6c5d5_1.png",
+     "thumb": "images/gear/thumbs/b28ec6c5d5_1.jpg"
+    }
+   ]
+  },
+  "地质罗盘仪": {
+   "category": "野外测绘工具",
+   "variants": [
+    {
+     "label": "经典黄铜·倾角锁定款",
+     "prompt": "黄铜主体地质罗盘，直径8.5cm、厚2.3cm，镜面抛光铜圈带360°刻度与倾斜角游标，底部球窝式倾角锁定旋钮，盖板内嵌反光瞄准镜与水准泡，皮套扣带为植鞣革",
+     "file": "images/gear/b900672ed6_0.png",
+     "thumb": "images/gear/thumbs/b900672ed6_0.jpg"
+    },
+    {
+     "label": "钛黑复合·数字倾角屏显",
+     "prompt": "哑光黑钛合金罗盘（直径9.2cm、厚2.8cm），上盖为蓝宝石玻璃触控屏实时显示方位角/倾角/坡向，内置电子倾角传感器与GPS模块，侧边物理归零键与USB-C数据导出口，底部强磁吸附底座",
+     "file": "images/gear/b900672ed6_1.png",
+     "thumb": "images/gear/thumbs/b900672ed6_1.jpg"
+    }
+   ]
+  },
+  "岩层色卡本": {
+   "category": "地质教学工具",
+   "variants": [
+    {
+     "label": "Munsell标准·128页活页",
+     "prompt": "深绿帆布封面岩层色卡本，A5尺寸，内含128页活页Munsell标准色卡（10YR至5R全谱系），每页左栏实物矿物照片、右栏对应Munsell代码与野外描述术语，页脚镀镍金属环装订",
+     "file": "images/gear/c600161745_0.png",
+     "thumb": "images/gear/thumbs/c600161745_0.jpg"
+    },
+    {
+     "label": "野外耐候版·PVC覆膜卡册",
+     "prompt": "橄榄绿防水PVC封面色卡册（15×10cm），内嵌64张双面覆膜岩层色卡（每张含5级明度梯度），卡页边缘激光打孔便于撕下，封底集成岩石硬度摩氏标尺与酸反应测试区",
+     "file": "images/gear/c600161745_1.png",
+     "thumb": "images/gear/thumbs/c600161745_1.jpg"
+    }
+   ]
+  },
+  "无光污染遮光帐篷": {
+   "category": "天文观测装备",
+   "variants": [
+    {
+     "label": "1.8m穹顶·三层遮光布",
+     "prompt": "纯黑高密度涤纶三层遮光帐篷，直径1.8m、高1.3m穹顶结构，外层抗UV涂层、中层铝箔反射层、内层绒面吸光层，顶部磁吸式天窗盖与双拉链门，地钉与风绳全套配齐",
+     "file": "images/gear/4a14f645e7_0.png",
+     "thumb": "images/gear/thumbs/4a14f645e7_0.jpg"
+    },
+    {
+     "label": "1.2m立方·快拆铝合金架",
+     "prompt": "哑光炭黑遮光帐篷（1.2×1.2×1.2m），采用6061-T6铝合金快拆骨架，篷布为纳米级碳黑涂层聚酯，四面设静音拉链观察窗与设备穿线孔，底部加厚TPU防潮垫一体化缝合",
+     "file": "images/gear/4a14f645e7_1.png",
+     "thumb": "images/gear/thumbs/4a14f645e7_1.jpg"
+    }
+   ]
+  },
+  "暗光显微镜贴片": {
+   "category": "光学观测配件",
+   "variants": [
+    {
+     "label": "CL-1型·3mm厚柔性硅胶",
+     "prompt": "深灰半透明柔性硅胶显微镜贴片，直径28mm、厚3mm，中心精密蚀刻0.1mm十字刻度与同心圆标尺，边缘带微吸盘结构，背面覆低残留丙烯酸胶层与离型纸保护膜",
+     "file": "images/gear/0ef283bcd9_0.png",
+     "thumb": "images/gear/thumbs/0ef283bcd9_0.jpg"
+    },
+    {
+     "label": "UV激发型·荧光标记层",
+     "prompt": "透紫蓝荧光显微贴片（直径32mm、厚2.5mm），基材为光学级PMMA，表面蒸镀405nm激发荧光标记环（绿色发光），中心蚀刻0.05mm分辨率标尺，附赠UV校准滤光片卡扣支架",
+     "file": "images/gear/0ef283bcd9_1.png",
+     "thumb": "images/gear/thumbs/0ef283bcd9_1.jpg"
+    }
+   ]
+  },
+  "本地植物气味卡片": {
+   "category": "生态教育工具",
+   "variants": [
+    {
+     "label": "华东区·12种挥发油浸渍",
+     "prompt": "米白棉浆纸气味卡片（8×12cm），单面印刷华东常见植物线描图与拉丁名，背面微孔浸渍区含12种植物挥发油（薄荷/樟/山茶等），边缘烫金区域标注采集海拔与季节，圆角防撕设计",
+     "file": "images/gear/b43ce6f185_0.png",
+     "thumb": "images/gear/thumbs/b43ce6f185_0.jpg"
+    },
+    {
+     "label": "西南喀斯特·微胶囊缓释款",
+     "prompt": "石青色再生纸气味卡（9×13cm），正面为喀斯特特有植物手绘+二维码链接生境音频，背面嵌入24个微胶囊缓释点（按压释放），每点对应一种石灰岩生境植物气味，覆哑光UV保护膜",
+     "file": "images/gear/b43ce6f185_1.png",
+     "thumb": "images/gear/thumbs/b43ce6f185_1.jpg"
+    }
+   ]
+  },
+  "气味采集棉签": {
+   "category": "感官研究工具",
+   "variants": [
+    {
+     "label": "无纺布头·15cmPP杆",
+     "prompt": "白色无纺布采样头（直径4mm）接15cm聚丙烯细杆，杆身激光印‘Odor Sample’与批次号，头部微褶皱结构增强吸附，独立铝箔密封包装（每包10支），边缘带易撕缺口",
+     "file": "images/gear/5d864dd9de_0.png",
+     "thumb": "images/gear/thumbs/5d864dd9de_0.jpg"
+    },
+    {
+     "label": "碳纤维头·可替换式",
+     "prompt": "哑光黑碳纤维采样杆（18cm），前端可旋拧更换三种吸附头：白色活性炭头/浅灰硅胶头/米黄分子筛头，杆身刻度线（0–15cm）与六角防滑握持段，配磁吸式多头收纳筒",
+     "file": "images/gear/5d864dd9de_1.png",
+     "thumb": "images/gear/thumbs/5d864dd9de_1.jpg"
+    }
+   ]
+  },
+  "生物声谱比对手册": {
+   "category": "生态监测工具",
+   "variants": [
+    {
+     "label": "鸣禽专版·A5螺旋装",
+     "prompt": "苔藓绿软壳手册（14.8×21cm），螺旋钢丝装订，内页为哑光铜版纸印制120种鸣禽声谱图（含时频图+谐波标注），每页右侧留白笔记区，封底嵌入NFC芯片链接在线数据库",
+     "file": "images/gear/e9707202ef_0.png",
+     "thumb": "images/gear/thumbs/e9707202ef_0.jpg"
+    },
+    {
+     "label": "两栖夜行版·防水撕页",
+     "prompt": "深褐TPU覆膜手册（15×22cm），撕页式设计（每页可撕下），内页为防水合成纸印制蛙类/蟋蟀声谱对比表（含温度校正系数），页脚印红外夜视辅助色块，封底集成声压级换算转盘",
+     "file": "images/gear/e9707202ef_1.png",
+     "thumb": "images/gear/thumbs/e9707202ef_1.jpg"
+    }
+   ]
+  },
+  "盲测记录手账": {
+   "category": "感官研究工具",
+   "variants": [
+    {
+     "label": "五感分区·牛皮纸裸脊",
+     "prompt": "燕麦色再生牛皮纸手账（12×18cm），裸脊线装，内页按视觉/听觉/嗅觉/味觉/触觉五区划分，每区含标准化评分表与自由绘图区，纸张含30%碎木纤维，页眉烫印盲文编号",
+     "file": "images/gear/14a80566d6_0.png",
+     "thumb": "images/gear/thumbs/14a80566d6_0.jpg"
+    },
+    {
+     "label": "数字同步版·NFC芯片页",
+     "prompt": "石墨灰微纤维封面手账（13×19cm），内嵌NFC芯片页（每10页1张），触碰手机自动上传记录至加密云端；内页为防洇水特种纸，含AR标记框（扫描生成3D气味模型），侧边索引色带编码感官维度",
+     "file": "images/gear/14a80566d6_1.png",
+     "thumb": "images/gear/thumbs/14a80566d6_1.jpg"
+    }
+   ]
+  },
+  "矿物显微放大镜": {
+   "category": "地质检测装备",
+   "variants": [
+    {
+     "label": "10×LED环形灯·铝制",
+     "prompt": "银灰航空铝显微放大镜，镜筒长12cm、直径3.5cm，10倍消色差透镜组，前端集成8颗暖白LED环形灯（可调三档亮度），底部磁吸底座与折叠式支撑腿，镜筒刻蚀放大倍率与焦距标尺",
+     "file": "images/gear/89d27b67d6_0.png",
+     "thumb": "images/gear/thumbs/89d27b67d6_0.jpg"
+    },
+    {
+     "label": "20×偏振光·木质握柄",
+     "prompt": "胡桃木握柄矿物放大镜，镜筒长15cm、直径4.2cm，20倍复式透镜含可旋转偏振片（0°–90°刻度），顶部物镜带可拆卸蓝紫滤光片，木质段激光雕刻矿物晶系符号，底部配皮质挂绳孔",
+     "file": "images/gear/89d27b67d6_1.png",
+     "thumb": "images/gear/thumbs/89d27b67d6_1.jpg"
+    }
+   ]
+  },
+  "离线声纹识别APP": {
+   "category": "数字工具",
+   "variants": [
+    {
+     "label": "鸟类识别·128MB本地库",
+     "prompt": "APP图标为靛蓝背景+白色声波图，界面截图显示离线模式下识别结果页：左侧为实时频谱瀑布图，右侧列出Top3鸟种（戴胜/白鹡鸰/棕背伯劳）及置信度百分比，底部‘无网络·已加载128MB模型’提示栏",
+     "file": "images/gear/8e5434e4d2_0.png",
+     "thumb": "images/gear/thumbs/8e5434e4d2_0.jpg"
+    },
+    {
+     "label": "蛙类方言版·含海拔校正",
+     "prompt": "APP界面截图呈墨绿主题，主屏显示蛙类声纹匹配热力图（横轴时间/纵轴频率），识别结果含方言亚种标注（如‘隆肛蛙川西亚种’）与海拔修正值（±120m），右上角显示‘离线运行·海拔补偿启用’状态徽章",
+     "file": "images/gear/8e5434e4d2_1.png",
+     "thumb": "images/gear/thumbs/8e5434e4d2_1.jpg"
+    }
+   ]
+  },
+  "菌落荧光色谱卡": {
+   "category": "微生物检测装备",
+   "variants": [
+    {
+     "label": "UV254激发·12色标准卡",
+     "prompt": "哑光白硬质PVC色谱卡（10×15cm），正面印12格标准荧光色块（DAPI/Calcofluor等），每格标注激发波长与发射峰，背面印荧光强度对照阶梯（0–5级），四角圆孔便于夹持，边缘激光刻序列号",
+     "file": "images/gear/df7b10a68a_0.png",
+     "thumb": "images/gear/thumbs/df7b10a68a_0.jpg"
+    },
+    {
+     "label": "蓝光450nm·活菌特异卡",
+     "prompt": "浅蓝PET基底荧光卡（11×16cm），印8种活菌特异性荧光响应色块（如BacLight™双染），每格含‘活/死’双通道比色指引，卡面覆防刮AR涂层，底部集成QR码链接染色协议视频",
+     "file": "images/gear/df7b10a68a_1.png",
+     "thumb": "images/gear/thumbs/df7b10a68a_1.jpg"
+    }
+   ]
+  },
+  "野外防潮麦克风": {
+   "category": "生物声学装备",
+   "variants": [
+    {
+     "label": "硅胶网罩·IP68级",
+     "prompt": "哑光灰硅胶全包覆麦克风（长12.5cm、直径2.8cm），前端蜂窝状硅胶防潮网罩无缝覆盖，主体为钛合金腔体，侧面microUSB接口带橡胶密封塞，尾部3.5mm输出口配氟化橡胶护套",
+     "file": "images/gear/2c355981ff_0.png",
+     "thumb": "images/gear/thumbs/2c355981ff_0.jpg"
+    },
+    {
+     "label": "定向冷凝·双振膜结构",
+     "prompt": "深空蓝阳极氧化铝麦克风（长14.2cm、直径3.3cm），前端双层冷凝防潮格栅（内嵌吸湿凝胶环），双振膜结构支持±15°指向调节，侧面OLED屏显示湿度阈值与信号强度，底部M12螺纹接口",
+     "file": "images/gear/2c355981ff_1.png",
+     "thumb": "images/gear/thumbs/2c355981ff_1.jpg"
+    }
+   ]
+  },
+  "防水声纹采样本": {
+   "category": "生物声学装备",
+   "variants": [
+    {
+     "label": "500ml硅胶密封·浮力舱",
+     "prompt": "半透明食品级硅胶采样本（500ml容量），球形结构带双道硅胶密封圈与旋转锁扣盖，顶部嵌入声学级水下麦克风接口（IP68），底部配可拆卸EVA浮力舱（黄色），瓶身激光刻容积刻度与耐压标识（10atm）",
+     "file": "images/gear/a942ebeb88_0.png",
+     "thumb": "images/gear/thumbs/a942ebeb88_0.jpg"
+    },
+    {
+     "label": "1L钛合金真空·温控舱",
+     "prompt": "镜面抛光钛合金采样本（1L圆柱形，高22cm、直径9cm），真空双层壁结构，内胆嵌PT100温度传感器与声学阻尼衬层，顶部快插式水下麦克风接口与压力平衡阀，侧面电子屏显示实时温度/压力/录音状态",
+     "file": "images/gear/a942ebeb88_1.png",
+     "thumb": "images/gear/thumbs/a942ebeb88_1.jpg"
+    }
+   ]
+  },
+  "风洞预约系统": {
+   "category": "数字工具",
+   "variants": [
+    {
+     "label": "高校共享版·微信小程序",
+     "prompt": "微信小程序界面截图：首页为蓝色科技风，顶部显示‘XX大学风洞中心’，中部滚动显示空闲时段（今日14:00–15:30/16:00–17:00），下方‘一键预约’按钮带齿轮图标，底部导航栏含‘设备参数’‘安全须知’‘历史记录’",
+     "file": "images/gear/eac5413022_0.png",
+     "thumb": "images/gear/thumbs/eac5413022_0.jpg"
+    },
+    {
+     "label": "研究所定制版·桌面客户端",
+     "prompt": "Windows桌面客户端界面截图：深灰主窗口含三维风洞模型缩略图，左侧预约日历（高亮显示已预约时段），右侧显示当前可用喷口配置（Φ20mm/Φ50mm/矩形槽），状态栏显示‘实时气流监控：开启’与‘校准有效期：2025-06’",
+     "file": "images/gear/eac5413022_1.png",
+     "thumb": "images/gear/thumbs/eac5413022_1.jpg"
+    }
+   ]
+  },
+  "飞行服": {
+   "category": "专业防护装备",
+   "variants": [
+    {
+     "label": "轻量通勤款·Coolmax面料",
+     "prompt": "藏青弹力混纺飞行服，修身剪裁，前襟双排银色按扣，肩章位预留魔术贴，肘部与膝部加厚Coolmax透气面料拼接，后背激光镂空通风网，腰侧隐藏式耳机线孔",
+     "file": "images/gear/bd0678314f_0.png",
+     "thumb": "images/gear/thumbs/bd0678314f_0.jpg"
+    },
+    {
+     "label": "高海拔抗压款·Gore-Tex Pro",
+     "prompt": "石墨黑Gore-Tex Pro三层压胶飞行服，立领带可拆卸保暖内胆，胸前双拉链口袋配防水拉链头，袖口与下摆弹性防风止口，背部印反光航空标识，腋下设YKK防水透气拉链通风口",
+     "file": "images/gear/bd0678314f_1.png",
+     "thumb": "images/gear/thumbs/bd0678314f_1.jpg"
     }
    ]
   }
