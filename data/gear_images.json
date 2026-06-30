@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-06-30T17:08:36+08:00",
-  "top100_ready": 875,
+  "updated_at": "2026-06-30T18:34:24+08:00",
+  "top100_ready": 921,
   "top100_total": 921,
-  "top100_pending": 46,
-  "top100_missing_spec": 23
+  "top100_pending": 0,
+  "top100_missing_spec": 0
  },
  "gear": {
   "135/120胶卷": {
@@ -15624,6 +15624,397 @@
      "prompt": "石墨黑Gore-Tex Pro三层压胶飞行服，立领带可拆卸保暖内胆，胸前双拉链口袋配防水拉链头，袖口与下摆弹性防风止口，背部印反光航空标识，腋下设YKK防水透气拉链通风口",
      "file": "images/gear/bd0678314f_1.png",
      "thumb": "images/gear/thumbs/bd0678314f_1.jpg"
+    }
+   ]
+  },
+  "AI蛙鸣识别小程序": {
+   "category": "数字工具/移动应用",
+   "variants": [
+    {
+     "label": "iOS轻量版·适配iPhone SE",
+     "prompt": "扁平化蓝色图标，含声波纹与跳跃青蛙剪影，圆角矩形App界面截图，左上角显示'FrogID Lite'字样，底部状态栏为iOS风格，浅灰背景",
+     "file": "images/gear/32a48dabf6_0.png",
+     "thumb": "images/gear/thumbs/32a48dabf6_0.jpg"
+    },
+    {
+     "label": "安卓专业版·含离线声库",
+     "prompt": "深绿渐变图标，嵌入麦克风与频谱图元素，Android手机界面截图，顶部显示'FrogID Pro v3.2'，右下角标注'Offline Library 128MB'，深灰状态栏",
+     "file": "images/gear/32a48dabf6_1.png",
+     "thumb": "images/gear/thumbs/32a48dabf6_1.jpg"
+    }
+   ]
+  },
+  "AR导航手机App": {
+   "category": "数字工具/移动应用",
+   "variants": [
+    {
+     "label": "徒步模式·支持离线地形叠加",
+     "prompt": "手机屏幕显示AR实景画面：山径路径以荧光黄虚线投射于真实林地路面，左上角悬浮海拔+坡度数据框，界面底部有‘Trail Mode’标签，玻璃质感UI",
+     "file": "images/gear/6ea707717e_0.png",
+     "thumb": "images/gear/thumbs/6ea707717e_0.jpg"
+    },
+    {
+     "label": "城市寻宝模式·POI动态浮标",
+     "prompt": "手机屏幕AR视图：老城区石板路实景中悬浮半透明青砖纹理气泡标，内含手绘地图图标与闪烁定位点，右上角显示‘Urban Quest v2’徽标，柔光边缘UI",
+     "file": "images/gear/6ea707717e_1.png",
+     "thumb": "images/gear/thumbs/6ea707717e_1.jpg"
+    }
+   ]
+  },
+  "GPS精准定位模块": {
+   "category": "电子元件/户外装备",
+   "variants": [
+    {
+     "label": "厘米级RTK·UBX-M8T芯片",
+     "prompt": "黑色PCB电路板，中央嵌入银色陶瓷天线罩，四周环绕金色焊点与‘UBX-M8T’激光蚀刻标识，尺寸32×25mm，哑光黑环氧树脂封装",
+     "file": "images/gear/fc09ad6f3f_0.png",
+     "thumb": "images/gear/thumbs/fc09ad6f3f_0.jpg"
+    },
+    {
+     "label": "亚米级GNSS·双频L1/L5",
+     "prompt": "深蓝铝合金外壳模块，顶部露出圆形多频天线阵列，侧面蚀刻‘L1+L5 Dual-Band’与‘1.2m CEP’参数，尺寸40×30×8mm，金属拉丝质感",
+     "file": "images/gear/fc09ad6f3f_1.png",
+     "thumb": "images/gear/thumbs/fc09ad6f3f_1.jpg"
+    }
+   ]
+  },
+  "NFC打卡手环": {
+   "category": "可穿戴设备/教育工具",
+   "variants": [
+    {
+     "label": "学生版·硅胶宽带·防水IP68",
+     "prompt": "浅蓝色医用级硅胶手环，宽22mm，正面嵌入哑光银色圆形NFC芯片区，边缘压印‘EduTrack Student’细字，无扣具一体成型",
+     "file": "images/gear/b8bc4d49c4_0.png",
+     "thumb": "images/gear/thumbs/b8bc4d49c4_0.jpg"
+    },
+    {
+     "label": "志愿者版·再生织物·磁吸快拆",
+     "prompt": "苔藓绿再生聚酯编织带，宽18mm，中央嵌入椭圆形磨砂黑NFC模块，两端配哑光镍磁吸扣，背面激光雕刻‘CitizenLab V2’",
+     "file": "images/gear/b8bc4d49c4_1.png",
+     "thumb": "images/gear/thumbs/b8bc4d49c4_1.jpg"
+    }
+   ]
+  },
+  "便携式土壤碳测仪": {
+   "category": "环境监测仪器",
+   "variants": [
+    {
+     "label": "手持式·红外光谱·0.1g精度",
+     "prompt": "灰白ABS工程塑料机身，顶部探头为黑色锥形红外窗口，LCD屏显示‘SOC: 3.7%’，右侧旋钮标‘CALIBRATE’，尺寸145×72×38mm，防滑橡胶握持区",
+     "file": "images/gear/d1db28f317_0.png",
+     "thumb": "images/gear/thumbs/d1db28f317_0.jpg"
+    },
+    {
+     "label": "插杆式·电化学传感器·深度30cm",
+     "prompt": "不锈钢探杆主体长30cm，顶端带橙色ABS手柄与LED指示灯，杆身刻度线至30cm，底部三叉电极呈哑光铜色，探头直径12mm",
+     "file": "images/gear/d1db28f317_1.png",
+     "thumb": "images/gear/thumbs/d1db28f317_1.jpg"
+    }
+   ]
+  },
+  "便携式声纹采样麦克风": {
+   "category": "音频设备/科研工具",
+   "variants": [
+    {
+     "label": "超心型·48kHz/24bit·铝镁合金",
+     "prompt": "银灰色铝镁合金圆柱体麦克风，直径22mm、高120mm，顶部网罩为细密不锈钢编织，底部Type-C接口带蓝色胶圈，侧面蚀刻‘BioVoice Pro’",
+     "file": "images/gear/a45b16e835_0.png",
+     "thumb": "images/gear/thumbs/a45b16e835_0.jpg"
+    },
+    {
+     "label": "全向型·防水膜·口袋尺寸",
+     "prompt": "哑光黑聚碳酸酯圆饼形麦克风，直径45mm、厚18mm，表面覆盖蜂窝状疏水膜，边缘一圈RGB状态灯，底部Micro-USB口带橙色密封盖",
+     "file": "images/gear/a45b16e835_1.png",
+     "thumb": "images/gear/thumbs/a45b16e835_1.jpg"
+    }
+   ]
+  },
+  "公民科学数据上传终端": {
+   "category": "物联网设备/教育硬件",
+   "variants": [
+    {
+     "label": "社区亭用·触控屏·Wi-Fi+4G",
+     "prompt": "竖立式白色ABS终端，10.1英寸电容屏居中，下方集成二维码扫描窗与物理上传键，顶部带‘CitizenData Hub’铭牌，底座宽320mm，哑光防眩光面板",
+     "file": "images/gear/34a897fb39_0.png",
+     "thumb": "images/gear/thumbs/34a897fb39_0.jpg"
+    },
+    {
+     "label": "野外箱载·按键屏·LoRa传输",
+     "prompt": "军绿色IP67防护箱式终端，3.5英寸单色OLED屏，四角物理按键带荧光绿背光，左侧LoRa天线为黑色柔性PCB条，尺寸180×120×65mm",
+     "file": "images/gear/34a897fb39_1.png",
+     "thumb": "images/gear/thumbs/34a897fb39_1.jpg"
+    }
+   ]
+  },
+  "共生关系思维导图本": {
+   "category": "文具/教育工具",
+   "variants": [
+    {
+     "label": "A5螺旋装·菌根网络主题页",
+     "prompt": "米白纸张封面，烫金‘Mycorrhiza Map’字样，内页每页顶部印浅灰菌丝分形边框，中心留白区带淡棕同心圆引导线，螺旋铁圈为哑光铜色",
+     "file": "images/gear/0e685d166d_0.png",
+     "thumb": "images/gear/thumbs/0e685d166d_0.jpg"
+    },
+    {
+     "label": "A4活页式·地衣共生主题页",
+     "prompt": "石板灰硬壳封面，压纹地衣拓片肌理，内页为可拆卸活页，每页右侧留白区印浅青苔状网格线，打孔位为双圆孔，活页环为哑光镍银",
+     "file": "images/gear/0e685d166d_1.png",
+     "thumb": "images/gear/thumbs/0e685d166d_1.jpg"
+    }
+   ]
+  },
+  "区域蛙类分布热力图插件": {
+   "category": "数字工具/地理信息系统",
+   "variants": [
+    {
+     "label": "QGIS插件·矢量热力层",
+     "prompt": "深蓝软件图标，含叠加在等高线地图上的橙红渐变热力斑块与蝌蚪形图例，图标底部标注‘QGIS 3.28+’，像素化界面示意缩略图",
+     "file": "images/gear/8a706bb9bb_0.png",
+     "thumb": "images/gear/thumbs/8a706bb9bb_0.jpg"
+    },
+    {
+     "label": "ArcGIS Pro工具箱·时空聚类分析",
+     "prompt": "靛紫工具箱图标，中央为三维地形模型叠加动态脉冲热力环，右下角显示‘Time-Space Cluster v1.4’，金属质感按钮UI元素",
+     "file": "images/gear/8a706bb9bb_1.png",
+     "thumb": "images/gear/thumbs/8a706bb9bb_1.jpg"
+    }
+   ]
+  },
+  "半透明菌丝拓印纸": {
+   "category": "手作材料/艺术耗材",
+   "variants": [
+    {
+     "label": "棉浆基·80gsm·15×20cm",
+     "prompt": "叠放三张半透明纸，呈现自然纤维纹理与微透菌丝印痕，边缘毛边，纸面泛柔光米白，单张厚度可见透光绒毛感，尺寸标注烫金小字",
+     "file": "images/gear/0f2847bfb6_0.png",
+     "thumb": "images/gear/thumbs/0f2847bfb6_0.jpg"
+    },
+    {
+     "label": "竹纤维基·120gsm·A4整张",
+     "prompt": "单张A4尺寸纸平铺，表面压印立体菌丝凸纹，材质呈淡青灰调，透光处显竹纤维束状结构，右下角凹印‘Bamboo MycoSheet’logo",
+     "file": "images/gear/0f2847bfb6_1.png",
+     "thumb": "images/gear/thumbs/0f2847bfb6_1.jpg"
+    }
+   ]
+  },
+  "厨余预处理筛": {
+   "category": "环保工具/厨房用品",
+   "variants": [
+    {
+     "label": "不锈钢细网·Φ25cm·2mm孔径",
+     "prompt": "镜面抛光304不锈钢圆筛，直径25cm，边缘卷边加厚，底部激光蚀刻‘2mm Mesh’，手柄为黑色防滑TPR包覆钢杆，整体冷光质感",
+     "file": "images/gear/34dd6aad19_0.png",
+     "thumb": "images/gear/thumbs/34dd6aad19_0.jpg"
+    },
+    {
+     "label": "竹编粗筛·30×40cm·8mm间隙",
+     "prompt": "天然淡黄竹丝手工编织筛，长方形框架，经纬交错形成8mm菱形空隙，四角榫卯结构，边缘包软木条，竹节纹理清晰可见",
+     "file": "images/gear/34dd6aad19_1.png",
+     "thumb": "images/gear/thumbs/34dd6aad19_1.jpg"
+    }
+   ]
+  },
+  "地下网络手绘模板": {
+   "category": "设计工具/教育教具",
+   "variants": [
+    {
+     "label": "PET透明片·菌丝路径层",
+     "prompt": "20×30cm透明PET片，双面蚀刻：正面为放射状菌丝主干线（0.3mm粗），背面为点状根系锚点，角落标‘Mycelium Layer’，边缘磨砂防滑处理",
+     "file": "images/gear/7f9c19b3ad_0.png",
+     "thumb": "images/gear/thumbs/7f9c19b3ad_0.jpg"
+    },
+    {
+     "label": "牛皮纸卡板·根际互作层",
+     "prompt": "22×32cm厚牛皮纸卡板，单面凸印植物根系与菌丝缠绕线稿，线条粗0.5mm带微浮雕感，右下角压印‘Rhizo Interaction’，纸面保留天然纤维颗粒",
+     "file": "images/gear/7f9c19b3ad_1.png",
+     "thumb": "images/gear/thumbs/7f9c19b3ad_1.jpg"
+    }
+   ]
+  },
+  "城市文化解密手册": {
+   "category": "出版物/文旅工具",
+   "variants": [
+    {
+     "label": "折叠地图版·防水涂层",
+     "prompt": "A2尺寸防水哑光铜版纸折叠册，展开后为城市街区手绘地图，关键节点嵌入UV凸起盲文符号与微缩二维码，折痕处压印‘Decode City’烫银字样",
+     "file": "images/gear/52384ed279_0.png",
+     "thumb": "images/gear/thumbs/52384ed279_0.jpg"
+    },
+    {
+     "label": "口袋书版·再生纸·AR触发页",
+     "prompt": "10×14cm软精装小册，封面为褪色红砖纹理，内页第7页印隐形荧光墨迹‘Scan to Reveal’，纸张呈暖灰调，书脊烫黑字‘Urban Cipher Pocket’",
+     "file": "images/gear/52384ed279_1.png",
+     "thumb": "images/gear/thumbs/52384ed279_1.jpg"
+    }
+   ]
+  },
+  "堆肥温湿度计": {
+   "category": "园艺工具/环境监测",
+   "variants": [
+    {
+     "label": "探针式·IP67·-10~80℃",
+     "prompt": "黑色ABS主机配30cm不锈钢探针，LCD屏显示‘Temp: 52.3°C / RH: 64%’，探针尖端为哑光银，主机侧边有‘CompostPro’浮雕字，尺寸90×50×25mm",
+     "file": "images/gear/bae6d270a3_0.png",
+     "thumb": "images/gear/thumbs/bae6d270a3_0.jpg"
+    },
+    {
+     "label": "悬挂式·太阳能供电·蓝牙传输",
+     "prompt": "圆盘形白色ASA塑料主机，直径85mm，顶部太阳能板呈哑光黑六边形，下方悬挂式设计带挂钩孔，LED屏滚动显示温湿数据，边缘蓝光呼吸灯",
+     "file": "images/gear/bae6d270a3_1.png",
+     "thumb": "images/gear/thumbs/bae6d270a3_1.jpg"
+    }
+   ]
+  },
+  "实体任务卡包": {
+   "category": "教育工具/活动物料",
+   "variants": [
+    {
+     "label": "磁吸卡册·32格·再生皮革",
+     "prompt": "深橄榄绿再生皮革卡册，封面压纹树叶脉络，内嵌32个磁吸位，每个格位边缘为浅棕缝线，翻开见哑光黑磁片与卡槽编号‘01–32’",
+     "file": "images/gear/7cdd1d1b3d_0.png",
+     "thumb": "images/gear/thumbs/7cdd1d1b3d_0.jpg"
+    },
+    {
+     "label": "活页卡夹·可扩展·竹纤维封套",
+     "prompt": "浅褐竹纤维布封套，弹性绳穿孔活页设计，内含24张可增减卡页，封套正面激光雕刻‘Task Loop’及无限符号，绳结为天然麻色",
+     "file": "images/gear/7cdd1d1b3d_1.png",
+     "thumb": "images/gear/thumbs/7cdd1d1b3d_1.jpg"
+    }
+   ]
+  },
+  "本地植物纤维纸模": {
+   "category": "手作材料/可持续耗材",
+   "variants": [
+    {
+     "label": "蒲草浆·300gsm·A4单张",
+     "prompt": "A4尺寸厚纸平铺，表面可见纵向蒲草纤维束与浅褐斑驳肌理，边缘自然撕裂，纸面微泛柔黄光泽，右下角压印‘Cattail Fiber · Lot#2024’",
+     "file": "images/gear/30a89dd861_0.png",
+     "thumb": "images/gear/thumbs/30a89dd861_0.jpg"
+    },
+    {
+     "label": "构树皮·180gsm·卷筒50cm宽",
+     "prompt": "展开的米白卷筒纸，宽度50cm，表面呈现交织构树皮纤维与细微褶皱，卷轴为原木切片，纸面有手工抄造水印‘Broussonetia’",
+     "file": "images/gear/30a89dd861_1.png",
+     "thumb": "images/gear/thumbs/30a89dd861_1.jpg"
+    }
+   ]
+  },
+  "生物炭烧制窑盒": {
+   "category": "生态工具/DIY装备",
+   "variants": [
+    {
+     "label": "陶土窑盒·3L·双层隔热",
+     "prompt": "哑光赭红色陶土立方体窑盒，边长15cm，顶部开圆形排气孔配陶盖，侧壁双层结构可见微隙，底部三足支脚，釉面无光，刻‘Biochar Mini’",
+     "file": "images/gear/d7b5f703ff_0.png",
+     "thumb": "images/gear/thumbs/d7b5f703ff_0.jpg"
+    },
+    {
+     "label": "不锈钢窑桶·10L·压力泄阀",
+     "prompt": "食品级304不锈钢圆桶，高28cm直径22cm，顶部带红色压力泄阀旋钮与刻度环，桶身激光蚀刻‘10L Pyro’及温度区间‘350–550°C’",
+     "file": "images/gear/d7b5f703ff_1.png",
+     "thumb": "images/gear/thumbs/d7b5f703ff_1.jpg"
+    }
+   ]
+  },
+  "真菌染料套装": {
+   "category": "手作材料/天然染色",
+   "variants": [
+    {
+     "label": "森林采集版·5色干粉",
+     "prompt": "五格木质托盘，每格盛放不同色真菌干粉：赭红、芥末黄、鼠灰、松绿、烟褐，粉末颗粒可见，托盘刻‘Forage Dye Set’，天然木纹底色",
+     "file": "images/gear/5d8b36f5c9_0.png",
+     "thumb": "images/gear/thumbs/5d8b36f5c9_0.jpg"
+    },
+    {
+     "label": "栽培菌种版·3色液态浓缩",
+     "prompt": "三支琥珀色玻璃滴瓶并列，标签分别为‘Armillaria Brown’‘Laccaria Blue’‘Pleurotus Pink’，瓶身磨砂雾面，滴管头为乳白硅胶，底托为黑色软木",
+     "file": "images/gear/5d8b36f5c9_1.png",
+     "thumb": "images/gear/thumbs/5d8b36f5c9_1.jpg"
+    }
+   ]
+  },
+  "碳汇手账本": {
+   "category": "文具/环保记录工具",
+   "variants": [
+    {
+     "label": "A5线圈本·碳核算页眉",
+     "prompt": "浅灰再生纸封面，烫银‘Carbon Ledger’，内页每页顶部印CO2e换算公式与小图标，线圈为哑光黑金属，页脚编号带叶脉纹样",
+     "file": "images/gear/e5b276c8e2_0.png",
+     "thumb": "images/gear/thumbs/e5b276c8e2_0.jpg"
+    },
+    {
+     "label": "A6口袋本·树龄对照尺",
+     "prompt": "深绿帆布封面，嵌入可滑动铝尺标尺（0–120年），尺面印树轮图案与对应碳储量数值，内页为米白再生纸，尺寸105×148mm",
+     "file": "images/gear/e5b276c8e2_1.png",
+     "thumb": "images/gear/thumbs/e5b276c8e2_1.jpg"
+    }
+   ]
+  },
+  "菌丝显微镜贴片": {
+   "category": "科研耗材/教育工具",
+   "variants": [
+    {
+     "label": "PDMS基·5mm圆片·预染菌丝",
+     "prompt": "透明PDMS弹性圆片，直径5mm，中央固定荧光绿染色菌丝横截面，边缘微卷，置于黑色载玻片上，片角标‘MycoSlice G’微蚀刻",
+     "file": "images/gear/7ce59a9eed_0.png",
+     "thumb": "images/gear/thumbs/7ce59a9eed_0.jpg"
+    },
+    {
+     "label": "玻璃载片·18×18mm·活体培养腔",
+     "prompt": "标准显微镜载玻片，18×18mm区域蚀刻微流控腔室，腔内可见半透明菌丝生长痕迹，四周镀金边，背面激光标记‘LiveChamber v2’",
+     "file": "images/gear/7ce59a9eed_1.png",
+     "thumb": "images/gear/thumbs/7ce59a9eed_1.jpg"
+    }
+   ]
+  },
+  "蚯蚓塔模块": {
+   "category": "园艺养殖装备",
+   "variants": [
+    {
+     "label": "叠层式·3层高·25cm直径",
+     "prompt": "白色食品级PP塑料材质蚯蚓塔模块，圆柱形三层可堆叠结构，每层带透气孔与导流槽，顶部带卡扣式盖板，直径25厘米、单层高度12厘米，表面哑光质感，边缘圆润无毛刺",
+     "file": "images/gear/fcf04df214_0.png",
+     "thumb": "images/gear/thumbs/fcf04df214_0.jpg"
+    },
+    {
+     "label": "一体式·单体·40cm直径",
+     "prompt": "深灰色HDPE高密度聚乙烯一体成型蚯蚓塔，单体圆筒结构无拼接缝，底部带可拆卸渗滤托盘与排水阀，直径40厘米、总高55厘米，外壁压纹防滑纹理，顶部嵌入式密封盖带观察窗",
+     "file": "images/gear/fcf04df214_1.png",
+     "thumb": "images/gear/thumbs/fcf04df214_1.jpg"
+    }
+   ]
+  },
+  "蝌蚪发育阶段比对图谱卡": {
+   "category": "自然教育教具",
+   "variants": [
+    {
+     "label": "防水PET·A6折叠卡·8阶",
+     "prompt": "双面印刷A6尺寸（10.5×14.8cm）防水PET材质图谱卡，8个连续发育阶段高清实拍图横向排列，每阶标注日龄与体长（mm），边角圆角处理，背面印有简明发育特征说明，浅蓝底色+深灰文字",
+     "file": "images/gear/725cfbc2f1_0.png",
+     "thumb": "images/gear/thumbs/725cfbc2f1_0.jpg"
+    },
+    {
+     "label": "磁吸硬卡·A5立式·12阶",
+     "prompt": "A5尺寸（14.8×21cm）加厚磁吸硬卡，正面为12阶段纵向发育对比图（含受精卵→幼蛙），每阶段配微距摄影细节图与箭头标尺，背面内置柔性磁条，卡体为哑光白铜版纸覆哑膜，边缘金属包边",
+     "file": "images/gear/725cfbc2f1_1.png",
+     "thumb": "images/gear/thumbs/725cfbc2f1_1.jpg"
+    }
+   ]
+  },
+  "赤子爱胜蚓种群": {
+   "category": "活体生物耗材",
+   "variants": [
+    {
+     "label": "基础繁育装·500g·含椰糠基质",
+     "prompt": "透明PET方形活体运输盒（15×10×8cm），内装约500克鲜活赤子爱胜蚓（Eisenia foetida），体色红褐有光泽，体长3–5cm，混匀湿润椰糠基质呈深棕褐色，盒盖带微孔透气网与湿度指示标签",
+     "file": "images/gear/9f690fbc06_0.png",
+     "thumb": "images/gear/thumbs/9f690fbc06_0.jpg"
+    },
+    {
+     "label": "高密度种源装·1kg·含腐殖土+卵茧",
+     "prompt": "加厚黑色OPP自封袋（25×18cm），内装1公斤精选赤子爱胜蚓种群，含活跃成蚓、幼蚓及可见棕黄色卵茧颗粒，基质为深黑腐殖土与少量碎秸秆混合，袋身印有活体保质期与种群密度标识",
+     "file": "images/gear/9f690fbc06_1.png",
+     "thumb": "images/gear/thumbs/9f690fbc06_1.jpg"
     }
    ]
   }
