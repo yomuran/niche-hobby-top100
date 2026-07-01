@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-07-01T17:08:36+08:00",
-  "top100_ready": 915,
+  "updated_at": "2026-07-01T18:31:54+08:00",
+  "top100_ready": 925,
   "top100_total": 925,
-  "top100_pending": 10,
-  "top100_missing_spec": 5
+  "top100_pending": 0,
+  "top100_missing_spec": 0
  },
  "gear": {
   "135/120胶卷": {
@@ -16015,6 +16015,91 @@
      "prompt": "加厚黑色OPP自封袋（25×18cm），内装1公斤精选赤子爱胜蚓种群，含活跃成蚓、幼蚓及可见棕黄色卵茧颗粒，基质为深黑腐殖土与少量碎秸秆混合，袋身印有活体保质期与种群密度标识",
      "file": "images/gear/9f690fbc06_1.png",
      "thumb": "images/gear/thumbs/9f690fbc06_1.jpg"
+    }
+   ]
+  },
+  "古道GIS定位仪": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "专业测绘款·双频RTK·15cm精度",
+     "prompt": "黑色航空铝机身，带高亮阳光可读触控屏（3.2英寸），顶部集成双频GNSS天线模块，侧面有物理测距激光发射口与防水接口盖，底部带1/4英寸三脚架螺纹，尺寸12.5×7.2×3.8cm，表面哑光磨砂处理",
+     "file": "images/gear/b4bbe2e286_0.png",
+     "thumb": "images/gear/thumbs/b4bbe2e286_0.jpg"
+    },
+    {
+     "label": "轻量徒步款·单频GPS·3m精度",
+     "prompt": "深灰TPU软胶包覆ABS塑料机身，圆角矩形设计（9.8×5.6×2.4cm），正面嵌入式单色OLED屏（2.0英寸），右侧带防滑纹理电源键与USB-C充电口，背部有磁吸+挂绳孔双固定结构，整体重量仅118g",
+     "file": "images/gear/b4bbe2e286_1.png",
+     "thumb": "images/gear/thumbs/b4bbe2e286_1.jpg"
+    }
+   ]
+  },
+  "可降解拓包": {
+   "category": "手作工具",
+   "variants": [
+    {
+     "label": "细纹绢面·直径6cm·玉米淀粉基",
+     "prompt": "圆形扁平拓包，外层覆盖米白色天然素绢，表面细腻无褶皱，内芯为浅褐玉米淀粉发泡材料，直径6cm、高2.2cm，边缘缝线为本色棉线，底部印有可降解认证徽标",
+     "file": "images/gear/b74f1bcc78_0.png",
+     "thumb": "images/gear/thumbs/b74f1bcc78_0.jpg"
+    },
+    {
+     "label": "粗麻布面·直径8.5cm·竹纤维基",
+     "prompt": "厚实圆柱形拓包，外层为浅褐本色竹纤维粗麻布，纹理清晰可见，直径8.5cm、高3.5cm，顶部收口处用同色麻绳缠绕固定，底部平整无标签，整体呈自然植物纤维哑光质感",
+     "file": "images/gear/b74f1bcc78_1.png",
+     "thumb": "images/gear/thumbs/b74f1bcc78_1.jpg"
+    }
+   ]
+  },
+  "无酸宣纸": {
+   "category": "书画耗材",
+   "variants": [
+    {
+     "label": "净皮单宣·四尺整张·30g/m²",
+     "prompt": "纯白矩形纸张，尺寸138×69cm，表面温润微涩，透光可见均匀青檀皮纤维分布，边缘毛边自然整齐，右下角压印朱砂‘净皮’篆章与克重标识，纸面无荧光增白剂反光",
+     "file": "images/gear/01a5b47963_0.png",
+     "thumb": "images/gear/thumbs/01a5b47963_0.jpg"
+    },
+    {
+     "label": "特净加厚·六尺对开·65g/m²",
+     "prompt": "象牙白大幅纸张，尺寸180×97cm，表面致密平滑略带柔光，厚度明显高于普通宣纸，透光观察纤维交织紧密且含少量桑皮丝，左上角烫金‘特净加厚’字样，四边切直无毛边",
+     "file": "images/gear/01a5b47963_1.png",
+     "thumb": "images/gear/thumbs/01a5b47963_1.jpg"
+    }
+   ]
+  },
+  "石纹显影喷雾": {
+   "category": "手作工具",
+   "variants": [
+    {
+     "label": "矿物显影型·50ml金属罐·铁锈红反应色",
+     "prompt": "银灰色铝制气雾罐，高11.2cm、直径4.3cm，罐身印深红‘STONE-REVEAL’字样与铁锈红渐变色块，喷嘴为黑色耐腐蚀聚丙烯材质，底部贴纸质标签含成分图标与安全警示符号",
+     "file": "images/gear/131f9ff82f_0.png",
+     "thumb": "images/gear/thumbs/131f9ff82f_0.jpg"
+    },
+    {
+     "label": "植物萃取型·120ml磨砂瓶·青苔绿反应色",
+     "prompt": "哑光墨绿PETG磨砂方瓶，容量120ml，尺寸6.5×6.5×14cm，瓶身浮雕‘BOTANIC TONE’文字，白色滴管泵头配黄铜环，瓶底透明窗口显示液位，液体呈半透明青苔绿色",
+     "file": "images/gear/131f9ff82f_1.png",
+     "thumb": "images/gear/thumbs/131f9ff82f_1.jpg"
+    }
+   ]
+  },
+  "矿物墨锭": {
+   "category": "书画耗材",
+   "variants": [
+    {
+     "label": "松烟·龙纹·100g·歙砚款",
+     "prompt": "长方体墨锭，尺寸9.2×2.4×1.3cm，通体乌黑泛紫蓝光泽，正面浮雕云龙纹与‘古歙’篆印，背面阴刻‘松烟’二字，侧边有手工模压‘癸卯年制’纪年，断面可见致密层状结构",
+     "file": "images/gear/0bb3c1ec77_0.png",
+     "thumb": "images/gear/thumbs/0bb3c1ec77_0.jpg"
+    },
+    {
+     "label": "石青·荷塘·60g·端溪款",
+     "prompt": "椭圆扁平墨锭，尺寸7.8×5.1×1.1cm，表面呈沉静石青色带细微云母闪点，正面浅浮雕水墨荷塘图，右下角朱砂小印‘石青研华’，背面平滑无字，边缘圆润过渡，断面显青灰矿物颗粒感",
+     "file": "images/gear/0bb3c1ec77_1.png",
+     "thumb": "images/gear/thumbs/0bb3c1ec77_1.jpg"
     }
    ]
   }
