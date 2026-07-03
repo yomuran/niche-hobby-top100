@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-07-02T17:08:43+08:00",
-  "top100_ready": 895,
-  "top100_total": 921,
-  "top100_pending": 26,
-  "top100_missing_spec": 13
+  "updated_at": "2026-07-03T17:08:59+08:00",
+  "top100_ready": 846,
+  "top100_total": 920,
+  "top100_pending": 74,
+  "top100_missing_spec": 33
  },
  "gear": {
   "135/120胶卷": {
@@ -16100,6 +16100,219 @@
      "prompt": "椭圆扁平墨锭，尺寸7.8×5.1×1.1cm，表面呈沉静石青色带细微云母闪点，正面浅浮雕水墨荷塘图，右下角朱砂小印‘石青研华’，背面平滑无字，边缘圆润过渡，断面显青灰矿物颗粒感",
      "file": "images/gear/0bb3c1ec77_1.png",
      "thumb": "images/gear/thumbs/0bb3c1ec77_1.jpg"
+    }
+   ]
+  },
+  "GIS定位打卡器": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "腕戴式·IP68防水·45mm表盘",
+     "prompt": "圆形黑色硅胶表带GIS定位打卡器，45mm哑光金属表盘，蓝白双色LED状态指示灯，表盘中央嵌入微型GPS天线模块，右侧带物理打卡按键，表面蚀刻经纬度坐标刻度环",
+     "file": "images/gear/55925b1446_0.png",
+     "thumb": "images/gear/thumbs/55925b1446_0.jpg"
+    },
+    {
+     "label": "挂扣式·超长待机·磁吸底座",
+     "prompt": "长方体灰黑色工程塑料GIS定位打卡器，62×38×18mm，顶部集成高增益陶瓷GPS天线，底部强磁吸金属底座可吸附于车顶/背包架，侧面Micro-USB+Type-C双接口，正面OLED屏显示UTC时间与打卡成功图标",
+     "file": "images/gear/55925b1446_1.png",
+     "thumb": "images/gear/thumbs/55925b1446_1.jpg"
+    }
+   ]
+  },
+  "PH测试试纸": {
+   "category": "实验耗材",
+   "variants": [
+    {
+     "label": "广谱型·0.5–14.0·100条/盒",
+     "prompt": "白色硬质纸卡包装PH测试试纸，卡内嵌入100条橙黄色浸渍试纸条，每条约5mm宽×30mm长，边缘印有0.5至14.0共29阶标准比色色块，背面标注缓冲液pH值对照表",
+     "file": "images/gear/d19d235e86_0.png",
+     "thumb": "images/gear/thumbs/d19d235e86_0.jpg"
+    },
+    {
+     "label": "精密水产型·6.0–8.4·单色渐变·50条/卷",
+     "prompt": "透明塑料圆筒卷装PH测试试纸，直径35mm，内含50条窄幅（3mm×25mm）蓝色基底试纸，经特殊染料处理呈现6.0（浅蓝）至8.4（深紫）连续渐变响应，筒身印有水产养殖适配刻度标识",
+     "file": "images/gear/d19d235e86_1.png",
+     "thumb": "images/gear/thumbs/d19d235e86_1.jpg"
+    }
+   ]
+  },
+  "USB-C多口储能电源": {
+   "category": "电子配件",
+   "variants": [
+    {
+     "label": "轻量通勤版·20000mAh·三C口",
+     "prompt": "银灰色阳极氧化铝外壳USB-C多口储能电源，142×72×28mm，表面磨砂质感，左侧并列三个USB-C接口（均支持100W PD输入输出），右下角嵌入1.3英寸单色LCD屏显示剩余电量与实时功率",
+     "file": "images/gear/58d45de00e_0.png",
+     "thumb": "images/gear/thumbs/58d45de00e_0.jpg"
+    },
+    {
+     "label": "户外拓展版·35000mAh·双C双A+DC5521",
+     "prompt": "军绿色哑光PC+ABS复合材质储能电源，185×86×36mm，顶部双USB-C（100W+65W）、双USB-A（18W）、背面DC5521输出口，四角包胶防摔，侧面带太阳能输入MC4接口与电量LED柱状灯",
+     "file": "images/gear/58d45de00e_1.png",
+     "thumb": "images/gear/thumbs/58d45de00e_1.jpg"
+    }
+   ]
+  },
+  "低温烘烤托盘": {
+   "category": "烘焙工具",
+   "variants": [
+    {
+     "label": "食品级硅胶·28×22cm·蜂窝导热",
+     "prompt": "柔韧半透明食品级铂金硅胶低温烘烤托盘，28×22×2.5cm，表面压印六边形蜂窝凹坑阵列，边缘加厚3mm翻边，四角设悬挂孔，整体呈淡雾青色，底部印有-40℃~230℃耐温标贴",
+     "file": "images/gear/98889df1c1_0.png",
+     "thumb": "images/gear/thumbs/98889df1c1_0.jpg"
+    },
+    {
+     "label": "陶瓷釉面·30×25cm·双层真空隔热",
+     "prompt": "哑光米白釉面陶瓷低温烘烤托盘，30×25×4.2cm，上层微孔陶瓷板+下层致密陶瓷基底，中间0.8mm真空夹层，边缘无釉露胎处呈浅赭石色，底部刻有‘LVT-120℃ MAX’激光标识",
+     "file": "images/gear/98889df1c1_1.png",
+     "thumb": "images/gear/thumbs/98889df1c1_1.jpg"
+    }
+   ]
+  },
+  "山野地形适配支架": {
+   "category": "摄影器材",
+   "variants": [
+    {
+     "label": "三轴云台款·碳纤腿·可调倾角0–90°",
+     "prompt": "哑光黑碳纤维山野地形适配支架，三节伸缩腿带独立锁扣，每腿末端配可旋转360°球头地钉脚垫，中轴连接三轴液压云台，云台顶部带1/4″螺纹接口与水平仪窗，整体高度调节范围35–142cm",
+     "file": "images/gear/62ac233720_0.png",
+     "thumb": "images/gear/thumbs/62ac233720_0.jpg"
+    },
+    {
+     "label": "岩缝锚固款·钛合金·三爪自锁臂",
+     "prompt": "深空灰航空钛合金山野地形适配支架，主体为Y型三爪结构，每爪末端带弹簧加载偏心凸轮锁紧器与橡胶防滑垫，中心搭载快拆冷靴接口，展开直径48cm，收拢后呈22cm直杆状带收纳挂绳孔",
+     "file": "images/gear/62ac233720_1.png",
+     "thumb": "images/gear/thumbs/62ac233720_1.jpg"
+    }
+   ]
+  },
+  "微距环形灯": {
+   "category": "摄影器材",
+   "variants": [
+    {
+     "label": "便携磁吸款·LED双色温·48mm内径",
+     "prompt": "银白双色铝合金微距环形灯，外径72mm、内径48mm、厚18mm，环内均匀排布24颗SMD LED（12颗3200K暖光+12颗5600K冷光），侧边旋钮调节色温与亮度，背面内置N52钕磁铁环，边缘印有CRI>95标识",
+     "file": "images/gear/8edfb350df_0.png",
+     "thumb": "images/gear/thumbs/8edfb350df_0.jpg"
+    },
+    {
+     "label": "专业导轨款·RGB全彩·72mm内径·双供电",
+     "prompt": "哑光黑镁合金微距环形灯，外径105mm、内径72mm、厚24mm，环体嵌入144颗RGB LED灯珠，顶部带OLED触控屏与物理编码旋钮，底部双供电接口（USB-C+DC5525），环后延伸出15cm燕尾导轨适配臂",
+     "file": "images/gear/8edfb350df_1.png",
+     "thumb": "images/gear/thumbs/8edfb350df_1.jpg"
+    }
+   ]
+  },
+  "柔性太阳能卷轴": {
+   "category": "户外能源",
+   "variants": [
+    {
+     "label": "背包贴合型·12W·30×180cm·PET基底",
+     "prompt": "深海军蓝柔性太阳能卷轴，展开尺寸30×180cm，PET聚合物基底覆单晶硅薄膜，表面哑光抗刮涂层，两端金属卷轴带锁止旋钮与MC4输出端口，卷起后直径9.5cm，侧面印有IP65与12V/1A参数",
+     "file": "images/gear/6f96644fa3_0.png",
+     "thumb": "images/gear/thumbs/6f96644fa3_0.jpg"
+    },
+    {
+     "label": "帐篷顶棚型·60W·60×300cm·TPU封装",
+     "prompt": "墨绿TPU封装柔性太阳能卷轴，展开尺寸60×300cm，双面ETFE覆膜，内部为叠层钙钛矿+非晶硅异质结电池，卷轴两端为铝合金加强框并集成挂钩孔与Zippin快接插头，卷起直径18cm，边缘印有60W/18V/3.3A铭牌",
+     "file": "images/gear/6f96644fa3_1.png",
+     "thumb": "images/gear/thumbs/6f96644fa3_1.jpg"
+    }
+   ]
+  },
+  "植物染色剂": {
+   "category": "手作工具",
+   "variants": [
+    {
+     "label": "水溶速染型·10g×6色·天然色素粉",
+     "prompt": "六格亚克力分装盒装植物染色剂，每格10g粉末，颜色为茜草红/栀子黄/苏木棕/靛蓝粉/姜黄橙/五倍子黑，粉末细腻干燥，盒盖内侧附色卡编号与媒染建议（明矾/铁浆），盒身印有有机认证图标",
+     "file": "images/gear/a8242fb16c_0.png",
+     "thumb": "images/gear/thumbs/a8242fb16c_0.jpg"
+    },
+    {
+     "label": "纤维活性型·50ml×4色·液态浓缩膏",
+     "prompt": "四支磨砂玻璃滴管瓶装植物染色剂，每瓶50ml深色膏体（蓼蓝发酵液/橡碗单宁膏/胭脂虫提取膏/紫草根浸膏），瓶身琥珀色玻璃，滴管头为PP材质带刻度，瓶底激光蚀刻‘需60℃固色’与pH5.5适配标识",
+     "file": "images/gear/a8242fb16c_1.png",
+     "thumb": "images/gear/thumbs/a8242fb16c_1.jpg"
+    }
+   ]
+  },
+  "模具硅胶套": {
+   "category": "手作工具",
+   "variants": [
+    {
+     "label": "食品级铂金·20×15×5cm·双硬度",
+     "prompt": "透明食品级铂金硅胶模具套，外框尺寸20×15×5cm，内含两组独立腔体：左侧8格软弹（Shore A10）小方块模，右侧6格中弹（Shore A25）波浪条纹模，四角设排气孔与堆叠卡扣，底部印有FDA & LFGB双标",
+     "file": "images/gear/53373cb55f_0.png",
+     "thumb": "images/gear/thumbs/53373cb55f_0.jpg"
+    },
+    {
+     "label": "工业级加成型·30×20×8cm·高温耐受",
+     "prompt": "半透明工业加成型硅胶模具套，30×20×8cm矩形框体，内腔为单一大型负形拓扑结构（含0.3mm精细纹理壁），采用高撕裂强度硅胶（Shore A40），边缘带真空脱泡注入口与排气槽，侧壁印有‘200℃长期耐受’与UL94V-0阻燃标",
+     "file": "images/gear/53373cb55f_1.png",
+     "thumb": "images/gear/thumbs/53373cb55f_1.jpg"
+    }
+   ]
+  },
+  "离网电量监测贴片": {
+   "category": "电子配件",
+   "variants": [
+    {
+     "label": "锂电专用·CLAMP式·0–100A",
+     "prompt": "灰黑色ABS外壳离网电量监测贴片，长方形薄片状（65×32×8mm），顶部集成霍尔效应钳形电流传感器开口（最大10mm线径），底部双面导电胶+PE保护膜，正面LED显示瞬时电流与SOC百分比，侧边Micro-USB调试口",
+     "file": null
+    },
+    {
+     "label": "铅酸兼容·贴片式·0–500A·宽温",
+     "prompt": "深橄榄绿环氧树脂封装离网电量监测贴片，82×40×12mm，表面覆盖耐UV硅胶膜，内置锰铜分流器与-40℃~85℃宽温IC，正面双色段码屏显示电压/电流/累计Ah，四角预置M3安装孔与NTC温度探针接口",
+     "file": null
+    }
+   ]
+  },
+  "苔类图鉴AR识别卡": {
+   "category": "教育工具",
+   "variants": [
+    {
+     "label": "野外速查版·20张·防水铜版纸",
+     "prompt": "20张A6尺寸苔类图鉴AR识别卡，300g铜版纸覆哑光防水膜，每张正面高清苔藓微距摄影图（如地钱、提灯藓、大帽藓），背面印有拉丁学名与AR触发二维码，卡片四角圆角处理，边缘烫印苔藓绿色细线边框",
+     "file": null
+    },
+    {
+     "label": "教学解剖版·12张·透光PET材质",
+     "prompt": "12张12×12cm透明PET苔类图鉴AR识别卡，厚度0.3mm，每张蚀刻单种苔藓矢量线描图（含配子体/孢蒴/假根结构），图层叠加半透明色块标注器官名称，背面丝印AR触发标记与教学提示语，卡片带打孔挂绳位",
+     "file": null
+    }
+   ]
+  },
+  "苔藓DNA采样拭子": {
+   "category": "实验耗材",
+   "variants": [
+    {
+     "label": "无菌干拭·聚酯头·EDTA管",
+     "prompt": "白色独立灭菌包装苔藓DNA采样拭子，蓝色PP手柄长15cm，顶端聚酯纤维采样头（直径2.5mm）无棉絮脱落，配套2mL冻存管含0.5mL EDTA缓冲液，管身印有‘DNase-Free’与批次号激光码",
+     "file": null
+    },
+    {
+     "label": "现场裂解型·FTA卡集成",
+     "prompt": "苔藓DNA采样拭子集成FTA卡系统：白色PP手柄（12cm）连接圆形FTA滤纸采样头（直径18mm），滤纸经化学处理可常温裂解并稳定DNA，卡背印有样本编号区与条形码，整体封装于铝箔密封袋内，袋面印有‘No Cold Chain Required’",
+     "file": null
+    }
+   ]
+  },
+  "藻类基黏土块": {
+   "category": "园艺资材",
+   "variants": [
+    {
+     "label": "淡水造景型·50g·缓释氮磷",
+     "prompt": "深褐近黑藻类基黏土块，50g独立铝箔真空包装，块状不规则（约3×2×1.5cm），表面微孔可见，质地疏松易碎，含缓释海藻多糖与低浓度氮磷基质，包装印有‘适用于莫斯/鹿角蕨附生’及EC值0.8mS/cm",
+     "file": null
+    },
+    {
+     "label": "海水缸用型·100g·钙镁强化",
+     "prompt": "浅灰褐色藻类基黏土块，100g塑封袋装，块体致密（4×2.5×1.8cm），断面可见碳酸钙结晶颗粒与镁盐析出纹路，添加珊瑚骨粉与微量元素，袋面印有‘NSF-50认证’与Ca²⁺/Mg²⁺含量标示（120ppm/45ppm）",
+     "file": null
     }
    ]
   }
