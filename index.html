@@ -318,6 +318,18 @@
     return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")} ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`;
   }
 
+  function gearAssetsBase() {
+    const b = (window.GEAR_IMAGES && window.GEAR_IMAGES.meta && window.GEAR_IMAGES.meta.assets_base) || "";
+    return b || "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/";
+  }
+
+  function gearFullUrl(file) {
+    if (!file) return "";
+    if (file.startsWith("http")) return file;
+    const rel = file.replace(/^images\/gear\//, "");
+    return gearAssetsBase() + rel;
+  }
+
   function gearStats() {
     const m = (window.GEAR_IMAGES && window.GEAR_IMAGES.meta) || {};
     if (typeof m.top100_total === "number" && typeof m.top100_ready === "number") {
@@ -512,7 +524,7 @@
 
     const cards = (ent && ent.variants || []).map(v => v.file ? `
       <div class="variant">
-        <img src="${v.thumb || v.file}" data-full="${v.file}" loading="lazy" alt="${name} ${v.label}">
+        <img src="${v.thumb || gearFullUrl(v.file)}" data-full="${gearFullUrl(v.file)}" loading="lazy" alt="${name} ${v.label}">
         <div class="v-label">${v.label}</div>
         <div class="v-sub">${name} · ${ent.category || ""}</div>
       </div>` : `

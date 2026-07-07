@@ -5,7 +5,8 @@
   "top100_ready": 802,
   "top100_total": 918,
   "top100_pending": 116,
-  "top100_missing_spec": 0
+  "top100_missing_spec": 0,
+  "assets_base": "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/"
  },
  "gear": {
   "135/120胶卷": {
