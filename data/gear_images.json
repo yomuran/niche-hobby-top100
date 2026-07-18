@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-07-17T17:15:00+08:00",
-  "top100_ready": 708,
-  "top100_total": 922,
-  "top100_pending": 214,
-  "top100_missing_spec": 0,
+  "updated_at": "2026-07-18T17:09:01+08:00",
+  "top100_ready": 692,
+  "top100_total": 926,
+  "top100_pending": 234,
+  "top100_missing_spec": 5,
   "assets_base": "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/"
  },
  "gear": {
