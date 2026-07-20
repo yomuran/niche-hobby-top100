@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-07-19T17:10:56+08:00",
-  "top100_ready": 692,
-  "top100_total": 928,
-  "top100_pending": 236,
-  "top100_missing_spec": 10,
+  "updated_at": "2026-07-20T17:08:41+08:00",
+  "top100_ready": 638,
+  "top100_total": 922,
+  "top100_pending": 284,
+  "top100_missing_spec": 22,
   "assets_base": "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/"
  },
  "gear": {
@@ -19231,6 +19231,156 @@
     {
      "label": "NikonF转T2·带光学校正镜",
      "prompt": "航空铝CNC一体成型Nikon F口转T2接口转接环，厚度18.5mm，内置一片1.0mm厚光学级BK7校正透镜（镀多层增透膜），F口侧带AF耦合销钉，T2侧刻有‘F→T2+CORR’铭文及焦距补偿值+0.3mm",
+     "file": null
+    }
+   ]
+  },
+  "AR眼镜实时反馈终端": {
+   "category": "智能硬件/农业物联网设备",
+   "variants": [
+    {
+     "label": "工业级双目透镜·1280×720@60Hz",
+     "prompt": "银灰铝合金镜架，一体式弧形双目OLED微显示模组，镜腿内置双麦克风与USB-C接口，镜片边缘嵌入RGB状态指示环，尺寸145×160×42mm，哑光黑主色配钴蓝功能指示条",
+     "file": null
+    },
+    {
+     "label": "轻量教育版单目·800×600@30Hz",
+     "prompt": "半透明磨砂聚碳酸酯镜框，右侧单目LCOS投影单元，可拆卸磁吸鼻托与软胶耳挂，镜腿末端带Micro-USB充电口，尺寸132×148×36mm，浅灰主体配薄荷绿电源指示灯",
+     "file": null
+    }
+   ]
+  },
+  "OpenFishML开源模型套件": {
+   "category": "开发者工具/农业AI软件",
+   "variants": [
+    {
+     "label": "全栈训练版·含GPU容器镜像",
+     "prompt": "深蓝色硬质翻盖盒，正面激光蚀刻白色OpenFishML徽标与‘Train-Ready’字样，盒内含USB3.2 SSD预装Ubuntu+PyTorch+模型权重包，标签页标注‘ResNet50-FishSeg v2.3’，尺寸120×90×20mm",
+     "file": null
+    },
+    {
+     "label": "边缘推理精简版·TF-Lite适配包",
+     "prompt": "哑光白塑料卡扣盒，顶部印浅灰电路纹理与‘Edge-Inference Kit’字样，盒内含SD卡（32GB）预烧录量化模型及C++ SDK文档，侧面标注‘ARM64 / Coral TPU Compatible’，尺寸105×75×15mm",
+     "file": null
+    }
+   ]
+  },
+  "六轴姿态拟饵": {
+   "category": "渔具/智能钓饵",
+   "variants": [
+    {
+     "label": "沉水巡航型·42g/85mm",
+     "prompt": "仿生鳟鱼造型ABS外壳，哑光深橄榄绿底+荧光橙侧线，尾部螺旋桨式推进器外露，头部嵌入黑色六轴IMU模块窗口，腹部有防水Type-C充电口，整体流线型带压重铅芯，尺寸85mm长×22mm宽×18mm高",
+     "file": null
+    },
+    {
+     "label": "浮水抖动型·18g/52mm",
+     "prompt": "圆润虾形TPU软胶外壳，半透明琥珀色主体内嵌白色浮力腔，背部可见微型振动马达与银色六轴传感器PCB，尾端带可替换硅胶摆尾片，尺寸52mm长×16mm宽×14mm高",
+     "file": null
+    }
+   ]
+  },
+  "土壤电阻率探针": {
+   "category": "农用检测仪器/地质装备",
+   "variants": [
+    {
+     "label": "四极温补型·1.2m不锈钢杆",
+     "prompt": "四根平行316不锈钢探针（Φ4mm）等距焊接于1.2m长黑色PVC绝缘杆，杆身激光刻度0.1m间隔，顶部带黄铜接线端子与PT100温度补偿探头，手柄处有红色‘4-Electrode’铭牌",
+     "file": null
+    },
+    {
+     "label": "便携双极型·30cm钛合金针",
+     "prompt": "两支30cm长医用级钛合金针（Φ2.5mm），尖端锐利带防滑滚花手柄，手柄为深灰工程塑料，集成蓝牙5.2模块与LED电量指示灯，底部印‘2-Electrode / 0–2000 Ω·m’白色字",
+     "file": null
+    }
+   ]
+  },
+  "地下生物量估算手册": {
+   "category": "农技图书/专业工具书",
+   "variants": [
+    {
+     "label": "精装彩印版·A4/288页",
+     "prompt": "深绿布面精装封面，烫金‘Underground Biomass Estimation’标题与根系拓扑线描图，书脊凸印ISBN与‘2024 Revised Edition’，内页全彩印刷含高清剖面图与二维码图谱，厚度22mm",
+     "file": null
+    },
+    {
+     "label": "野外速查折页版·防水PP材质",
+     "prompt": "折叠式双面覆膜PP卡片（展开后580×420mm），正反灰蓝双色分区排版，含根系分级对照表、电阻率换算尺、采样深度速查转盘，四角圆角打孔配挂绳扣",
+     "file": null
+    }
+   ]
+  },
+  "手持式根系雷达仪": {
+   "category": "农业检测仪器/无损探测设备",
+   "variants": [
+    {
+     "label": "专业测绘型·1.8GHz超宽带",
+     "prompt": "人体工学黑色碳纤维握把，前端圆形天线罩（Φ120mm）带同心金属环纹，侧面有OLED屏与五向导航键，背部散热格栅与Type-C+DC双接口，整机重1.3kg，尺寸280×110×75mm",
+     "file": null
+    },
+    {
+     "label": "教学入门型·900MHz脉冲式",
+     "prompt": "亮黄色ABS外壳主机，顶部扁平化扇形发射天线（宽100mm），正面大尺寸LCD屏带触摸按键，底部磁吸充电触点与校准基准刻线，体积紧凑呈哑铃状，尺寸210×95×60mm",
+     "file": null
+    }
+   ]
+  },
+  "本地化边缘AI计算盒": {
+   "category": "智能硬件/农业物联网设备",
+   "variants": [
+    {
+     "label": "田间加固版·IP67/双4G",
+     "prompt": "深灰铸铝外壳带波纹散热鳍片，顶部双nano-SIM卡槽盖板与LED信号灯阵列，侧面M12工业以太网口+RS485端子，底部橡胶脚垫印‘AgriEdge Pro’，尺寸150×110×55mm",
+     "file": null
+    },
+    {
+     "label": "温室嵌入版·PoE供电/无风扇",
+     "prompt": "纯白哑光PC外壳，正面隐藏式状态LED（绿/红双色），背部802.3af PoE输入接口与GPIO扩展排针，四角沉头螺丝孔位，无通风孔设计，尺寸120×85×35mm",
+     "file": null
+    }
+   ]
+  },
+  "根系三维建模APP": {
+   "category": "移动应用/农业SaaS工具",
+   "variants": [
+    {
+     "label": "安卓离线专业版·含Mesh导出",
+     "prompt": "手机屏幕界面截图风格：深蓝渐变背景，中央悬浮3D旋转的白色玉米根系网格模型，底部工具栏含‘Scan’‘Reconstruct’‘Export OBJ’图标，右上角显示‘Offline Mode • v3.1’灰色标签",
+     "file": null
+    },
+    {
+     "label": "iOS轻量农户版·微信小程序兼容",
+     "prompt": "iPhone 15 Pro屏幕界面截图风格：浅绿圆角卡片式UI，主区显示简化根长热力图与‘今日扫描完成’徽章，底部微信风格Tab栏含‘拍照’‘估产’‘分享’，左上角‘RootLite’图标为嫩芽造型",
+     "file": null
+    }
+   ]
+  },
+  "根际微生物荧光染色剂": {
+   "category": "农用试剂/实验室耗材",
+   "variants": [
+    {
+     "label": "活菌特异性·SYBR Green I型",
+     "prompt": "琥珀色玻璃安瓿瓶（2mL），铝箔封口，瓶身印深蓝‘Live-Rhizo Stain’与荧光分子结构简图，标签含绿色荧光波长λex/λem=497/520nm参数，瓶底凹槽刻‘For Confocal Use’",
+     "file": null
+    },
+    {
+     "label": "死菌区分型·PI/DAPI双染套装",
+     "prompt": "双室分隔白色PETG试剂盒（85×55×25mm），左室红盖管装PI溶液（粉红液体），右室蓝盖管装DAPI溶液（淡黄液体），盒盖印红蓝双色细胞核染色示意图与‘Viability Dual-Stain’烫银字",
+     "file": null
+    }
+   ]
+  },
+  "水下IMU传感线组": {
+   "category": "渔业监测装备/水下传感器",
+   "variants": [
+    {
+     "label": "深水耐压型·300m/8节点",
+     "prompt": "深海军绿硅胶包裹线缆（Φ5.2mm），沿线等距分布8个圆柱形钛合金传感器节点（Φ22mm×45mm），每个节点顶部有蓝白双色LED状态灯与压力密封接口，线缆两端为镀金SubConn水密接头",
+     "file": null
+    },
+    {
+     "label": "浅水柔性型·5m/3节点/可弯折",
+     "prompt": "半透明乳白色TPE软线（Φ3.0mm），3个扁椭圆柔性传感单元（28×18×12mm）以30°夹角串联，单元表面有哑光磨砂处理与微型IMU标识，线缆末端为USB-C防水插头与磁吸快拆扣",
      "file": null
     }
    ]
