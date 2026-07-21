@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-07-21T17:08:53+08:00",
-  "top100_ready": 618,
+  "updated_at": "2026-07-21T19:39:22+08:00",
+  "top100_ready": 924,
   "top100_total": 924,
-  "top100_pending": 306,
-  "top100_missing_spec": 30,
+  "top100_pending": 0,
+  "top100_missing_spec": 0,
   "assets_base": "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/"
  },
  "gear": {
@@ -16346,12 +16346,14 @@
     {
      "label": "登山款·钛合金镜腿·IP67",
      "prompt": "轻量AR眼镜，镜框为哑光深灰钛合金材质，镜腿末端带可拆卸硅胶耳挂与防滑纹路，镜片为偏振镀膜光学波导片，左镜腿侧嵌入微型激光测距窗与气压传感器，重量仅78g",
-     "file": null
+     "file": "images/gear/bc2c4b467f_0.png",
+     "thumb": "images/gear/thumbs/bc2c4b467f_0.jpg"
     },
     {
      "label": "溯溪款·快拆镜片·荧光橙标",
      "prompt": "AR眼镜主体为防水TPU+航空铝材，镜片采用磁吸快拆设计（当前装透明抗UV镜片），镜腿外侧印荧光橙色‘AQUA MODE’标识，鼻托为亲肤硅胶浮力垫，镜腿内侧集成微型湿度感应点",
-     "file": null
+     "file": "images/gear/bc2c4b467f_1.png",
+     "thumb": "images/gear/thumbs/bc2c4b467f_1.jpg"
     }
    ]
   },
@@ -16361,12 +16363,14 @@
     {
      "label": "潜水臂·3米耐压·碳纤伸缩杆",
      "prompt": "黑色碳纤维伸缩式防水支架，最大伸展长度3米，关节处为IP68级密封不锈钢转轴，末端带M12螺纹接口与Osmo Action 4专用快拆卡扣，表面蚀刻深度标尺刻度线",
-     "file": null
+     "file": "images/gear/24acd86b7f_0.png",
+     "thumb": "images/gear/thumbs/24acd86b7f_0.jpg"
     },
     {
      "label": "岩攀磁吸座·双面钕铁硼",
      "prompt": "哑光黑铝合金岩攀磁吸支架，底座为双面强磁结构（N52钕铁硼），上部为可360°旋转万向节+球形锁紧旋钮，侧面集成Osmo Action 4 HDMI直连凹槽与防脱保险绳孔",
-     "file": null
+     "file": "images/gear/24acd86b7f_1.png",
+     "thumb": "images/gear/thumbs/24acd86b7f_1.jpg"
     }
    ]
   },
@@ -16376,12 +16380,14 @@
     {
      "label": "专业版·声呐图谱解析模块",
      "prompt": "APP界面截图：深蓝主色调UI，左侧为实时声呐剖面图（含AI标注鱼群聚类热区），右侧为三维水体温度/溶氧叠加图层，顶部悬浮‘AI Species ID v3.2’徽标与GPS精度指示环",
-     "file": null
+     "file": "images/gear/ca903a0719_0.png",
+     "thumb": "images/gear/thumbs/ca903a0719_0.jpg"
     },
     {
      "label": "教学版·幼鱼识别训练包",
      "prompt": "APP界面截图：浅青绿色教育主题UI，中央为分步式幼鱼形态比对交互面板（含鳃盖纹理放大镜、鳍条计数滑块），底部工具栏含‘野外标定校准’按钮与AR叠加教学引导箭头",
-     "file": null
+     "file": "images/gear/ca903a0719_1.png",
+     "thumb": "images/gear/thumbs/ca903a0719_1.jpg"
     }
    ]
   },
@@ -16391,12 +16397,14 @@
     {
      "label": "淡水版·CHIRP 77kHz·浮标集成",
      "prompt": "深绿ABS外壳便携声呐主机，正面为2.7英寸阳光可视LCD屏，顶部集成浮标式收放卷线器（带自动张力调节旋钮），右侧为CHIRP换能器接口与电池仓盖（印‘FRESHWATER OPTIMIZED’字样）",
-     "file": null
+     "file": "images/gear/b6ea3c77a5_0.png",
+     "thumb": "images/gear/thumbs/b6ea3c77a5_0.jpg"
     },
     {
      "label": "海钓版·Dual-Beam 200kHz·盐雾防护",
      "prompt": "哑光白+钴蓝配色声呐主机，外壳经盐雾测试认证（印ASTM B117标识），屏幕覆防眩光疏水膜，底部为双频换能器接口（含200kHz高分辨模式切换拨杆），背部设磁吸式船舷夹具安装槽",
-     "file": null
+     "file": "images/gear/b6ea3c77a5_1.png",
+     "thumb": "images/gear/thumbs/b6ea3c77a5_1.jpg"
     }
    ]
   },
@@ -16421,12 +16429,14 @@
     {
      "label": "林冠层版·长焦微距双摄",
      "prompt": "方正灰绿双色终端，顶部搭载12MP长焦镜头（f/2.8, 150mm等效）与5MP环形补光微距镜头，机身右侧为生物声纹采样麦克风阵列（四孔蜂窝结构），底部印‘CANOPY SYNC PROTOCOL’铭牌",
-     "file": null
+     "file": "images/gear/61f26e5a85_0.png",
+     "thumb": "images/gear/thumbs/61f26e5a85_0.jpg"
     },
     {
      "label": "湿地监测版·防水触控屏·pH探针槽",
      "prompt": "亮橙色IP68级终端，正面为7英寸防泼溅电容屏（表面覆疏水涂层），右下角设可弹出式pH/EC双参数探针收纳仓，背部有沼泽淤泥防粘纹理与磁吸式芦苇丛固定夹",
-     "file": null
+     "file": "images/gear/61f26e5a85_1.png",
+     "thumb": "images/gear/thumbs/61f26e5a85_1.jpg"
     }
    ]
   },
@@ -16436,12 +16446,14 @@
     {
      "label": "植物组织·离心管预装版",
      "prompt": "白色PP材质试剂盒，内含8支预分装离心管（红盖含裂解液、蓝盖含结合液），附微型研磨杵与植物样本采集滤纸袋，盒盖内侧印‘CTAB-Free Protocol’流程图",
-     "file": null
+     "file": "images/gear/053f8c7485_0.png",
+     "thumb": "images/gear/thumbs/053f8c7485_0.jpg"
     },
     {
      "label": "环境水样·滤膜直提版",
      "prompt": "靛蓝ABS试剂盒，内置47mm聚碳酸酯滤膜夹具与真空抽滤接头，配套3支冻干酶粉管（黄/紫/绿三色标签），盒体侧面设水样浊度对照色卡窗口",
-     "file": null
+     "file": "images/gear/053f8c7485_1.png",
+     "thumb": "images/gear/thumbs/053f8c7485_1.jpg"
     }
    ]
   },
@@ -16451,12 +16463,14 @@
     {
      "label": "森林挥发物·PID光离子模块",
      "prompt": "圆柱形哑光灰传感器，直径5.2cm高12cm，顶部为PID紫外灯窗口（带防尘网），侧面LED屏显示ppb级异戊二烯/单萜浓度，底部为森林腐殖土气味特征校准二维码",
-     "file": null
+     "file": "images/gear/f1314ebc37_0.png",
+     "thumb": "images/gear/thumbs/f1314ebc37_0.jpg"
     },
     {
      "label": "城市交通·金属氧化物阵列",
      "prompt": "方形黑金配色传感器，7×7cm铝合金外壳，正面为4×4金属氧化物气体传感阵列可视化窗口（不同颜色氧化物区域标记NOx/BTEX），顶部集成微型风扇与PM2.5共模检测孔",
-     "file": null
+     "file": "images/gear/f1314ebc37_1.png",
+     "thumb": "images/gear/thumbs/f1314ebc37_1.jpg"
     }
    ]
   },
@@ -16511,12 +16525,14 @@
     {
      "label": "萤火虫荧光版·夜光墨水适配",
      "prompt": "靛蓝夜光涂层手账本，封面压印Luciferase蛋白结构浮雕，内页纸基含微量稀土激活剂，特定角度可见幽蓝余辉轨迹，页边印ATP/GTP反应式镂空刻线",
-     "file": null
+     "file": "images/gear/a6f80b1f6d_0.png",
+     "thumb": "images/gear/thumbs/a6f80b1f6d_0.jpg"
     },
     {
      "label": "珊瑚共生版·UV激发荧光贴纸",
      "prompt": "珊瑚橙渐变手账本，封面嵌入UV响应荧光藻类图案（日光下隐形，UV灯下显绿/粉双色），内页预留荧光贴纸定位框（含Symbiodinium属分类编码色标）",
-     "file": null
+     "file": "images/gear/a6f80b1f6d_1.png",
+     "thumb": "images/gear/thumbs/a6f80b1f6d_1.jpg"
     }
    ]
   },
@@ -16526,12 +16542,14 @@
     {
      "label": "石阶精度版·毫米级倾角补偿",
      "prompt": "青铜质感圆盘标定器，直径12cm，表面蚀刻同心古道等高线纹，中心嵌入±0.1°倾角传感器与北斗三频天线，边缘设石阶踏面水平校准泡",
-     "file": null
+     "file": "images/gear/ff5048fe57_0.png",
+     "thumb": "images/gear/thumbs/ff5048fe57_0.jpg"
     },
     {
      "label": "碑刻坐标版·激光刻字基准桩",
      "prompt": "玄武岩质感立方体标定器（10×10×10cm），顶部激光雕刻‘GUDAO REF 2024’与WGS84经纬度坐标，侧面设磁吸式罗盘校准槽与碑文拓片定位十字线",
-     "file": null
+     "file": "images/gear/ff5048fe57_1.png",
+     "thumb": "images/gear/thumbs/ff5048fe57_1.jpg"
     }
    ]
   },
@@ -16541,12 +16559,14 @@
     {
      "label": "山林雾·玉米淀粉基·72h分解",
      "prompt": "米白色卷状基材，表面呈细腻雾面纹理，边缘印绿色‘FOREST MIST’与72h土壤降解周期图标，卷芯为PLA可降解纸筒，展开可见微孔透气结构",
-     "file": null
+     "file": "images/gear/6ba3f73b07_0.png",
+     "thumb": "images/gear/thumbs/6ba3f73b07_0.jpg"
     },
     {
      "label": "溪涧雾·海藻酸钠基·水溶触发",
      "prompt": "半透明浅青色片状基材，厚度0.8mm，表面有仿溪流波纹压纹，一角印‘AQUA-DISSOLVE’水滴图标，遇水30秒内透明化并释放负离子香氛微粒",
-     "file": null
+     "file": "images/gear/6ba3f73b07_1.png",
+     "thumb": "images/gear/thumbs/6ba3f73b07_1.jpg"
     }
    ]
   },
@@ -16571,12 +16591,14 @@
     {
      "label": "构造解析版·断层应力矢量",
      "prompt": "APP界面截图：地质棕主色调UI，地图叠加层显示彩色应力矢量箭头（红压缩/蓝拉张），图例区含莫尔圆动态模拟控件与断层滑动角实时计算面板",
-     "file": null
+     "file": "images/gear/9a59fc629a_0.png",
+     "thumb": "images/gear/thumbs/9a59fc629a_0.jpg"
     },
     {
      "label": "矿脉追踪版·元素富集热力",
      "prompt": "APP界面截图：深紫配色UI，地图以热力图呈现Au/Ag/Cu元素地化异常（暖色越强浓度越高），点击热区弹出钻孔岩芯扫描图与围岩蚀变类型标注",
-     "file": null
+     "file": "images/gear/9a59fc629a_1.png",
+     "thumb": "images/gear/thumbs/9a59fc629a_1.jpg"
     }
    ]
   },
@@ -16586,12 +16608,14 @@
     {
      "label": "云海路径版·532nm绿光·1km测程",
      "prompt": "军绿铝合金测绘仪，发射口为532nm绿光激光器（带雾散射增强透镜），顶部集成云高计与湿度联动模块，侧面LCD屏显示雾体移动矢量与消散预测时间",
-     "file": null
+     "file": "images/gear/768d66f79c_0.png",
+     "thumb": "images/gear/thumbs/768d66f79c_0.jpg"
     },
     {
      "label": "林冠穿透版·1550nm红外·双波长",
      "prompt": "炭黑氧化铝机身测绘仪，双激光出口（1550nm主测距+850nm辅助穿透），前端带林冠密度自适应功率调节旋钮，背部设苔藓湿度耦合校准接口",
-     "file": null
+     "file": "images/gear/768d66f79c_1.png",
+     "thumb": "images/gear/thumbs/768d66f79c_1.jpg"
     }
    ]
   },
@@ -16601,12 +16625,14 @@
     {
      "label": "野外速查版·荧光矿物UV灯",
      "prompt": "折叠式厚卡纸识别卡（15×10cm），正面为30种常见矿物手绘图与硬度/条痕/光泽图标，背面嵌入微型UV LED灯（365nm）与矿物荧光反应色块示例",
-     "file": null
+     "file": "images/gear/500d0fc980_0.png",
+     "thumb": "images/gear/thumbs/500d0fc980_0.jpg"
     },
     {
      "label": "教学解剖版·薄片偏光镜",
      "prompt": "亚克力夹层识别卡（12×12cm），中层嵌入真实矿物薄片（石英/方解石/云母），上下为偏光镜片，转动卡片可见干涉色变化，边缘印贝克线移动方向箭头",
-     "file": null
+     "file": "images/gear/500d0fc980_1.png",
+     "thumb": "images/gear/thumbs/500d0fc980_1.jpg"
     }
    ]
   },
@@ -16616,12 +16642,14 @@
     {
      "label": "冷雾版·超声波·3L/h",
      "prompt": "圆柱形白瓷雾化器（Φ8cm×H15cm），顶部为超声波雾化晶片格栅，侧面数码屏显示3L/h冷雾输出量与水位LED，底部磁吸式水箱（透明PC材质带刻度）",
-     "file": null
+     "file": "images/gear/da47a26173_0.png",
+     "thumb": "images/gear/thumbs/da47a26173_0.jpg"
     },
     {
      "label": "热雾版·电阻加热·粒子可控",
      "prompt": "哑光黑铝合金雾化器，前端为可调口径热雾喷嘴（0.5–3mm），侧面旋钮控制粒子直径（1–10μm刻度），顶部散热鳍片印‘THERMAL FOG MODE’标识",
-     "file": null
+     "file": "images/gear/da47a26173_1.png",
+     "thumb": "images/gear/thumbs/da47a26173_1.jpg"
     }
    ]
   },
@@ -16646,12 +16674,14 @@
     {
      "label": "标准十六色·A5硬卡纸覆膜版",
      "prompt": "A5尺寸硬质卡纸比色卡，16格标准VOC响应色阶（从浅黄至深紫），每格标注对应化合物名称与ppb阈值，表面覆哑光防刮膜，边缘烫金编号与校准日期",
-     "file": null
+     "file": "images/gear/ff4368a0d6_0.png",
+     "thumb": "images/gear/thumbs/ff4368a0d6_0.jpg"
     },
     {
      "label": "便携磁吸折叠·六折铝板+UV固化色膜",
      "prompt": "六折式阳极氧化铝板比色卡，展开尺寸12×18cm，每面3色共6组VOC响应色块，色膜采用UV固化丙烯酸树脂，背面集成钕磁铁，边角圆润防刮",
-     "file": null
+     "file": "images/gear/ff4368a0d6_1.png",
+     "thumb": "images/gear/thumbs/ff4368a0d6_1.jpg"
     }
    ]
   },
@@ -16661,12 +16691,14 @@
     {
      "label": "石英毛细管·0.5mm内径×15cm",
      "prompt": "透明高纯石英冷阱管，内径0.5mm、全长15cm，两端熔封锥形接口，管壁真空镀铝反射层，中部填充10mgTenax-TA吸附剂，标有红色温度耐受线（-40℃~150℃）",
-     "file": null
+     "file": "images/gear/2bd024f882_0.png",
+     "thumb": "images/gear/thumbs/2bd024f882_0.jpg"
     },
     {
      "label": "不锈钢螺旋管·3mm内径×25cm带温控夹套",
      "prompt": "316L不锈钢螺旋冷阱管，内径3mm、有效长度25cm，外绕PTFE绝缘螺旋加热丝，透明硅胶温控夹套包裹，顶部集成K型热电偶接口与压力释放阀",
-     "file": null
+     "file": "images/gear/2bd024f882_1.png",
+     "thumb": "images/gear/thumbs/2bd024f882_1.jpg"
     }
    ]
   },
@@ -16676,12 +16708,14 @@
     {
      "label": "嗅觉索引版·128g棉浆纸+气味标签贴纸",
      "prompt": "A5横开手账本，128g米白棉浆纸内页，左侧印有ISO 8589气味分类编码表（12大类），右侧空白页附可撕式微胶囊气味标签贴纸（含柠檬/雪松/臭氧三款），封面为触感压纹再生牛皮纸",
-     "file": null
+     "file": "images/gear/96c6f34ca7_0.png",
+     "thumb": "images/gear/thumbs/96c6f34ca7_0.jpg"
     },
     {
      "label": "AR交互版·NFC芯片嵌入+荧光油墨页眉",
      "prompt": "B6竖开手账本，80g象牙白纸张，每页页眉印有荧光绿气味编码符号（紫外灯下显影），封面嵌入NFC芯片，脊部烫银‘OdorLog’LOGO，内页预留AR触发锚点图标",
-     "file": null
+     "file": "images/gear/96c6f34ca7_1.png",
+     "thumb": "images/gear/thumbs/96c6f34ca7_1.jpg"
     }
    ]
   },
@@ -16691,12 +16725,14 @@
     {
      "label": "户外IP67型·四合一传感器+太阳能顶盖",
      "prompt": "方形ABS工程塑料控制器，深空灰外壳，正面集成温湿度/气压/紫外线四合一传感器探头，顶部凸起太阳能充电板（黑色单晶硅），底部M12防水接口与LED状态环（蓝/红双色）",
-     "file": null
+     "file": "images/gear/3fae2d85a8_0.png",
+     "thumb": "images/gear/thumbs/3fae2d85a8_0.jpg"
     },
     {
      "label": "室内桌面型·温湿光声四模+磁吸底座",
      "prompt": "圆柱形哑光白PC控制器，直径6.5cm高3.2cm，顶部环形光感器，侧面微孔阵列麦克风，底部钕磁吸盘配橡胶防滑垫，侧边激光雕刻‘IndoorSense’型号码",
-     "file": null
+     "file": "images/gear/3fae2d85a8_1.png",
+     "thumb": "images/gear/thumbs/3fae2d85a8_1.jpg"
     }
    ]
   },
@@ -16706,12 +16742,14 @@
     {
      "label": "野外 rugged 型·IP68+激光红光+USB-C",
      "prompt": "军规级钛合金扫码笔，哑光黑磨砂机身，前端红光激光扫描窗带蓝宝石防护镜，尾部USB-C直插接口，侧面蚀刻生物安全警示图标与CE/FCC认证码",
-     "file": null
+     "file": "images/gear/b3ddd5a8c3_0.png",
+     "thumb": "images/gear/thumbs/b3ddd5a8c3_0.jpg"
     },
     {
      "label": "实验室静音型·红外CMOS+Type-C+静音扳机",
      "prompt": "医用级白色聚碳酸酯扫码笔，流线型人体工学握柄，红外CMOS扫描头无可见光，静音机械扳机结构，底部Type-C接口带硅胶密封盖，顶部嵌入小型OLED屏显示物种拉丁名",
-     "file": null
+     "file": "images/gear/b3ddd5a8c3_1.png",
+     "thumb": "images/gear/thumbs/b3ddd5a8c3_1.jpg"
     }
    ]
   },
@@ -16736,12 +16774,14 @@
     {
      "label": "双人浮力型·1.8m×0.9m×15cm",
      "prompt": "碳纤维+EPP泡沫复合筏体，哑光黑碳纤纹主框架，可折叠三段式结构，展开尺寸1.8×0.9×0.15m，底部集成6个独立气室与D形扣，边缘包覆荧光橙TPU防撞条",
-     "file": null
+     "file": "images/gear/736fc54a1d_0.png",
+     "thumb": "images/gear/thumbs/736fc54a1d_0.jpg"
     },
     {
      "label": "单人轻量型·1.2m×0.6m×10cm",
      "prompt": "单人用超轻碳纤维探钓筏，1.2×0.6×0.1m折叠尺寸，主体为UD碳布真空热压成型，灰白渐变涂装，中央设磁吸式鱼竿支架接口，四角带可拆卸铝制锚点",
-     "file": null
+     "file": "images/gear/736fc54a1d_1.png",
+     "thumb": "images/gear/thumbs/736fc54a1d_1.jpg"
     }
    ]
   },
@@ -16751,12 +16791,14 @@
     {
      "label": "通用C口转接·铝合金+三轴微调旋钮",
      "prompt": "阳极氧化银灰铝合金适配器，C接口母口与手机夹持槽一体化设计，三轴独立微调旋钮（X/Y/Z方向，黑色橡胶旋钮帽），夹持槽内衬黑色硅胶防滑垫，侧面激光刻‘FL-Mount Pro’型号",
-     "file": null
+     "file": "images/gear/8fd5d1ebd8_0.png",
+     "thumb": "images/gear/thumbs/8fd5d1ebd8_0.jpg"
     },
     {
      "label": "专用iPhone磁吸版·钕磁环+光学玻璃垫片",
      "prompt": "圆盘形黑色POM塑料适配器，中心嵌入环形钕磁铁阵列，外围三颗可调高度光学玻璃垫片（厚度0.5mm），底部C接口带黄铜密封圈，边缘蚀刻iPhone机型兼容标识（14/15/16）",
-     "file": null
+     "file": "images/gear/8fd5d1ebd8_1.png",
+     "thumb": "images/gear/thumbs/8fd5d1ebd8_1.jpg"
     }
    ]
   },
@@ -16796,12 +16838,14 @@
     {
      "label": "高阻隔铝塑复合·100ml自封+硅胶阀",
      "prompt": "银灰铝塑复合密封袋，100ml容量，哑光磨砂表面，顶部自封条带蓝色指示线，右下角集成硅胶单向进气阀（红色阀芯），袋身印有‘OdorSafe’及批次激光码",
-     "file": null
+     "file": "images/gear/a504b96c88_0.png",
+     "thumb": "images/gear/thumbs/a504b96c88_0.jpg"
     },
     {
      "label": "惰性氟聚合物·500ml拉链+PTFE内衬",
      "prompt": "半透明氟化乙烯丙烯共聚物（FEP）采样袋，500ml容量，拉链式密封口带黑色TPU加固条，内壁全覆盖PTFE涂层（镜面反光质感），底部印有US EPA Method TO-15合规标识",
-     "file": null
+     "file": "images/gear/a504b96c88_1.png",
+     "thumb": "images/gear/thumbs/a504b96c88_1.jpg"
     }
    ]
   },
@@ -16811,12 +16855,14 @@
     {
      "label": "微距雾化型·双轴云台+超声波雾化腔",
      "prompt": "黑色阳极氧化铝双轴云台，承重5kg，顶部集成直径4cm超声波雾化腔（透明亚克力罩），腔体底部嵌入环形LED冷白光，侧边旋钮控制雾浓度与持续时长",
-     "file": null
+     "file": "images/gear/e767e03e5e_0.png",
+     "thumb": "images/gear/thumbs/e767e03e5e_0.jpg"
     },
     {
      "label": "全景雾轨型·电动三轴+轨道滑块+雾幕发生器",
      "prompt": "碳纤维电动三轴云台，含1.2m铝合金轨道滑块，顶部雾幕发生器为矩形银灰金属盒（15×8×5cm），正面雾化出口带可调狭缝，底部集成WiFi模块与电量LED环",
-     "file": null
+     "file": "images/gear/e767e03e5e_1.png",
+     "thumb": "images/gear/thumbs/e767e03e5e_1.jpg"
     }
    ]
   },
@@ -16856,12 +16902,14 @@
     {
      "label": "竞技级·可调频蓝刃·110cm",
      "prompt": "哑光黑铝合金剑柄，阳极氧化蓝色刃体（长度110cm），刃尖带环形RGB灯珠阵列，柄尾有三段式触控开关与震动反馈模块，接口处标‘FIGHT MODE’蚀刻字",
-     "file": null
+     "file": "images/gear/812d37294d_0.png",
+     "thumb": "images/gear/thumbs/812d37294d_0.jpg"
     },
     {
      "label": "教学级·柔光白刃·95cm",
      "prompt": "磨砂白PC+TPU复合剑柄，半透明乳白柔性LED刃体（长度95cm），刃身均匀漫射光效，柄身印浅灰教学编号‘EDU-07’，底部磁吸充电触点",
-     "file": null
+     "file": "images/gear/812d37294d_1.png",
+     "thumb": "images/gear/thumbs/812d37294d_1.jpg"
     }
    ]
   },
@@ -16886,12 +16934,14 @@
     {
      "label": "竞技版·IMU+肌电·碳纤壳",
      "prompt": "哑光黑碳纤维护腕外壳，两侧各嵌一枚银色六轴IMU传感器窗口，内侧裸露医用级凝胶电极阵列，USB-C接口位于腕外侧，激光刻‘PRO-EMG’标识",
-     "file": null
+     "file": "images/gear/87d37070c3_0.png",
+     "thumb": "images/gear/thumbs/87d37070c3_0.jpg"
     },
     {
      "label": "入门版·单IMU·TPU软壳",
      "prompt": "雾面灰TPU一体成型护腕，正面凸起圆形IMU传感区（直径22mm）带蓝光呼吸指示，无外露电路，弹性搭扣带印‘STARTER’浮雕字",
-     "file": null
+     "file": "images/gear/87d37070c3_1.png",
+     "thumb": "images/gear/thumbs/87d37070c3_1.jpg"
     }
    ]
   },
@@ -16916,12 +16966,14 @@
     {
      "label": "淡水缓释型·海藻酸钠基·5g胶囊",
      "prompt": "半透明琥珀色植物胶囊（Φ8×12mm），表面印绿色‘AQUA-SLOW’字样，内部可见淡粉染料颗粒，胶囊顶部热封银箔，附生物降解认证标贴一角",
-     "file": null
+     "file": "images/gear/defd9196cf_0.png",
+     "thumb": "images/gear/thumbs/defd9196cf_0.jpg"
     },
     {
      "label": "急流瞬染型·天然花青素·1g粉剂瓶",
      "prompt": "磨砂雾蓝PETG小瓶（Φ20×40mm），瓶身印‘RAPID-FLOW’白字，透明瓶盖内嵌定量取药勺，瓶底标签含pH适配范围色块图",
-     "file": null
+     "file": "images/gear/defd9196cf_1.png",
+     "thumb": "images/gear/thumbs/defd9196cf_1.jpg"
     }
    ]
   },
@@ -16946,12 +16998,14 @@
     {
      "label": "训练版·60×60cm·压感LED",
      "prompt": "哑光黑橡胶基板（60×60×1.8cm），表面嵌入16×16点阵RGB LED，四角有黑色TPE防滑脚垫，侧边露出USB-C与同步指示灯，板面微凹防滑纹",
-     "file": null
+     "file": "images/gear/faa068cdac_0.png",
+     "thumb": "images/gear/thumbs/faa068cdac_0.jpg"
     },
     {
      "label": "演示版·120×30cm·声波共振膜",
      "prompt": "浅灰织物覆面长条地板（120×30×2.5cm），表面可见声波纹路压印，两端银色铝框嵌入麦克风孔与低频振动单元，背面标‘DEMO MODE’激光字",
-     "file": null
+     "file": "images/gear/faa068cdac_1.png",
+     "thumb": "images/gear/thumbs/faa068cdac_1.jpg"
     }
    ]
   },
@@ -16976,12 +17030,14 @@
     {
      "label": "精细版·铂金硅胶·50g装",
      "prompt": "哑光白PETG双腔分装盒（120×80×35mm），左腔乳白铂金硅胶膏体，右腔透明固化剂，附不锈钢刮刀与拓扑纹理测试片（表面印莫比乌斯环浮雕）",
-     "file": null
+     "file": "images/gear/6364b025f2_0.png",
+     "thumb": "images/gear/thumbs/6364b025f2_0.jpg"
     },
     {
      "label": "工业版·高撕裂硅胶·500g桶",
      "prompt": "深蓝HDPE圆桶（Φ110×150mm），桶身印‘TOPO-INDUSTRIAL’烫金字，桶盖内嵌密封硅胶圈，附黑色橡胶刮板与拓扑曲面校准卡（含高斯曲率色谱）",
-     "file": null
+     "file": "images/gear/6364b025f2_1.png",
+     "thumb": "images/gear/thumbs/6364b025f2_1.jpg"
     }
    ]
   },
@@ -17006,12 +17062,14 @@
     {
      "label": "溪流版·水激活·A4幅面",
      "prompt": "象牙白特种纸（210×297mm），表面微涂水敏显影层，左下角印浅灰‘STREAM-TOPO’标识，纸边锯齿状裁切，附蓝色水笔测试痕迹（已显蓝绿色地形线）",
-     "file": null
+     "file": "images/gear/6661d11b35_0.png",
+     "thumb": "images/gear/thumbs/6661d11b35_0.jpg"
     },
     {
      "label": "湖泊版·UV显影·A3幅面",
      "prompt": "冷白哑光涂层纸（297×420mm），UV灯照射下浮现湖底等深线，纸面预留‘LACUSTRIS’烫银logo位，四角带定位十字标，背面印ISO12647认证码",
-     "file": null
+     "file": "images/gear/6661d11b35_1.png",
+     "thumb": "images/gear/thumbs/6661d11b35_1.jpg"
     }
    ]
   },
@@ -17036,12 +17094,14 @@
     {
      "label": "便携款·碳纤伸缩·3m",
      "prompt": "哑光黑碳纤维尺杆（收缩态Φ22×450mm），拉出三节带毫米刻度，末端红漆浸渍防滑，中节嵌水深传感器接口，尺面蚀刻‘RIVER-SECTION’",
-     "file": null
+     "file": "images/gear/b0802dec7b_0.png",
+     "thumb": "images/gear/thumbs/b0802dec7b_0.jpg"
     },
     {
      "label": "固定款·不锈钢卷尺·10m",
      "prompt": "304不锈钢带尺（10m×25mm），表面激光刻双面刻度（公制/英制），卷尺盒为黄黑警示色ABS壳，盒盖印‘BED-PROFILE’及校准二维码",
-     "file": null
+     "file": "images/gear/b0802dec7b_1.png",
+     "thumb": "images/gear/thumbs/b0802dec7b_1.jpg"
     }
    ]
   },
@@ -17081,12 +17141,14 @@
     {
      "label": "赛事版·多机位识别·USB密钥",
      "prompt": "黑色金属USB-A密钥（60×20×8mm），表面蚀刻‘VR-REFEREE PRO’与赛事LOGO凹槽，接口端镀金，密钥链孔带红硅胶防丢环",
-     "file": null
+     "file": "images/gear/3c5ef16ac0_0.png",
+     "thumb": "images/gear/thumbs/3c5ef16ac0_0.jpg"
     },
     {
      "label": "训练版·单摄分析·云激活码",
      "prompt": "哑光白PETG卡片（85×55mm），正面印‘TRAIN MODE’及二维码，背面UV凸印16位激活码，卡片一角嵌NFC芯片感应区（银色圆点）",
-     "file": null
+     "file": "images/gear/3c5ef16ac0_1.png",
+     "thumb": "images/gear/thumbs/3c5ef16ac0_1.jpg"
     }
    ]
   },
@@ -17111,12 +17173,14 @@
     {
      "label": "消防初战款·芳纶混纺·M码",
      "prompt": "暗红芳纶/阻燃粘胶混纺面料，立领剪裁，肩肘预置软质护甲袋，左胸反光条印‘FIRST RESPONSE’，下摆抽绳调节，标签外露‘NFPA 1971’",
-     "file": null
+     "file": "images/gear/892c3548e8_0.png",
+     "thumb": "images/gear/thumbs/892c3548e8_0.jpg"
     },
     {
      "label": "电力巡检款·导电纤维·L码",
      "prompt": "石墨灰导电涤纶面料，无缝腋下结构，胸前双口袋带静电释放钮，袖口嵌铜丝接地线接口，后颈处激光刻‘ARC FLASH CAT2’",
-     "file": null
+     "file": "images/gear/892c3548e8_1.png",
+     "thumb": "images/gear/thumbs/892c3548e8_1.jpg"
     }
    ]
   },
@@ -17171,12 +17235,14 @@
     {
      "label": "越野长续航·双频GPS+光学HR",
      "prompt": "军绿硅胶表带配钛灰阳极氧化铝表壳，1.3英寸AMOLED屏，表侧可见双频GPS天线触点与绿色心率传感器窗口，背面凸起双光学模组与陶瓷散热环，厚度12.4mm，带磁吸快拆接口",
-     "file": null
+     "file": "images/gear/18eb36c7fe_0.png",
+     "thumb": "images/gear/thumbs/18eb36c7fe_0.jpg"
     },
     {
      "label": "轻量竞速款·脉搏波PPG+气压计",
      "prompt": "半透明磨砂浅灰TPU一体成型手环，无表盘设计，仅在腕内侧嵌入微型椭圆屏（240×120px）与红色PPG传感器，表带内侧激光蚀刻海拔刻度线，重量仅18g，宽度16mm",
-     "file": null
+     "file": "images/gear/18eb36c7fe_1.png",
+     "thumb": "images/gear/thumbs/18eb36c7fe_1.jpg"
     }
    ]
   },
@@ -17216,12 +17282,14 @@
     {
      "label": "干电极8通道·碳纤维骨架",
      "prompt": "哑光黑碳纤维弧形头环，前端8个银色环状干电极呈放射状排列，后部集成微型蓝牙模块与充电触点，内侧分布硅胶缓冲垫与压力感应条，宽度32mm，可伸缩耳挂结构",
-     "file": null
+     "file": "images/gear/6fffa21088_0.png",
+     "thumb": "images/gear/thumbs/6fffa21088_0.jpg"
     },
     {
      "label": "湿电极16通道·医用级硅胶",
      "prompt": "米白医用硅胶头环（内径54cm），前额区16个凸起银质电极杯，每个带微型盐水储液腔与蓝色注液口，后颈处隐藏Type-C接口与电量指示灯，表面激光蚀刻‘NeuroBand MD’认证标",
-     "file": null
+     "file": "images/gear/6fffa21088_1.png",
+     "thumb": "images/gear/thumbs/6fffa21088_1.jpg"
     }
    ]
   },
@@ -17411,12 +17479,14 @@
     {
      "label": "E-Ink反射屏·太阳能充电·等高线热力",
      "prompt": "深灰镁合金平板（195×135×9mm），正面为7英寸E-Ink Carta屏，显示蓝橙双色地形热力叠加等高线，顶部集成太阳能充电条与物理电源键，无反光，边缘印‘TrailTherm E’",
-     "file": null
+     "file": "images/gear/53e0d6510a_0.png",
+     "thumb": "images/gear/thumbs/53e0d6510a_0.jpg"
     },
     {
      "label": "OLED夜视版·红外融合·坡度预警",
      "prompt": "哑光黑碳纤维平板（178×120×11mm），正面为5.5英寸OLED屏，显示伪彩色红外地形图叠加红色坡度警示带，底部红外补光灯环，侧面带夜视模式拨杆与‘NightMap IR’logo",
-     "file": null
+     "file": "images/gear/53e0d6510a_1.png",
+     "thumb": "images/gear/thumbs/53e0d6510a_1.jpg"
     }
    ]
   },
@@ -17591,12 +17661,14 @@
     {
      "label": "HRV专注模式·iOS版",
      "prompt": "手机界面截图：深空蓝主色调，中央动态HRV频谱环（绿色为主），底部浮动呼吸引导波形，右上角显示Apple Watch图标与‘FDA Class II’徽标",
-     "file": null
+     "file": "images/gear/c3a338a4a7_0.png",
+     "thumb": "images/gear/thumbs/c3a338a4a7_0.jpg"
     },
     {
      "label": "EMG肌电校准版·Android版",
      "prompt": "手机界面截图：石墨灰背景，左侧实时肌电信号瀑布图（橙红渐变），右侧三维肌肉模型叠加电极定位点，底部带‘ISO 13485’认证水印",
-     "file": null
+     "file": "images/gear/c3a338a4a7_1.png",
+     "thumb": "images/gear/thumbs/c3a338a4a7_1.jpg"
     }
    ]
   },
@@ -17696,12 +17768,14 @@
     {
      "label": "Web端标准版·支持10万点数据渲染",
      "prompt": "扁平化蓝色科技风UI界面截图，显示中国长三角区域污染热力图，图例从浅蓝到深红渐变，右上角标注'Web Standard v2.3'水印，界面底部有坐标轴与时间滑块，主界面左侧悬浮半透明数据筛选面板",
-     "file": null
+     "file": "images/gear/863bea7855_0.png",
+     "thumb": "images/gear/thumbs/863bea7855_0.jpg"
     },
     {
      "label": "移动端Pro版·含离线地图+AI异常识别",
      "prompt": "iOS手机屏幕特写，深灰底色App界面，中央为带经纬网格的夜间模式热力图（紫色-黄色高亮异常区），左下角悬浮AI识别徽章图标，右上角显示'Offline Mode · 2024Q3'状态栏，底部导航栏含‘扫描’‘报告’‘导出’三图标",
-     "file": null
+     "file": "images/gear/863bea7855_1.png",
+     "thumb": "images/gear/thumbs/863bea7855_1.jpg"
     }
    ]
   },
@@ -17711,12 +17785,14 @@
     {
      "label": "荧光绿单尾·3.5cm·TPE软胶",
      "prompt": "单条夜光软虫饵平铺白底，3.5厘米长，荧光绿色半透明TPE材质，表面细腻纹理，尾部呈螺旋卷曲状，头部微凸带仿生凹点，边缘泛柔和蓝绿色余辉光晕",
-     "file": null
+     "file": "images/gear/7d82d98fcf_0.png",
+     "thumb": "images/gear/thumbs/7d82d98fcf_0.jpg"
     },
     {
      "label": "磷光橙双尾·5.2cm·硅胶增强款",
      "prompt": "单条夜光软虫饵正面特写，5.2厘米长，橙红色硅胶材质哑光质感，双尾分叉结构对称，尾尖微翘带细微颗粒感，体侧嵌入0.3mm银色反光丝线，整体呈现温润磷光蓄能效果",
-     "file": null
+     "file": "images/gear/7d82d98fcf_1.png",
+     "thumb": "images/gear/thumbs/7d82d98fcf_1.jpg"
     }
    ]
   },
@@ -17726,12 +17802,14 @@
     {
      "label": "浮标式·IP68·72h连续记录",
      "prompt": "圆柱形微型记录仪实物图，直径2.8cm高5.1cm，磨砂灰ABS外壳，顶部集成不锈钢温度探针与电化学溶氧膜窗口，侧面激光蚀刻'LOG-72H'及防水等级标识，底部磁吸充电触点",
-     "file": null
+     "file": "images/gear/fce156a3fb_0.png",
+     "thumb": "images/gear/thumbs/fce156a3fb_0.jpg"
     },
     {
      "label": "探杆直插式·-10~50℃·蓝牙5.3",
      "prompt": "细长型记录仪主体特写，1.2cm直径×12.5cm长度，哑光黑PC+TPU双材质，前端露出铂金温度传感器与多孔溶氧扩散帽，中段印有蓝色蓝牙图标及'BT5.3'字样，尾部Type-C接口带硅胶防护盖",
-     "file": null
+     "file": "images/gear/fce156a3fb_1.png",
+     "thumb": "images/gear/thumbs/fce156a3fb_1.jpg"
     }
    ]
   },
@@ -17741,12 +17819,14 @@
     {
      "label": "47mm GN-6·0.45μm·醋酸纤维素",
      "prompt": "圆形白色滤膜平放于黑色金属滤器托盘内，直径47毫米，表面均匀微孔结构肉眼可见，边缘带浅灰环形支撑框，滤膜中心印有'GN-6 0.45μm'细体激光标记，材质呈现柔韧半透明醋纤质感",
-     "file": null
+     "file": "images/gear/36b590d644_0.png",
+     "thumb": "images/gear/thumbs/36b590d644_0.jpg"
     },
     {
      "label": "25mm SS-12·0.22μm·聚碳酸酯核孔膜",
      "prompt": "25毫米直径圆形滤膜特写，亮白色高光聚碳酸酯基底，表面分布规则六边形微孔阵列（放大视觉），边缘无框裸膜设计，附带金属镊子轻夹一角，膜面反射冷调光泽，底部印'PC-SS12 0.22μm'",
-     "file": null
+     "file": "images/gear/36b590d644_1.png",
+     "thumb": "images/gear/thumbs/36b590d644_1.jpg"
     }
    ]
   },
@@ -17756,12 +17836,14 @@
     {
      "label": "365nm LED·20x·铝合金机身",
      "prompt": "手持式显微镜正视角，阳极氧化深空灰铝合金外壳，前端环形365nm紫外LED灯珠排列整齐，物镜罩为哑光黑橡胶包边，目镜筒刻'20X UV'铭文，右侧电源键带蓝光指示环",
-     "file": null
+     "file": "images/gear/6bd4e5ed88_0.png",
+     "thumb": "images/gear/thumbs/6bd4e5ed88_0.jpg"
     },
     {
      "label": "254nm汞灯·100x·折叠式碳纤支架",
      "prompt": "展开状态手持显微镜侧45度角图，黑色碳纤维伸缩臂连接镜体与底座，镜头为镀膜石英透镜组，254nm汞灯光源窗呈琥珀色玻璃质感，底座集成可调焦旋钮与UV强度档位标识",
-     "file": null
+     "file": "images/gear/6bd4e5ed88_1.png",
+     "thumb": "images/gear/thumbs/6bd4e5ed88_1.jpg"
     }
    ]
   },
@@ -17771,12 +17853,14 @@
     {
      "label": "主动式·850nm·续航12h·战术挂耳",
      "prompt": "黑色红外夜视眼镜正脸视角，哑光TPU镜框配灰黑PC镜片，两侧内置850nm红外补光灯呈矩形阵列，镜腿末端为金属战术挂耳扣，鼻托处印'IR-850 ACTIVE'微雕文字",
-     "file": null
+     "file": "images/gear/f0b09d788b_0.png",
+     "thumb": "images/gear/thumbs/f0b09d788b_0.jpg"
     },
     {
      "label": "被动式·Gen2+·无光源·轻量钛合金",
      "prompt": "银灰钛合金镜架夜视眼镜45度侧视图，超薄镜腿刻蚀'GEN2+ PASSIVE'，镜片为深墨绿增透镀膜玻璃，表面无任何发光元件，镜框内嵌微型图像增强管散热鳍片细节清晰",
-     "file": null
+     "file": "images/gear/f0b09d788b_1.png",
+     "thumb": "images/gear/thumbs/f0b09d788b_1.jpg"
     }
    ]
   },
@@ -17786,12 +17870,14 @@
     {
      "label": "四节式·UL调·2.4m·220g",
      "prompt": "展开状态溪流竿平放图，2.4米长，浅炭灰碳布纹理清晰可见，蛇形导环为浅金色陶瓷环，前握把为浅米色EVA，后柄金属丝缠绕收口，竿体印'UL 240cm'烫金细字",
-     "file": null
+     "file": "images/gear/2fb7f0ba94_0.png",
+     "thumb": "images/gear/thumbs/2fb7f0ba94_0.jpg"
     },
     {
      "label": "两节式·L调·2.7m·298g·防缠绕顶环",
      "prompt": "2.7米溪流竿斜45度展示，深空灰碳布基底带纵向碳纤束纹路，顶导环为加高防缠绕钛合金框架结构，前后握把为黑灰双色EVA，竿梢印'L 270cm'浮雕字体，重量标贴位于中把连接处",
-     "file": null
+     "file": "images/gear/2fb7f0ba94_1.png",
+     "thumb": "images/gear/thumbs/2fb7f0ba94_1.jpg"
     }
    ]
   },
@@ -17801,12 +17887,14 @@
     {
      "label": "植物荧光笔·5色套装·UV稳定型",
      "prompt": "五支并列荧光记号笔平铺图，笔身磨砂白PP材质，每支帽顶对应荧光色（黄/粉/蓝/绿/橙），笔杆印对应色名与'UV-Stable'字样，笔尖为细纤维刷头，套装含透明收纳槽",
-     "file": null
+     "file": "images/gear/1b1303245b_0.png",
+     "thumb": "images/gear/thumbs/1b1303245b_0.jpg"
     },
     {
      "label": "动物标记喷雾·30ml铝罐·近红外激发",
      "prompt": "银色铝制气雾罐正面特写，高11cm直径4.2cm，罐体印深蓝'NIR-MARK'及红外波长图标，喷嘴为黑色旋转式精密雾化头，底部标签注明'Excitation: 808nm'与生物相容性认证标志",
-     "file": null
+     "file": "images/gear/1b1303245b_1.png",
+     "thumb": "images/gear/thumbs/1b1303245b_1.jpg"
     }
    ]
   },
@@ -17816,12 +17904,14 @@
     {
      "label": "双光源·COB+聚光·IPX8·1200lm",
      "prompt": "黑色防水头灯正面特写，宽幅COB LED主光源呈暖白光带柔光扩散板，右侧独立聚光LED为冷白光带橘色聚光圈，灯体印'1200LM IPX8'，硅胶头带接口处有橙色密封胶圈",
-     "file": null
+     "file": "images/gear/c6f0d7ab5e_0.png",
+     "thumb": "images/gear/thumbs/c6f0d7ab5e_0.jpg"
     },
     {
      "label": "红光夜视款·USB-C快充·IPX7·200lm",
      "prompt": "深海军蓝头灯45度角图，灯体为哑光PC+橡胶复合材质，主光源为均匀红光LED阵列（波长625nm），侧面印红色'NIGHT-VISION MODE'，USB-C充电口带硅胶翻盖，尾部电量指示灯呈三段红光",
-     "file": null
+     "file": "images/gear/c6f0d7ab5e_1.png",
+     "thumb": "images/gear/thumbs/c6f0d7ab5e_1.jpg"
     }
    ]
   },
@@ -17831,12 +17921,14 @@
     {
      "label": "红蓝双色渐变型·5mL安瓿瓶装",
      "prompt": "透明玻璃安瓿瓶，内装5mL液体，液面呈现清晰红-蓝pH梯度分层，瓶身印有pH 3–11刻度标尺与蓝色磨砂字体，铝箔封口，瓶底带防滑硅胶垫",
-     "file": null
+     "file": "images/gear/0ca5417a17_0.png",
+     "thumb": "images/gear/thumbs/0ca5417a17_0.jpg"
     },
     {
      "label": "广谱指示凝胶型·20g冻干粉剂",
      "prompt": "白色圆柱形铝箔复合膜密封袋，内装20g浅紫色冻干粉末，袋面烫印深灰‘pH 1–14 全域响应’字样与分子结构简图，袋角带撕裂缺口与硅胶干燥剂小包",
-     "file": null
+     "file": "images/gear/0ca5417a17_1.png",
+     "thumb": "images/gear/thumbs/0ca5417a17_1.jpg"
     }
    ]
   },
@@ -17846,12 +17938,14 @@
     {
      "label": "掌上离心+荧光读取·一体机版",
      "prompt": "哑光黑ABS工程塑料主机，长宽高约12×8×5cm，顶部嵌入LED蓝光激发窗与圆形样品槽，侧面带USB-C接口与状态LED灯，机身蚀刻‘FungiScan Pro’银标",
-     "file": null
+     "file": "images/gear/adb510194a_0.png",
+     "thumb": "images/gear/thumbs/adb510194a_0.jpg"
     },
     {
      "label": "无仪器免扩增·试纸条版",
      "prompt": "硬质卡纸折叠盒（10×7×1.5cm），内含10条独立铝箔包装试纸条，每条呈细长矩形，白色基底+蓝红双线T/C区，盒面印有真菌孢子线描图与‘15min出结果’烫金文字",
-     "file": null
+     "file": "images/gear/adb510194a_1.png",
+     "thumb": "images/gear/thumbs/adb510194a_1.jpg"
     }
    ]
   },
@@ -17861,12 +17955,14 @@
     {
      "label": "森林苔藓绿·硅胶表带·标准版",
      "prompt": "墨绿色食品级液态硅胶表带，宽度22mm，表面压印细微蕨类叶脉纹理，搭配哑光灰铝合金传感器舱（直径28mm），舱体底部三颗红外/红光LED阵列清晰可见",
-     "file": null
+     "file": "images/gear/69a941242d_0.png",
+     "thumb": "images/gear/thumbs/69a941242d_0.jpg"
     },
     {
      "label": "玄武岩灰·编织麻绳表带·户外加固版",
      "prompt": "深灰天然麻纤维混纺编织表带，宽度24mm，两端金属插扣为哑光黑氧化钛合金，中央传感器舱加厚防护边框，舱盖嵌入微凸曲面蓝宝石玻璃，边缘有IP68防水标识蚀刻",
-     "file": null
+     "file": "images/gear/69a941242d_1.png",
+     "thumb": "images/gear/thumbs/69a941242d_1.jpg"
     }
    ]
   },
@@ -17876,12 +17972,14 @@
     {
      "label": "菌根网络拓扑图·直径4cm圆章",
      "prompt": "黄铜材质圆形印章，直径4cm，章面浮雕精细菌丝连接植物根系与土壤颗粒的拓扑结构，线条粗0.3mm，中心凹刻‘Mycorrhiza’小写字母，木质手柄为胡桃木旋切片拼接",
-     "file": null
+     "file": "images/gear/1ad895e554_0.png",
+     "thumb": "images/gear/thumbs/1ad895e554_0.jpg"
     },
     {
      "label": "地衣共生双相图·3×5cm长方章",
      "prompt": "锌合金长方形印章，30×50mm，章面左右分置藻类细胞群与真菌菌丝层，中间以虚线箭头连接，边缘刻‘Alga + Fungus = Lichen’，榉木扁平手柄带防滑斜纹刻线",
-     "file": null
+     "file": "images/gear/1ad895e554_1.png",
+     "thumb": "images/gear/thumbs/1ad895e554_1.jpg"
     }
    ]
   },
@@ -17891,12 +17989,14 @@
     {
      "label": "鸟鸣频谱款·热敏打印·袖珍型",
      "prompt": "鹅卵石灰哑光ABS机身，尺寸9×5×3cm，正面嵌入2.1英寸单色OLED屏显示声波频谱缩略图，出标口旁有微型麦克风孔与‘Record→Print’激光蚀刻箭头，卷标为半透明PET热敏纸",
-     "file": null
+     "file": "images/gear/643ab30207_0.png",
+     "thumb": "images/gear/thumbs/643ab30207_0.jpg"
     },
     {
      "label": "溪流白噪音款·色带打印·生态本册适配型",
      "prompt": "暖米色再生塑料机身，带可拆卸磁吸式色带仓（内置棕褐双色色带），出标口宽36mm，打印面呈现流动水波纹底纹+声压级数值，标签背胶为可移除植物淀粉基胶",
-     "file": null
+     "file": "images/gear/643ab30207_1.png",
+     "thumb": "images/gear/thumbs/643ab30207_1.jpg"
     }
    ]
   },
@@ -17906,12 +18006,14 @@
     {
      "label": "节气物候套组·6枚橡皮章",
      "prompt": "6枚独立榉木底座橡皮章，每枚直径3.5cm，章面浮雕不同节气符号：惊蛰虫洞、芒种麦穗、霜降柿蒂等，橡皮层为深绿/赭石/靛蓝三色分区，底座侧面激光标记节气名称与日期范围",
-     "file": null
+     "file": "images/gear/6f5d0eb3dd_0.png",
+     "thumb": "images/gear/thumbs/6f5d0eb3dd_0.jpg"
     },
     {
      "label": "潮间带生境套组·9枚金属冲压模",
      "prompt": "9枚黄铜冲压模具，直径2.8cm，边缘带0.5mm高直壁，图案为藤壶群、弹涂鱼跃姿、牡蛎壳堆叠等潮间带微景观，模具背面刻编号与拉丁学名缩写，收纳于亚麻布缝制六边形筒",
-     "file": null
+     "file": "images/gear/6f5d0eb3dd_1.png",
+     "thumb": "images/gear/thumbs/6f5d0eb3dd_1.jpg"
     }
    ]
   },
@@ -17921,12 +18023,14 @@
     {
      "label": "薰衣草缓释型·100μm粒径·25g铝罐",
      "prompt": "银色马口铁圆罐，高8cm直径5cm，罐身印薰衣草枝矢量图与‘Time-Release Microcapsules’烫银字，开盖处覆内嵌式铝箔密封膜，罐内粉末呈淡紫灰色均质流体状",
-     "file": null
+     "file": "images/gear/6319d7a343_0.png",
+     "thumb": "images/gear/thumbs/6319d7a343_0.jpg"
     },
     {
      "label": "柑橘瞬释型·50μm粒径·5g真空铝箔袋",
      "prompt": "双层铝-PE真空袋（8×5cm），袋面印鲜橙切面线稿与‘Instant Burst’荧光橙字，袋内粉末呈亮橙黄色，倾倒时可见明显反光微晶颗粒，袋角带易撕锯齿与氮气充填标识",
-     "file": null
+     "file": "images/gear/6319d7a343_1.png",
+     "thumb": "images/gear/thumbs/6319d7a343_1.jpg"
     }
    ]
   },
@@ -17936,12 +18040,14 @@
     {
      "label": "长江口三维浮雕卡·A5硬卡",
      "prompt": "350g白卡纸A5尺寸，表面覆触感UV凸起工艺，呈现长江口主航道与沙岛群的0–20m等深线浮雕，线条为哑光深青色，岛屿标注‘崇明’‘横沙’等烫金小字，背印经纬网格与比例尺",
-     "file": null
+     "file": "images/gear/91a8bce450_0.png",
+     "thumb": "images/gear/thumbs/91a8bce450_0.jpg"
     },
     {
      "label": "垦丁珊瑚礁剖面卡·透光PVC膜",
      "prompt": "0.3mm厚磨砂半透明PVC膜卡，12×18cm，正反双面印刷：正面为珊瑚礁平台等深线（0/5/10/20m），背面为垂直剖面透视图，线条用UV荧光蓝，边缘激光打孔便于悬挂",
-     "file": null
+     "file": "images/gear/91a8bce450_1.png",
+     "thumb": "images/gear/thumbs/91a8bce450_1.jpg"
     }
    ]
   },
@@ -17951,12 +18057,14 @@
     {
      "label": "春樱转色型·32℃启始·块状蜡砖",
      "prompt": "长方体蜂蜡基质砖，5×3×2cm，表层为柔粉渐变釉面，侧面激光刻‘32°C→透明’温度标，砖体一角嵌入微型温度计图标浮雕，底面印植物油成分百分比",
-     "file": null
+     "file": "images/gear/bae1a1b822_0.png",
+     "thumb": "images/gear/thumbs/bae1a1b822_0.jpg"
     },
     {
      "label": "秋枫热敏型·45℃启始·颗粒蜡珠",
      "prompt": "琥珀色透明PET瓶装蜡珠，瓶高10cm，内装直径2mm球形蜡珠约50g，珠体呈橙红半透明，静置时显深红，受热后浮现金褐色枫叶脉络纹理，瓶身贴哑光枫叶形状标签",
-     "file": null
+     "file": "images/gear/bae1a1b822_1.png",
+     "thumb": "images/gear/thumbs/bae1a1b822_1.jpg"
     }
    ]
   },
@@ -17966,12 +18074,14 @@
     {
      "label": "离线海域版·含200港湾数据库",
      "prompt": "深海蓝渐变手机界面截图：主屏显示‘舟山沈家门’当日四潮时刻（大字白底红标），右上角‘OFFLINE’徽章，底部导航栏含‘月相’‘流速’‘渔汛提示’图标，界面无网络信号标识",
-     "file": null
+     "file": "images/gear/e4d0a34680_0.png",
+     "thumb": "images/gear/thumbs/e4d0a34680_0.jpg"
     },
     {
      "label": "观鸟协同版·叠加候鸟迁徙热力图",
      "prompt": "墨绿底色手机界面截图：潮时列表左侧并列彩色热力竖条，标注‘雁鸭科峰值期’‘鸻鹬类停歇窗’，顶部状态栏显示‘同步eBird数据·2024秋季’，界面右下角有飞鸟剪影图标",
-     "file": null
+     "file": "images/gear/e4d0a34680_1.png",
+     "thumb": "images/gear/thumbs/e4d0a34680_1.jpg"
     }
    ]
   },
@@ -17981,12 +18091,14 @@
     {
      "label": "物候日历款·144页棉浆纸",
      "prompt": "燕麦色软精装本，180×130mm，封面压凹四季树影轮廊，脊部烫印‘SOLSTICE & EQUINOX’，内页每两页含手绘物候图标（如布谷鸟、萤火虫）与留白观测栏，纸张带浅灰网格底纹",
-     "file": null
+     "file": "images/gear/76e0e63996_0.png",
+     "thumb": "images/gear/thumbs/76e0e63996_0.jpg"
     },
     {
      "label": "月相呼吸款·192页再生纸·环装",
      "prompt": "灰褐再生纸环装本，210×148mm，封面为月相蚀刻铜板嵌入纸面，内页按朔望周期分8大单元，每单元首页印对应月相摄影图与深呼吸节奏引导线（虚线阶梯式排布），纸张边缘微毛边",
-     "file": null
+     "file": "images/gear/76e0e63996_1.png",
+     "thumb": "images/gear/thumbs/76e0e63996_1.jpg"
     }
    ]
   },
@@ -17996,12 +18108,14 @@
     {
      "label": "恒湿培养舱版·含LED环光",
      "prompt": "哑光白聚碳酸酯立方舱体，15×15×15cm，正面为可拆卸亚克力观察窗，顶部集成RGB可调LED环形灯带（直径12cm），舱侧设湿度传感器探头与USB供电口，底部印‘MycoTime-lapse v2’浮雕字",
-     "file": null
+     "file": "images/gear/0aa58fa6ae_0.png",
+     "thumb": "images/gear/thumbs/0aa58fa6ae_0.jpg"
     },
     {
      "label": "野外菌棒支架版·含太阳能供电",
      "prompt": "阳极氧化铝黑色支架，H型结构高30cm，横臂带可调夹具与菌棒弧形托槽，底部太阳能板（6×6cm单晶硅）倾斜嵌入，支架腿端带螺旋地钉，连接线缆外覆仿菌丝纹理TPU护套",
-     "file": null
+     "file": "images/gear/0aa58fa6ae_1.png",
+     "thumb": "images/gear/thumbs/0aa58fa6ae_1.jpg"
     }
    ]
   },
@@ -18011,12 +18125,14 @@
     {
      "label": "AMF类型解析卡·双面覆膜",
      "prompt": "300g铜版纸卡片，12×18cm，正面为丛枝菌根（AMF）三维解剖图：透明根皮层内丛枝结构+球囊状孢子，标注‘Glomus intraradices’；背面为碳氮交换流程箭头图，全图采用潘通7487C与2975C双专色印刷",
-     "file": null
+     "file": "images/gear/54706011ca_0.png",
+     "thumb": "images/gear/thumbs/54706011ca_0.jpg"
     },
     {
      "label": "ECM类型对比卡·镂空叠层设计",
      "prompt": "三层PET叠合卡，10×15cm，底层印松树根系，中层为镂空真菌菌鞘轮廓（直径3mm孔径），顶层为半透明蓝膜覆盖的外生菌根（ECM）典型形态，三者对齐时呈现完整共生界面，边角带对位十字标",
-     "file": null
+     "file": "images/gear/54706011ca_1.png",
+     "thumb": "images/gear/thumbs/54706011ca_1.jpg"
     }
    ]
   },
@@ -18041,12 +18157,14 @@
     {
      "label": "钛灰袖珍款·5000mAh",
      "prompt": "一枚钛灰色铝合金外壳移动电源，长宽高约95×42×18mm，表面喷砂哑光处理，顶部单USB-A接口与状态LED灯，侧面蚀刻‘LP-5K’型号标识，重量仅112g，圆角矩形造型，接口处有黑色硅胶密封圈",
-     "file": null
+     "file": "images/gear/62a9d7226e_0.png",
+     "thumb": "images/gear/thumbs/62a9d7226e_0.jpg"
     },
     {
      "label": "军绿模块化·12000mAh",
      "prompt": "军绿色工程塑料+金属包角移动电源，尺寸142×76×24mm，顶部双USB-C（支持PD3.0）+单USB-A接口，右侧集成可拆卸式太阳能充电扩展槽，表面有防滑菱形纹路与电量四格LED指示条，底部带M3螺孔阵列",
-     "file": null
+     "file": "images/gear/62a9d7226e_1.png",
+     "thumb": "images/gear/thumbs/62a9d7226e_1.jpg"
     }
    ]
   },
@@ -18056,12 +18174,14 @@
     {
      "label": "机械旋钮式·±0.5m精度",
      "prompt": "黄铜主体地理坐标打点器，直径62mm圆形表盘，外圈刻度为经纬度双环（0–360°/0–180°），中央嵌入精密机械旋钮与指针，表盘玻璃覆防眩蓝膜，底座带三脚架螺纹接口与水平气泡仪，整体呈复古暖金+哑黑配色",
-     "file": null
+     "file": "images/gear/88dd1516c1_0.png",
+     "thumb": "images/gear/thumbs/88dd1516c1_0.jpg"
     },
     {
      "label": "蓝牙数显式·RTK校准版",
      "prompt": "深空灰ABS+镁合金机身坐标打点器，3.2英寸电容触摸屏显示WGS84坐标，顶部集成GNSS天线与蓝牙5.3模块，侧边物理快捷键与Micro-USB/Type-C双接口，屏幕下方印有‘RTK-Ready’蚀刻标，整机带IP67防护等级",
-     "file": null
+     "file": "images/gear/88dd1516c1_1.png",
+     "thumb": "images/gear/thumbs/88dd1516c1_1.jpg"
     }
    ]
   },
@@ -18071,12 +18191,14 @@
     {
      "label": "黑白银盐·ISO100·35mm×15m",
      "prompt": "一卷35mm宽度黑白胶片，透明片基上涂布细颗粒银盐乳剂，边缘齿孔完整清晰，片头印有红色‘GeoMag-100’字样与磁感线图样，卷轴为白色塑料芯，胶片表面泛柔光冷调光泽",
-     "file": null
+     "file": "images/gear/c58be018ad_0.png",
+     "thumb": "images/gear/thumbs/c58be018ad_0.jpg"
     },
     {
      "label": "彩色偏振·ISO400·120格式",
      "prompt": "棕色纸盒封装的120胶片，内含单层彩色负片，片基内置线性偏振滤光层，表面可见细微干涉虹彩纹，片尾标注‘MagChroma-400’烫金字样，胶片宽度60mm，齿孔位于单侧，呈暖棕底色微泛青紫反光",
-     "file": null
+     "file": "images/gear/c58be018ad_1.png",
+     "thumb": "images/gear/thumbs/c58be018ad_1.jpg"
     }
    ]
   },
@@ -18086,12 +18208,14 @@
     {
      "label": "榉木层叠式·Φ240mm",
      "prompt": "三层榉木同心圆转盘，直径240mm，每层厚度6mm，由激光雕刻断层线（正断层/逆断层/走滑断层）并填深灰环氧树脂，中心黄铜轴承嵌套，底层刻度环含方位角0–360°，木质纹理自然裸露，边缘倒圆处理",
-     "file": null
+     "file": "images/gear/936a056ed0_0.png",
+     "thumb": "images/gear/thumbs/936a056ed0_0.jpg"
     },
     {
      "label": "磁吸模块化·Φ180mm",
      "prompt": "灰白PP+磁性橡胶复合材质转盘，直径180mm，基盘为哑光白环状底座，三组可替换断层模块（玄武岩/页岩/砂岩纹理）通过N52钕磁铁吸附定位，模块边缘嵌LED导光条，通电时沿断层线发出柔绿微光",
-     "file": null
+     "file": "images/gear/936a056ed0_1.png",
+     "thumb": "images/gear/thumbs/936a056ed0_1.jpg"
     }
    ]
   },
@@ -18101,12 +18225,14 @@
     {
      "label": "超心型·附风罩·32GB",
      "prompt": "黑色阳极氧化铝筒形录音笔，长145mm，前端凸出超心型麦克风阵列（3颗MEMS单元），配可拆卸毛绒防风罩，侧面有红色录音键与OLED状态屏，顶部MIC标记旁蚀刻‘Ultra-Cardioid’，USB-C接口隐藏于橡胶盖下",
-     "file": null
+     "file": "images/gear/70fb2d1db8_0.png",
+     "thumb": "images/gear/thumbs/70fb2d1db8_0.jpg"
     },
     {
      "label": "全向阵列·8通道·128GB",
      "prompt": "深灰航空铝全向录音笔，立方体造型边长72mm，六个面各嵌2个MEMS麦克风共8通道，表面微孔网罩覆盖，顶部设同步触发接口与GPS天线凸点，底部有三脚架1/4″螺纹，机身印‘Octo-Array v2’浮雕字",
-     "file": null
+     "file": "images/gear/70fb2d1db8_1.png",
+     "thumb": "images/gear/thumbs/70fb2d1db8_1.jpg"
     }
    ]
   },
@@ -18131,12 +18257,14 @@
     {
      "label": "基础红外·256×192·50Hz",
      "prompt": "深灰工程塑料热成像仪，人体工学握持曲面，3.5英寸LCD屏显示伪彩热图，镜头为24mm定焦锗镜，顶部红外校准窗清晰可见，右侧双按键+拨轮，背部散热鳍片为黑色阳极铝，整机带IP54防护标识",
-     "file": null
+     "file": "images/gear/a27c5b3f39_0.png",
+     "thumb": "images/gear/thumbs/a27c5b3f39_0.jpg"
     },
     {
      "label": "融合夜视·640×480·MSX增强",
      "prompt": "枪灰镁合金机身热成像仪，4.3英寸AMOLED屏，镜头环嵌入可见光摄像头模组，MSX边缘融合技术图标蚀刻于侧边，顶部激光测距窗与WiFi6天线微凸，底部带1/4″螺孔与热电堆校准接口，表面CNC拉丝纹理",
-     "file": null
+     "file": "images/gear/a27c5b3f39_1.png",
+     "thumb": "images/gear/thumbs/a27c5b3f39_1.jpg"
     }
    ]
   },
@@ -18146,12 +18274,14 @@
     {
      "label": "桌面专业版·支持12语系",
      "prompt": "深蓝渐变UI界面截图：左侧波形图+右侧梅尔频谱图，中央悬浮‘声纹拓扑生成器’控制面板，底部多轨方言音轨栏（标注闽南/吴语/晋语等标签），界面右上角显示‘DialectViz Pro v3.2’logo与授权码输入框",
-     "file": null
+     "file": "images/gear/ef0468dd48_0.png",
+     "thumb": "images/gear/thumbs/ef0468dd48_0.jpg"
     },
     {
      "label": "田野轻量版·离线语音包",
      "prompt": "浅灰底色软件界面截图：中央圆形声纹动态图（同心环状频谱演化），上方‘一键方言识别’按钮为橙红渐变，左下角嵌入离线语音包管理器（显示‘西南官话_v2.1’‘粤语_古音库’等图标），右下角有GPS时间戳与海拔高度小字",
-     "file": null
+     "file": "images/gear/ef0468dd48_1.png",
+     "thumb": "images/gear/thumbs/ef0468dd48_1.jpg"
     }
    ]
   },
@@ -18161,12 +18291,14 @@
     {
      "label": "安卓离线版·IPA键盘集成",
      "prompt": "手机屏幕截图：深绿主题APP界面，顶部导航栏‘方音标注’，中部波形编辑区带IPA符号悬浮键盘（含声调符号与鼻化标记），底部工具栏含‘切分/转写/校验’三按钮，右上角显示‘v2.7.1｜离线模式’徽标",
-     "file": null
+     "file": "images/gear/f62ad48373_0.png",
+     "thumb": "images/gear/thumbs/f62ad48373_0.jpg"
     },
     {
      "label": "iOS协作版·云端同步",
      "prompt": "iPhone屏幕截图：浅灰背景APP界面，中央双轨波形（原始录音+专家校对层），右侧浮动标注侧边栏含‘声调层级’‘连读变调’‘文白异读’三级标签，顶部状态栏显示‘同步中·3人协作’云图标与实时更新时间",
-     "file": null
+     "file": "images/gear/f62ad48373_1.png",
+     "thumb": "images/gear/thumbs/f62ad48373_1.jpg"
     }
    ]
   },
@@ -18176,12 +18308,14 @@
     {
      "label": "短身田作款·110cm",
      "prompt": "棕褐色桐油浸渍麻布蓑衣，短款剪裁至大腿中部，肩部加厚双层麻布，领口铜扣固定，下摆自然散开呈放射状褶皱，表面油膜反光柔和，可见麻纤维粗粝肌理与桐油渗透形成的琥珀色渐变晕染",
-     "file": null
+     "file": "images/gear/7d44db7805_0.png",
+     "thumb": "images/gear/thumbs/7d44db7805_0.jpg"
     },
     {
      "label": "长摆渔猎款·160cm",
      "prompt": "深赭色长蓑衣，垂坠至小腿，前襟加宽挡雨片，背部中央缝制桐油厚涂加固条，袖口延伸为宽大护腕结构，下摆边缘缀手工桐油浸棕绳流苏，整体油润厚重，褶皱处泛青铜色幽光",
-     "file": null
+     "file": "images/gear/7d44db7805_1.png",
+     "thumb": "images/gear/thumbs/7d44db7805_1.jpg"
     }
    ]
   },
@@ -18191,12 +18325,14 @@
     {
      "label": "本白捻制·0.35mm×30m",
      "prompt": "米白色桑皮线绕于硬质纸轴，线体紧密捻合，表面呈现天然纤维哑光质感，直径0.35毫米，纸轴印‘生桑·未漂’楷书字样与计量刻度，线头穿入黄铜引线针，整体洁净无染色痕迹",
-     "file": null
+     "file": "images/gear/b56af97dd4_0.png",
+     "thumb": "images/gear/thumbs/b56af97dd4_0.jpg"
     },
     {
      "label": "矿物染·靛青·0.5mm×15m",
      "prompt": "靛蓝色桑皮线缠绕黑檀木线轴，线体饱满具蜡质光泽，直径0.5毫米，颜色由植物靛蓝与矿物媒染剂固色形成沉稳青黑调，线轴侧面烙‘青峦染’篆印，线头结防脱铜铃扣",
-     "file": null
+     "file": "images/gear/b56af97dd4_1.png",
+     "thumb": "images/gear/thumbs/b56af97dd4_1.jpg"
     }
    ]
   },
@@ -18221,12 +18357,14 @@
     {
      "label": "纸质撕膜式·A6单张",
      "prompt": "A6尺寸哑光铜版纸贴纸，白色基底印深蓝经纬网格与红色磁偏角矢量箭头（标注‘Δδ= -3.2°’），右下角微缩世界地图示意，背胶为可移除丙烯酸胶，边缘微齿便于撕取，四角圆润无毛刺",
-     "file": null
+     "file": "images/gear/5f15c25b43_0.png",
+     "thumb": "images/gear/thumbs/5f15c25b43_0.jpg"
     },
     {
      "label": "PET覆膜式·可擦写·10×10cm",
      "prompt": "10cm×10cm透明PET贴膜，表面覆哑光书写涂层，印浅灰经纬线与可擦写磁偏角数值框（当前显示‘Δδ= +1.8°’），右上角嵌微型指南针图标，背面为静电吸附层，无胶不残留",
-     "file": null
+     "file": "images/gear/5f15c25b43_1.png",
+     "thumb": "images/gear/thumbs/5f15c25b43_1.jpg"
     }
    ]
   },
@@ -18236,12 +18374,14 @@
     {
      "label": "青篾细骨·3号·单钩",
      "prompt": "青黄色淡竹削制蜈蚣钩，钩身为3号细钢丝，竹骨节间长12cm，每节嵌入微型倒刺，尾端竹须自然散开呈须状，竹表保留青皮蜡质光泽，钩尖锋锐泛蓝光，整体轻盈修长",
-     "file": null
+     "file": "images/gear/85293c2847_0.png",
+     "thumb": "images/gear/thumbs/85293c2847_0.jpg"
     },
     {
      "label": "烟熏老竹·5号·三联钩",
      "prompt": "深琥珀色烟熏陈年竹骨蜈蚣钩，5号粗钩体，三枚钩尖呈品字形排布，竹节密实油润，骨节间长9cm，每节竹壁嵌铜丝加固环，尾端三股竹丝编结为锚形止脱结，钩尖镀黑铬",
-     "file": null
+     "file": "images/gear/85293c2847_1.png",
+     "thumb": "images/gear/thumbs/85293c2847_1.jpg"
     }
    ]
   },
@@ -18251,12 +18391,14 @@
     {
      "label": "陶瓷基·50mm×50mm·12阶",
      "prompt": "纯白氧化铝陶瓷标板，正方形50mm×50mm，表面激光烧结12级灰阶方块（0–100%反射率），边缘0.5mm深蚀刻基准线，四角带定位圆孔，背面印‘IR-Cal-12’与批次编码，无任何反光或釉面",
-     "file": null
+     "file": "images/gear/9165e6c947_0.png",
+     "thumb": "images/gear/thumbs/9165e6c947_0.jpg"
     },
     {
      "label": "铝基柔性·100mm×200mm·棋盘格",
      "prompt": "哑光黑阳极铝基板，尺寸100mm×200mm，表面蚀刻高对比度红外棋盘格（20×40单元），每个方块填充不同发射率涂层（ε=0.2–0.95），板体可轻微弯曲，四角带M2螺孔与激光刻‘FlexIR-Board’标识",
-     "file": null
+     "file": "images/gear/9165e6c947_1.png",
+     "thumb": "images/gear/thumbs/9165e6c947_1.jpg"
     }
    ]
   },
@@ -18266,12 +18408,14 @@
     {
      "label": "本色直杆·Φ2.5mm×280mm",
      "prompt": "天然芦苇茎秆制成浮标，直径2.5mm，长度280mm，保留原色淡黄带节疤，表面涂薄层防水桐油，顶端嵌红漆圆点，底部锥形收束，重心点用黑漆环标记，整体笔直轻盈",
-     "file": null
+     "file": "images/gear/ca42aaaf10_0.png",
+     "thumb": "images/gear/thumbs/ca42aaaf10_0.jpg"
     },
     {
      "label": "碳纤复合·夜光款·Φ3.2mm×220mm",
      "prompt": "芦苇芯+碳纤维包覆浮标，直径3.2mm，长220mm，中段为哑光黑碳纤编织层，上下两端芦苇裸露，顶端嵌夜光绿环氧树脂圆点，底部配可调铅坠槽，节疤处激光刻‘Lumina-Buoy’微标",
-     "file": null
+     "file": "images/gear/ca42aaaf10_1.png",
+     "thumb": "images/gear/thumbs/ca42aaaf10_1.jpg"
     }
    ]
   },
@@ -18311,12 +18455,14 @@
     {
      "label": "三防加固·10.1寸·LTE",
      "prompt": "深军绿三防平板，10.1英寸IPS屏， Gorilla Glass DX+表面，边框为橡胶包覆镁合金，底部带Type-C与专用RS-232接口，右上角蚀刻‘FieldLog Rugged v4’，背部有条形码扫描窗与GPS天线凸起",
-     "file": null
+     "file": "images/gear/ab3422ea4a_0.png",
+     "thumb": "images/gear/thumbs/ab3422ea4a_0.jpg"
     },
     {
      "label": "太阳能待机·7寸·e-Ink",
      "prompt": "灰白双色电子墨水平板，7英寸E Ink Carta 1200屏，前壳为再生竹纤维复合材料，顶部集成单晶硅柔性太阳能条（宽8mm），侧边物理翻页键与触控笔收纳槽，背面印‘SunLog Eco’叶脉纹理与续航‘90d@1次/日’标",
-     "file": null
+     "file": "images/gear/ab3422ea4a_1.png",
+     "thumb": "images/gear/thumbs/ab3422ea4a_1.jpg"
     }
    ]
   },
@@ -18326,12 +18472,14 @@
     {
      "label": "硅胶软边·67mm口径",
      "prompt": "圆形硅胶材质镜头罩，哑光黑软边设计，内圈精密刻印67mm标识，表面微纹理防滑，边缘轻微卷曲贴合镜头，哑光黑色",
-     "file": null
+     "file": "images/gear/bddb0809f3_0.png",
+     "thumb": "images/gear/thumbs/bddb0809f3_0.jpg"
     },
     {
      "label": "铝合金阳极·82mm超薄款",
      "prompt": "超薄铝合金材质镜头罩，银灰阳极氧化表面，厚度仅2.3mm，外圈激光蚀刻82mm字样，内壁哑光磨砂处理，金属冷峻质感",
-     "file": null
+     "file": "images/gear/bddb0809f3_1.png",
+     "thumb": "images/gear/thumbs/bddb0809f3_1.jpg"
     }
    ]
   },
@@ -18341,12 +18489,14 @@
     {
      "label": "天然青石·15g扁椭圆型",
      "prompt": "天然青石打磨而成的扁椭圆形鱼坠，表面保留细微石纹与墨绿-灰蓝渐变色，底部平整，顶部穿孔直径1.2mm，重量标刻15g",
-     "file": null
+     "file": "images/gear/0781329a69_0.png",
+     "thumb": "images/gear/thumbs/0781329a69_0.jpg"
     },
     {
      "label": "复合青石·30g水滴流线型",
      "prompt": "青石粉与环氧树脂复合压制的水滴形鱼坠，深青底色带云状浅灰斑纹，流线型轮廓光滑无棱角，顶部嵌入不锈钢D形环，侧面激光标注30g",
-     "file": null
+     "file": "images/gear/0781329a69_1.png",
+     "thumb": "images/gear/thumbs/0781329a69_1.jpg"
     }
    ]
   },
@@ -18356,12 +18506,14 @@
     {
      "label": "宣纸柔韧·A6单字卡",
      "prompt": "手工捞制宣纸制成的A6尺寸卡片，米白色柔韧纸面，正面朱砂手写单个非遗方言字（如‘囥’），背面浅灰铅笔标注发音与释义，四角微毛边",
-     "file": null
+     "file": "images/gear/c9957b296e_0.png",
+     "thumb": "images/gear/thumbs/c9957b296e_0.jpg"
     },
     {
      "label": "椴木激光雕·B5双语对照卡",
      "prompt": "3mm厚椴木板激光雕刻卡片，B5尺寸，正面阴刻非遗方言词组（如‘掼稻’）及普通话释义，浅褐木纹底色，边缘倒圆处理，背面留白未雕刻",
-     "file": null
+     "file": "images/gear/c9957b296e_1.png",
+     "thumb": "images/gear/thumbs/c9957b296e_1.jpg"
     }
    ]
   },
@@ -18371,12 +18523,14 @@
     {
      "label": "军规铝壳·10°刻度悬浮芯",
      "prompt": "航空铝材一体压铸罗盘外壳，哑光深橄榄绿，表盘为蓝白双色夜光刻度（最小分度10°），悬浮式黄铜磁针带红色北向箭头，中心凸透镜清晰可读",
-     "file": null
+     "file": "images/gear/c64fb1cfd1_0.png",
+     "thumb": "images/gear/thumbs/c64fb1cfd1_0.jpg"
     },
     {
      "label": "钛合金轻量·1°微调定向款",
      "prompt": "TC4钛合金外壳罗盘，枪灰色拉丝表面，内置1°精密刻度环与可旋转方位圈，磁针为钕铁硼永磁体配红白双色平衡臂，底部集成气泡水准仪与毫米级刻度尺",
-     "file": null
+     "file": "images/gear/c64fb1cfd1_1.png",
+     "thumb": "images/gear/thumbs/c64fb1cfd1_1.jpg"
     }
    ]
   },
@@ -18386,12 +18540,14 @@
     {
      "label": "基础版·掌心尺寸·单色荧光",
      "prompt": "硬质折叠式ABS塑料盒，尺寸12×8×3cm，开盖即显三格分隔槽，内含一支0.5mL蓝色荧光染液（含UV激发标记）、一支无菌棉签、一枚微型LED紫外灯（365nm，USB-C充电），整体为哑光灰+亮蓝点缀配色，盒盖印有简洁分子结构蚀刻纹",
-     "file": null
+     "file": "images/gear/182c114c7a_0.png",
+     "thumb": "images/gear/thumbs/182c114c7a_0.jpg"
     },
     {
      "label": "专业版·手提箱型·三色谱系",
      "prompt": "铝合金拉杆式便携箱，尺寸24×16×6cm，带防震硅胶内衬与磁吸分隔板，内置三支1mL独立荧光染液（蓝/绿/红三色，对应不同菌丝类型）、微型离心管架、可调焦紫外笔灯（365/395nm双波段）、无菌取样刮刀，箱体为深空灰阳极氧化铝材质，侧面激光雕刻菌丝网络浮雕标识",
-     "file": null
+     "file": "images/gear/182c114c7a_1.png",
+     "thumb": "images/gear/thumbs/182c114c7a_1.jpg"
     }
    ]
   },
@@ -18401,12 +18557,14 @@
     {
      "label": "野外速记款·A6防水本",
      "prompt": "A6尺寸（10.5×14.8cm）螺旋装订速写本，封面为橄榄绿防水帆布+热压菌丝纹理，内页120g/m²米白纸，每页印有浅灰半透明菌根拓扑网格线（5mm间距）与页脚标尺（0–10cm），附赠一支可擦除石墨铅笔（HB，带橡皮头），书脊嵌入微型指南针模块",
-     "file": null
+     "file": "images/gear/d567918fe7_0.png",
+     "thumb": "images/gear/thumbs/d567918fe7_0.jpg"
     },
     {
      "label": "实验室精绘款·A4精装本",
      "prompt": "A4尺寸（21×29.7cm）硬壳精装本，封面为深褐软触感PU皮革，烫金真菌学符号，内页160g/m²象牙白棉浆纸，每页含三层叠加式透写层（菌丝层/根系层/共生标注层），右侧留白区印有标准比例尺（1:1, 1:5, 1:10）及pH/湿度参考色卡，附金属夹扣式可替换碳素笔芯套件",
-     "file": null
+     "file": "images/gear/d567918fe7_1.png",
+     "thumb": "images/gear/thumbs/d567918fe7_1.jpg"
     }
    ]
   },
@@ -18416,12 +18574,14 @@
     {
      "label": "图解入门版·平装轻量本",
      "prompt": "180页全彩平装书，尺寸17×23cm，覆哑光膜铜版纸封面印烫银菌丝脉络图，内页采用环保大豆油墨印刷，含120组高清微距对比图（宿主植物根部×对应菌根切片×共生示意图），每页右下角带二维码链接动态3D模型，书脊厚度1.2cm，侧边刷淡苔藓绿边",
-     "file": null
+     "file": "images/gear/f24a5704d1_0.png",
+     "thumb": "images/gear/thumbs/f24a5704d1_0.jpg"
     },
     {
      "label": "学术典藏版·函套精装本",
      "prompt": "320页典藏级精装图鉴，尺寸21×29.7cm，深墨绿布面烫金书脊，配同色硬质函套（带磁吸扣与UV防褪色涂层），内页使用157g/m²高阶哑粉纸，含280组跨物种共生案例（含扫描电镜图、同位素标记轨迹图、基因表达热图），每章扉页嵌入微缩QR码链接原始数据集，函套内衬印有全球菌根分布热力地图",
-     "file": null
+     "file": "images/gear/f24a5704d1_1.png",
+     "thumb": "images/gear/thumbs/f24a5704d1_1.jpg"
     }
    ]
   },
@@ -18431,12 +18591,14 @@
     {
      "label": "个人研究者·年度订阅",
      "prompt": "实体激活卡：信用卡尺寸PVC卡，磨砂黑底，正面激光雕刻‘MyceliumNet ID’及唯一12位序列号，背面凹印二维码与‘1 Year Access’字样，边缘嵌入生物基PLA材质防伪条纹，卡角印微型菌丝荧光标记（需UV灯显影）",
-     "file": null
+     "file": "images/gear/567e01d08e_0.png",
+     "thumb": "images/gear/thumbs/567e01d08e_0.jpg"
     },
     {
      "label": "机构协作版·三年集群授权",
      "prompt": "金属U盘形态密钥设备：阳极氧化钛灰铝合金外壳（32×12×5mm），表面蚀刻三维菌网拓扑结构，USB-C接口隐藏式设计，内置加密芯片预载3年期集群许可证（支持≤10用户并发），配套NFC感应贴纸（直径3cm，哑光白底+菌丝荧光油墨印刷）用于实验室门禁/设备绑定",
-     "file": null
+     "file": "images/gear/567e01d08e_1.png",
+     "thumb": "images/gear/thumbs/567e01d08e_1.jpg"
     }
    ]
   },
@@ -18446,12 +18608,14 @@
     {
      "label": "圆柱形USB-C充电·85mm×28mm",
      "prompt": "圆柱形铝合金外壳LED微光灯，哑光黑阳极氧化表面，顶部集成USB-C充电接口与双色温LED灯珠（冷白3000K+暖黄2700K），侧面带三档触控调光旋钮，尺寸85毫米长×28毫米直径，灯头带硅胶防滑环与磁吸底座",
-     "file": null
+     "file": "images/gear/afe8a2ecd3_0.png",
+     "thumb": "images/gear/thumbs/afe8a2ecd3_0.jpg"
     },
     {
      "label": "夹式可折叠·120mm展开臂",
      "prompt": "可折叠夹式LED微光灯，航空铝材主体+黑色磨砂ABS铰链，双段式伸缩臂总长120mm，末端360°旋转灯头含高显色CRI>90的COB LED，夹口宽45mm带橡胶内衬，整体为深灰配银灰金属件",
-     "file": null
+     "file": "images/gear/afe8a2ecd3_1.png",
+     "thumb": "images/gear/thumbs/afe8a2ecd3_1.jpg"
     }
    ]
   },
@@ -18461,12 +18625,14 @@
     {
      "label": "钩号16·鹿毛+蓝狐尾",
      "prompt": "仿生蜉蝣干式蝇，钩号16细条直钩，鹿毛主翅呈自然弧形展开，蓝狐尾纤维模拟蜉蝣腹部节纹，浅灰身体用聚酯丝缠绕，头部涂环氧树脂亮面，整体长约8mm，翅展约12mm，色调为雾灰-浅蓝渐变",
-     "file": null
+     "file": "images/gear/008899b90c_0.png",
+     "thumb": "images/gear/thumbs/008899b90c_0.jpg"
     },
     {
      "label": "钩号12·孔雀丝+雪鹅毛",
      "prompt": "仿生蜉蝣干式蝇，钩号12加粗型直钩，孔雀丝缠绕成半透明青绿色身体，雪鹅毛制成蓬松立体前翅，翅尖微卷并染淡琥珀色，头部点涂哑光黑环氧树脂，整体长约10mm，翅展约16mm，通体泛珍珠光泽",
-     "file": null
+     "file": "images/gear/008899b90c_1.png",
+     "thumb": "images/gear/thumbs/008899b90c_1.jpg"
     }
    ]
   },
@@ -18476,12 +18642,14 @@
     {
      "label": "双参数IP67·pH0-14/DO0-20mg/L",
      "prompt": "便携式水质检测笔，一体式ABS+TPU双材质机身，深海军蓝主壳配橙色功能键，顶部集成pH玻璃电极与极谱式DO传感器探头，LCD屏显示实时数值，标有pH 0–14与DO 0–20mg/L量程标识，尺寸165mm×32mm×28mm，带挂绳孔与自动温度补偿模块",
-     "file": null
+     "file": "images/gear/ccdac2fe93_0.png",
+     "thumb": "images/gear/thumbs/ccdac2fe93_0.jpg"
     },
     {
      "label": "单参数高精度·pH±0.01级",
      "prompt": "高精度单参数pH检测笔，医用级316不锈钢探杆+白色陶瓷参比接口，主机为哑光白PC外壳，正面仅设pH校准键与背光LCD屏，标注‘±0.01pH@25℃’精度标贴，探头长度90mm，整机尺寸150mm×26mm×22mm，附带三点校准液套装收纳槽",
-     "file": null
+     "file": "images/gear/ccdac2fe93_1.png",
+     "thumb": "images/gear/thumbs/ccdac2fe93_1.jpg"
     }
    ]
   },
@@ -18491,12 +18659,14 @@
     {
      "label": "腕带式·双工位旋转托盘",
      "prompt": "可穿戴式飞蝇绑制工作站，弹性尼龙腕带配磁吸搭扣，主体为黑色阳极氧化铝制双工位旋转托盘（直径65mm），左右各嵌入360°自由旋转的不锈钢夹持臂与微型镊子架，托盘边缘刻度环标0–360°，带防滑硅胶垫层",
-     "file": null
+     "file": "images/gear/f14b307c11_0.png",
+     "thumb": "images/gear/thumbs/f14b307c11_0.jpg"
     },
     {
      "label": "颈挂式·四轨工具槽",
      "prompt": "颈挂式飞蝇绑制工作站，柔性TPU软质挂颈带，中央悬挂哑光黑ABS主架，内置四条平行工具槽（宽8mm/深5mm），分别容纳线轴、剪刀、蜡棒与羽毛分拣格，槽侧激光蚀刻‘VISE’‘THREAD’‘FEATHER’‘WAX’图标，整体厚22mm",
-     "file": null
+     "file": "images/gear/f14b307c11_1.png",
+     "thumb": "images/gear/thumbs/f14b307c11_1.jpg"
     }
    ]
   },
@@ -18506,12 +18676,14 @@
     {
      "label": "30ml超细雾·食品级PP",
      "prompt": "30毫升超细雾喷雾保湿瓶，食品级透明PP瓶身，磨砂雾面标签区印浅灰‘HUMIDIFY’字样，按压头为铜芯镀镍精密雾化阀，喷出扇形超细水雾（粒径≤50μm），瓶肩处设防误触锁扣，高度115mm，直径38mm",
-     "file": null
+     "file": "images/gear/68533bbdfd_0.png",
+     "thumb": "images/gear/thumbs/68533bbdfd_0.jpg"
     },
     {
      "label": "120ml广角雾·PETG耐UV",
      "prompt": "120毫升广角雾喷雾保湿瓶，耐UV PETG材质瓶身呈淡青透光色，瓶身中部环形磨砂带印‘UV-RESISTANT’标识，宽口径按压头输出120°扇形雾流，内部导管加长至瓶底，尺寸185mm高×56mm直径，底部带硅胶防滑圈",
-     "file": null
+     "file": "images/gear/68533bbdfd_1.png",
+     "thumb": "images/gear/thumbs/68533bbdfd_1.jpg"
     }
    ]
   },
@@ -18521,12 +18693,14 @@
     {
      "label": "网袋装·灰藓+金发藓混播",
      "prompt": "活体苔藓包，无纺布网袋封装（12cm×8cm），内含湿润灰藓（Hypnum cupressiforme）与金发藓（Polytrichum commune）混合植株，叶色墨绿带棕褐老茎，表面覆薄层保水苔，网袋一角缝制棉麻标签‘Live Moss Blend’",
-     "file": null
+     "file": "images/gear/5801c1dc7f_0.png",
+     "thumb": "images/gear/thumbs/5801c1dc7f_0.jpg"
     },
     {
      "label": "凝胶盒装·白发藓纯种",
      "prompt": "活体苔藓盒装，透明PETG方形盒（60mm×60mm×30mm），内嵌无菌琼脂凝胶基质，上覆纯种白发藓（Leucobryum glaucum）鲜活植株，叶片银白绒状，根系浅褐，盒盖内侧印‘Sterile Culture’与批次编号，盒身雾面磨砂处理",
-     "file": null
+     "file": "images/gear/5801c1dc7f_1.png",
+     "thumb": "images/gear/thumbs/5801c1dc7f_1.jpg"
     }
    ]
   },
@@ -18536,12 +18710,14 @@
     {
      "label": "红光635nm·0.3mm氟碳线",
      "prompt": "激光校准浮漂线，0.3毫米直径氟碳主线，表面覆哑光黑涂层，内置635nm红色半导体激光发射器（Class II），线体中段设微型圆柱形发射模块（直径6mm×长12mm），两端为标准UBC结头，线长1.5米，模块表面蚀刻‘LASER ALIGN’",
-     "file": null
+     "file": "images/gear/38d325e9bf_0.png",
+     "thumb": "images/gear/thumbs/38d325e9bf_0.jpg"
     },
     {
      "label": "绿光532nm·0.15mm纳米丝",
      "prompt": "激光校准浮漂线，0.15毫米超细纳米丝主线，半透明浅灰基底，内置532nm绿光DPSS激光模组，发射端为扁平椭圆型模块（8mm×4mm×2mm），嵌入线体无缝衔接，线长1.2米，模块侧边激光出射窗带防刮蓝宝石镜片",
-     "file": null
+     "file": "images/gear/38d325e9bf_1.png",
+     "thumb": "images/gear/thumbs/38d325e9bf_1.jpg"
     }
    ]
   },
@@ -18551,12 +18727,14 @@
     {
      "label": "玄武岩碎粒·3–5mm筛分",
      "prompt": "玄武岩基质碎粒，深墨绿至黑褐色不规则颗粒，粒径严格筛分3–5mm，表面多孔粗糙带天然熔岩纹理，无粉尘，散装于透明PE自封袋，袋面印‘Basalt Gravel | pH Neutral’白色字体",
-     "file": null
+     "file": "images/gear/ec3041548b_0.png",
+     "thumb": "images/gear/thumbs/ec3041548b_0.jpg"
     },
     {
      "label": "页岩片状·8–12mm薄片",
      "prompt": "页岩基质薄片，板状层理结构，灰褐底色带浅黄铁矿斑点，厚度2–3mm，长宽8–12mm不等，边缘自然断裂无锐角，表面微哑光，真空铝箔袋包装，袋印‘Shale Slate | Natural Stratification’烫金字样",
-     "file": null
+     "file": "images/gear/ec3041548b_1.png",
+     "thumb": "images/gear/thumbs/ec3041548b_1.jpg"
     }
    ]
   },
@@ -18566,12 +18744,14 @@
     {
      "label": "4#·9英尺·快调性",
      "prompt": "超细径碳纤飞蝇竿，4号磅重，全长9英尺（274cm），浅灰渐变碳布缠绕竿身，接续处嵌入钛合金卡扣，前导锥度0.68mm，竿梢直径0.52mm，配哑光黑EVA握把与浅灰软木后栓，竿管印‘FAST ACTION’金色细字",
-     "file": null
+     "file": "images/gear/5a232b8e2f_0.png",
+     "thumb": "images/gear/thumbs/5a232b8e2f_0.jpg"
     },
     {
      "label": "2#·7.6英尺·超慢调性",
      "prompt": "超细径碳纤飞蝇竿，2号磅重，全长7.6英尺（232cm），米白基底碳布配藤蔓纹蚀刻，全竿锥度缓释设计，竿梢直径0.41mm，配奶油色软木握把与橄榄绿织带腰箍，竿管印‘ULTRA-SLOW’草书体银色字",
-     "file": null
+     "file": "images/gear/5a232b8e2f_1.png",
+     "thumb": "images/gear/thumbs/5a232b8e2f_1.jpg"
     }
    ]
   },
@@ -18656,12 +18836,14 @@
     {
      "label": "365nm窄带·120mW·铝合金筒身",
      "prompt": "银灰色阳极氧化铝合金圆柱形手电筒，直径28mm，长度145mm，前端嵌入式365nm紫外LED透镜，尾部磁吸充电接口，侧面有双段式物理开关与蓝光状态指示灯，表面拉丝纹理，无可见标签",
-     "file": null
+     "file": "images/gear/a239ba7d2d_0.png",
+     "thumb": "images/gear/thumbs/a239ba7d2d_0.jpg"
     },
     {
      "label": "395nm广谱·500mW·钛合金折叠款",
      "prompt": "哑光深空灰钛合金UV-A手电筒，可三段式折叠结构，展开全长130mm，折叠后仅52mm，头部为395nm大功率LED阵列配雾面扩散罩，尾部集成Type-C快充口与震动反馈模块，表面微喷砂处理",
-     "file": null
+     "file": "images/gear/a239ba7d2d_1.png",
+     "thumb": "images/gear/thumbs/a239ba7d2d_1.jpg"
     }
    ]
   },
@@ -18671,12 +18853,14 @@
     {
      "label": "硬质亚克力·A2尺寸·蚀刻地形线",
      "prompt": "透明磨砂亚克力板，尺寸594×420mm，表面激光蚀刻浅灰地形轮廓线（河流、山脉、聚落），四角圆角倒边，背面贴哑光防刮膜，边缘无文字，仅中心蚀刻‘TQY’微标",
-     "file": null
+     "file": "images/gear/20a4369419_0.png",
+     "thumb": "images/gear/thumbs/20a4369419_0.jpg"
     },
     {
      "label": "水洗帆布·A1卷轴·可擦写涂层",
      "prompt": "米白色棉麻混纺帆布地图板，尺寸841×594mm，表面覆哑光可擦写涂层，预印淡褐色手绘风格网格与基础地形符号，两侧金属卷轴杆，底部缀织物挂绳与黄铜调节扣",
-     "file": null
+     "file": "images/gear/20a4369419_1.png",
+     "thumb": "images/gear/thumbs/20a4369419_1.jpg"
     }
    ]
   },
@@ -18686,12 +18870,14 @@
     {
      "label": "双通道·蓝牙5.3·医用级硅胶贴片",
      "prompt": "哑光白ABS塑料主机盒（72×48×18mm），顶部双电极接口与绿色LED采样指示灯，配两片医用级乳胶硅胶贴片（每片含Ag/AgCl干电极+透气背胶），贴片呈椭圆形32×20mm，边缘浅灰，主机侧印微型‘EMG-2B’蚀刻铭文",
-     "file": null
+     "file": "images/gear/0ae6ed0587_0.png",
+     "thumb": "images/gear/thumbs/0ae6ed0587_0.jpg"
     },
     {
      "label": "四通道·USB-C直连·运动绑带套装",
      "prompt": "深灰TPU软壳主机（85×52×22mm），正面四组彩色电极接口（红/黄/绿/蓝），底部USB-C直连端口，附弹性尼龙绑带（宽35mm）与四枚可拆卸凝胶电极（直径12mm，蓝色硅胶底座），整体无外露螺丝",
-     "file": null
+     "file": "images/gear/0ae6ed0587_1.png",
+     "thumb": "images/gear/thumbs/0ae6ed0587_1.jpg"
     }
    ]
   },
@@ -18701,12 +18887,14 @@
     {
      "label": "标准色卡·12波段·PET基材",
      "prompt": "硬质PET材质卡片，尺寸105×74mm，正面印刷12组精确校准荧光色块（365nm至470nm等间隔），每色块标注纳米值（如‘405nm’），哑光白底，边缘黑细框，右下角激光蚀刻NIST溯源编号",
-     "file": null
+     "file": "images/gear/e3a87e31a8_0.png",
+     "thumb": "images/gear/thumbs/e3a87e31a8_0.jpg"
     },
     {
      "label": "野外增强版·8波段·铝基覆膜",
      "prompt": "阳极氧化银灰铝板卡片（120×80mm），表面真空镀膜荧光色带（8段，含近红外敏感区），色带宽15mm，每段下方蚀刻对应激发波长与亮度等级（L1–L4），背面有磁吸贴片与防刮硬化膜",
-     "file": null
+     "file": "images/gear/e3a87e31a8_1.png",
+     "thumb": "images/gear/thumbs/e3a87e31a8_1.jpg"
     }
    ]
   },
@@ -18716,12 +18904,14 @@
     {
      "label": "1200Wh·AC+DC双模·航空铝壳",
      "prompt": "哑光深灰航空铝合金箱体（280×190×175mm），正面LCD屏与双USB-C+双DC5521接口，右侧AC输出口带安全盖，顶部提手为硅胶包覆镁合金，左下角蚀刻‘LiFePO4·1200Wh’参数铭文",
-     "file": null
+     "file": "images/gear/75b3c62009_0.png",
+     "thumb": "images/gear/thumbs/75b3c62009_0.jpg"
     },
     {
      "label": "600Wh·太阳能直充·织物软包",
      "prompt": "橄榄绿高密度弹力尼龙软包储能站（220×150×130mm），正面隐藏式拉链开合，顶部集成MPPT太阳能输入口（带防水盖）与双PD100W USB-C口，侧边织物提带缝制反光条，底部防滑硅胶垫",
-     "file": null
+     "file": "images/gear/75b3c62009_1.png",
+     "thumb": "images/gear/thumbs/75b3c62009_1.jpg"
     }
    ]
   },
@@ -18731,12 +18921,14 @@
     {
      "label": "核心集·64张·棉纸烫金",
      "prompt": "64张米白纯棉纸卡牌（63×88mm），单面印刷深褐手写字体指令（如‘回溯三步’‘静默结盟’），边缘微毛边，右上角烫金抽象罗盘图标，无背图，堆叠整齐露出统一切边",
-     "file": null
+     "file": "images/gear/0074dae451_0.png",
+     "thumb": "images/gear/thumbs/0074dae451_0.jpg"
     },
     {
      "label": "扩展集·32张·再生竹浆·盲文凸点",
      "prompt": "32张浅褐再生竹浆卡牌（63×88mm），正面黑体指令文字+右下角盲文凸点编码（六点制），背面压印极简山形浮雕，卡角圆润R2，边缘自然纤维纹理可见",
-     "file": null
+     "file": "images/gear/0074dae451_1.png",
+     "thumb": "images/gear/thumbs/0074dae451_1.jpg"
     }
    ]
   },
@@ -18746,12 +18938,14 @@
     {
      "label": "三频段·浮潜级·ABS浮体",
      "prompt": "橙白双色ABS球形浮标（Φ180mm），顶部三色LED环（红/蓝/绿）对应365/450/525nm激发，中部嵌入式NTC水温探头（不锈钢管状），底部配黑色硅胶锚绳孔与磁吸数据导出接口",
-     "file": null
+     "file": "images/gear/b2e41a8d79_0.png",
+     "thumb": "images/gear/thumbs/b2e41a8d79_0.jpg"
     },
     {
      "label": "五频段·深水型·钛合金耐压壳",
      "prompt": "哑光黑钛合金圆柱浮标（Φ110×240mm），表面激光蚀刻五段光谱标识（365–550nm），顶部半球形蓝宝石视窗覆盖CMOS光谱传感器，底部压力补偿腔与IP68防水M12数据接口",
-     "file": null
+     "file": "images/gear/b2e41a8d79_1.png",
+     "thumb": "images/gear/thumbs/b2e41a8d79_1.jpg"
     }
    ]
   },
@@ -18761,12 +18955,14 @@
     {
      "label": "温湿压三合一·陶瓷封装",
      "prompt": "方形陶瓷基板模块（45×45×12mm），上表面嵌入温湿度传感器芯片与气压计开口，四周银色焊盘裸露，边缘激光刻‘CAL-ENV-3’，无外壳，仅覆透明疏水涂层",
-     "file": null
+     "file": "images/gear/e66dd1aaea_0.png",
+     "thumb": "images/gear/thumbs/e66dd1aaea_0.jpg"
     },
     {
      "label": "全要素六参数·IP67铝盒",
      "prompt": "深绿阳极氧化铝盒（70×50×25mm），正面六颗不同颜色LED指示灯（对应光照/CO2/PM2.5/温/湿/压），顶部防水旋钮式校准拨轮，右侧Micro-USB与RS485双接口，盒体蚀刻森林剪影图标",
-     "file": null
+     "file": "images/gear/e66dd1aaea_1.png",
+     "thumb": "images/gear/thumbs/e66dd1aaea_1.jpg"
     }
    ]
   },
@@ -18776,12 +18972,14 @@
     {
      "label": "Android版·离线FFT引擎",
      "prompt": "手机屏幕界面特写：深色模式Android应用界面，主屏显示实时频谱瀑布图（X轴频率0–20kHz，Y轴时间），左下角绿色‘OFFLINE MODE’标签，顶部状态栏含蓝牙连接图标与采样率数值（48kHz）",
-     "file": null
+     "file": "images/gear/26f4e60895_0.png",
+     "thumb": "images/gear/thumbs/26f4e60895_0.jpg"
     },
     {
      "label": "iOS版·AR叠加协议",
      "prompt": "iPhone屏幕界面特写：iOS系统下AR可视化界面，摄像头实时画面叠加半透明信号矢量图（红蓝双色相位环），右上角浮动‘AR-SYNC’按钮，底部工具栏含‘GeoTag’‘Export CSV’图标，背景为模糊化户外场景",
-     "file": null
+     "file": "images/gear/26f4e60895_1.png",
+     "thumb": "images/gear/thumbs/26f4e60895_1.jpg"
     }
    ]
   },
@@ -18791,12 +18989,14 @@
     {
      "label": "轻量版·1.2kg·三折碳纤",
      "prompt": "哑光黑碳纤维钓舱主体（展开尺寸1200×650×420mm），三段式铰链折叠结构，舱顶可拆卸遮阳帘（藏青涤纶），前挡板嵌入式磁吸鱼获托盘，所有接缝处为金色钛合金铆钉",
-     "file": null
+     "file": "images/gear/1882aaa9e7_0.png",
+     "thumb": "images/gear/thumbs/1882aaa9e7_0.jpg"
     },
     {
      "label": "全能版·2.8kg·碳纤+铝合金骨架",
      "prompt": "石墨灰碳纤面板+哑光银铝合金主框架钓舱（展开尺寸1400×720×480mm），顶部双滑轨安装LED补光灯条，侧壁预留4个M6螺纹孔，底部万向轮带刹车，舱门内侧激光蚀刻‘MODULAR V2’标识",
-     "file": null
+     "file": "images/gear/1882aaa9e7_1.png",
+     "thumb": "images/gear/thumbs/1882aaa9e7_1.jpg"
     }
    ]
   },
@@ -18806,12 +19006,14 @@
     {
      "label": "黄铜·Φ45mm·刻度0–60min",
      "prompt": "抛光黄铜圆环（外径45mm，内径32mm，厚2.5mm），单侧激光雕刻0–60分钟等距刻度线（每5分钟加粗），刻度旁微蚀‘MIN’字样，表面保留金属原色与细微车削纹路",
-     "file": null
+     "file": "images/gear/d5c1e1d6c4_0.png",
+     "thumb": "images/gear/thumbs/d5c1e1d6c4_0.jpg"
     },
     {
      "label": "钛合金·Φ60mm·双面刻度",
      "prompt": "喷砂深灰钛合金圆环（外径60mm，内径42mm，厚3mm），正反两面分别刻0–12h罗马数字与0–360°方位角，刻度线为浅蚀凹槽，边缘倒角R0.8，无品牌标识",
-     "file": null
+     "file": "images/gear/d5c1e1d6c4_1.png",
+     "thumb": "images/gear/thumbs/d5c1e1d6c4_1.jpg"
     }
    ]
   },
@@ -18821,12 +19023,14 @@
     {
      "label": "单点·医用硅胶·1.5cm²",
      "prompt": "米白医用级硅胶基底贴片（22×22mm正方形），中央嵌入圆形Ag/AgCl传感区（Φ15mm），周围环绕微蚀导电迹线，背面为低致敏丙烯酸胶，四角圆角R1，无文字仅边缘蚀刻‘BioE-1S’",
-     "file": null
+     "file": "images/gear/18870e9e39_0.png",
+     "thumb": "images/gear/thumbs/18870e9e39_0.jpg"
     },
     {
      "label": "阵列·石墨烯薄膜·3×3网格",
      "prompt": "透明石墨烯复合薄膜贴片（35×35mm），表面可见3×3微电极阵列（每个Φ3mm，银灰传感点），电极间以超细透明导线连接，边缘激光蚀刻‘GRID-9’与方向箭头，无背胶层展示透光结构",
-     "file": null
+     "file": "images/gear/18870e9e39_1.png",
+     "thumb": "images/gear/thumbs/18870e9e39_1.jpg"
     }
    ]
   },
@@ -18836,12 +19040,14 @@
     {
      "label": "水性墨·双头·森林绿/大地棕",
      "prompt": "哑光黑PP笔身（145mm长），两端旋转式双头设计：一端森林绿细线笔尖（0.3mm），一端大地棕粗线笔尖（1.0mm），笔夹为黄铜山形镂空件，侧面烫印‘TERRAIN-INK’小字",
-     "file": null
+     "file": "images/gear/42341a4cef_0.png",
+     "thumb": "images/gear/thumbs/42341a4cef_0.jpg"
     },
     {
      "label": "速干酒精墨·可擦写·荧光黄/夜光蓝",
      "prompt": "磨砂灰铝制笔管（138mm），双头按压式：荧光黄酒精墨（0.5mm针管）与夜光蓝可擦墨（1.2mm刷头），笔尾集成LED紫外线灯（365nm），灯环为蓝光指示圈",
-     "file": null
+     "file": "images/gear/42341a4cef_1.png",
+     "thumb": "images/gear/thumbs/42341a4cef_1.jpg"
     }
    ]
   },
@@ -18851,12 +19057,14 @@
     {
      "label": "UV显影页·120gsm·棉浆纸",
      "prompt": "浅米色棉浆纸笔记本（180×125mm，128页），封面哑光触感PU皮，烫金‘BioFluo Log’字样，内页每张右下角印微缩UV响应图案（肉眼不可见），纸张边缘微泛淡蓝荧光晕",
-     "file": null
+     "file": "images/gear/031b191193_0.png",
+     "thumb": "images/gear/thumbs/031b191193_0.jpg"
     },
     {
      "label": "热敏变色封·再生纸·温感页",
      "prompt": "深苔绿再生纸封面（190×130mm），表面覆热敏涂层——常温下为墨绿，手温接触后局部浮现浅灰地形线；内页为中性pH再生纸，每页底端印温敏校准色阶（20°C–40°C）",
-     "file": null
+     "file": "images/gear/031b191193_1.png",
+     "thumb": "images/gear/thumbs/031b191193_1.jpg"
     }
    ]
   },
@@ -18866,12 +19074,14 @@
     {
      "label": "掌上屏版·4.7寸·军规加固",
      "prompt": "深海军规级ABS终端（132×78×18mm），4.7英寸阳光下可视LCD屏，正面三键物理导航（上下+确认），侧边橡胶防护条，顶部GPS天线凸起，背面蚀刻‘FishMap Pro OFFLINE v3.2’",
-     "file": null
+     "file": "images/gear/fb3d60ea64_0.png",
+     "thumb": "images/gear/thumbs/fb3d60ea64_0.jpg"
     },
     {
      "label": "投影腕表版·微型DLP·钛带",
      "prompt": "钛合金表壳智能终端（表盘Φ42mm），表带为编织钛丝，表盘上方微型DLP投影窗（3mm×2mm），投射绿色等深线微像，表冠为双段式操作旋钮，表背激光刻‘PROJ-MAP’与防水等级IP68",
-     "file": null
+     "file": "images/gear/fb3d60ea64_1.png",
+     "thumb": "images/gear/thumbs/fb3d60ea64_1.jpg"
     }
    ]
   },
@@ -18881,12 +19091,14 @@
     {
      "label": "淡水轻型·碳纤弹簧·Φ16mm",
      "prompt": "哑光黑碳纤维收线臂（长320mm），主体为中空圆管，中部内置同心螺旋弹簧（银色不锈钢），两端为快拆卡扣接口，表面激光蚀刻‘FRESHWATER·MAX 8kg’",
-     "file": null
+     "file": "images/gear/6eb5461a51_0.png",
+     "thumb": "images/gear/thumbs/6eb5461a51_0.jpg"
     },
     {
      "label": "海钓重型·液压阻尼·Φ22mm",
      "prompt": "深蓝阳极氧化铝收线臂（长380mm），Φ22mm管径，中部可见透明液压阻尼观察窗（内含琥珀色油液），两端为M12螺纹接口，臂身蚀刻‘SALTWATER·HYDRO-DAMP’与压力刻度线",
-     "file": null
+     "file": "images/gear/6eb5461a51_1.png",
+     "thumb": "images/gear/thumbs/6eb5461a51_1.jpg"
     }
    ]
   },
@@ -18896,12 +19108,14 @@
     {
      "label": "木质·D12·激光刻字",
      "prompt": "胡桃木实心十二面骰（Φ32mm），每面凹陷激光刻单字指令（如‘突变’‘休憩’‘裂隙’），刻痕填深绿漆，棱角微圆，无数字仅文字，木纹自然可见",
-     "file": null
+     "file": "images/gear/ac45a56aee_0.png",
+     "thumb": "images/gear/thumbs/ac45a56aee_0.jpg"
     },
     {
      "label": "树脂·D20·荧光填色",
      "prompt": "半透明琥珀色环氧树脂二十面骰（Φ38mm），每面凸起数字1–20，凹槽内填夜光绿/荧光橙双色漆，转动时可见流光效果，底部平坦无支架，表面高亮抛光",
-     "file": null
+     "file": "images/gear/ac45a56aee_1.png",
+     "thumb": "images/gear/thumbs/ac45a56aee_1.jpg"
     }
    ]
   },
@@ -18911,12 +19125,14 @@
     {
      "label": "365nm专用·PC镜片·轻量化",
      "prompt": "哑光黑TR90镜架，镜片为琥珀色聚碳酸酯（可见光截止<400nm），镜腿内侧激光蚀刻‘UV-A BLOCK 365’，鼻托为硅胶软垫，镜片边缘无框，仅镜腿末端嵌银色金属‘λ=365’标",
-     "file": null
+     "file": "images/gear/ab442a4071_0.png",
+     "thumb": "images/gear/thumbs/ab442a4071_0.jpg"
     },
     {
      "label": "多波段切换·偏光可调·钛镜腿",
      "prompt": "枪灰钛合金镜架（含记忆弹性镜腿），镜片为电致变色液晶层（默认透明，按键切换365/405/450nm三档滤光），镜腿内侧嵌微型OLED屏显示当前波段，镜片右下角蚀刻微标‘SWITCH-FILTER’",
-     "file": null
+     "file": "images/gear/ab442a4071_1.png",
+     "thumb": "images/gear/thumbs/ab442a4071_1.jpg"
     }
    ]
   },
@@ -18926,12 +19142,14 @@
     {
      "label": "PVC基·10×30mm·UV显影",
      "prompt": "亮橙PVC矩形贴纸（10×30mm），表面覆哑光UV响应涂层，日光下为均质橙色，365nm照射下显现白色‘ROUTE’箭头图标，背胶为永久性丙烯酸胶，四角微圆",
-     "file": null
+     "file": "images/gear/7005208b95_0.png",
+     "thumb": "images/gear/thumbs/7005208b95_0.jpg"
     },
     {
      "label": "织物基·50×50mm·热敏转印",
      "prompt": "灰白混纺无纺布正方形贴片（50×50mm），表面热转印荧光绿‘MARK’字样，遇水后字迹边缘扩散成苔藓状纹理，背面为熨烫激活胶层，无塑膜保护层，边缘毛边自然",
-     "file": null
+     "file": "images/gear/7005208b95_1.png",
+     "thumb": "images/gear/thumbs/7005208b95_1.jpg"
     }
    ]
   },
@@ -18941,12 +19159,14 @@
     {
      "label": "标准版·双电池套装",
      "prompt": "DJI Mavic 3M 无人机主体，哑光灰机身配黑色碳纤维螺旋桨，折叠式四轴结构，机腹搭载多光谱云台与双摄像头模组，附带两块智能飞行电池（TB60）、USB-C充电器、收纳软包，所有部件置于白底前侧45度视角展示",
-     "file": null
+     "file": "images/gear/7028145422_0.png",
+     "thumb": "images/gear/thumbs/7028145422_0.jpg"
     },
     {
      "label": "Pro版·RTK增强套件",
      "prompt": "DJI Mavic 3M Pro 无人机，深空灰金属机身带橙色RTK模块标识，顶部集成厘米级定位天线，底部云台额外加装高精度IMU校准窗口，配套含RTK地面站、三脚架支架及专用固件升级卡，单机+配件组合白底45度展示",
-     "file": null
+     "file": "images/gear/7028145422_1.png",
+     "thumb": "images/gear/thumbs/7028145422_1.jpg"
     }
    ]
   },
@@ -18956,12 +19176,14 @@
     {
      "label": "轻量型·6波段微型模组",
      "prompt": "方形铝合金外壳NDVI多光谱模块，尺寸52×52×28mm，哑光黑阳极氧化表面，正面排列6颗微型滤光镜头（蓝/绿/红/红边/近红外/宽谱），底部Type-C接口与Lemo航插双输出，金属铭牌标注'6-Band Mini v2.1'",
-     "file": null
+     "file": "images/gear/36dc6d0cb1_0.png",
+     "thumb": "images/gear/thumbs/36dc6d0cb1_0.jpg"
     },
     {
      "label": "专业型·12波段科研模组",
      "prompt": "长方体钛合金NDVI多光谱模块，尺寸120×75×40mm，深灰拉丝金属壳体，正面嵌入12组精密干涉滤光镜阵列与独立CMOS传感器窗，侧面带BNC同步触发口与PoE供电接口，铭牌刻印'12-Band Research Edition'",
-     "file": null
+     "file": "images/gear/36dc6d0cb1_1.png",
+     "thumb": "images/gear/thumbs/36dc6d0cb1_1.jpg"
     }
    ]
   },
@@ -18971,12 +19193,14 @@
     {
      "label": "折叠款·20cm×30cm",
      "prompt": "可三折式光谱校准板，展开尺寸30×20cm，哑光白色PVC基材覆纳米漫反射涂层，边缘带毫米级刻度标尺与磁吸对位点，背面集成柔性铰链与快拆挂扣，整体平整无反光，白底平视正向展示",
-     "file": null
+     "file": "images/gear/4ed6bce61a_0.png",
+     "thumb": "images/gear/thumbs/4ed6bce61a_0.jpg"
     },
     {
      "label": "硬质款·50cm×50cm全幅板",
      "prompt": "正方形刚性光谱校准板，50×50cm尺寸，航空铝蜂窝芯+超白玻璃表层，表面经朗伯散射处理呈均匀哑光白，四角带水平气泡仪与M6螺纹安装孔，底部配可调支脚与激光对中辅助环，白底俯视45度展示",
-     "file": null
+     "file": "images/gear/4ed6bce61a_1.png",
+     "thumb": "images/gear/thumbs/4ed6bce61a_1.jpg"
     }
    ]
   },
@@ -18986,12 +19210,14 @@
     {
      "label": "基础版·年费账号",
      "prompt": "蓝色渐变质感卡片式虚拟商品，正面浮雕'Ecomap Cloud Basic'字样，左下角印有12个月有效期图标与二维码凹痕，右上角烫金'1 User'标识，卡片材质模拟磨砂PET，厚度2.5mm，白底平放45度视角",
-     "file": null
+     "file": "images/gear/de52c81c62_0.png",
+     "thumb": "images/gear/thumbs/de52c81c62_0.jpg"
     },
     {
      "label": "团队版·5人协同账号",
      "prompt": "深青色金属质感虚拟凭证卡，尺寸90×54mm，正面蚀刻'Ecomap Team Pro'与五人剪影图标，中部嵌入动态LED效果模拟屏（显示'5 Seats Active'），背面凸印管理后台入口URL与API密钥槽位，白底斜侧45度静帧呈现",
-     "file": null
+     "file": "images/gear/de52c81c62_1.png",
+     "thumb": "images/gear/thumbs/de52c81c62_1.jpg"
     }
    ]
   },
@@ -19001,12 +19227,14 @@
     {
      "label": "移动式·太阳能供电基站",
      "prompt": "圆柱形野外RTK基站主机，直径22cm高45cm，军绿色聚碳酸酯外壳带防滑纹路，顶部集成折叠太阳能板（展开后30×30cm）与GPS天线罩，底部配三脚架快装云台与防水接线舱，白底侧前方45度展示",
-     "file": null
+     "file": "images/gear/cd5e8d25ed_0.png",
+     "thumb": "images/gear/thumbs/cd5e8d25ed_0.jpg"
     },
     {
      "label": "固定式·工业级混凝土基座站",
      "prompt": "立方体RTK基准站主机，35×35×60cm铸铝外壳，深灰环氧涂层抗盐雾，正面嵌入OLED状态屏与双频天线接口阵列，底部预埋M16地脚螺栓孔位及混凝土浇筑导流槽，白底正前方微仰视角展示",
-     "file": null
+     "file": "images/gear/cd5e8d25ed_1.png",
+     "thumb": "images/gear/thumbs/cd5e8d25ed_1.jpg"
     }
    ]
   },
@@ -19016,12 +19244,14 @@
     {
      "label": "USB-C直连版·Type-A转接头内置",
      "prompt": "银灰色铝合金外壳，表面磨砂阳极氧化处理，正面印有白色‘WX-LOG SYNC’激光蚀刻标识，顶部带单颗蓝色LED状态指示灯，底部为USB-C公头直出设计，侧面集成可翻折USB-A母座转接模块，尺寸62×28×12mm",
-     "file": null
+     "file": "images/gear/c236cda6d1_0.png",
+     "thumb": "images/gear/thumbs/c236cda6d1_0.jpg"
     },
     {
      "label": "蓝牙5.3无线版·磁吸充电仓套装",
      "prompt": "哑光黑PC+硅胶复合材质主体，圆角矩形造型，正面嵌入1.3英寸E-Ink墨水屏显示同步状态，右侧带磁吸触点接口，配套磁吸式无线充电仓为深灰织物包覆+金属边框，整体含仓尺寸95×58×24mm",
-     "file": null
+     "file": "images/gear/c236cda6d1_1.png",
+     "thumb": "images/gear/thumbs/c236cda6d1_1.jpg"
     }
    ]
   },
@@ -19031,12 +19261,14 @@
     {
      "label": "浮标锚定型·Φ32mm×85mm不锈钢探杆",
      "prompt": "316L不锈钢圆柱形探杆，表面电解抛光呈镜面银白，顶部带M12螺纹接口与O型密封圈槽，中部环状分布4组压力传感孔，底部配黑色EPDM橡胶减震底垫，长度85mm，直径32mm",
-     "file": null
+     "file": "images/gear/14f0ba0ca4_0.png",
+     "thumb": "images/gear/thumbs/14f0ba0ca4_0.jpg"
     },
     {
      "label": "手持便携型·IP68防水ABS壳体·120mm",
      "prompt": "亮橙色抗UV ABS工程塑料壳体，流线型握持曲面，正面嵌入双色LED（红/绿）状态灯与触摸唤醒区，顶部为PTFE防水透气膜覆盖的气压补偿孔，底部为标准1/4''螺纹接口，全长120mm",
-     "file": null
+     "file": "images/gear/14f0ba0ca4_1.png",
+     "thumb": "images/gear/thumbs/14f0ba0ca4_1.jpg"
     }
    ]
   },
@@ -19046,12 +19278,14 @@
     {
      "label": "淡水微藻型·透明PC盖·180×120×60mm",
      "prompt": "高透光学级聚碳酸酯矩形盒体，上盖为可掀式铰链结构并带硅胶密封条，盒内分三格：左侧蓝光LED藻类培养区（带定时器贴片）、中格活体丰年虾暂养区（带微孔曝气管）、右侧清水缓冲区，尺寸180×120×60mm",
-     "file": null
+     "file": "images/gear/139285a618_0.png",
+     "thumb": "images/gear/thumbs/139285a618_0.jpg"
     },
     {
      "label": "海水桡足型·雾面亚克力·220×150×75mm",
      "prompt": "磨砂半透明白色亚克力盒体，顶盖设双层滑动观察窗（上层防刮PET膜+下层可拆卸滤网），内置温控模块（数字屏显）、盐度调节旋钮及独立进排水阀组，底部配防滑硅胶脚垫，尺寸220×150×75mm",
-     "file": null
+     "file": "images/gear/139285a618_1.png",
+     "thumb": "images/gear/thumbs/139285a618_1.jpg"
     }
    ]
   },
@@ -19061,12 +19295,14 @@
     {
      "label": "专业垂钓版·钛合金表壳·22mm快拆表带",
      "prompt": "航空级TC4钛合金表壳，喷砂哑光灰，1.28英寸AMOLED圆形屏（分辨率390×390），表侧集成潮时预测物理旋钮与震动反馈马达，表带为快拆式22mm氟橡胶带，带潮汐相位刻度浮雕",
-     "file": null
+     "file": "images/gear/c8d6796b5a_0.png",
+     "thumb": "images/gear/thumbs/c8d6796b5a_0.jpg"
     },
     {
      "label": "海岸巡护版·再生海洋塑料壳·24mm编织带",
      "prompt": "深蓝再生海洋回收塑料一体成型表壳，表面保留细微波纹肌理，1.47英寸LTPO常亮屏，顶部集成双频GNSS天线凸起模块，表带为再生PET编织带，缝线处嵌入荧光绿潮位等高线图案，宽度24mm",
-     "file": null
+     "file": "images/gear/c8d6796b5a_1.png",
+     "thumb": "images/gear/thumbs/c8d6796b5a_1.jpg"
     }
    ]
   },
@@ -19076,12 +19312,14 @@
     {
      "label": "手持笔式·Φ16mm×180mm不锈钢杆",
      "prompt": "316不锈钢圆柱形探杆，表面电镀铂黑涂层，前端为双环铂电极+NTC热敏电阻集成头，杆身激光刻印校准码与量程标识（0–80ppt / -5–50℃），尾部带USB-C数据直传接口，直径16mm，长180mm",
-     "file": null
+     "file": "images/gear/d77eda09c1_0.png",
+     "thumb": "images/gear/thumbs/d77eda09c1_0.jpg"
     },
     {
      "label": "固定监测型·Φ25mm×300mm钛合金杆",
      "prompt": "TA2纯钛探杆，镜面抛光，中部设双RS485通信接口与防水航空插头，前端为四电极盐度阵列+PT1000温度传感器，杆体刻有深度标尺（0–3m），底部配304不锈钢配重底座，直径25mm，总长300mm",
-     "file": null
+     "file": "images/gear/d77eda09c1_1.png",
+     "thumb": "images/gear/thumbs/d77eda09c1_1.jpg"
     }
    ]
   },
@@ -19091,12 +19329,14 @@
     {
      "label": "垂钓指令版·骨传导+耳挂式·单耳佩戴",
      "prompt": "浅灰TPU耳挂主体，末端嵌入黑色骨传导振动片，耳挂内侧设三颗触控电容按键（标‘收’‘析’‘存’），麦克风阵列位于耳挂前段，表面蚀刻钓鱼术语快捷词图标，重量28g，单耳佩戴结构",
-     "file": null
+     "file": "images/gear/daa60bc09e_0.png",
+     "thumb": "images/gear/thumbs/daa60bc09e_0.jpg"
     },
     {
      "label": "生态记录版·入耳降噪+录音键·双耳佩戴",
      "prompt": "哑光墨绿硅胶耳塞+记忆金属耳翼，左耳塞外侧设物理红色录音键与LED剩余时长指示灯，右耳塞内置双麦克风降噪阵列，充电盒为仿生叶脉纹理ABS材质，整套含盒尺寸92×54×28mm",
-     "file": null
+     "file": "images/gear/daa60bc09e_1.png",
+     "thumb": "images/gear/thumbs/daa60bc09e_1.jpg"
     }
    ]
   },
@@ -19106,12 +19346,14 @@
     {
      "label": "方言识别版·128GB·USB3.2 Type-C",
      "prompt": "深海蓝铝合金U盘本体，表面激光雕刻‘ECO-LINGUA’字样与鱼鳞纹，Type-C接口隐藏于滑盖结构内，滑盖为磁吸式哑光黑PC材质，尺寸45×18×8mm，附赠防水布收纳袋",
-     "file": null
+     "file": "images/gear/ee90653bf2_0.png",
+     "thumb": "images/gear/thumbs/ee90653bf2_0.jpg"
     },
     {
      "label": "图谱扩展版·256GB·USB3.2 Micro-B+Type-C双接口",
      "prompt": "双接口一体化U盘，左为Micro-B（镀金触点），右为Type-C（可翻转），外壳为环保竹纤维复合材料，表面压印潮间带生物分类树状图，接口旁设绿色状态LED，尺寸52×20×9mm",
-     "file": null
+     "file": "images/gear/ee90653bf2_1.png",
+     "thumb": "images/gear/thumbs/ee90653bf2_1.jpg"
     }
    ]
   },
@@ -19121,12 +19363,14 @@
     {
      "label": "声波转写版·A6尺寸·IP67硬壳",
      "prompt": "深橄榄绿聚碳酸酯硬壳封面，表面压纹浪花纹理，翻开后为可书写纸页+内嵌MEMS麦克风阵列（位于右上角），封底集成USB-C充电口与语音状态呼吸灯，厚度18mm，展开尺寸148×210mm",
-     "file": null
+     "file": "images/gear/16bf9b6acd_0.png",
+     "thumb": "images/gear/thumbs/16bf9b6acd_0.jpg"
     },
     {
      "label": "声纹加密版·A5尺寸·钛灰软壳+RFID芯片",
      "prompt": "钛灰色TPU软壳封面，边缘包覆耐磨尼龙边条，封面嵌入RFID安全芯片标识环，内页首张为声纹绑定二维码页，麦克风孔位于左下角蜂窝状开孔区，尺寸148×210mm，闭合厚度22mm",
-     "file": null
+     "file": "images/gear/16bf9b6acd_1.png",
+     "thumb": "images/gear/thumbs/16bf9b6acd_1.jpg"
     }
    ]
   },
@@ -19136,12 +19380,14 @@
     {
      "label": "低帮速干型·EU42·Vibram® Megagrip sole",
      "prompt": "灰黑双色无缝热压尼龙鞋面，脚背设激光穿孔透气区，鞋舌嵌入反光海浪纹，鞋底为Vibram® Megagrip橡胶，前掌与后跟强化凸点纹路，鞋码标于鞋跟内侧，EU42对应脚长26.5cm",
-     "file": null
+     "file": "images/gear/da581c00ba_0.png",
+     "thumb": "images/gear/thumbs/da581c00ba_0.jpg"
     },
     {
      "label": "高帮保暖型·EU43·3mm neoprene+抓绒内衬",
      "prompt": "深海军蓝氯丁橡胶高帮靴筒，外层压印珊瑚纹理，筒口加宽防沙边与抽绳锁扣，鞋底为加厚EVA+橡胶复合底，前掌嵌入防滑钢钉，内衬为暖灰抓绒，靴筒高度32cm，EU43对应脚长27cm",
-     "file": null
+     "file": "images/gear/da581c00ba_1.png",
+     "thumb": "images/gear/thumbs/da581c00ba_1.jpg"
     }
    ]
   },
@@ -19151,12 +19397,14 @@
     {
      "label": "淡水物种版·PVC覆膜·105×148mm",
      "prompt": "白色PVC基材卡片，表面覆哑光防刮膜，正面印刷鲤科/鲶科/鲌科三栏结构化填空区（含鳞色、鳃色、腹纹示意图），右下角烫金‘FRESHWATER v2.1’，圆角R3mm，厚度0.75mm",
-     "file": null
+     "file": "images/gear/46350bf496_0.png",
+     "thumb": "images/gear/thumbs/46350bf496_0.jpg"
     },
     {
      "label": "海水物种版·铝箔复合卡·120×160mm",
      "prompt": "银灰铝箔-纸复合材质卡片，表面微压印海浪底纹，正面分四象限：左上为鲷科/石斑科比对图谱，右上为盐度适配建议区，下方为捕捞合规性勾选栏，边框为激光蚀刻潮汐周期符号，厚度0.9mm",
-     "file": null
+     "file": "images/gear/46350bf496_1.png",
+     "thumb": "images/gear/thumbs/46350bf496_1.jpg"
     }
    ]
   },
@@ -19241,12 +19489,14 @@
     {
      "label": "工业级双目透镜·1280×720@60Hz",
      "prompt": "银灰铝合金镜架，一体式弧形双目OLED微显示模组，镜腿内置双麦克风与USB-C接口，镜片边缘嵌入RGB状态指示环，尺寸145×160×42mm，哑光黑主色配钴蓝功能指示条",
-     "file": null
+     "file": "images/gear/af2b49ad7a_0.png",
+     "thumb": "images/gear/thumbs/af2b49ad7a_0.jpg"
     },
     {
      "label": "轻量教育版单目·800×600@30Hz",
      "prompt": "半透明磨砂聚碳酸酯镜框，右侧单目LCOS投影单元，可拆卸磁吸鼻托与软胶耳挂，镜腿末端带Micro-USB充电口，尺寸132×148×36mm，浅灰主体配薄荷绿电源指示灯",
-     "file": null
+     "file": "images/gear/af2b49ad7a_1.png",
+     "thumb": "images/gear/thumbs/af2b49ad7a_1.jpg"
     }
    ]
   },
@@ -19256,12 +19506,14 @@
     {
      "label": "全栈训练版·含GPU容器镜像",
      "prompt": "深蓝色硬质翻盖盒，正面激光蚀刻白色OpenFishML徽标与‘Train-Ready’字样，盒内含USB3.2 SSD预装Ubuntu+PyTorch+模型权重包，标签页标注‘ResNet50-FishSeg v2.3’，尺寸120×90×20mm",
-     "file": null
+     "file": "images/gear/1678942f74_0.png",
+     "thumb": "images/gear/thumbs/1678942f74_0.jpg"
     },
     {
      "label": "边缘推理精简版·TF-Lite适配包",
      "prompt": "哑光白塑料卡扣盒，顶部印浅灰电路纹理与‘Edge-Inference Kit’字样，盒内含SD卡（32GB）预烧录量化模型及C++ SDK文档，侧面标注‘ARM64 / Coral TPU Compatible’，尺寸105×75×15mm",
-     "file": null
+     "file": "images/gear/1678942f74_1.png",
+     "thumb": "images/gear/thumbs/1678942f74_1.jpg"
     }
    ]
   },
@@ -19271,12 +19523,14 @@
     {
      "label": "沉水巡航型·42g/85mm",
      "prompt": "仿生鳟鱼造型ABS外壳，哑光深橄榄绿底+荧光橙侧线，尾部螺旋桨式推进器外露，头部嵌入黑色六轴IMU模块窗口，腹部有防水Type-C充电口，整体流线型带压重铅芯，尺寸85mm长×22mm宽×18mm高",
-     "file": null
+     "file": "images/gear/313e6003a5_0.png",
+     "thumb": "images/gear/thumbs/313e6003a5_0.jpg"
     },
     {
      "label": "浮水抖动型·18g/52mm",
      "prompt": "圆润虾形TPU软胶外壳，半透明琥珀色主体内嵌白色浮力腔，背部可见微型振动马达与银色六轴传感器PCB，尾端带可替换硅胶摆尾片，尺寸52mm长×16mm宽×14mm高",
-     "file": null
+     "file": "images/gear/313e6003a5_1.png",
+     "thumb": "images/gear/thumbs/313e6003a5_1.jpg"
     }
    ]
   },
@@ -19286,12 +19540,14 @@
     {
      "label": "四极温补型·1.2m不锈钢杆",
      "prompt": "四根平行316不锈钢探针（Φ4mm）等距焊接于1.2m长黑色PVC绝缘杆，杆身激光刻度0.1m间隔，顶部带黄铜接线端子与PT100温度补偿探头，手柄处有红色‘4-Electrode’铭牌",
-     "file": null
+     "file": "images/gear/31531f12fd_0.png",
+     "thumb": "images/gear/thumbs/31531f12fd_0.jpg"
     },
     {
      "label": "便携双极型·30cm钛合金针",
      "prompt": "两支30cm长医用级钛合金针（Φ2.5mm），尖端锐利带防滑滚花手柄，手柄为深灰工程塑料，集成蓝牙5.2模块与LED电量指示灯，底部印‘2-Electrode / 0–2000 Ω·m’白色字",
-     "file": null
+     "file": "images/gear/31531f12fd_1.png",
+     "thumb": "images/gear/thumbs/31531f12fd_1.jpg"
     }
    ]
   },
@@ -19301,12 +19557,14 @@
     {
      "label": "精装彩印版·A4/288页",
      "prompt": "深绿布面精装封面，烫金‘Underground Biomass Estimation’标题与根系拓扑线描图，书脊凸印ISBN与‘2024 Revised Edition’，内页全彩印刷含高清剖面图与二维码图谱，厚度22mm",
-     "file": null
+     "file": "images/gear/c5a80c2822_0.png",
+     "thumb": "images/gear/thumbs/c5a80c2822_0.jpg"
     },
     {
      "label": "野外速查折页版·防水PP材质",
      "prompt": "折叠式双面覆膜PP卡片（展开后580×420mm），正反灰蓝双色分区排版，含根系分级对照表、电阻率换算尺、采样深度速查转盘，四角圆角打孔配挂绳扣",
-     "file": null
+     "file": "images/gear/c5a80c2822_1.png",
+     "thumb": "images/gear/thumbs/c5a80c2822_1.jpg"
     }
    ]
   },
@@ -19316,12 +19574,14 @@
     {
      "label": "专业测绘型·1.8GHz超宽带",
      "prompt": "人体工学黑色碳纤维握把，前端圆形天线罩（Φ120mm）带同心金属环纹，侧面有OLED屏与五向导航键，背部散热格栅与Type-C+DC双接口，整机重1.3kg，尺寸280×110×75mm",
-     "file": null
+     "file": "images/gear/a0e21bffb4_0.png",
+     "thumb": "images/gear/thumbs/a0e21bffb4_0.jpg"
     },
     {
      "label": "教学入门型·900MHz脉冲式",
      "prompt": "亮黄色ABS外壳主机，顶部扁平化扇形发射天线（宽100mm），正面大尺寸LCD屏带触摸按键，底部磁吸充电触点与校准基准刻线，体积紧凑呈哑铃状，尺寸210×95×60mm",
-     "file": null
+     "file": "images/gear/a0e21bffb4_1.png",
+     "thumb": "images/gear/thumbs/a0e21bffb4_1.jpg"
     }
    ]
   },
@@ -19331,12 +19591,14 @@
     {
      "label": "田间加固版·IP67/双4G",
      "prompt": "深灰铸铝外壳带波纹散热鳍片，顶部双nano-SIM卡槽盖板与LED信号灯阵列，侧面M12工业以太网口+RS485端子，底部橡胶脚垫印‘AgriEdge Pro’，尺寸150×110×55mm",
-     "file": null
+     "file": "images/gear/990c283a70_0.png",
+     "thumb": "images/gear/thumbs/990c283a70_0.jpg"
     },
     {
      "label": "温室嵌入版·PoE供电/无风扇",
      "prompt": "纯白哑光PC外壳，正面隐藏式状态LED（绿/红双色），背部802.3af PoE输入接口与GPIO扩展排针，四角沉头螺丝孔位，无通风孔设计，尺寸120×85×35mm",
-     "file": null
+     "file": "images/gear/990c283a70_1.png",
+     "thumb": "images/gear/thumbs/990c283a70_1.jpg"
     }
    ]
   },
@@ -19346,12 +19608,14 @@
     {
      "label": "安卓离线专业版·含Mesh导出",
      "prompt": "手机屏幕界面截图风格：深蓝渐变背景，中央悬浮3D旋转的白色玉米根系网格模型，底部工具栏含‘Scan’‘Reconstruct’‘Export OBJ’图标，右上角显示‘Offline Mode • v3.1’灰色标签",
-     "file": null
+     "file": "images/gear/4d54a12e04_0.png",
+     "thumb": "images/gear/thumbs/4d54a12e04_0.jpg"
     },
     {
      "label": "iOS轻量农户版·微信小程序兼容",
      "prompt": "iPhone 15 Pro屏幕界面截图风格：浅绿圆角卡片式UI，主区显示简化根长热力图与‘今日扫描完成’徽章，底部微信风格Tab栏含‘拍照’‘估产’‘分享’，左上角‘RootLite’图标为嫩芽造型",
-     "file": null
+     "file": "images/gear/4d54a12e04_1.png",
+     "thumb": "images/gear/thumbs/4d54a12e04_1.jpg"
     }
    ]
   },
@@ -19361,12 +19625,14 @@
     {
      "label": "活菌特异性·SYBR Green I型",
      "prompt": "琥珀色玻璃安瓿瓶（2mL），铝箔封口，瓶身印深蓝‘Live-Rhizo Stain’与荧光分子结构简图，标签含绿色荧光波长λex/λem=497/520nm参数，瓶底凹槽刻‘For Confocal Use’",
-     "file": null
+     "file": "images/gear/acd59fcd9c_0.png",
+     "thumb": "images/gear/thumbs/acd59fcd9c_0.jpg"
     },
     {
      "label": "死菌区分型·PI/DAPI双染套装",
      "prompt": "双室分隔白色PETG试剂盒（85×55×25mm），左室红盖管装PI溶液（粉红液体），右室蓝盖管装DAPI溶液（淡黄液体），盒盖印红蓝双色细胞核染色示意图与‘Viability Dual-Stain’烫银字",
-     "file": null
+     "file": "images/gear/acd59fcd9c_1.png",
+     "thumb": "images/gear/thumbs/acd59fcd9c_1.jpg"
     }
    ]
   },
@@ -19376,12 +19642,14 @@
     {
      "label": "深水耐压型·300m/8节点",
      "prompt": "深海军绿硅胶包裹线缆（Φ5.2mm），沿线等距分布8个圆柱形钛合金传感器节点（Φ22mm×45mm），每个节点顶部有蓝白双色LED状态灯与压力密封接口，线缆两端为镀金SubConn水密接头",
-     "file": null
+     "file": "images/gear/c877a2346f_0.png",
+     "thumb": "images/gear/thumbs/c877a2346f_0.jpg"
     },
     {
      "label": "浅水柔性型·5m/3节点/可弯折",
      "prompt": "半透明乳白色TPE软线（Φ3.0mm），3个扁椭圆柔性传感单元（28×18×12mm）以30°夹角串联，单元表面有哑光磨砂处理与微型IMU标识，线缆末端为USB-C防水插头与磁吸快拆扣",
-     "file": null
+     "file": "images/gear/c877a2346f_1.png",
+     "thumb": "images/gear/thumbs/c877a2346f_1.jpg"
     }
    ]
   },
@@ -19421,12 +19689,14 @@
     {
      "label": "旋风式·10L/min大流量",
      "prompt": "圆柱形铝合金机身（Φ120mm×H280mm），银灰拉丝表面，顶部螺旋进气口带可拆卸防雨罩，中部透明亚克力孢子沉积腔（容积60ml），底部USB-C供电接口与状态LED灯环",
-     "file": null
+     "file": "images/gear/60154cd578_0.png",
+     "thumb": "images/gear/thumbs/60154cd578_0.jpg"
     },
     {
      "label": "滤膜式·手持迷你款",
      "prompt": "卵形ABS塑料机身（110×65×40mm），雾面墨绿配黄铜色进气格栅，正面滑盖式滤膜仓（容纳37mm圆形滤膜），顶部微型涡扇静音出气孔，右侧带压力反馈LED指示条",
-     "file": null
+     "file": "images/gear/60154cd578_1.png",
+     "thumb": "images/gear/thumbs/60154cd578_1.jpg"
     }
    ]
   },
@@ -19436,12 +19706,14 @@
     {
      "label": "夜钓专用·Φ35mm磷光绿",
      "prompt": "球形浮标，主体为玉米淀粉基生物塑料，表面光滑半透明，内嵌环形绿色荧光剂层（激发后持续发光8小时），顶部不锈钢挂环，底部配重铅块外露，直径35mm，高42mm",
-     "file": null
+     "file": "images/gear/30d85c6b28_0.png",
+     "thumb": "images/gear/thumbs/30d85c6b28_0.jpg"
     },
     {
      "label": "溪流细竿版·12cm细长锥形",
      "prompt": "流线型锥柱体浮标（长120mm，最大直径18mm），PLA材质哑光浅蓝渐变外壳，中段嵌入窄条状橙色荧光带（宽3mm），尾部磁吸式配重模块可拆卸，顶端为碳纤维细杆连接口",
-     "file": null
+     "file": "images/gear/30d85c6b28_1.png",
+     "thumb": "images/gear/thumbs/30d85c6b28_1.jpg"
     }
    ]
   },
@@ -19496,12 +19768,14 @@
     {
      "label": "淡水生态版·pH/DO/EC/TDS四参",
      "prompt": "人体工学ABS握把机身（180×85×45mm），深海蓝主色+荧光黄按键区，顶部可翻盖式电极仓（内置四合一复合电极），屏幕为2.8英寸TFT彩屏，底部Type-C与SD卡槽双扩展",
-     "file": null
+     "file": "images/gear/eda7137c7a_0.png",
+     "thumb": "images/gear/thumbs/eda7137c7a_0.jpg"
     },
     {
      "label": "滨海盐度强化版·含ORP/盐度/温度",
      "prompt": "耐腐蚀钛合金外壳（165×75×50mm），哑光黑配钛灰电极接口，正面物理旋钮+三键布局，电极接口为陶瓷密封螺纹式，屏幕为阳光下可视的反射式LCD，带盐雾测试认证标识刻印",
-     "file": null
+     "file": "images/gear/eda7137c7a_1.png",
+     "thumb": "images/gear/thumbs/eda7137c7a_1.jpg"
     }
    ]
   },
@@ -19526,12 +19800,14 @@
     {
      "label": "植物细胞专用·DAPI+FITC双染",
      "prompt": "黑色磁吸式铝盒（180×120×60mm），内含两支1.5ml琥珀色滴瓶（DAPI蓝色/ FITC绿色）、无菌棉签、载玻片夹与避光说明书卡，瓶身激光刻浓度与保质期",
-     "file": null
+     "file": "images/gear/f7e5497dc9_0.png",
+     "thumb": "images/gear/thumbs/f7e5497dc9_0.jpg"
     },
     {
      "label": "微生物快速染色·SYBR Gold单组份",
      "prompt": "圆柱形遮光PE罐（Φ60mm×H100mm），哑光黑罐身印金色SYBR Gold标识，顶部旋盖内置定量滴管（每滴5μl），罐内含15ml染液与独立离心管架，底部防滑硅胶底环",
-     "file": null
+     "file": "images/gear/f7e5497dc9_1.png",
+     "thumb": "images/gear/thumbs/f7e5497dc9_1.jpg"
     }
    ]
   },
@@ -19541,12 +19817,14 @@
     {
      "label": "观鸟旗舰版·12×50带AI屏",
      "prompt": "双筒望远镜主体为镁合金哑光灰，12倍放大率，50mm物镜镀绿膜，右侧目镜嵌入2.1英寸OLED触摸屏（显示实时识别结果），顶部激光测距+GPS天线，重量680g",
-     "file": null
+     "file": "images/gear/fdd4221963_0.png",
+     "thumb": "images/gear/thumbs/fdd4221963_0.jpg"
     },
     {
      "label": "轻量口袋版·8×25折叠式",
      "prompt": "可折叠式双筒（闭合后105×35×35mm），主体为碳纤维纹PC外壳，8倍放大率，25mm物镜带疏水镀膜，左侧目镜集成微型LED指示灯，底部Type-C充电口，整机重210g",
-     "file": null
+     "file": "images/gear/fdd4221963_1.png",
+     "thumb": "images/gear/thumbs/fdd4221963_1.jpg"
     }
    ]
   },
@@ -19556,12 +19834,14 @@
     {
      "label": "林学田野版·牛皮纸+网格页",
      "prompt": "180gsm天然牛皮纸封面（180×130mm），压纹森林剪影，内页为7mm灰线网格纸，每页左上角印标准行为编码栏（摄食/鸣叫/筑巢等），线圈装订，附植物标本压痕页",
-     "file": null
+     "file": "images/gear/7cc334d6e1_0.png",
+     "thumb": "images/gear/thumbs/7cc334d6e1_0.jpg"
     },
     {
      "label": "湿地观测版·防水铜版纸+潮汐表",
      "prompt": "覆哑光防水膜铜版纸封面（160×110mm），靛蓝底色+白线潮汐曲线图案，内页为250gsm涂布纸，含月相图、水位刻度尺与鸟类停歇点热区标记框，胶装+书脊弹性伸缩缝",
-     "file": null
+     "file": "images/gear/7cc334d6e1_1.png",
+     "thumb": "images/gear/thumbs/7cc334d6e1_1.jpg"
     }
    ]
   },
@@ -19586,12 +19866,14 @@
     {
      "label": "野外便携版·冻干引物预置",
      "prompt": "信用卡尺寸白色硬卡（85.6×53.98×0.76mm），正面印真菌分类树简图与二维码，中央圆形窗口覆透光PET膜，内嵌冻干引物混合斑点（直径8mm，淡粉可见环），背面为样本采集拭子收纳槽",
-     "file": null
+     "file": "images/gear/e5b0d70b30_0.png",
+     "thumb": "images/gear/thumbs/e5b0d70b30_0.jpg"
     },
     {
      "label": "实验室高敏版·96孔板兼容",
      "prompt": "矩形白色PCR卡（127×85mm），标准SBS板尺寸，96个圆形反应孔（Φ3mm）呈8×12阵列，孔底预冻干不同担子菌/子囊菌特异性引物，边缘印批次号与QC二维码",
-     "file": null
+     "file": "images/gear/e5b0d70b30_1.png",
+     "thumb": "images/gear/thumbs/e5b0d70b30_1.jpg"
     }
    ]
   },
@@ -19661,12 +19943,14 @@
     {
      "label": "溪流超轻版·1.2kg碳纤骨架",
      "prompt": "折叠钓台展开尺寸750×450×520mm，碳纤维管材骨架（Φ22mm）配航空铝连接件，台面为蜂窝状PE板（灰黑双色拼接），四脚带可调高度旋钮与橡胶吸盘脚垫",
-     "file": null
+     "file": "images/gear/5df5f9aa7b_0.png",
+     "thumb": "images/gear/thumbs/5df5f9aa7b_0.jpg"
     },
     {
      "label": "滩涂稳定版·加宽防陷支架",
      "prompt": "折叠钓台展开尺寸820×500×580mm，6061-T6铝合金骨架（Φ25mm），台面为防滑纹路HDPE板（墨绿主色），支架外展角度达120°，脚部配可拆卸宽幅沙地脚板（180×120mm）",
-     "file": null
+     "file": "images/gear/5df5f9aa7b_1.png",
+     "thumb": "images/gear/thumbs/5df5f9aa7b_1.jpg"
     }
    ]
   },
@@ -19676,12 +19960,14 @@
     {
      "label": "离线图谱版·含10万张显微图",
      "prompt": "手机界面截图：深绿渐变背景，主屏为三维孢子云渲染图（半透明球状集群，含纹理细节），右下角‘离线加载中’徽标为琥珀色环形进度条，顶部状态栏显示本地存储剩余容量",
-     "file": null
+     "file": "images/gear/516e30e47c_0.png",
+     "thumb": "images/gear/thumbs/516e30e47c_0.jpg"
     },
     {
      "label": "实时预警版·LORA气象联动",
      "prompt": "手机界面截图：灰蓝科技感界面，中央动态风向玫瑰图叠加孢子扩散热力层，左上角LORA图标闪烁，底部浮动预警栏显示‘2h后松孢子峰值’红色弹窗与疏散建议图标",
-     "file": null
+     "file": "images/gear/516e30e47c_1.png",
+     "thumb": "images/gear/thumbs/516e30e47c_1.jpg"
     }
    ]
   },
@@ -19712,6 +19998,516 @@
      "label": "角尺款·L型15×15cm",
      "prompt": "L型黄铜校准角尺，两臂均为15厘米长、25毫米宽、2.5毫米厚，90°精密直角连接处经CNC铣削与激光校准，单面蚀刻毫米刻度（0–150mm），内角带0.1mm级平面研磨光洁度，整体呈现温润暖调黄铜本色，无镀层",
      "file": null
+    }
+   ]
+  },
+  "pH试纸+植物蒸馏套件": {
+   "category": "植物学实验工具",
+   "variants": [
+    {
+     "label": "广域梯度pH·5-9色阶",
+     "prompt": "一套含100条pH试纸（5–9范围，5色阶渐变）与配套植物蒸馏冷凝组件：透明硼硅酸盐玻璃蒸馏管（直径22mm，长30cm）、可折叠铝制支架、硅胶密封圈；整体呈哑光灰白主色，试纸卡为硬质卡纸蓝灰底+烫金刻度，蒸馏管表面有激光蚀刻容量标线",
+     "file": "images/gear/8a3ed8fa97_0.png",
+     "thumb": "images/gear/thumbs/8a3ed8fa97_0.jpg"
+    },
+    {
+     "label": "窄域精准pH·6.2-6.8双显",
+     "prompt": "一套含80条双显pH试纸（6.2–6.8窄域，蓝/黄双色响应指示）、微型植物蒸馏头（不锈钢材质，带螺旋锁紧接口，高度仅8cm）及便携式真空冷凝泵（ABS外壳，深海蓝配橙色按钮）；试纸卡为防水PET材质墨绿底+荧光白刻度，蒸馏头表面抛光金属光泽",
+     "file": "images/gear/8a3ed8fa97_1.png",
+     "thumb": "images/gear/thumbs/8a3ed8fa97_1.jpg"
+    }
+   ]
+  },
+  "便携式DNA提取仪": {
+   "category": "分子生物学设备",
+   "variants": [
+    {
+     "label": "掌上离心式·4样本",
+     "prompt": "手持式DNA提取仪，铝合金阳极氧化机身（哑光石墨黑），尺寸12×6×4cm，顶部嵌入4孔离心转盘（透明PC盖+红色样本位标识），侧面带USB-C供电口与LED状态灯；含4支预装裂解柱（白色PP材质，带蓝色滤膜环）",
+     "file": "images/gear/e4b1a7b997_0.png",
+     "thumb": "images/gear/thumbs/e4b1a7b997_0.jpg"
+    },
+    {
+     "label": "磁珠振荡式·12样本",
+     "prompt": "便携磁珠DNA提取仪，镁合金压铸外壳（雾面钛灰），尺寸18×10×6.5cm，正面为触控屏（3.2英寸，深蓝UI界面），底部集成12位磁架与微振荡模块；附12支磁珠捕获管（透明高硼硅玻璃管身，红色硅胶盖）",
+     "file": "images/gear/e4b1a7b997_1.png",
+     "thumb": "images/gear/thumbs/e4b1a7b997_1.jpg"
+    }
+   ]
+  },
+  "便携式土壤CO₂通量仪": {
+   "category": "土壤生态监测设备",
+   "variants": [
+    {
+     "label": "静态箱法·0.25m²探头",
+     "prompt": "便携式土壤CO₂通量仪主机（ABS工程塑料灰白双色壳体，尺寸16×9×5cm），配0.25m²方形静态暗箱探头（黑色磨砂PE材质，内置红外传感器窗口与气压平衡阀，箱壁印激光蚀刻‘0.25m²’白字）",
+     "file": "images/gear/a2f6876acb_0.png",
+     "thumb": "images/gear/thumbs/a2f6876acb_0.jpg"
+    },
+    {
+     "label": "动态通路法·1m长柔性导管",
+     "prompt": "同系列主机（同款灰白双色壳体），配1米长螺旋增强型PTFE导气软管（外径8mm，银灰金属光泽编织层，两端为黄铜快接接口），导管中部集成微型温湿度补偿传感器（黑色圆柱形，直径12mm）",
+     "file": "images/gear/a2f6876acb_1.png",
+     "thumb": "images/gear/thumbs/a2f6876acb_1.jpg"
+    }
+   ]
+  },
+  "便携式挥发性有机物捕集管": {
+   "category": "环境分析耗材",
+   "variants": [
+    {
+     "label": "Tenax-TA/Carbograph1TD·6cm",
+     "prompt": "双段填充式VOC捕集管，外管为透明石英玻璃（长度6cm，外径6mm），内分两段：前段Tenax-TA浅棕颗粒（3cm），后段Carbograph1TD炭黑颗粒（3cm），两端为不锈钢网封（银亮抛光）与聚四氟乙烯白色端帽",
+     "file": "images/gear/905e84fcfb_0.png",
+     "thumb": "images/gear/thumbs/905e84fcfb_0.jpg"
+    },
+    {
+     "label": "Graphitized Carbon Black·9cm低温型",
+     "prompt": "单段高载量VOC捕集管，外管为耐低温硼硅玻璃（长度9cm，外径7mm），填充深灰至近黑石墨化炭黑颗粒（粒径40–60目），管身激光刻‘GCB-9C’与‘-40℃’标识，两端为黑色PEEK端帽与镀镍铜网",
+     "file": "images/gear/905e84fcfb_1.png",
+     "thumb": "images/gear/thumbs/905e84fcfb_1.jpg"
+    }
+   ]
+  },
+  "光谱反射率速查手册": {
+   "category": "科研辅助工具",
+   "variants": [
+    {
+     "label": "林冠层·350–1050nm",
+     "prompt": "硬壳精装手册（210×148mm，深绿帆布封面+烫银树冠图标），内页为120g铜版纸，含350–1050nm连续波段标准反射率比对色块（共128阶，每阶2×2cm哑光色块，标注‘LAI-0.8’等生态参数）",
+     "file": "images/gear/3e3efe450a_0.png",
+     "thumb": "images/gear/thumbs/3e3efe450a_0.jpg"
+    },
+    {
+     "label": "地表矿物·1000–2500nm",
+     "prompt": "加厚防水手册（220×155mm，铁锈红TPU封皮+金属角扣），内页为合成纸材质，含1000–2500nm中红外反射率图谱卡片（64组，每组含3条典型矿物曲线+对应色块，色块为矿物颜料实印哑光质感）",
+     "file": "images/gear/3e3efe450a_1.png",
+     "thumb": "images/gear/thumbs/3e3efe450a_1.jpg"
+    }
+   ]
+  },
+  "光谱日志App": {
+   "category": "科研软件服务",
+   "variants": [
+    {
+     "label": "基础版·单设备绑定",
+     "prompt": "实体授权卡：信用卡尺寸PVC卡（深空灰底+霓虹蓝电路纹理），正面激光雕刻‘SPECTRA LOG v3.2 BASIC’与唯一12位激活码，背面为二维码与‘1 Device’烫金小字，边缘带半透明磨砂防伪条",
+     "file": "images/gear/d653a844e0_0.png",
+     "thumb": "images/gear/thumbs/d653a844e0_0.jpg"
+    },
+    {
+     "label": "专业版·多模态同步",
+     "prompt": "金属U盘形态授权器（阳极氧化铝银灰机身，尺寸45×12×8mm），表面蚀刻‘SPECTRA LOG PRO’与‘Sync: LiDAR+Spec+GPS’字样，USB-A接口镀金，附磁吸式收纳盒（哑光黑硅胶内衬）",
+     "file": "images/gear/d653a844e0_1.png",
+     "thumb": "images/gear/thumbs/d653a844e0_1.jpg"
+    }
+   ]
+  },
+  "共生菌藻培养基便携盒": {
+   "category": "微生物实验耗材",
+   "variants": [
+    {
+     "label": "固氮蓝藻专用·6孔琼脂",
+     "prompt": "六孔圆形培养盒（食品级PP材质，乳白半透明，直径10cm，高2.5cm），每孔预灌注淡青色固氮蓝藻专用琼脂培养基（表面微凸弧形，边缘有蓝色环形刻度线），盒盖带透气膜（白色PTFE圆斑，直径1.5cm）",
+     "file": "images/gear/8803ac8684_0.png",
+     "thumb": "images/gear/thumbs/8803ac8684_0.jpg"
+    },
+    {
+     "label": "地衣真菌共培·9孔液体",
+     "prompt": "九孔矩形培养盒（医用级PC材质，烟灰半透，12×8×3cm），每孔为独立锥形液体培养腔（容积8ml，透明腔壁印‘Lecanora’微标），盒体侧边集成9个硅胶塞孔盖（酒红配银环）",
+     "file": "images/gear/8803ac8684_1.png",
+     "thumb": "images/gear/thumbs/8803ac8684_1.jpg"
+    }
+   ]
+  },
+  "古道噪声基线数据包": {
+   "category": "文化遗产监测数据",
+   "variants": [
+    {
+     "label": "江南段·24h频谱CSV",
+     "prompt": "环保再生纸封套（米白麻纹，15×10.5cm），内含1张微型SD卡（黑色PCB+金色触点，贴‘JN-24H’激光标签）与一张双面印刷数据索引卡（左列时间戳，右列A-weighted dB值，字体为等宽灰字）",
+     "file": "images/gear/08525f66c6_0.png",
+     "thumb": "images/gear/thumbs/08525f66c6_0.jpg"
+    },
+    {
+     "label": "川滇段·原始WAV+地理标记",
+     "prompt": "铝制微型存储筒（直径32mm，高65mm，哑光香槟金阳极氧化表面），筒盖旋开式，内置MicroSD卡（工业级，印‘CD-RAW-GEO’）与激光蚀刻地形简图金属片（厚度0.3mm，锈红氧化处理）",
+     "file": "images/gear/08525f66c6_1.png",
+     "thumb": "images/gear/thumbs/08525f66c6_1.jpg"
+    }
+   ]
+  },
+  "古道地衣分布热力图APP": {
+   "category": "地理信息软件服务",
+   "variants": [
+    {
+     "label": "县域离线版·1:50000",
+     "prompt": "实体激活卡：再生竹纤维卡（12×8cm，浅褐本色+浮雕山形纹），正面印‘LICHEN MAP COUNTY OFFLINE’与二维码，背面为手绘风格县域轮廓线（墨绿丝印）与‘50k’微标",
+     "file": "images/gear/ce08e244e7_0.png",
+     "thumb": "images/gear/thumbs/ce08e244e7_0.jpg"
+    },
+    {
+     "label": "全国联网版·实时更新",
+     "prompt": "钛合金U盘（圆柱形，直径18mm，长50mm，喷砂哑光灰），顶部嵌入微型eSIM芯片槽（黑色陶瓷盖），U盘侧面蚀刻‘LICHEN NET LIVE’与地球经纬线图标",
+     "file": "images/gear/ce08e244e7_1.png",
+     "thumb": "images/gear/thumbs/ce08e244e7_1.jpg"
+    }
+   ]
+  },
+  "可见光-近红外滤镜片组": {
+   "category": "光学测绘配件",
+   "variants": [
+    {
+     "label": "52mm口径·6波段插片",
+     "prompt": "铝合金滤镜盒（52×52×18mm，深灰阳极氧化，带磁吸翻盖），内含6枚方形滤镜插片（25×25mm，光学玻璃，镀膜面朝上）：450/550/650/750/850/950nm中心波长，每片边缘激光刻波长数值与‘VIS-NIR’标识",
+     "file": "images/gear/a4ede19cc9_0.png",
+     "thumb": "images/gear/thumbs/a4ede19cc9_0.jpg"
+    },
+    {
+     "label": "M42螺纹·全光谱轮盘",
+     "prompt": "M42螺纹滤镜轮（直径68mm，厚22mm，航空铝CNC加工，哑光黑+橙色刻度环），内置5位旋转槽，含5片圆形滤镜（直径30mm）：400–700nm宽带、700–900nm窄带、ND0.6、偏振、以及空白校准位；轮缘激光刻‘ROT-FILTER M42’",
+     "file": "images/gear/a4ede19cc9_1.png",
+     "thumb": "images/gear/thumbs/a4ede19cc9_1.jpg"
+    }
+   ]
+  },
+  "呼吸速率手账": {
+   "category": "生态观测记录工具",
+   "variants": [
+    {
+     "label": "植物茎干·毫米格+CO₂换算表",
+     "prompt": "线圈装订手账（180×120mm，牛皮纸封面+烫金叶脉纹），内页为100g米黄道林纸，每页顶部印‘Stem Respiration’标题，主体为1mm×1mm细密网格（灰色），底部附CO₂释放量换算对照表（蓝灰小字）",
+     "file": "images/gear/ed88ca54b8_0.png",
+     "thumb": "images/gear/thumbs/ed88ca54b8_0.jpg"
+    },
+    {
+     "label": "土壤剖面·温度梯度填图页",
+     "prompt": "活页夹式手账（210×148mm，深褐PU封面+金属夹扣），内页为热敏复写纸三联页（白/蓝/黄），每页左侧为0–100cm深度轴（红点标温区），右侧为可撕式温梯填图卡（哑光灰底+10色温感色块）",
+     "file": "images/gear/ed88ca54b8_1.png",
+     "thumb": "images/gear/thumbs/ed88ca54b8_1.jpg"
+    }
+   ]
+  },
+  "地衣pH指示试纸卡": {
+   "category": "地衣生态检测耗材",
+   "variants": [
+    {
+     "label": "酸性专敏·3.0–5.5双色",
+     "prompt": "硬质试纸卡（85×55mm，再生纸灰蓝底），含12条试纸（每条12×3mm），响应区间3.0–5.5，pH3.0显鲜红、pH5.5显嫩绿，卡面印地衣属名‘Xanthoria’与‘Acid-Sensitive’烫银字",
+     "file": "images/gear/e43f866da2_0.png",
+     "thumb": "images/gear/thumbs/e43f866da2_0.jpg"
+    },
+    {
+     "label": "碱性耐受·7.5–10.0紫黄渐变",
+     "prompt": "防水PET试纸卡（90×60mm，哑光白底），含10条试纸（每条15×4mm），响应区间7.5–10.0，pH7.5显淡黄、pH10.0显紫罗兰，卡背印‘Roccella’属图与‘Alkaline-Tolerant’微标",
+     "file": "images/gear/e43f866da2_1.png",
+     "thumb": "images/gear/thumbs/e43f866da2_1.jpg"
+    }
+   ]
+  },
+  "地衣生长速率标尺": {
+   "category": "野外生态测量工具",
+   "variants": [
+    {
+     "label": "毫米级·直尺型·不锈钢",
+     "prompt": "30cm直尺状标尺（医用级304不锈钢，拉丝银灰表面），正面激光蚀刻0–300mm双行刻度（主刻度1mm，辅刻度0.5mm），末端焊‘LICHEN GROWTH’铭牌（黑珐琅填字）",
+     "file": "images/gear/bf98fe08ed_0.png",
+     "thumb": "images/gear/thumbs/bf98fe08ed_0.jpg"
+    },
+    {
+     "label": "年轮式·环形·钛合金",
+     "prompt": "环形生长标尺（外径80mm，内径30mm，航空钛合金，喷砂哑光灰），环面蚀刻12圈同心圆（代表1–12年生长半径），每圈旁刻‘Year 1’至‘Year 12’，中心嵌微型放大镜（直径12mm，镀铬铝框）",
+     "file": "images/gear/bf98fe08ed_1.png",
+     "thumb": "images/gear/thumbs/bf98fe08ed_1.jpg"
+    }
+   ]
+  },
+  "声景修复手绘模板": {
+   "category": "声音生态设计工具",
+   "variants": [
+    {
+     "label": "古道线性·1:2000剖面",
+     "prompt": "硬质硫酸纸模板（300×210mm，半透明米白，0.18mm厚），印古道线性剖面图（墨线+淡灰阴影），叠加声源定位网格（10×10cm蓝虚线）、植被吸声区（绿色斜线填充）、反射面标注（红三角符号）",
+     "file": "images/gear/e80989b66a_0.png",
+     "thumb": "images/gear/thumbs/e80989b66a_0.jpg"
+    },
+    {
+     "label": "节点环形·360°声场",
+     "prompt": "圆形亚克力模板（直径240mm，3mm厚，磨砂透光白），中心为镂空圆孔（Φ20mm），外圈蚀刻360°方位角刻度（0°–360°，红点标北），6个同心环分别代表10–60m距离带，环上嵌彩色软胶声源图标（蓝=鸟鸣，橙=溪流，灰=风噪）",
+     "file": "images/gear/e80989b66a_1.png",
+     "thumb": "images/gear/thumbs/e80989b66a_1.jpg"
+    }
+   ]
+  },
+  "声纹比对APP会员": {
+   "category": "音频分析软件服务",
+   "variants": [
+    {
+     "label": "季度版·单设备",
+     "prompt": "PVC材质会员卡（85.6×53.98mm，深靛蓝底+银箔声波纹），正面印‘SONO MATCH QUARTERLY’与唯一16位会员码，背面为声纹图谱浮雕（0.1mm浅刻，三频段波形）",
+     "file": "images/gear/5faf0fdd4a_0.png",
+     "thumb": "images/gear/thumbs/5faf0fdd4a_0.jpg"
+    },
+    {
+     "label": "年度版·多终端同步",
+     "prompt": "锌合金徽章式密钥（直径42mm，厚5mm，仿古铜做旧+局部镀镍），正面浮雕‘SONO MATCH ANNUAL’与声谱环形图，背面蚀刻‘SYNC: 5 DEVICES’与二维码凹槽",
+     "file": "images/gear/5faf0fdd4a_1.png",
+     "thumb": "images/gear/thumbs/5faf0fdd4a_1.jpg"
+    }
+   ]
+  },
+  "多层土样采集盒": {
+   "category": "土壤采样工具",
+   "variants": [
+    {
+     "label": "5层分隔·PP材质",
+     "prompt": "五层叠式采样盒（整体20×15×12cm，食品级PP乳白半透明），每层独立抽拉（带防滑硅胶条），层间印‘O/A/B/C/R’土层标识（深灰丝印），顶层盖带气密硅胶圈与压力释放阀（红色小圆点）",
+     "file": "images/gear/8d6a3c3af0_0.png",
+     "thumb": "images/gear/thumbs/8d6a3c3af0_0.jpg"
+    },
+    {
+     "label": "3层真空·铝塑复合",
+     "prompt": "三层真空采样盒（18×12×10cm，铝箔-PE复合膜外壳，哑光银灰），每层带独立真空阀（黑色旋钮+绿色‘OPEN’指示环），盒体侧面激光刻‘ANAEROBIC LAYERED’与‘-80kPa’标称值",
+     "file": "images/gear/8d6a3c3af0_1.png",
+     "thumb": "images/gear/thumbs/8d6a3c3af0_1.jpg"
+    }
+   ]
+  },
+  "定向麦克风阵列": {
+   "category": "生态声学设备",
+   "variants": [
+    {
+     "label": "四单元·超心形·手持式",
+     "prompt": "手持式四单元麦克风阵列（铝合金机身，哑光黑+枪灰握把，尺寸220×65×45mm），前端4个Φ12mm拾音孔呈菱形排列，顶部有LED指向指示灯（绿色），底部为XLR+USB-C双接口（镀金XLR母座）",
+     "file": "images/gear/65c83d337b_0.png",
+     "thumb": "images/gear/thumbs/65c83d337b_0.jpg"
+    },
+    {
+     "label": "八单元·环形·三脚架 mount",
+     "prompt": "环形八单元麦克风阵列（航空铝CNC环体，外径180mm，厚25mm，哑光钛灰），8个Φ8mm MEMS拾音孔均匀分布于环周，环体底部集成1/4″-20 UNC螺纹孔与水平泡（嵌入式玻璃管）",
+     "file": "images/gear/65c83d337b_1.png",
+     "thumb": "images/gear/thumbs/65c83d337b_1.jpg"
+    }
+   ]
+  },
+  "微型温湿度记录贴片": {
+   "category": "环境传感耗材",
+   "variants": [
+    {
+     "label": "柔性电子·72h贴纸型",
+     "prompt": "超薄柔性贴片（40×25mm，厚度0.3mm），PET基底哑光白，表面印蓝色‘Temp/RH Log’图标与‘72h’，背面为医用级丙烯酸胶+离型纸，边缘微圆角，一角露出银色RFID天线图案",
+     "file": "images/gear/42ff224ca7_0.png",
+     "thumb": "images/gear/thumbs/42ff224ca7_0.jpg"
+    },
+    {
+     "label": "硬质陶瓷·30d可回收",
+     "prompt": "方形陶瓷记录贴片（30×30×1.2mm，氧化铝白瓷基体），正面釉下彩印‘EcoLog 30d’与温湿双曲线图标，四角带微型穿孔（Φ0.8mm），背面激光刻序列号与‘Recyclable Al₂O₃’",
+     "file": "images/gear/42ff224ca7_1.png",
+     "thumb": "images/gear/thumbs/42ff224ca7_1.jpg"
+    }
+   ]
+  },
+  "微生物活性比色卡": {
+   "category": "微生物检测耗材",
+   "variants": [
+    {
+     "label": "脱氢酶·TTC还原色阶",
+     "prompt": "硬质比色卡（90×60mm，再生纸板灰蓝底），含8阶TTC还原色块（从无色→深红，对应0–2.5 μmol/(g·h)），每阶下方印‘Dehydrogenase’与数值，卡角有‘TTC’凹印防伪",
+     "file": "images/gear/faf83a7cc0_0.png",
+     "thumb": "images/gear/thumbs/faf83a7cc0_0.jpg"
+    },
+    {
+     "label": "脲酶·酚红pH变色阶",
+     "prompt": "防水PET比色卡（95×65mm，哑光白底），含10阶酚红变色块（黄→粉→紫，对应pH6.0–8.0），每阶旁印‘Urease’与‘NH₃ mg/kg’换算值，卡背覆哑光防眩膜",
+     "file": "images/gear/faf83a7cc0_1.png",
+     "thumb": "images/gear/thumbs/faf83a7cc0_1.jpg"
+    }
+   ]
+  },
+  "手持式微型光谱仪": {
+   "category": "现场分析仪器",
+   "variants": [
+    {
+     "label": "VIS-NIR·350–1000nm",
+     "prompt": "手持光谱仪（140×75×38mm，镁合金灰黑机身，IP65防护），前端Φ8mm光纤接口（黑色橡胶护圈），顶部OLED屏（1.3英寸，蓝白显示），侧面激光刻‘SPECTRO-MINI VIS-NIR’与‘350–1000nm’",
+     "file": "images/gear/de758e8f8d_0.png",
+     "thumb": "images/gear/thumbs/de758e8f8d_0.jpg"
+    },
+    {
+     "label": "SWIR·1000–2500nm",
+     "prompt": "同系列SWIR型号（150×80×42mm，深空灰阳极氧化铝壳体），前端为InGaAs探测窗（黑色抗反射镀膜玻璃，Φ10mm），右侧带TE制冷散热鳍（铜色裸露鳍片），机尾蚀刻‘SWIR EDITION’与‘1–2.5μm’",
+     "file": "images/gear/de758e8f8d_1.png",
+     "thumb": "images/gear/thumbs/de758e8f8d_1.jpg"
+    }
+   ]
+  },
+  "掌上PCR扩增模块": {
+   "category": "科研仪器",
+   "variants": [
+    {
+     "label": "便携式恒温·掌心尺寸(12×8×4cm)",
+     "prompt": "银灰铝合金外壳的微型矩形设备，顶部带蓝色LED温度指示灯与触控屏，侧面有USB-C接口和微型散热格栅，尺寸12×8×4厘米，哑光金属质感，深空灰主色",
+     "file": "images/gear/32fbb921d3_0.png",
+     "thumb": "images/gear/thumbs/32fbb921d3_0.jpg"
+    },
+    {
+     "label": "高通量梯度·双槽设计(15×10×6cm)",
+     "prompt": "双独立反应槽的黑色工程塑料PCR模块，槽位标有白色温度梯度刻度（45–95℃），正面嵌入彩色LCD屏与旋钮控制区，尺寸15×10×6厘米，磨砂黑主体配橙色功能键",
+     "file": "images/gear/32fbb921d3_1.png",
+     "thumb": "images/gear/thumbs/32fbb921d3_1.jpg"
+    }
+   ]
+  },
+  "气味嗅闻训练卡": {
+   "category": "感官训练工具",
+   "variants": [
+    {
+     "label": "基础款·标准卡(8.5×5.5cm·30张)",
+     "prompt": "厚实哑光白卡纸制成的矩形卡片，单面印有黑色编号与‘Citrus’等英文气味标签，边缘微圆角，尺寸8.5×5.5厘米，每张附可撕式滤纸嗅闻窗，浅灰卡基配深灰文字",
+     "file": "images/gear/81960fde09_0.png",
+     "thumb": "images/gear/thumbs/81960fde09_0.jpg"
+    },
+    {
+     "label": "进阶款·磁吸盒装(12×8×2.5cm·60张)",
+     "prompt": "深蓝布纹硬质收纳盒，掀盖式结构带内嵌磁吸卡槽，内置60张渐变色编码嗅闻卡（红/黄/绿三系），每卡背面印二维码，尺寸12×8×2.5厘米，卡体为柔韧合成纸，哑光覆膜",
+     "file": "images/gear/81960fde09_1.png",
+     "thumb": "images/gear/thumbs/81960fde09_1.jpg"
+    }
+   ]
+  },
+  "气味定位打卡徽章": {
+   "category": "户外标记装备",
+   "variants": [
+    {
+     "label": "金属蚀刻·圆形(3.2cm·锌合金)",
+     "prompt": "圆形锌合金徽章，直径3.2厘米，表面激光蚀刻经纬度坐标与‘ScentPin’图标，边缘环状凹槽，背面带安全别针扣，哑光镍银色，中心微凸浮雕纹理",
+     "file": "images/gear/5144b1e518_0.png",
+     "thumb": "images/gear/thumbs/5144b1e518_0.jpg"
+    },
+    {
+     "label": "硅胶软标·方形(4×4cm·食品级)",
+     "prompt": "正方形食品级透明硅胶徽章，4×4厘米，内部封存微型气味缓释凝胶胶囊（可见淡琥珀色颗粒），四角圆润，边缘印浅灰‘OdorLog’字样，柔韧半透明材质，略带水波纹反光",
+     "file": "images/gear/5144b1e518_1.png",
+     "thumb": "images/gear/thumbs/5144b1e518_1.jpg"
+    }
+   ]
+  },
+  "气味编码卡片本": {
+   "category": "野外记录工具",
+   "variants": [
+    {
+     "label": "防水硬壳·A6横版(105×148mm)",
+     "prompt": "深绿防水牛皮纸封面笔记本，A6横向开本（105×148毫米），烫金‘OdorCode’logo，内页为米黄再生纸，每页印有10行气味编码网格（含ISO标准编号栏）与湿度感应色块，圆角裁切",
+     "file": "images/gear/dec624aa40_0.png",
+     "thumb": "images/gear/thumbs/dec624aa40_0.jpg"
+    },
+    {
+     "label": "可擦写磁吸·A7竖版(74×105mm)",
+     "prompt": "A7竖版磁吸笔记本，74×105毫米，灰黑双色PP硬壳，封面嵌入钕磁铁条，内页为白色可擦写涂层纸，每页含气味轮盘图解与编码速查表，圆脊装订，金属书签扣",
+     "file": "images/gear/dec624aa40_1.png",
+     "thumb": "images/gear/thumbs/dec624aa40_1.jpg"
+    }
+   ]
+  },
+  "温湿度探针": {
+   "category": "环境监测设备",
+   "variants": [
+    {
+     "label": "不锈钢针式·Φ1.8mm×120mm",
+     "prompt": "细长不锈钢探针，直径1.8毫米、长120毫米，尖端锥形，杆身激光刻印‘Temp/RH’标识，尾部带黑色PVC线缆（1.5米）与Type-C插头，金属冷冽光泽，探针段呈镜面抛光银色",
+     "file": "images/gear/5d4d1ad1ab_0.png",
+     "thumb": "images/gear/thumbs/5d4d1ad1ab_0.jpg"
+    },
+    {
+     "label": "无线蓝牙·IP67球型(Ø35mm)",
+     "prompt": "球形IP67防护探头，直径35毫米，哑光磨砂白ABS外壳，顶部凸起蓝牙指示灯（蓝/红双色），底部隐藏式温湿传感器孔阵，底部磁吸+螺纹双安装接口，整体浑圆无棱角",
+     "file": "images/gear/5d4d1ad1ab_1.png",
+     "thumb": "images/gear/thumbs/5d4d1ad1ab_1.jpg"
+    }
+   ]
+  },
+  "环境DNA滤膜套组": {
+   "category": "生态采样耗材",
+   "variants": [
+    {
+     "label": "PVDF膜·0.22μm·50片装",
+     "prompt": "白色圆形PVDF滤膜，直径47毫米，包装于无菌铝箔密封袋内，袋面印蓝色‘eDNA-0.22’及批号，膜面平整微反光，边缘轻微卷曲，单片厚度不可见但标注‘0.22μm孔径’",
+     "file": "images/gear/e1aa9ed17c_0.png",
+     "thumb": "images/gear/thumbs/e1aa9ed17c_0.jpg"
+    },
+    {
+     "label": "玻璃纤维·GF/F·25片+离心柱",
+     "prompt": "浅灰玻璃纤维滤膜（GF/F型），直径25毫米，叠放于配套透明聚丙烯离心柱中，柱体标有刻度线与‘eDNA-Filtration’字样，柱盖带O型密封圈，整体呈半透明雾面质感",
+     "file": "images/gear/e1aa9ed17c_1.png",
+     "thumb": "images/gear/thumbs/e1aa9ed17c_1.jpg"
+    }
+   ]
+  },
+  "离线物种数据库Pad": {
+   "category": "野外智能终端",
+   "variants": [
+    {
+     "label": "加固平板·10.1英寸·军规级",
+     "prompt": "10.1英寸加固平板电脑，深橄榄绿橡胶包边，屏幕为防眩光蚀刻玻璃，正面左下角蚀刻‘BioDB Pro’铭牌，背部有蜂窝散热孔与三脚架螺孔，整机厚度1.8厘米，IP68防护标识清晰可见",
+     "file": "images/gear/3717a45ee2_0.png",
+     "thumb": "images/gear/thumbs/3717a45ee2_0.jpg"
+    },
+    {
+     "label": "电子墨水屏·7.8英寸·超长续航",
+     "prompt": "7.8英寸电子墨水屏阅读器，哑光深灰机身，侧边带物理翻页键与USB-C口，屏幕显示‘TaxonTree v3.2’界面示例（树状分类图+拉丁名），无背光，表面类纸纹理，厚度仅6.2毫米",
+     "file": "images/gear/3717a45ee2_1.png",
+     "thumb": "images/gear/thumbs/3717a45ee2_1.jpg"
+    }
+   ]
+  },
+  "色卡校准板": {
+   "category": "影像测量工具",
+   "variants": [
+    {
+     "label": "标准24格·Pantone涂层·15×10cm",
+     "prompt": "矩形硬质色卡板，15×10厘米，表面覆Pantone认证哑光涂层，24格标准色块均匀排列（含黑白灰阶与RGB主色），每格边缘印微缩编号，深灰铝框包边，背面磁吸贴片",
+     "file": "images/gear/01f4b45f4d_0.png",
+     "thumb": "images/gear/thumbs/01f4b45f4d_0.jpg"
+    },
+    {
+     "label": "野外抗UV·18格·折叠式(展开20×15cm)",
+     "prompt": "可对折式色卡板，展开20×15厘米，18格高耐候色块（含土壤/植被/水体专用色），采用抗UV陶瓷涂层，色块间有防刮凹槽分隔，深褐再生铝骨架，折叠处为不锈钢铰链",
+     "file": "images/gear/01f4b45f4d_1.png",
+     "thumb": "images/gear/thumbs/01f4b45f4d_1.jpg"
+    }
+   ]
+  },
+  "野外荧光显微镜": {
+   "category": "便携光学设备",
+   "variants": [
+    {
+     "label": "手持式·405nm激发·×200",
+     "prompt": "深蓝工程塑料手持显微镜，筒身印白色‘FluoField’logo，前端带可调焦荧光物镜（镀膜蓝紫环），侧置405nm紫外LED开关与电池仓，尺寸约18×4×4厘米，带防滑硅胶握持区",
+     "file": "images/gear/a92fe5f2fb_0.png",
+     "thumb": "images/gear/thumbs/a92fe5f2fb_0.jpg"
+    },
+    {
+     "label": "支架式·双波段·×400+",
+     "prompt": "铝合金三脚支架搭载荧光显微镜主机，主机含450nm与530nm双LED激发模块、可旋转滤光轮、目镜端带数码接口，整体高25厘米，主色调为哑光炭黑，镜头组有金色镀膜反光",
+     "file": "images/gear/a92fe5f2fb_1.png",
+     "thumb": "images/gear/thumbs/a92fe5f2fb_1.jpg"
+    }
+   ]
+  },
+  "降噪耳罩（可录音）": {
+   "category": "声学采集装备",
+   "variants": [
+    {
+     "label": "主动降噪·录音麦克风集成·折叠款",
+     "prompt": "深灰记忆棉耳罩，耳杯外侧嵌入双指向驻极体麦克风（银色金属网罩），头梁可折叠，右侧耳罩上方设红色录音指示灯与物理录音键，蛋白皮耳垫，整体流线型轮廓",
+     "file": "images/gear/ecc0523f43_0.png",
+     "thumb": "images/gear/thumbs/ecc0523f43_0.jpg"
+    },
+    {
+     "label": "被动隔音·定向拾音·野外迷彩",
+     "prompt": "丛林迷彩纹路ABS耳罩外壳，耳杯加厚至5厘米，前端突出定向拾音管（黑色金属网+橡胶导音唇），无电子元件外露，头梁带弹性织带与快拆卡扣，哑光迷彩表面带细微颗粒纹理",
+     "file": "images/gear/ecc0523f43_1.png",
+     "thumb": "images/gear/thumbs/ecc0523f43_1.jpg"
     }
    ]
   }
