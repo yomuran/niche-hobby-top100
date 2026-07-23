@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-07-23T17:08:38+08:00",
-  "top100_ready": 891,
+  "updated_at": "2026-07-23T17:14:53+08:00",
+  "top100_ready": 895,
   "top100_total": 929,
-  "top100_pending": 38,
-  "top100_missing_spec": 9,
+  "top100_pending": 34,
+  "top100_missing_spec": 0,
   "assets_base": "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/"
  },
  "gear": {
@@ -20552,7 +20552,8 @@
     {
      "label": "AI标注增强版·支持共生菌扫描",
      "prompt": "浅青灰界面截图：主屏中央悬浮3D地衣结构模型，右侧弹出‘共生真菌识别中…’进度条，顶部状态栏显示‘已连接MicroSymbiont插件 v2.3’，左下角有荧光标记笔图标",
-     "file": null
+     "file": "images/gear/c5ad7ff306_1.png",
+     "thumb": "images/gear/thumbs/c5ad7ff306_1.jpg"
     }
    ]
   },
@@ -20562,12 +20563,14 @@
     {
      "label": "水彩手绘风·A6硬卡",
      "prompt": "300g铜版纸A6卡片（105×148mm），正面为手绘风格地衣横截面解剖图（绿藻层+真菌网+钙质结晶），淡青灰边框，背面印半透明共生关系拓扑线稿",
-     "file": null
+     "file": "images/gear/4e4b627c0b_0.png",
+     "thumb": "images/gear/thumbs/4e4b627c0b_0.jpg"
     },
     {
      "label": "AR交互式·覆哑膜磁吸卡",
      "prompt": "深空灰磁性基板A6卡（105×148×1.2mm），表面覆雾面哑膜，中心印黑白线描地衣结构，四角嵌微型NFC芯片标识点，边缘微凸磁吸定位槽",
-     "file": null
+     "file": "images/gear/4e4b627c0b_1.png",
+     "thumb": "images/gear/thumbs/4e4b627c0b_1.jpg"
     }
    ]
   },
@@ -20612,7 +20615,8 @@
     {
      "label": "气旋分离式·双腔体60mm",
      "prompt": "双腔体ABS外壳（Φ60×32mm），上腔透明亚克力盖带螺旋密封纹，下腔黑色PC材质含硅胶孢子收集垫，顶部进气口呈30°斜切，侧标‘Cyclone-Spore v2’浮雕字",
-     "file": null
+     "file": "images/gear/2c4969e2be_1.png",
+     "thumb": "images/gear/thumbs/2c4969e2be_1.jpg"
     }
    ]
   },
@@ -20622,12 +20626,14 @@
     {
      "label": "400–1000nm·触控屏版",
      "prompt": "枪灰色镁合金机身（185×72×38mm），正面3.2英寸电容屏显示实时反射曲线，顶部光纤探头接口带弹簧锁扣，右侧物理校准键为橙色硅胶帽",
-     "file": null
+     "file": "images/gear/bf06de960a_0.png",
+     "thumb": "images/gear/thumbs/bf06de960a_0.jpg"
     },
     {
      "label": "350–2500nm·加固红外版",
      "prompt": "沙色军用级聚碳酸酯机身（210×85×45mm），顶部红外探测窗覆锗镀膜玻璃，侧面散热鳍片涂哑光黑导热漆，底部挂绳孔旁蚀刻‘SWIR-IR Ready’金属铭牌",
-     "file": null
+     "file": "images/gear/bf06de960a_1.png",
+     "thumb": "images/gear/thumbs/bf06de960a_1.jpg"
     }
    ]
   },
@@ -20672,7 +20678,8 @@
     {
      "label": "荧光响应型·UV激发显色",
      "prompt": "米白合成纸（90μm厚），常态无色，365nm紫外照射下显现苔藓含水量荧光图谱（绿→黄→橙三阶），纸背印隐形UV二维码，边缘微孔透气设计",
-     "file": null
+     "file": "images/gear/3da8d1a949_1.png",
+     "thumb": "images/gear/thumbs/3da8d1a949_1.jpg"
     }
    ]
   },
@@ -20682,12 +20689,14 @@
     {
      "label": "年轮式环形卡·直径120mm",
      "prompt": "哑光白PVC圆卡（Φ120×1.5mm），同心环状刻度（0–5年，每环宽3mm），环内印标准苔藓生长轮廓线（灰绿渐变），中心嵌透明观察窗（Φ20mm）",
-     "file": null
+     "file": "images/gear/ab791a7983_0.png",
+     "thumb": "images/gear/thumbs/ab791a7983_0.jpg"
     },
     {
      "label": "网格伸缩卡·A5可拉伸",
      "prompt": "双层TPU材质A5卡（148×210mm），上层印1cm²网格+箭头伸缩标尺，下层弹性硅胶基底可横向拉伸至180mm，拉伸后网格变形比例自动映射生长速率倍数",
-     "file": null
+     "file": "images/gear/ab791a7983_1.png",
+     "thumb": "images/gear/thumbs/ab791a7983_1.jpg"
     }
    ]
   },
@@ -20717,6 +20726,141 @@
     {
      "label": "阳光可视e-Ink·7.8寸",
      "prompt": "墨绿铝合金机身（195×135×9mm），7.8英寸阳光下可视电子墨水屏，屏面蚀刻地形等高线模板（0.5m间隔），顶部集成GPS+气压计双传感器窗，背部磁吸支架接口",
+     "file": null
+    }
+   ]
+  },
+  "LED调光控制器": {
+   "category": "电子控制设备",
+   "variants": [
+    {
+     "label": "旋钮式·单通道·80mm×60mm",
+     "prompt": "哑光黑色ABS塑料外壳，正面中央嵌入金属质感银色旋转编码器，右侧印有白色'0–100%'刻度环，底部有双排针接口与螺丝固定孔，尺寸80mm宽×60mm高×25mm厚",
+     "file": null
+    },
+    {
+     "label": "触控屏·双通道·120mm×80mm",
+     "prompt": "深空灰铝合金边框配2.4英寸彩色IPS触控屏，屏幕显示RGB通道滑块与亮度百分比数值，两侧各有一个Type-C供电/数据接口，背面带磁吸+3M胶双安装方式，整机尺寸120mm×80mm×12mm",
+     "file": null
+    }
+   ]
+  },
+  "便携式立体声录音笔": {
+   "category": "音频采集设备",
+   "variants": [
+    {
+     "label": "袖珍型·32GB内置·110mm×35mm",
+     "prompt": "磨砂浅灰聚碳酸酯机身，顶部双MEMS麦克风阵列呈30°夹角凸起，侧面有红色录音指示灯与USB-C接口，底部防滑硅胶垫，尺寸110mm长×35mm宽×15mm厚，附可拆卸鳄鱼夹",
+     "file": null
+    },
+    {
+     "label": "专业型·可换电池·150mm×42mm",
+     "prompt": "深海军蓝阳极氧化铝机身，前端双XLR+TRS混合输入接口带幻象电源开关，顶部OLED屏显示采样率与电平，右侧物理增益旋钮带LED环，尺寸150mm×42mm×22mm，含两节AA电池仓",
+     "file": null
+    }
+   ]
+  },
+  "光谱检测仪": {
+   "category": "科学测量仪器",
+   "variants": [
+    {
+     "label": "手持式·VIS-NIR·180mm×65mm",
+     "prompt": "枪灰色工程塑料握把+钛合金探头套筒，前端露出4mm直径石英光纤接口与校准白板翻盖，顶部单色OLED屏显示波长范围350–1050nm，重280g，带腕带挂孔",
+     "file": null
+    },
+    {
+     "label": "台式型·高分辨率·280mm×220mm",
+     "prompt": "哑光白ABS上盖+黑色金属底座，正面嵌入4.3英寸触摸屏与可滑动样品舱盖，左侧光纤输入口带防尘塞，背部有RS232与以太网双接口，整机高度120mm，含校准标准片托盘",
+     "file": null
+    }
+   ]
+  },
+  "城市声景地图手册": {
+   "category": "出版物/文创工具",
+   "variants": [
+    {
+     "label": "A5精装·手绘插图版",
+     "prompt": "深靛蓝布面硬壳封面烫金‘Urban Soundscape Atlas’字样，内页为120g哑粉纸，含手绘风格声源图标（地铁、市集、鸟鸣）与等声级线叠印，尺寸148mm×210mm，共160页，书脊圆角装订",
+     "file": null
+    },
+    {
+     "label": "A4活页·GIS数据版",
+     "prompt": "灰黑软PU封面带松紧绑带与透明插袋，内含可拆卸PVC网格活页，每页印有地理坐标网格、分贝热力图底纹及QR码链接动态声压数据，尺寸210mm×297mm，含30张活页+索引卡",
+     "file": null
+    }
+   ]
+  },
+  "声纹分析APP": {
+   "category": "数字软件服务",
+   "variants": [
+    {
+     "label": "基础版·iOS单设备",
+     "prompt": "iPhone屏幕界面截图：深色模式下主界面显示实时频谱瀑布图，左下角蓝色‘Record’按钮，右上角显示‘FFT 4096pts’与采样率48kHz，图标为声波环绕耳形的扁平化设计，背景为纯黑",
+     "file": null
+    },
+    {
+     "label": "专业版·Mac+云端同步",
+     "prompt": "MacBook Pro屏幕界面截图：浅灰界面含三联分析视图（时域波形/梅尔频谱/声纹聚类图），顶部菜单栏标‘Pro v3.2’，右下角显示‘Cloud Sync Active’云朵图标，界面边缘有硬件识别提示‘Detected Audio-USB Interface’",
+     "file": null
+    }
+   ]
+  },
+  "定制化声景明信片": {
+   "category": "文创周边",
+   "variants": [
+    {
+     "label": "单张·棉质艺术纸·105mm×148mm",
+     "prompt": "300g纯棉纤维艺术纸基底，正面丝网印刷城市声源抽象图（如上海外滩钟声转化为同心圆波纹），左下角烫银二维码，背面留白手写区印浅灰经纬度坐标网格，四角微圆角",
+     "file": null
+    },
+    {
+     "label": "套装·再生纸·六联折页·210mm×148mm",
+     "prompt": "6张105mm×148mm再生纸明信片铰链式折叠成A5尺寸，封面压凹‘Six Soundscapes’标题，展开后每张对应不同声景主题（雨声/车流/蝉鸣等），纸面保留植物纤维纹理，边缘毛边处理",
+     "file": null
+    }
+   ]
+  },
+  "水芹/鸭舌草苗": {
+   "category": "水生植物种苗",
+   "variants": [
+    {
+     "label": "试管组培苗·20株/瓶",
+     "prompt": "透明圆柱形PP材质组织培养瓶（直径45mm×高120mm），内含MS培养基凝胶与20株3–5cm高水芹幼苗，茎秆翠绿带紫晕，根系洁白纤细，瓶身贴蓝白标签注明‘Oenanthe javanica TC’",
+     "file": null
+    },
+    {
+     "label": "沉水盆栽苗·带陶盆·直径12cm",
+     "prompt": "深褐釉面圆形陶盆（上口径12cm×高8cm），内覆黑泥基质，栽植12株鸭舌草成熟苗（株高8–12cm），叶片舒展呈放射状，叶柄基部微红，盆沿刻‘Aquatic Native’字样",
+     "file": null
+    }
+   ]
+  },
+  "腐殖土基质": {
+   "category": "园艺栽培耗材",
+   "variants": [
+    {
+     "label": "细颗粒·pH5.8·1L真空铝膜袋",
+     "prompt": "哑光银色铝箔复合膜自立袋，正面印墨绿‘Humus Substrate’与pH值标贴，袋体鼓胀显松软质地，封口热压平整，容量刻度线标至1L，净重约680g",
+     "file": null
+    },
+    {
+     "label": "粗结构·缓释肥型·5L编织袋",
+     "prompt": "深棕PP编织袋印烫金‘Forest Humus+Slow-Release’，表面可见褐色腐叶碎片与直径2–5mm木炭颗粒，袋角加固提手，侧边印营养成分表（N-P-K 3-1-2），体积饱满呈立方体堆叠形态",
+     "file": null
+    }
+   ]
+  },
+  "萤火虫幼虫饲喂盒": {
+   "category": "昆虫饲养器具",
+   "variants": [
+    {
+     "label": "透气型·PP材质·150mm×100mm×60mm",
+     "prompt": "半透明磨砂聚丙烯盒体，顶盖密布0.8mm激光钻孔阵列，内设三层阶梯式苔藓平台与中央小水槽，盒壁印浅绿‘Luciola larvae’与湿度刻度（40–80%RH），尺寸150mm×100mm×60mm",
+     "file": null
+    },
+    {
+     "label": "恒湿型·PC+硅胶·180mm×120mm×80mm",
+     "prompt": "雾面透光聚碳酸酯主体配食品级硅胶密封圈，顶盖嵌入微型雾化器出口与湿度传感器窗口，内部不锈钢食槽与木质化蛹台一体成型，盒底排水孔带可调阀，整体呈暖琥珀色调",
      "file": null
     }
    ]
