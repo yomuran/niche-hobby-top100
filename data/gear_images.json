@@ -1,11 +1,11 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-07-24T17:08:37+08:00",
-  "top100_ready": 889,
+  "updated_at": "2026-07-24T17:14:47+08:00",
+  "top100_ready": 915,
   "top100_total": 933,
-  "top100_pending": 44,
-  "top100_missing_spec": 5,
+  "top100_pending": 18,
+  "top100_missing_spec": 0,
   "assets_base": "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/"
  },
  "gear": {
@@ -18761,12 +18761,14 @@
     {
      "label": "轻量钛架·单目AR屏·52mm镜宽",
      "prompt": "一副轻量化钛合金框架AR眼镜，左镜片为透明OLED显示区（尺寸32×18mm），右镜片为光学镀膜平光镜片，镜腿内侧蚀刻‘古钓法·垂纶式’篆体铭文，整体哑光深灰配银白接缝，镜宽52mm，鼻托为硅胶软垫",
-     "file": null
+     "file": "images/gear/04f4cc6e34_0.png",
+     "thumb": "images/gear/thumbs/04f4cc6e34_0.jpg"
     },
     {
      "label": "竹纹木框·双目叠加投影·60mm镜宽",
      "prompt": "一副天然碳化竹丝镶嵌木质镜框AR眼镜，双镜片均支持全息叠加投影（可视区域40×22mm），镜框表面保留竹肌理浮雕与朱砂填线‘钓道’二字，镜宽60mm，可调节硅胶耳挂，深褐竹色配赭红装饰线",
-     "file": null
+     "file": "images/gear/04f4cc6e34_1.png",
+     "thumb": "images/gear/thumbs/04f4cc6e34_1.jpg"
     }
    ]
   },
@@ -18776,7 +18778,8 @@
     {
      "label": "PC端专业版·含宋刻本OCR库",
      "prompt": "一枚黑色磨砂金属U盘，正面激光雕刻‘渔经·AI训诂v3.2’宋体字，侧面标注‘PC Win/macOS 全兼容’，容量64GB，USB-C接口带蓝光状态指示灯，附烫金布面插件说明书卡片",
-     "file": null
+     "file": "images/gear/6bbacfc531_0.png",
+     "thumb": "images/gear/thumbs/6bbacfc531_0.jpg"
     },
     {
      "label": "移动端精简版·离线词典卡",
@@ -18791,12 +18794,14 @@
     {
      "label": "青瓷釉陶套·含三式坠体",
      "prompt": "一套宋代风格沉底钓模型组件：青瓷釉陶制钓竿（长28cm，冰裂纹釉面）、仿铜鎏金铅坠三件（梨形/蒜头形/方銎形，高2.5–3.2cm）、素麻编钓线卷（直径4.5cm，米白麻绳绕于乌木轴）",
-     "file": null
+     "file": "images/gear/c2400ac4e1_0.png",
+     "thumb": "images/gear/thumbs/c2400ac4e1_0.jpg"
     },
     {
      "label": "紫檀微缩套·含活榫钓台",
      "prompt": "一套紫檀木微缩宋式沉底钓模型：1:12比例钓竿（长22cm，阴刻‘嘉祐元年’款）、可拆卸榫卯结构钓台底座（9×7cm，带暗格收纳槽）、黄铜包边铅坠两枚（椭圆/卧蟾形，重18g±0.5g）",
-     "file": null
+     "file": "images/gear/c2400ac4e1_1.png",
+     "thumb": "images/gear/thumbs/c2400ac4e1_1.jpg"
     }
    ]
   },
@@ -18806,7 +18811,8 @@
     {
      "label": "慈竹原色·小号六角笼·含32根预劈丝",
      "prompt": "一包慈竹原色竹丝编钓笼DIY套件：含32根长度80cm、宽0.8mm预劈匀丝，配套黄铜锥形穿丝针、桦木模具（六角形，外径12cm），牛皮纸包装印靛蓝‘永嘉竹编’印章",
-     "file": null
+     "file": "images/gear/eb668e7821_0.png",
+     "thumb": "images/gear/thumbs/eb668e7821_0.jpg"
     },
     {
      "label": "烟熏竹染·中号八角笼·含48根染色丝",
@@ -18821,12 +18827,14 @@
     {
      "label": "月度基础卡·含3场技法直播",
      "prompt": "一张竖版硬质PVC订阅卡，尺寸85.6×53.9mm，正面浮雕‘非遗匠人·钓笼编’字样与竹编纹底，主色为靛青+烫金，背面印唯一激活码与二维码，边缘做仿竹节凹凸压纹",
-     "file": null
+     "file": "images/gear/351beb09ff_0.png",
+     "thumb": "images/gear/thumbs/351beb09ff_0.jpg"
     },
     {
      "label": "年度尊享卡·含定制答疑+电子证书",
      "prompt": "一张竖版双层复合材质订阅卡，外层哑光黑卡纸覆竹纤维纹理膜，内嵌半透明PET层显示动态‘竹影摇曳’微动画，尺寸同标准银行卡，烫银‘年度尊享’徽标，背面含NFC芯片标识与专属匠人签名电子证书编号",
-     "file": null
+     "file": "images/gear/351beb09ff_1.png",
+     "thumb": "images/gear/thumbs/351beb09ff_1.jpg"
     }
    ]
   },
@@ -20517,7 +20525,8 @@
     {
      "label": "双参数梯度显色·50条/盒",
      "prompt": "白色硬质卡纸基底，每条含12组并列微反应区（左pH蓝黄渐变、右氮沉降红紫渐变），尺寸32×8mm，边缘烫金编号，铝箔独立分隔包装",
-     "file": null
+     "file": "images/gear/50a15b74a3_0.png",
+     "thumb": "images/gear/thumbs/50a15b74a3_0.jpg"
     },
     {
      "label": "野外快检单通道·200片/卷",
@@ -20610,7 +20619,8 @@
     {
      "label": "静电吸附式·直径45mm",
      "prompt": "哑光白PP圆盘（Φ45×8mm），上表面覆透明导电ITO膜，边缘环形LED指示灯（蓝光常亮/红光闪烁表满载），底部磁吸底座，侧面激光刻‘SP-45-E’型号",
-     "file": null
+     "file": "images/gear/2c4969e2be_0.png",
+     "thumb": "images/gear/thumbs/2c4969e2be_0.jpg"
     },
     {
      "label": "气旋分离式·双腔体60mm",
@@ -20643,7 +20653,8 @@
     {
      "label": "温湿压三轨·30cm铝尺",
      "prompt": "阳极氧化银灰铝合金直尺（300×25×2mm），三轨平行刻度：上轨℃（-30~60）、中轨%RH（0~100）、下轨hPa（850~1050），刻线激光填充荧光绿，末端带水平泡",
-     "file": null
+     "file": "images/gear/b1b323bc04_0.png",
+     "thumb": "images/gear/thumbs/b1b323bc04_0.jpg"
     },
     {
      "label": "光温雨四轨·折叠式",
@@ -20673,7 +20684,8 @@
     {
      "label": "梯度蓝→紫·10级显色",
      "prompt": "柔韧棉浆纸基（120gsm），表面涂布湿度敏感染料，干燥时纯钴蓝，饱和时深茄紫，纸面印10级色阶标尺（0–100% RH），右下角烫银‘HydroBryo-10’",
-     "file": null
+     "file": "images/gear/3da8d1a949_0.png",
+     "thumb": "images/gear/thumbs/3da8d1a949_0.jpg"
     },
     {
      "label": "荧光响应型·UV激发显色",
@@ -20736,12 +20748,14 @@
     {
      "label": "旋钮式·单通道·80mm×60mm",
      "prompt": "哑光黑色ABS塑料外壳，正面中央嵌入金属质感银色旋转编码器，右侧印有白色'0–100%'刻度环，底部有双排针接口与螺丝固定孔，尺寸80mm宽×60mm高×25mm厚",
-     "file": null
+     "file": "images/gear/2976e77f79_0.png",
+     "thumb": "images/gear/thumbs/2976e77f79_0.jpg"
     },
     {
      "label": "触控屏·双通道·120mm×80mm",
      "prompt": "深空灰铝合金边框配2.4英寸彩色IPS触控屏，屏幕显示RGB通道滑块与亮度百分比数值，两侧各有一个Type-C供电/数据接口，背面带磁吸+3M胶双安装方式，整机尺寸120mm×80mm×12mm",
-     "file": null
+     "file": "images/gear/2976e77f79_1.png",
+     "thumb": "images/gear/thumbs/2976e77f79_1.jpg"
     }
    ]
   },
@@ -20751,7 +20765,8 @@
     {
      "label": "袖珍型·32GB内置·110mm×35mm",
      "prompt": "磨砂浅灰聚碳酸酯机身，顶部双MEMS麦克风阵列呈30°夹角凸起，侧面有红色录音指示灯与USB-C接口，底部防滑硅胶垫，尺寸110mm长×35mm宽×15mm厚，附可拆卸鳄鱼夹",
-     "file": null
+     "file": "images/gear/8dd7cf280b_0.png",
+     "thumb": "images/gear/thumbs/8dd7cf280b_0.jpg"
     },
     {
      "label": "专业型·可换电池·150mm×42mm",
@@ -20766,12 +20781,14 @@
     {
      "label": "手持式·VIS-NIR·180mm×65mm",
      "prompt": "枪灰色工程塑料握把+钛合金探头套筒，前端露出4mm直径石英光纤接口与校准白板翻盖，顶部单色OLED屏显示波长范围350–1050nm，重280g，带腕带挂孔",
-     "file": null
+     "file": "images/gear/bf01455add_0.png",
+     "thumb": "images/gear/thumbs/bf01455add_0.jpg"
     },
     {
      "label": "台式型·高分辨率·280mm×220mm",
      "prompt": "哑光白ABS上盖+黑色金属底座，正面嵌入4.3英寸触摸屏与可滑动样品舱盖，左侧光纤输入口带防尘塞，背部有RS232与以太网双接口，整机高度120mm，含校准标准片托盘",
-     "file": null
+     "file": "images/gear/bf01455add_1.png",
+     "thumb": "images/gear/thumbs/bf01455add_1.jpg"
     }
    ]
   },
@@ -20781,7 +20798,8 @@
     {
      "label": "A5精装·手绘插图版",
      "prompt": "深靛蓝布面硬壳封面烫金‘Urban Soundscape Atlas’字样，内页为120g哑粉纸，含手绘风格声源图标（地铁、市集、鸟鸣）与等声级线叠印，尺寸148mm×210mm，共160页，书脊圆角装订",
-     "file": null
+     "file": "images/gear/9ed8af179e_0.png",
+     "thumb": "images/gear/thumbs/9ed8af179e_0.jpg"
     },
     {
      "label": "A4活页·GIS数据版",
@@ -20796,12 +20814,14 @@
     {
      "label": "基础版·iOS单设备",
      "prompt": "iPhone屏幕界面截图：深色模式下主界面显示实时频谱瀑布图，左下角蓝色‘Record’按钮，右上角显示‘FFT 4096pts’与采样率48kHz，图标为声波环绕耳形的扁平化设计，背景为纯黑",
-     "file": null
+     "file": "images/gear/b89d284adb_0.png",
+     "thumb": "images/gear/thumbs/b89d284adb_0.jpg"
     },
     {
      "label": "专业版·Mac+云端同步",
      "prompt": "MacBook Pro屏幕界面截图：浅灰界面含三联分析视图（时域波形/梅尔频谱/声纹聚类图），顶部菜单栏标‘Pro v3.2’，右下角显示‘Cloud Sync Active’云朵图标，界面边缘有硬件识别提示‘Detected Audio-USB Interface’",
-     "file": null
+     "file": "images/gear/b89d284adb_1.png",
+     "thumb": "images/gear/thumbs/b89d284adb_1.jpg"
     }
    ]
   },
@@ -20811,7 +20831,8 @@
     {
      "label": "单张·棉质艺术纸·105mm×148mm",
      "prompt": "300g纯棉纤维艺术纸基底，正面丝网印刷城市声源抽象图（如上海外滩钟声转化为同心圆波纹），左下角烫银二维码，背面留白手写区印浅灰经纬度坐标网格，四角微圆角",
-     "file": null
+     "file": "images/gear/8ff6abb65e_0.png",
+     "thumb": "images/gear/thumbs/8ff6abb65e_0.jpg"
     },
     {
      "label": "套装·再生纸·六联折页·210mm×148mm",
@@ -20826,12 +20847,14 @@
     {
      "label": "试管组培苗·20株/瓶",
      "prompt": "透明圆柱形PP材质组织培养瓶（直径45mm×高120mm），内含MS培养基凝胶与20株3–5cm高水芹幼苗，茎秆翠绿带紫晕，根系洁白纤细，瓶身贴蓝白标签注明‘Oenanthe javanica TC’",
-     "file": null
+     "file": "images/gear/7dc343ee88_0.png",
+     "thumb": "images/gear/thumbs/7dc343ee88_0.jpg"
     },
     {
      "label": "沉水盆栽苗·带陶盆·直径12cm",
      "prompt": "深褐釉面圆形陶盆（上口径12cm×高8cm），内覆黑泥基质，栽植12株鸭舌草成熟苗（株高8–12cm），叶片舒展呈放射状，叶柄基部微红，盆沿刻‘Aquatic Native’字样",
-     "file": null
+     "file": "images/gear/7dc343ee88_1.png",
+     "thumb": "images/gear/thumbs/7dc343ee88_1.jpg"
     }
    ]
   },
@@ -20841,7 +20864,8 @@
     {
      "label": "细颗粒·pH5.8·1L真空铝膜袋",
      "prompt": "哑光银色铝箔复合膜自立袋，正面印墨绿‘Humus Substrate’与pH值标贴，袋体鼓胀显松软质地，封口热压平整，容量刻度线标至1L，净重约680g",
-     "file": null
+     "file": "images/gear/a712908743_0.png",
+     "thumb": "images/gear/thumbs/a712908743_0.jpg"
     },
     {
      "label": "粗结构·缓释肥型·5L编织袋",
@@ -20856,11 +20880,88 @@
     {
      "label": "透气型·PP材质·150mm×100mm×60mm",
      "prompt": "半透明磨砂聚丙烯盒体，顶盖密布0.8mm激光钻孔阵列，内设三层阶梯式苔藓平台与中央小水槽，盒壁印浅绿‘Luciola larvae’与湿度刻度（40–80%RH），尺寸150mm×100mm×60mm",
-     "file": null
+     "file": "images/gear/2235f1d477_0.png",
+     "thumb": "images/gear/thumbs/2235f1d477_0.jpg"
     },
     {
      "label": "恒湿型·PC+硅胶·180mm×120mm×80mm",
      "prompt": "雾面透光聚碳酸酯主体配食品级硅胶密封圈，顶盖嵌入微型雾化器出口与湿度传感器窗口，内部不锈钢食槽与木质化蛹台一体成型，盒底排水孔带可调阀，整体呈暖琥珀色调",
+     "file": "images/gear/2235f1d477_1.png",
+     "thumb": "images/gear/thumbs/2235f1d477_1.jpg"
+    }
+   ]
+  },
+  "云隙光预测天气站": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "桌面精控版·直径12cm",
+     "prompt": "圆形铝合金机身，哑光深空灰表面，中央嵌入3.2英寸高清LCD屏显示云隙光路径与晴雨概率，边缘环形LED指示灯带（蓝/黄/红三色渐变），底部磁吸底座配硅胶防滑垫，右侧集成微型气象传感器探头",
+     "file": null
+    },
+    {
+     "label": "山野 rugged 版·18cm×12cm×6cm",
+     "prompt": "长方体航空铝+TPU包角结构，军绿磨砂外壳，正面4.0英寸阳光可视TFT屏，顶部凸起式双温湿度传感器与气压计模块，侧边物理旋钮+防水按键，背部M12螺纹接口与可拆卸2600mAh快拆电池仓",
+     "file": null
+    }
+   ]
+  },
+  "光轨时间切片相框": {
+   "category": "家居装饰",
+   "variants": [
+    {
+     "label": "极简窄边·50×70cm",
+     "prompt": "超薄铝合金相框，阳极氧化哑光银色，边框厚度仅12mm，内嵌10mm厚光学级亚克力板，背面预设6段LED冷白光导光条，底部隐藏式触控滑条调节光轨时长（1s/5s/15s/30s/60s/自定义），无外露接线",
+     "file": null
+    },
+    {
+     "label": "复古实木·30×40cm",
+     "prompt": "北美黑胡桃木榫卯相框，天然木纹可见，边框宽35mm、厚22mm，内嵌8mm磨砂玻璃，玻璃背面蚀刻同心圆光轨刻度线，右下角黄铜旋钮控制机械式遮光叶片开合角度，底部皮质标签牌烫印‘TimeSlice v2’",
+     "file": null
+    }
+   ]
+  },
+  "太阳轨迹计算APP会员": {
+   "category": "数字服务",
+   "variants": [
+    {
+     "label": "基础地理版·年费",
+     "prompt": "深蓝色渐变实体化卡片设计，哑光PET材质，尺寸85.6×53.9mm，正面浮雕APP图标与‘SunPath Pro · Geo Basic’字样，右下角激光蚀刻唯一激活码，背面印有纬度适配范围（±50°）与3D太阳高度角图示",
+     "file": null
+    },
+    {
+     "label": "专业测绘版·永久",
+     "prompt": "钛灰色金属卡，不锈钢基材+PVD镀膜，尺寸同标准信用卡，正面蚀刻经纬度网格与赤纬线标尺，中心嵌入微凸NFC芯片标识，背面激光雕刻‘Survey Tier · Lifetime’及UTC/GMT双时区校准符号",
+     "file": null
+    }
+   ]
+  },
+  "山脊线GPS打点器": {
+   "category": "户外装备",
+   "variants": [
+    {
+     "label": "轻量登山版·118g",
+     "prompt": "流线型ABS+PC壳体，哑光岩灰色，尺寸92×48×22mm，顶部高亮橙色防丢挂绳孔，正面1.8英寸半反半透屏显示海拔/坡度/打点数，右侧单键带背光，底部Type-C接口与IP68防水胶塞",
+     "file": null
+    },
+    {
+     "label": "测绘工程版·245g",
+     "prompt": "全镁合金外壳，哑光石墨黑，尺寸125×62×30mm，顶部双GNSS天线凸起模块（GPS+北斗+GLONASS），正面2.4英寸阳光增强屏带等高线缩略图，左侧双物理旋钮（精度/坐标系），背部M8螺纹安装孔与热靴转接槽",
+     "file": null
+    }
+   ]
+  },
+  "长曝光ND滤镜组": {
+   "category": "摄影器材",
+   "variants": [
+    {
+     "label": "磁吸方形·100×100mm",
+     "prompt": "超薄光学玻璃滤镜，ND2–ND1000六档渐变灰组合，每片边缘嵌入钕铁硼磁环，镜面镀蓝紫增透膜，四角微倒角防刮，附赠黑色碳纤维收纳盒（内衬绒布分格）",
+     "file": null
+    },
+    {
+     "label": "旋入式圆形·Φ77mm",
+     "prompt": "多层镀膜光学玻璃，ND8/ND64/ND1000三枚独立旋入式滤镜，镜框为阳极氧化黑色铝合金，螺纹精度达0.01mm，每枚镜圈侧面激光刻印对应减光值与‘ProLine’标识，附磁吸式旋转角度刻度环",
      "file": null
     }
    ]
