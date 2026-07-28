@@ -1,10 +1,10 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-07-27T17:06:29+08:00",
-  "top100_ready": 915,
+  "updated_at": "2026-07-28T10:24:15+08:00",
+  "top100_ready": 933,
   "top100_total": 933,
-  "top100_pending": 18,
+  "top100_pending": 0,
   "top100_missing_spec": 0,
   "assets_base": "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/"
  },
@@ -18784,7 +18784,8 @@
     {
      "label": "移动端精简版·离线词典卡",
      "prompt": "一张信用卡尺寸的柔性电子墨水卡片，表面覆亚光磨砂PET膜，显示‘渔经·训诂Lite’及动态更新日期，内置e-Ink屏幕实时呈现《渔经》词条释义（如‘罶’字拆解图+音义标注），厚度0.8mm，圆角黑底白字设计",
-     "file": null
+     "file": "images/gear/6bbacfc531_1.png",
+     "thumb": "images/gear/thumbs/6bbacfc531_1.jpg"
     }
    ]
   },
@@ -18817,7 +18818,8 @@
     {
      "label": "烟熏竹染·中号八角笼·含48根染色丝",
      "prompt": "一包烟熏工艺竹丝编钓笼套件：48根80cm长竹丝，按深褐/赭石/檀色三阶渐变染色，宽1.2mm，配黑檀木编织板（20×20cm，刻八角定位槽），棉麻束带捆扎，标签为火漆封印‘瓯越匠造’",
-     "file": null
+     "file": "images/gear/eb668e7821_1.png",
+     "thumb": "images/gear/thumbs/eb668e7821_1.jpg"
     }
    ]
   },
@@ -20531,7 +20533,8 @@
     {
      "label": "野外快检单通道·200片/卷",
      "prompt": "柔性PET薄膜基材，连续卷装，每片15×5mm单参数pH显色区（pH4.0–7.0六阶橙蓝跳变），背胶离型纸+荧光防伪切口，卷轴直径38mm",
-     "file": null
+     "file": "images/gear/50a15b74a3_1.png",
+     "thumb": "images/gear/thumbs/50a15b74a3_1.jpg"
     }
    ]
   },
@@ -20659,7 +20662,8 @@
     {
      "label": "光温雨四轨·折叠式",
      "prompt": "四段式钛合金尺（展开420mm），每段印不同参数轨（光照lux/温度℃/降雨mm/风速m/s），铰链处嵌微型罗盘，闭合时外侧印‘FieldLog Pro’蚀刻字",
-     "file": null
+     "file": "images/gear/b1b323bc04_1.png",
+     "thumb": "images/gear/thumbs/b1b323bc04_1.jpg"
     }
    ]
   },
@@ -20771,7 +20775,8 @@
     {
      "label": "专业型·可换电池·150mm×42mm",
      "prompt": "深海军蓝阳极氧化铝机身，前端双XLR+TRS混合输入接口带幻象电源开关，顶部OLED屏显示采样率与电平，右侧物理增益旋钮带LED环，尺寸150mm×42mm×22mm，含两节AA电池仓",
-     "file": null
+     "file": "images/gear/8dd7cf280b_1.png",
+     "thumb": "images/gear/thumbs/8dd7cf280b_1.jpg"
     }
    ]
   },
@@ -20804,7 +20809,8 @@
     {
      "label": "A4活页·GIS数据版",
      "prompt": "灰黑软PU封面带松紧绑带与透明插袋，内含可拆卸PVC网格活页，每页印有地理坐标网格、分贝热力图底纹及QR码链接动态声压数据，尺寸210mm×297mm，含30张活页+索引卡",
-     "file": null
+     "file": "images/gear/9ed8af179e_1.png",
+     "thumb": "images/gear/thumbs/9ed8af179e_1.jpg"
     }
    ]
   },
@@ -20837,7 +20843,8 @@
     {
      "label": "套装·再生纸·六联折页·210mm×148mm",
      "prompt": "6张105mm×148mm再生纸明信片铰链式折叠成A5尺寸，封面压凹‘Six Soundscapes’标题，展开后每张对应不同声景主题（雨声/车流/蝉鸣等），纸面保留植物纤维纹理，边缘毛边处理",
-     "file": null
+     "file": "images/gear/8ff6abb65e_1.png",
+     "thumb": "images/gear/thumbs/8ff6abb65e_1.jpg"
     }
    ]
   },
@@ -20870,7 +20877,8 @@
     {
      "label": "粗结构·缓释肥型·5L编织袋",
      "prompt": "深棕PP编织袋印烫金‘Forest Humus+Slow-Release’，表面可见褐色腐叶碎片与直径2–5mm木炭颗粒，袋角加固提手，侧边印营养成分表（N-P-K 3-1-2），体积饱满呈立方体堆叠形态",
-     "file": null
+     "file": "images/gear/a712908743_1.png",
+     "thumb": "images/gear/thumbs/a712908743_1.jpg"
     }
    ]
   },
@@ -20897,12 +20905,14 @@
     {
      "label": "桌面精控版·直径12cm",
      "prompt": "圆形铝合金机身，哑光深空灰表面，中央嵌入3.2英寸高清LCD屏显示云隙光路径与晴雨概率，边缘环形LED指示灯带（蓝/黄/红三色渐变），底部磁吸底座配硅胶防滑垫，右侧集成微型气象传感器探头",
-     "file": null
+     "file": "images/gear/a44d2f30a9_0.png",
+     "thumb": "images/gear/thumbs/a44d2f30a9_0.jpg"
     },
     {
      "label": "山野 rugged 版·18cm×12cm×6cm",
      "prompt": "长方体航空铝+TPU包角结构，军绿磨砂外壳，正面4.0英寸阳光可视TFT屏，顶部凸起式双温湿度传感器与气压计模块，侧边物理旋钮+防水按键，背部M12螺纹接口与可拆卸2600mAh快拆电池仓",
-     "file": null
+     "file": "images/gear/a44d2f30a9_1.png",
+     "thumb": "images/gear/thumbs/a44d2f30a9_1.jpg"
     }
    ]
   },
@@ -20912,12 +20922,14 @@
     {
      "label": "极简窄边·50×70cm",
      "prompt": "超薄铝合金相框，阳极氧化哑光银色，边框厚度仅12mm，内嵌10mm厚光学级亚克力板，背面预设6段LED冷白光导光条，底部隐藏式触控滑条调节光轨时长（1s/5s/15s/30s/60s/自定义），无外露接线",
-     "file": null
+     "file": "images/gear/8ea3a41734_0.png",
+     "thumb": "images/gear/thumbs/8ea3a41734_0.jpg"
     },
     {
      "label": "复古实木·30×40cm",
      "prompt": "北美黑胡桃木榫卯相框，天然木纹可见，边框宽35mm、厚22mm，内嵌8mm磨砂玻璃，玻璃背面蚀刻同心圆光轨刻度线，右下角黄铜旋钮控制机械式遮光叶片开合角度，底部皮质标签牌烫印‘TimeSlice v2’",
-     "file": null
+     "file": "images/gear/8ea3a41734_1.png",
+     "thumb": "images/gear/thumbs/8ea3a41734_1.jpg"
     }
    ]
   },
@@ -20927,12 +20939,14 @@
     {
      "label": "基础地理版·年费",
      "prompt": "深蓝色渐变实体化卡片设计，哑光PET材质，尺寸85.6×53.9mm，正面浮雕APP图标与‘SunPath Pro · Geo Basic’字样，右下角激光蚀刻唯一激活码，背面印有纬度适配范围（±50°）与3D太阳高度角图示",
-     "file": null
+     "file": "images/gear/07e275a2ad_0.png",
+     "thumb": "images/gear/thumbs/07e275a2ad_0.jpg"
     },
     {
      "label": "专业测绘版·永久",
      "prompt": "钛灰色金属卡，不锈钢基材+PVD镀膜，尺寸同标准信用卡，正面蚀刻经纬度网格与赤纬线标尺，中心嵌入微凸NFC芯片标识，背面激光雕刻‘Survey Tier · Lifetime’及UTC/GMT双时区校准符号",
-     "file": null
+     "file": "images/gear/07e275a2ad_1.png",
+     "thumb": "images/gear/thumbs/07e275a2ad_1.jpg"
     }
    ]
   },
@@ -20942,12 +20956,14 @@
     {
      "label": "轻量登山版·118g",
      "prompt": "流线型ABS+PC壳体，哑光岩灰色，尺寸92×48×22mm，顶部高亮橙色防丢挂绳孔，正面1.8英寸半反半透屏显示海拔/坡度/打点数，右侧单键带背光，底部Type-C接口与IP68防水胶塞",
-     "file": null
+     "file": "images/gear/eb11cf32f8_0.png",
+     "thumb": "images/gear/thumbs/eb11cf32f8_0.jpg"
     },
     {
      "label": "测绘工程版·245g",
      "prompt": "全镁合金外壳，哑光石墨黑，尺寸125×62×30mm，顶部双GNSS天线凸起模块（GPS+北斗+GLONASS），正面2.4英寸阳光增强屏带等高线缩略图，左侧双物理旋钮（精度/坐标系），背部M8螺纹安装孔与热靴转接槽",
-     "file": null
+     "file": "images/gear/eb11cf32f8_1.png",
+     "thumb": "images/gear/thumbs/eb11cf32f8_1.jpg"
     }
    ]
   },
@@ -20957,12 +20973,14 @@
     {
      "label": "磁吸方形·100×100mm",
      "prompt": "超薄光学玻璃滤镜，ND2–ND1000六档渐变灰组合，每片边缘嵌入钕铁硼磁环，镜面镀蓝紫增透膜，四角微倒角防刮，附赠黑色碳纤维收纳盒（内衬绒布分格）",
-     "file": null
+     "file": "images/gear/f27788ef51_0.png",
+     "thumb": "images/gear/thumbs/f27788ef51_0.jpg"
     },
     {
      "label": "旋入式圆形·Φ77mm",
      "prompt": "多层镀膜光学玻璃，ND8/ND64/ND1000三枚独立旋入式滤镜，镜框为阳极氧化黑色铝合金，螺纹精度达0.01mm，每枚镜圈侧面激光刻印对应减光值与‘ProLine’标识，附磁吸式旋转角度刻度环",
-     "file": null
+     "file": "images/gear/f27788ef51_1.png",
+     "thumb": "images/gear/thumbs/f27788ef51_1.jpg"
     }
    ]
   }
