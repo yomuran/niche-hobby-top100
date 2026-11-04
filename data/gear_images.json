@@ -1,10 +1,10 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-11-04T16:27:01+08:00",
-  "top100_ready": 898,
+  "updated_at": "2026-11-04T16:37:14+08:00",
+  "top100_ready": 916,
   "top100_total": 916,
-  "top100_pending": 18,
+  "top100_pending": 0,
   "top100_missing_spec": 0,
   "assets_base": "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/"
  },
@@ -20990,12 +20990,14 @@
     {
      "label": "精装典藏版·256页",
      "prompt": "一本硬壳精装剧情书，封面烫金烫银工艺，深蓝底色配银色龙纹图案，书脊印有烫金书名，内页为米白色纸张，书角圆润防磨损，尺寸15.5×22.5cm",
-     "file": null
+     "file": "images/gear/3a424d9f5d_0.png",
+     "thumb": "images/gear/thumbs/3a424d9f5d_0.jpg"
     },
     {
      "label": "平装便携版·128页",
      "prompt": "一本轻薄平装剧情书，封面采用磨砂质感纸，暖橙色主调配黑色插画，书脊无胶粘合设计，内页为轻型纸张，尺寸10.5×17.5cm，适合随身携带",
-     "file": null
+     "file": "images/gear/3a424d9f5d_1.png",
+     "thumb": "images/gear/thumbs/3a424d9f5d_1.jpg"
     }
    ]
   },
@@ -21005,12 +21007,14 @@
     {
      "label": "折叠式·32页",
      "prompt": "一本可折叠的剧情手册，封面为深灰布纹材质，边缘有金属铆钉加固，内页为双面彩色印刷，尺寸18×26cm，展开后可平铺桌面，适合游戏桌使用",
-     "file": null
+     "file": "images/gear/6a45b666b6_0.png",
+     "thumb": "images/gear/thumbs/6a45b666b6_0.jpg"
     },
     {
      "label": "螺旋装订·64页",
      "prompt": "一本螺旋装订剧情手册，封面为哑光牛皮纸，配烫银标题，内页为厚实铜版纸，尺寸21×29.7cm，可180度平摊，适合多人协作阅读",
-     "file": null
+     "file": "images/gear/6a45b666b6_1.png",
+     "thumb": "images/gear/thumbs/6a45b666b6_1.jpg"
     }
    ]
   },
@@ -21020,12 +21024,14 @@
     {
      "label": "标准版·60张",
      "prompt": "一套标准尺寸卡牌，背面为纯白无图案，正面为高清印刷角色插画，卡牌厚度0.3mm，边缘有防撕裂涂层，尺寸5.4×8.6cm，标准游戏卡牌规格",
-     "file": null
+     "file": "images/gear/fe2172e188_0.png",
+     "thumb": "images/gear/thumbs/fe2172e188_0.jpg"
     },
     {
      "label": "收藏版·20张·金属箔面",
      "prompt": "一套限量收藏卡牌，正面为镭射金属箔面角色图，背面为渐变星空纹，卡牌厚度0.5mm，边缘有防伪浮雕，尺寸6.2×9.2cm，适合收藏展示",
-     "file": null
+     "file": "images/gear/fe2172e188_1.png",
+     "thumb": "images/gear/thumbs/fe2172e188_1.jpg"
     }
    ]
   },
@@ -21035,12 +21041,14 @@
     {
      "label": "基础版·1年订阅",
      "prompt": "一个虚拟账号界面，显示“基础版1年订阅”字样，背景为浅灰渐变，配蓝色认证徽章，下方有“可登录设备数：1台”说明，整体设计简洁现代",
-     "file": null
+     "file": "images/gear/200f354b8d_0.png",
+     "thumb": "images/gear/thumbs/200f354b8d_0.jpg"
     },
     {
      "label": "高级版·3年订阅·多设备",
      "prompt": "一个高级账号界面，显示“高级版3年订阅”字样，背景为深蓝渐变，配金色认证徽章，下方有“可登录设备数：5台”说明，带动态光效边框",
-     "file": null
+     "file": "images/gear/200f354b8d_1.png",
+     "thumb": "images/gear/thumbs/200f354b8d_1.jpg"
     }
    ]
   },
@@ -21050,12 +21058,14 @@
     {
      "label": "迷你折叠版·32页",
      "prompt": "一本迷你折叠规则手册，封面为防水牛皮纸，内页为双色印刷，尺寸12×18cm，折叠后可放入口袋，适合携带至户外或游戏现场",
-     "file": null
+     "file": "images/gear/81fa2b1da4_0.png",
+     "thumb": "images/gear/thumbs/81fa2b1da4_0.jpg"
     },
     {
      "label": "豪华硬壳版·128页",
      "prompt": "一本硬壳精装规则手册，封面为烫金皮革纹理，内页为厚实铜版纸，尺寸21×29.7cm，带索引页和书签孔，适合收藏或正式场合使用",
-     "file": null
+     "file": "images/gear/81fa2b1da4_1.png",
+     "thumb": "images/gear/thumbs/81fa2b1da4_1.jpg"
     }
    ]
   },
@@ -21065,12 +21075,14 @@
     {
      "label": "普通版·单面印刷",
      "prompt": "一张普通角色卡，正面为彩色角色插画，背面为白色空白区域，卡牌厚度0.3mm，尺寸5.4×8.6cm，边缘有防撕裂涂层，适合游戏使用",
-     "file": null
+     "file": "images/gear/6c73417405_0.png",
+     "thumb": "images/gear/thumbs/6c73417405_0.jpg"
     },
     {
      "label": "收藏版·双面印刷·金属箔",
      "prompt": "一张收藏级角色卡，正面为镭射金属箔角色图，背面为渐变星空纹，卡牌厚度0.5mm，尺寸6.2×9.2cm，边缘有浮雕防伪设计，适合收藏展示",
-     "file": null
+     "file": "images/gear/6c73417405_1.png",
+     "thumb": "images/gear/thumbs/6c73417405_1.jpg"
     }
    ]
   },
@@ -21080,12 +21092,14 @@
     {
      "label": "单人立绘·4K分辨率",
      "prompt": "一张高清4K分辨率角色立绘，角色为动漫风格，背景为纯白，角色穿着深蓝战斗服，发色为银白，表情坚毅，细节精致，适合游戏或插画使用",
-     "file": null
+     "file": "images/gear/adf782f719_0.png",
+     "thumb": "images/gear/thumbs/adf782f719_0.jpg"
     },
     {
      "label": "多人立绘组·8K分辨率·动态背景",
      "prompt": "一组8K分辨率角色立绘，包含3个角色，背景为渐变星空，角色穿着不同风格服装，表情各异，细节丰富，适合展示或收藏",
-     "file": null
+     "file": "images/gear/adf782f719_1.png",
+     "thumb": "images/gear/thumbs/adf782f719_1.jpg"
     }
    ]
   },
@@ -21095,12 +21109,14 @@
     {
      "label": "短袖·男款·透气网眼",
      "prompt": "一件速干短袖运动衣，主色为军绿色，肩部与腋下采用透气网眼设计，领口为圆领，袖口有弹性松紧带，面料轻薄，尺寸L码，适合户外运动",
-     "file": null
+     "file": "images/gear/6f25bdaa74_0.png",
+     "thumb": "images/gear/thumbs/6f25bdaa74_0.jpg"
     },
     {
      "label": "长袖·女款·防风弹力",
      "prompt": "一件速干长袖运动衣，主色为深灰，袖口与下摆有防风弹力设计，领口为V领，面料轻盈有弹性，尺寸M码，适合春秋户外活动",
-     "file": null
+     "file": "images/gear/6f25bdaa74_1.png",
+     "thumb": "images/gear/thumbs/6f25bdaa74_1.jpg"
     }
    ]
   },
@@ -21110,12 +21126,14 @@
     {
      "label": "登山款·15米·双股编织",
      "prompt": "一条登山专用防滑绳，主色为橙黑相间，双股编织结构，表面有防滑纹理，长度15米，直径10mm，两端配有金属扣，适合攀岩或登山使用",
-     "file": null
+     "file": "images/gear/51b926784c_0.png",
+     "thumb": "images/gear/thumbs/51b926784c_0.jpg"
     },
     {
      "label": "救援款·30米·三股编织·荧光色",
      "prompt": "一条救援专用防滑绳，主色为荧光黄，三股编织结构，表面有高摩擦纹理，长度30米，直径12mm，两端配有快速扣，适合应急救援或水上活动",
-     "file": null
+     "file": "images/gear/51b926784c_1.png",
+     "thumb": "images/gear/thumbs/51b926784c_1.jpg"
     }
    ]
   }
