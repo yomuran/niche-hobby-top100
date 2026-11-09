@@ -1,10 +1,10 @@
 {
  "meta": {
   "style": "电商白底棚拍写实主图(AI生成)",
-  "updated_at": "2026-11-09T11:26:13+08:00",
-  "top100_ready": 898,
+  "updated_at": "2026-11-09T11:35:07+08:00",
+  "top100_ready": 918,
   "top100_total": 918,
-  "top100_pending": 20,
+  "top100_pending": 0,
   "top100_missing_spec": 0,
   "assets_base": "https://cdn.jsdelivr.net/gh/yomuran/niche-hobby-top100-assets@main/images/gear/"
  },
@@ -21143,12 +21143,14 @@
     {
      "label": "桌面版·轻量级·AI绘图助手",
      "prompt": "银灰色金属质感外壳，带触控屏和快捷键，机身紧凑，配深蓝LED指示灯，底部有防滑硅胶垫，适合桌面摆放",
-     "file": null
+     "file": "images/gear/fe079616d3_0.png",
+     "thumb": "images/gear/thumbs/fe079616d3_0.jpg"
     },
     {
      "label": "云端版·专业级·AI视频生成器",
      "prompt": "黑色航空铝合金机身，带可拆卸外接键盘和触控手柄，侧面有散热格栅，配三色状态灯，支持壁挂安装",
-     "file": null
+     "file": "images/gear/fe079616d3_1.png",
+     "thumb": "images/gear/thumbs/fe079616d3_1.jpg"
     }
    ]
   },
@@ -21158,12 +21160,14 @@
     {
      "label": "线稿版·1000+苗绣纹样·PDF电子册",
      "prompt": "米白色封面烫金边框，内页为黑白线稿纹样，每页带编号和说明，装订为螺旋装订册，适合手绘临摹",
-     "file": null
+     "file": "images/gear/e6e17402f3_0.png",
+     "thumb": "images/gear/thumbs/e6e17402f3_0.jpg"
     },
     {
      "label": "彩色版·300+侗族图腾·高清矢量图集",
      "prompt": "深蓝硬壳封面，内页为高饱和度彩色纹样，每图带透明图层标注，支持AI编辑，附带纹样使用指南PDF",
-     "file": null
+     "file": "images/gear/e6e17402f3_1.png",
+     "thumb": "images/gear/thumbs/e6e17402f3_1.jpg"
     }
    ]
   },
@@ -21173,12 +21177,14 @@
     {
      "label": "细针套装·12支·苗绣专用",
      "prompt": "银色不锈钢针头，配木质针柄，针尖细如发丝，针身刻有苗族图腾，装于深棕色木盒，盒内带防锈棉垫",
-     "file": null
+     "file": "images/gear/2b1d9377ec_0.png",
+     "thumb": "images/gear/thumbs/2b1d9377ec_0.jpg"
     },
     {
      "label": "粗针套装·6支·布艺刺绣专用",
      "prompt": "镀铬针头，配塑料防滑手柄，针尖粗壮适合厚布料，针身印有刻度标识，装于透明塑料收纳盒，带防尘盖",
-     "file": null
+     "file": "images/gear/2b1d9377ec_1.png",
+     "thumb": "images/gear/thumbs/2b1d9377ec_1.jpg"
     }
    ]
   },
@@ -21188,12 +21194,14 @@
     {
      "label": "水性·植物基·100ml·儿童安全款",
      "prompt": "透明磨砂塑料瓶，瓶身印有绿色叶子图案，内含淡蓝乳液状颜料，瓶盖带滴管，标签注明无毒可降解",
-     "file": null
+     "file": "images/gear/0caea8ed0b_0.png",
+     "thumb": "images/gear/thumbs/0caea8ed0b_0.jpg"
     },
     {
      "label": "油性·生物基·250ml·专业绘画款",
      "prompt": "深灰磨砂金属瓶，瓶身带防漏螺纹盖，内含浓稠深棕颜料，瓶身贴环保认证标签，配专用调色刮刀",
-     "file": null
+     "file": "images/gear/0caea8ed0b_1.png",
+     "thumb": "images/gear/thumbs/0caea8ed0b_1.jpg"
     }
    ]
   },
@@ -21203,12 +21211,14 @@
     {
      "label": "入门版·6英寸·便携式·学生款",
      "prompt": "黑色轻质塑料外壳，带可折叠支架，触控笔带磁吸收纳，屏幕边框为浅灰，配USB-C接口和充电指示灯",
-     "file": null
+     "file": "images/gear/d41986a0c8_0.png",
+     "thumb": "images/gear/thumbs/d41986a0c8_0.jpg"
     },
     {
      "label": "专业版·15.6英寸·高精度·设计师款",
      "prompt": "铝合金机身，带可调节角度支架，触控屏边缘有防反光涂层，配无线蓝牙笔和多模式压感笔尖，底部带防滑脚垫",
-     "file": null
+     "file": "images/gear/d41986a0c8_1.png",
+     "thumb": "images/gear/thumbs/d41986a0c8_1.jpg"
     }
    ]
   },
@@ -21218,12 +21228,14 @@
     {
      "label": "水性·无味·500ml·手作黏土专用",
      "prompt": "磨砂白色塑料瓶，瓶身印有绿色环保标识，内含透明胶状液体，瓶盖带滴管，标签注明可生物降解",
-     "file": null
+     "file": "images/gear/e0580df7db_0.png",
+     "thumb": "images/gear/thumbs/e0580df7db_0.jpg"
     },
     {
      "label": "油性·耐高温·1L·雕塑树脂专用",
      "prompt": "深绿金属瓶，带防漏螺纹盖，内含琥珀色浓稠液体，瓶身贴耐高温认证标签，配专用搅拌棒",
-     "file": null
+     "file": "images/gear/e0580df7db_1.png",
+     "thumb": "images/gear/thumbs/e0580df7db_1.jpg"
     }
    ]
   },
@@ -21233,12 +21245,14 @@
     {
      "label": "硅胶·可重复使用·15cm·人物半身模",
      "prompt": "黑色硅胶材质，表面有防粘涂层，模腔带精细面部细节，配木质底座，可拆卸模具片，适合手工雕塑",
-     "file": null
+     "file": "images/gear/34a8a64665_0.png",
+     "thumb": "images/gear/thumbs/34a8a64665_0.jpg"
     },
     {
      "label": "树脂·一次性·30cm·动物全身模",
      "prompt": "透明树脂材质，模腔带镂空结构，表面有防脱模涂层，配塑料底座，适合快速浇注，可重复使用3次",
-     "file": null
+     "file": "images/gear/34a8a64665_1.png",
+     "thumb": "images/gear/thumbs/34a8a64665_1.jpg"
     }
    ]
   },
@@ -21248,12 +21262,14 @@
     {
      "label": "可塑性·无毒·250g·儿童手工款",
      "prompt": "浅米色软泥，表面带天然纤维纹理，包装为环保纸盒，盒内带彩色模具和工具，适合捏塑小动物",
-     "file": null
+     "file": "images/gear/4101ba7554_0.png",
+     "thumb": "images/gear/thumbs/4101ba7554_0.jpg"
     },
     {
      "label": "高强度·耐高温·500g·专业雕塑款",
      "prompt": "深灰硬质黏土，表面带微孔结构，包装为金属罐，罐内带防潮硅胶垫，适合制作大型雕塑原型",
-     "file": null
+     "file": "images/gear/4101ba7554_1.png",
+     "thumb": "images/gear/thumbs/4101ba7554_1.jpg"
     }
    ]
   },
@@ -21263,12 +21279,14 @@
     {
      "label": "棉麻布·1.5米×1.5米·基础绣布",
      "prompt": "米白色棉麻布料，布面有细微纹理，边缘带防卷边处理，布角印有苗族图腾小标，适合初学者练习",
-     "file": null
+     "file": "images/gear/a4222a7bb9_0.png",
+     "thumb": "images/gear/thumbs/a4222a7bb9_0.jpg"
     },
     {
      "label": "丝绒布·1米×1.2米·高密度绣布",
      "prompt": "深红丝绒布料，布面带立体肌理，边缘带金线滚边，布角印有刺绣纹样图例，适合高级绣品制作",
-     "file": null
+     "file": "images/gear/a4222a7bb9_1.png",
+     "thumb": "images/gear/thumbs/a4222a7bb9_1.jpg"
     }
    ]
   },
@@ -21278,12 +21296,14 @@
     {
      "label": "微型·10支·木雕专用·学生入门",
      "prompt": "银色不锈钢刀头，配木质手柄，刀身带防滑纹路，刀柄刻有型号标识，装于木制收纳盒，带防锈棉垫",
-     "file": null
+     "file": "images/gear/ec67aac493_0.png",
+     "thumb": "images/gear/thumbs/ec67aac493_0.jpg"
     },
     {
      "label": "重型·5支·石雕专用·专业级",
      "prompt": "铬合金刀头，配防震橡胶手柄，刀身带刻度标识，刀柄带防滑纹路，装于金属工具箱，带防尘盖",
-     "file": null
+     "file": "images/gear/ec67aac493_1.png",
+     "thumb": "images/gear/thumbs/ec67aac493_1.jpg"
     }
    ]
   }
